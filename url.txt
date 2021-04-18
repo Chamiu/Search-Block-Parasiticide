@@ -7,6 +7,7 @@
 *://55kengo.com/*
 *://5w1h-jp.com/*
 *://758ryu.com/*
+*://774route.com/*
 *://818-news-blog.com/*
 *://a711.work/*
 *://aaanews.net/*
@@ -37,6 +38,7 @@
 *://aoiro5.com/*
 *://aokiin.com/*
 *://aoteen.net/*
+*://applech2.com/*
 *://appleslide.com/*
 *://arafokonashi.hatenablog.com/*
 *://arasa-mama.com/*
@@ -48,6 +50,7 @@
 *://asahi-e.net/*
 *://asitanokakehasi.blog.ss-blog.jp/*
 *://athlete-information.com/*
+*://aurora-aurum.com/*
 *://awareliving.net/*
 *://awazu-gh.jp/*
 *://ayabohappy.com/*
@@ -62,6 +65,7 @@
 *://b-and-s.info/*
 *://baneyann.com/*
 *://barutosuserver.com/*
+*://bbhylife.com/*
 *://beko-diary417.com/*
 *://belle-rencontre.site/*
 *://bepo-blog.com/*
@@ -170,6 +174,7 @@
 *://entertainment-topics.jp/*
 *://epicmaterialdays.com/*
 *://eraption.com/*
+*://ereoh.com/*
 *://erimakee.com/*
 *://erumaru.com/*
 *://event4info.com/*
@@ -219,6 +224,7 @@
 *://girlshour.net/*
 *://girlynews.net/*
 *://glasses.daiiblog.com/*
+*://glen-air.com/*
 *://golfgimon.info/*
 *://gomachannel.net/*
 *://goodfeeilng102.com/*
@@ -230,20 +236,25 @@
 *://gurigetfree.com/*
 *://guriguri.xyz/*
 *://gvonne.com/*
+*://hachiblog-fan.com/*
 *://hachiojimusashino.com/*
 *://hageiwashi.com/*
 *://hagemarugt.com/*
 *://hamame.xyz/*
 *://hameets.com/*
 *://hamusoku.com/*
+*://hanahana-23.com/*
 *://hannariko.com/*
+*://happier-days.com/*
 *://happiness-of-life.com/*
 *://happy-days777.com/*
 *://happy-drops.site/*
+*://happy-enjoy-life-blog.com/*
 *://happy-freeeeee77.com/*
 *://happy-mama-design.net/*
 *://happy-mariring.com/*
 *://happy-mydear.com/*
+*://happyheart92.com/*
 *://happynewstopics.com/*
 *://happys365.com/*
 *://harikirimaruko.net/*
@@ -251,8 +262,10 @@
 *://hayarimono.tokyo/*
 *://hdydfy.com/*
 *://helpcurenow.org/*
+*://healthy-life-blog.com/*
 *://hibikakeru.com/*
 *://hibiomo.com/*
+*://hidekun-blog.com/*
 *://hideyoshi123.com/*
 *://hien-rt.net/*
 *://himmel-ellipse.com/*
@@ -292,6 +305,7 @@
 *://iroirog.info/*
 *://iroirosokuhou.com/*
 *://iromame-beans.jp/*
+*://ishiishiishi.com/*
 *://isao001.com/*
 *://isidorus-ex-camera.com/*
 *://it-toranoana.com/*
@@ -322,6 +336,7 @@
 *://kanameblog.com/*
 *://kanata12.com/*
 *://kansuke.doorblog.jp/*
+*://kanazawa-ambi.com/*
 *://kantaiki0219.com/*
 *://karikari.xyz/*
 *://karukantimes.com/*
@@ -386,6 +401,7 @@
 *://life-hacking.net/*
 *://lifenews-media.com/*
 *://lifepages.jp/*
+*://lifesimplelive88.com/*
 *://lilla-flower.com/*
 *://littlelittlelife.com/*
 *://logtube.jp/*
@@ -403,6 +419,7 @@
 *://majisuka.net/*
 *://maji-topi.com/*
 *://mamaicchi.com/*
+*://mamanochiwatashi.com/*
 *://mamanoiro.info/*
 *://mamesoku.com/*
 *://mamintyu.com/*
@@ -413,10 +430,12 @@
 *://mariokart.antenam.jp/*
 *://marog01.com/*
 *://maroup.net/*
+*://marublog.biz/*
 *://marucure-picks.com/*
 *://masamurai.com/*
 *://materials-edge.net/*
 *://matomate.jp/*
+*://matsu-journal.com/*
 *://mayuponstyle.com/*
 *://media.yamatop.com/*
 *://media-milk.com/*
@@ -505,6 +524,7 @@
 *://ninjinkun.xyz/*
 *://ninkishohin.online/*
 *://nishiyan.info/*
+*://niterune.com/*
 *://nnk18.s1007.xrea.com/*
 *://nobiciro.com/*
 *://nobicoma.com/*
@@ -551,6 +571,7 @@
 *://parupunte-life.com/*
 *://parusoku.com/*
 *://pathtimeblog.com/*
+*://*.pedia-jp.com/*
 *://penguinblog.net/*
 *://pentanews.net/*
 *://persimmonichinaru.com/*
@@ -627,6 +648,7 @@
 *://saku-saku-a.com/*
 *://saladbowl.net/*
 *://sanpon358.com/*
+*://saolifegetwell.com/*
 *://saorerin.com/*
 *://sapparipiman.com/*
 *://saron222.net/*
@@ -635,6 +657,7 @@
 *://sawasaura.net/*
 *://sayaroka.com/*
 *://sayurihappy.com/*
+*://science-festa.jp/*
 *://seek-levels.com/*
 *://seidentest.com/*
 *://seiyuu-voiceactor.com/*
@@ -646,10 +669,12 @@
 *://shigemaru.info/*
 *://shikaku105.blog.jp/*
 *://shimammy.com/*
+*://*.shinchan-social.jp/*
 *://shining-days.com/*
 *://shirashiru.com/*
 *://shittoku.net/*
 *://shounenki.jp/*
+*://shrine-carine.com/*
 *://shufu-run.net/*
 *://shufuwork.com/*
 *://shun-tame.com/*
@@ -739,6 +764,7 @@
 *://turu36.com/*
 *://tuttataka.com/*
 *://tuuburo001.com/*
+*://tv-rider.jp/*
 *://twintailsokuhou.blog.jp/*
 *://twun61.com/*
 *://uberpartner.hatenablog.com/*
@@ -751,6 +777,7 @@
 *://upu0.info/*
 *://uranaimeijin.com/*
 *://urbansmalltalk.com/*
+*://urauraplus.com/*
 *://usagi-syufulife.com/*
 *://usj-joho.blog.ss-blog.jp/*
 *://usuke0815.com/*
@@ -773,6 +800,7 @@
 *://wapri.site/*
 *://waranote.livedoor.biz/*
 *://warikini-topic.jp/*
+*://warsuksdo.com/*
 *://web-maket.info/*
 *://wide-package.com/*
 *://wikiwiki.site/*
@@ -862,6 +890,7 @@
 *://yoshiemon-docodemopocket.com/*
 *://yoshio526.com/*
 *://you-solo.com/*
+*://youkosatou0727.com/*
 *://youtakanashi.com/*
 *://youtuber-encyclopedia.com/*
 *://youtuber-note.com/*
@@ -876,6 +905,7 @@
 *://yuki0830.com/*
 *://yukiaffili.com/*
 *://yukirinhappy.com/*
+*://yukoblog.net/*
 *://yumeijinhensachi.com/*
 *://yumemiru.click/*
 *://yume-miru-blog.com/*
