@@ -48,6 +48,7 @@
 *://artroot.jp/*
 *://arxs-pic08022018.com/*
 *://asahi-e.net/*
+*://asanonblog.com/*
 *://asitanokakehasi.blog.ss-blog.jp/*
 *://athlete-information.com/*
 *://aurora-aurum.com/*
@@ -314,12 +315,14 @@
 *://jaguar-information.com/*
 *://japanation.jp/*
 *://japan-gyouji.com/*
+*://javelinmitsu.com/*
 *://jeep-m.jp/*
 *://jijimedia.com/*
 *://jiji-trendy.com/*
 *://jikokanri22.blog.jp/*
 *://jimmys-room.com/*
 *://jin115.com/*
+*://johlife.com/*
 *://joseiana.com/*
 *://journallimited.com/*
 *://jufusion.com/*
@@ -466,6 +469,7 @@
 *://molulabo.com/*
 *://momonjin.com/*
 *://mo-mo-town.com/*
+*://*.mom-clip.com/*
 *://mondo-libre.com/*
 *://monokuro0210.com/*
 *://monozuki-apparel.com/*
@@ -521,6 +525,7 @@
 *://ngt48schedule.blog.jp/*
 *://nicotubers.com/*
 *://nigiwasu.com/*
+*://niigata-ikumen.jp/*
 *://nilcollection.net/*
 *://ninjinkun.xyz/*
 *://ninkishohin.online/*
@@ -690,6 +695,7 @@
 *://sn-jp.com/*
 *://snopommedia.com/*
 *://snsdays.com/*
+*://soiginta.biz/*
 *://sokashi0525.com/*
 *://solid.coresv.net/*
 *://solife-a.com/*
@@ -711,7 +717,9 @@
 *://sunshine4424.com/*
 *://suntoranosuke.com/*
 *://sutakorasacchan.com/*
+*://syokutaku-annai.com/*
 *://syonosuke.com/*
+*://syota-doream.com/*
 *://syotiku9910.com/*
 *://syouheinouhau.daa.jp/*
 *://syufunotie.com/*
@@ -757,6 +765,7 @@
 *://trendy15.info/*
 *://trendyossy.com/*
 *://trendytalking.com/*
+*://trigger-9.com/*
 *://tsubuchan.blog.jp/*
 *://tsuisoku.com/*
 *://tsuki-review.com/*
@@ -888,6 +897,7 @@
 *://yokkoi.com/*
 *://yo-mu-wa-inko.com/*
 *://yorozu-do.com/*
+*://yoshidakenkou.net/*
 *://yoshiemon-docodemopocket.com/*
 *://yoshio526.com/*
 *://you-solo.com/*
