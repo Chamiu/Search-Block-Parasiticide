@@ -2,6 +2,7 @@
 *://1000mg.jp/*
 *://1917-movie.jp/*
 *://1yomeblo.com/*
+*://*.3333.tokyo/*
 *://36kirakira.com/*
 *://38hana.com/*
 *://55kengo.com/*
@@ -25,6 +26,7 @@
 *://alpaca1115.xyz/*
 *://alrescha.work/*
 *://amaitime.com/*
+*://amaneku.blog.jp/*
 *://ameblo.jp/direscare/*
 *://ameblo.jp/moju0304/*
 *://ameblo.jp/unarigoe/*
@@ -40,6 +42,7 @@
 *://aoteen.net/*
 *://applech2.com/*
 *://appleslide.com/*
+*://aprico-media.com/*
 *://arafokonashi.hatenablog.com/*
 *://arasa-mama.com/*
 *://arincoroom.com/*
@@ -110,6 +113,7 @@
 *://burusoku-vip.com/*
 *://buzzcreateofficial.com/*
 *://buzzneta-topic.com/*
+*://buzz-notice.com/*
 *://buzz-plus.com/*
 *://cambridge-india.org/*
 *://car-buzz.biz/*
@@ -128,6 +132,7 @@
 *://code.i-harness.com/*
 *://coffee-innovate.com/*
 *://comaco325.com/*
+*://cosplayinformation.site/*
 *://continue-healthy.com/*
 *://cororotan.com/*
 *://crx7601.com/*
@@ -150,6 +155,7 @@
 *://dethein.net/*
 *://diary.ponkichi01.com/*
 *://dibablog.net/*
+*://digtopi.com/*
 *://dolomitilive.net/*
 *://doragonets.com/*
 *://dorama-netabare.com/*
@@ -238,6 +244,7 @@
 *://gurigetfree.com/*
 *://guriguri.xyz/*
 *://gvonne.com/*
+*://ha-navi.com/*
 *://hachiblog-fan.com/*
 *://hachiojimusashino.com/*
 *://hageiwashi.com/*
@@ -285,6 +292,7 @@
 *://honjitu.net/*
 *://honne-channel.com/*
 *://honsoku.com/*
+*://*.horigiri.net/*
 *://hosyusokuhou.jp/*
 *://hotword-coolword.com/*
 *://idolfan.xsrv.jp/*
@@ -294,6 +302,7 @@
 *://ikumen-smile.com/*
 *://ima-coco369.com/*
 *://imaginary.red/*
+*://imasoku.com/*
 *://imasugunews.com/*
 *://inazumanews2.com/*
 *://inbigo.com/*
@@ -310,6 +319,7 @@
 *://ishiishiishi.com/*
 *://isao001.com/*
 *://isidorus-ex-camera.com/*
+://*.it-news-sokuhou.com/*
 *://it-toranoana.com/*
 *://jacklog.doorblog.jp/*
 *://jaguar-information.com/*
@@ -336,6 +346,7 @@
 *://kaikumikodaisuki.com/*
 *://kaito-car.com/*
 *://kajjfawjagr.lfhfdfiehgg.com/*
+*://kami-ch.com/*
 *://kan8oskar.com/*
 *://kanameblog.com/*
 *://kanata12.com/*
@@ -386,6 +397,7 @@
 *://koumi0913aba.com/*
 *://kozy2525.hatenablog.com/*
 *://kujira-movie.com/*
+*://kuniokundodge.com/*
 *://kurara-blog.com/*
 *://kyocoloco.com/*
 *://kyousoku.net/*
@@ -416,8 +428,11 @@
 *://luckystar2010.com/*
 *://luminamama.com/*
 *://lumixkuroki.club/*
+*://luxable.info/*
 *://maboblog.com/*
 *://mabomabo00.com/*
+*://mac-lib.com/*
+*://*.maesuke.com/*
 *://magical-news.blog.jp/*
 *://magusite.com/*
 *://maidonanews.jp/*
@@ -481,9 +496,11 @@
 *://moya-trend.com/*
 *://mt-j.info/*
 *://murajyuku.com/*
+*://*.mutyun.com/*
 *://mwphglch.org/*
 *://mybouzu.info/*
 *://my-own-pace.com/*
+*://*.n-manga.com/*
 *://n2-ch.com/*
 *://naasasao.com/*
 *://nabeaffiliate.com/*
@@ -491,10 +508,12 @@
 *://nakasuga13.com/*
 *://nakayoshiblog.com/*
 *://namakemono-no-gogai.blog.ss-blog.jp/*
+*://nameless-net.com/*
 *://nami55.xyz/*
 *://nanasepn.com/*
 *://nancreator.com/*
 *://nandemo-newsya.com/*
+*://nanjgamers.blog.jp/*
 *://nao-games.com/*
 *://naotan-net.com/*
 *://natalie.mu/*
@@ -552,10 +571,12 @@
 *://ojisan-zakki.blog.jp/*
 *://o-kaminews.com/*
 *://okanehadaiji.com/*
+*://okaymac.com/*
 *://okboook.com/*
 *://oki-itsmylife.com/*
 *://olochimaru.tokyo/*
 *://omix1967.com/*
+*://ommichelleh961.cocolog-nifty.com/*
 *://omochituki.com/*
 *://omoitattagakichijitsu.com/*
 *://omotenashi9601.com/*
@@ -576,6 +597,7 @@
 *://outdooor.blog.jp/*
 *://outidesigoto.com/*
 *://oyakudachi2525.com/*
+*://*.pacostech.com/*
 *://parupunte-life.com/*
 *://parusoku.com/*
 *://pathtimeblog.com/*
@@ -616,6 +638,7 @@
 *://r40quest.com/*
 *://raifuappu.com/*
 *://rainmakerofnews.com/*
+*://rajeev2004.blogspot.com/*
 *://ranpunosei.com/*
 *://rebeauty.love/*
 *://reco-link.com/*
@@ -653,6 +676,7 @@
 *://sai001.com/*
 *://sai2.info/*
 *://saisin-news.com/*
+*://saisyukai.xbiz.jp/*
 *://sakumi39.com/*
 *://saku-saku-a.com/*
 *://saladbowl.net/*
@@ -710,6 +734,7 @@
 *://sports-gate.blog.ss-blog.jp/*
 *://squallchannel.com/*
 *://star-lucky108.com/*
+*://stkn-games.net/*
 *://sugaropenarea.com/*
 *://suimin.biz/*
 *://su-ki-da.com/*
@@ -720,6 +745,7 @@
 *://sunshine4424.com/*
 *://suntoranosuke.com/*
 *://sutakorasacchan.com/*
+*://switchsoku.com/*
 *://syokutaku-annai.com/*
 *://syonosuke.com/*
 *://syota-doream.com/*
@@ -734,8 +760,10 @@
 *://takuokunndesuyotte.com/*
 *://ta-see.com/*
 *://tatutt47.xsrv.jp/*
+*://tbe4wh.ddns.us/*
 *://tdyt11311131.com/*
 *://teikyo-mck.com/*
+*://textlog.oroti.net/*
 *://thailandw.info/*
 *://thainiikitai.com/*
 *://thankyoujudy.com/*
@@ -746,6 +774,7 @@
 *://toko-blog.com/*
 *://tokuneta.info/*
 *://tokutas.com/*
+*://tokyoboy.me/*
 *://tomatomarigi.com/*
 *://tonatore.com/*
 *://topitane.net/*
@@ -799,6 +828,7 @@
 *://variety-fan.com/*
 *://verapizzanapoletana.jp/*
 *://vieeeee.com/*
+*://vigood.jp/*
 *://vipperlog.com/*
 *://visiontoamerica.org/*
 *://vod-labo.com/*
@@ -814,6 +844,7 @@
 *://waranote.livedoor.biz/*
 *://warikini-topic.jp/*
 *://warsuksdo.com/*
+*://*.webhack.jp/*
 *://web-maket.info/*
 *://wide-package.com/*
 *://wikiwiki.site/*
