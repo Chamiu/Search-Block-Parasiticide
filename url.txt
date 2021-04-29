@@ -53,6 +53,7 @@
 *://asahi-e.net/*
 *://asanonblog.com/*
 *://asitanokakehasi.blog.ss-blog.jp/*
+*://*.asyura2.com/*
 *://athlete-information.com/*
 *://aurora-aurum.com/*
 *://awareliving.net/*
