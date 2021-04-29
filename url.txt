@@ -961,6 +961,7 @@
 *://yumochiblog.com/*
 *://yu-room.com/*
 *://yuruiki.site/*
+*://yuruneto.com/*
 *://yutber.blog.jp/*
 *://yuuhime.xyz/*
 *://yuyu007.com/*
