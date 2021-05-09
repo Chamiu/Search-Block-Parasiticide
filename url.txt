@@ -25,6 +25,7 @@
 *://alfalfalfa.com/*
 *://alpaca1115.xyz/*
 *://alrescha.work/*
+*://amaebi.co/*
 *://amaitime.com/*
 *://amaneku.blog.jp/*
 *://ameblo.jp/direscare/*
@@ -229,6 +230,7 @@
 *://geronhaita.com/*
 *://getnews.jp/*
 *://gi-o.com/*
+*://giko-antenna.com/*
 *://girlschannel.net/*
 *://girlshour.net/*
 *://girlynews.net/*
@@ -334,7 +336,9 @@
 *://jikokanri22.blog.jp/*
 *://jimmys-room.com/*
 *://jin115.com/*
+*://jishin-yogen.com/*
 *://johlife.com/*
+*://johosokuhou.com/*
 *://joseiana.com/*
 *://journallimited.com/*
 *://jufusion.com/*
@@ -418,6 +422,7 @@
 *://librairiepassages.com/*
 *://librosdelsilencio.com/*
 *://life-hacking.net/*
+*://lifehack-news.mobi/*
 *://lifenews-media.com/*
 *://lifepages.jp/*
 *://lifesimplelive88.com/*
@@ -457,6 +462,7 @@
 *://masamurai.com/*
 *://materials-edge.net/*
 *://matomate.jp/*
+*://matometatta-news.net/*
 *://matsu-journal.com/*
 *://mayuponstyle.com/*
 *://media.yamatop.com/*
