@@ -4,7 +4,7 @@
 また、私的な基準でゴミだと判断したものについては
 
 ```` 
-https://dl.dropboxusercontent.com/s/u539qt3m41975ve/Garbage%20site%20filter%20for%20uBlacklist.txt
+https://pastebin.com/eAdb2JKG
 ````
 
 で公開しています。こちらのメンテナンスに協力したいという奇特な方がいらっしゃいましたら、issueに投げてください。
