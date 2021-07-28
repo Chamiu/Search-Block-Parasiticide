@@ -9,6 +9,7 @@
 *://*.2monkeys.jp/*
 *://2monkeys.jp/*
 *://2ch.logpo.jp/*
+*://2chan-matome.yuu-progra.com/*
 *://2chmatomesokuhou.com/*
 *://2chvsoku.com/*
 *://2ndmedia.info/*
@@ -35,6 +36,7 @@
 *://aidoly.net/*
 *://aikru.com/*
 *://aikuwabaratrio.com/*
+*://blog.livedoor.jp/ainbekker-news2/*
 *://akasann.biz/*
 *://*.akiko-no-blog.com/*
 *://akiko-no-blog.com/*
@@ -50,6 +52,7 @@
 *://ameblo.jp/direscare/*
 *://ameblo.jp/moju0304/*
 *://ameblo.jp/unarigoe/*
+*://blog.livedoor.jp/amenimomakezu_/*
 *://anincline.com/*
 *://*.anige-sokuhouvip.com/*
 *://anige-sokuhouvip.com/*
@@ -116,25 +119,6 @@
 *://blockquotemaker.com/*
 *://blog-funfun-life.com/*
 *://blog.esuteru.com/*
-*://blog.livedoor.jp/ainbekker-news2/*
-*://blog.livedoor.jp/amenimomakezu_/*
-*://blog.livedoor.jp/christmas1224/*
-*://blog.livedoor.jp/dqnplus/*
-*://blog.livedoor.jp/foufif/*
-*://blog.livedoor.jp/goldennews/*
-*://blog.livedoor.jp/itsoku/*
-*://blog.livedoor.jp/jyoushiki43/*
-*://blog.livedoor.jp/karamato/*
-*://blog.livedoor.jp/love120331/*
-*://blog.livedoor.jp/mahjongch/*
-*://blog.livedoor.jp/nandemonyuusu/*
-*://blog.livedoor.jp/news23vip/*
-*://blog.livedoor.jp/nwknews/*
-*://blog.livedoor.jp/pocketcamp/*
-*://blog.livedoor.jp/rbkyn844/*
-*://blog.livedoor.jp/yorilog/*
-*://blog.livedoor.jp/youtube_sokuhou/*
-*://blog.livedoor.jp/youtubercom/*
 *://blue-38.com/*
 *://bluesea0925.com/*
 *://bluestar-journal.com/*
@@ -174,6 +158,7 @@
 *://cherish-media.jp/*
 *://chomanga.org/*
 *://chops.chips.jp/*
+*://blog.livedoor.jp/christmas1224/*
 *://cinemachi.net/*
 *://*.cinematoday.jp/*
 *://cinematoday.jp/*
@@ -219,6 +204,7 @@
 *://*.digitalsojourn.org/*
 *://digitalsojourn.org/*
 *://digtopi.com/*
+*://blog.livedoor.jp/dqnplus/*
 *://dolomitilive.net/*
 *://doragonets.com/*
 *://dorama-netabare.com/*
@@ -263,6 +249,7 @@
 *://exa000.com/*
 *://exawarosu.net/*
 *://extra-newspaper.com/*
+*://f-shirushi.com/*
 *://favorite-blog.com/*
 *://feizeus.com/*
 *://femimatsu.com/*
@@ -280,7 +267,7 @@
 *://free-and-natural.com/*
 *://free-humanlife23.com/*
 *://free-workstyle.com/*
-*://f-shirushi.com/*
+*://blog.livedoor.jp/foufif/*
 *://fukuniko.com/*
 *://funwayroad.com/*
 *://furamu4568.com/*
@@ -320,6 +307,7 @@
 *://girlynews.net/*
 *://glasses.daiiblog.com/*
 *://glen-air.com/*
+*://blog.livedoor.jp/goldennews/*
 *://golfgimon.info/*
 *://gomachannel.net/*
 *://goodfeeilng102.com/*
@@ -430,6 +418,7 @@
 *://isidorus-ex-camera.com/*
 *://*.it-news-sokuhou.com/*
 *://it-toranoana.com/*
+*://blog.livedoor.jp/itsoku/*
 *://itzmysnow.com/*
 *://jacklog.doorblog.jp/*
 *://jaguar-information.com/*
@@ -458,6 +447,7 @@
 *://juxtin.com/*
 *://jyoshianaguguru.com/*
 *://jyouhou-knt.com/*
+*://blog.livedoor.jp/jyoushiki43/*
 *://kabuyattemita.blog.fc2.com/*
 *://kad28.com/*
 *://kaigaiceleb.com/*
@@ -474,6 +464,7 @@
 *://kansuke.doorblog.jp/*
 *://kanazawa-ambi.com/*
 *://kantaiki0219.com/*
+*://blog.livedoor.jp/karamato/*
 *://karikari.xyz/*
 *://karukantimes.com/*
 *://katukatu8880.com/*
@@ -563,6 +554,7 @@
 *://logsoku.com/*
 *://logtube.jp/*
 *://love-all.jp/*
+*://blog.livedoor.jp/love120331/*
 *://lovescenario.tokyo/*
 *://lovewagonblog.wordpress.com/*
 *://luckystar2010.com/*
@@ -578,6 +570,7 @@
 *://maesuke.com/*
 *://magical-news.blog.jp/*
 *://magusite.com/*
+*://blog.livedoor.jp/mahjongch/*
 *://maidonanews.jp/*
 *://majisuka.net/*
 *://maji-topi.com/*
@@ -602,6 +595,7 @@
 *://matomeijin.com/*
 *://matomate.jp/*
 *://matome-new.com/*
+*://matome-zzz.com/*
 *://matometatta-news.net/*
 *://matsu-journal.com/*
 *://mayuponstyle.com/*
@@ -674,6 +668,7 @@
 *://nancreator.com/*
 *://nandemo-newsya.com/*
 *://nandemoiiyoch.com/*
+*://blog.livedoor.jp/nandemonyuusu/*
 *://nanjgamers.blog.jp/*
 *://nanjpost.com/*
 *://nao-games.com/*
@@ -697,12 +692,13 @@
 *://netgeek.biz/*
 *://netouyonews.net/*
 *://netsoku.com/*
-*://newmatosoku.com/*
-*://newneta.work/*
-*://newnews36.com/*
 *://news-japan365.com/*
 *://news-news-news.net/*
 *://news-three-stars.net/*
+*://newmatosoku.com/*
+*://newneta.work/*
+*://newnews36.com/*
+*://blog.livedoor.jp/news23vip/*
 *://*.news30over.com/*
 *://news30over.com/*
 *://news4vip.livedoor.biz/*
@@ -741,6 +737,7 @@
 *://nsl-enter.com/*
 *://nuinuhou.com/*
 *://nusa-bali.com/*
+*://blog.livedoor.jp/nwknews/*
 *://nyanpararism.xyz/*
 *://nyanyako.xyz/*
 *://oceanmemo.com/*
@@ -780,6 +777,7 @@
 *://oyakudatiinfo.com/*
 *://p-o-chitto.com/*
 *://*.pacostech.com/*
+*://paradisefive.net/*
 *://parupunte-life.com/*
 *://parusoku.com/*
 *://pathtimeblog.com/*
@@ -801,6 +799,7 @@
 *://pipi1211.com/*
 *://*.planetpixmedia.com/*
 *://planetpixmedia.com/*
+*://blog.livedoor.jp/pocketcamp/*
 *://pochisoku.net/*
 *://pocop0c0.blog.fc2.com/*
 *://poire122.com/*
@@ -831,6 +830,7 @@
 *://ranpunosei.com/*
 *://rastaneko-blog.com/*
 *://ravex.jp/*
+*://blog.livedoor.jp/rbkyn844/*
 *://rebeauty.love/*
 *://reco-link.com/*
 *://recommend-travel.com/*
@@ -1128,6 +1128,7 @@
 *://yh-enjoylife.com/*
 *://yokkoi.com/*
 *://yo-mu-wa-inko.com/*
+*://blog.livedoor.jp/yorilog/*
 *://yorozu-do.com/*
 *://yoshidakenkou.net/*
 *://yoshiemon-docodemopocket.com/*
@@ -1136,6 +1137,8 @@
 *://you1news.com/*
 *://youkosatou0727.com/*
 *://youtakanashi.com/*
+*://blog.livedoor.jp/youtube_sokuhou/*
+*://blog.livedoor.jp/youtubercom/
 *://youtuber-encyclopedia.com/*
 *://youtuber-note.com/*
 *://youtuberpedia.com/*
