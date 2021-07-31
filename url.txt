@@ -75,6 +75,7 @@
 *://arafokonashi.hatenablog.com/*
 *://arasa-mama.com/*
 *://arincoroom.com/*
+*://armybeginner.web.fc2.com/*
 *://aroundfortylife.net/*
 *://around-topics.net/*
 *://artroot.jp/*
@@ -136,6 +137,7 @@
 *://buzzcutangler.com/*
 *://buzzneta-topic.com/*
 *://buzzpicks.jp/*
+*://buzzterr.com/*
 *://cambridge-india.org/*
 *://*.canoviano.net/*
 *://canoviano.net/*
