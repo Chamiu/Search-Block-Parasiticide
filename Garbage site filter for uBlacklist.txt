@@ -1,12 +1,17 @@
 VIRUS VIRUS VIRUS
 *://jigadorierogazou.blog.fc2.com/*
 *://kahucrossfit.com/*
+*://sadhanacircle.com/*
+*://topshippingja.com/*
+*://tratzsolucoes.com.br/*
 教えて
 *://*.itreview.jp/*
 *://okwave.jp/*
 *://oshiete.goo.ne.jp/*
 *://stackoverflow.com/*
 機械翻訳
+*://askdev.io/*
+*://*.mysterytribune.com/*
 *://*.narkive.jp/*
 *://www.websitehostingrating.com/*
 *://*.westerlystpiusxschool.org/*
@@ -18,6 +23,8 @@ VIRUS VIRUS VIRUS
 *://*.macbooster.net/*
 *://macbooster.net/*
 *://mackeeper.com/*
+*://*.ladylibertybrands.com/*
+*://ladylibertybrands.com/*
 中国制造的山寨软件(Chinese Copycat Software)
 *://*.4videosoft.*/*
 *://*.aimersoft.*/*
@@ -94,6 +101,8 @@ VIRUS VIRUS VIRUS
 *://*.shenzhenaudio.com/*
 *://shenzhenaudio.jp/*
 *://*.sunnews.site/*
+meta tag SPAM
+*://e-living.info/*
 乞食
 *://*.1st-net.jp/*
 *://*.ab-cafe.com/*
@@ -110,11 +119,14 @@ VIRUS VIRUS VIRUS
 *://appmus.com/*
 *://appsuke.com/*
 *://*.appps.jp/*
+*://*.apwork.asia/*
+*://apwork.asia/*
 *://belcy.jp/*
 *://bestreviews.net/*
 *://*.bestreviews.net/*
 *://*.bitsrc.io/*
 *://bitwave.showcase-tv.com/*
+*://*.biz.id/*
 *://bpkfp38qxf.wiki2.jp/*
 *://*.business2community.com/*
 *://buzzmac.jp/*
@@ -127,6 +139,7 @@ VIRUS VIRUS VIRUS
 *://dejimachain.jp/*
 *://digitalidentity.co.jp/*
 *://*.diskhouse.shop/*
+*://docesnobres.com.br/*
 *://dorekau.com/*
 *://*.dougamatome.xyz/*
 *://dougamatome.xyz/*
@@ -158,6 +171,7 @@ VIRUS VIRUS VIRUS
 *://gloture.jp/*
 *://goocho.jp/*
 *://goworkship.com/*
+*://heim.jp/*
 *://happyeiga.com/*
 *://hm-hm.net/*
 *://htraeevas.hatenablog.com/*
@@ -179,13 +193,17 @@ VIRUS VIRUS VIRUS
 *://*.maketecheasier.com/*
 *://*.malavida.com/*
 *://malavida.com/*
+*://*.mentdis.asia/*
+*://mentdis.asia/*
 *://moemoematome.net/*
+*://monoreco.ameba.jp/*
 *://motivation-up.com/*
 *://motifyublog.com/*
 *://movie-funs.com/*
 *://moviesfan.sakura.ne.jp/*
 *://mupon.net/*
 *://my-best.com/*
+*://*.my.id/*
 *://n21computer.com/*
 *://netagear.net/*
 *://nomad-ceo.com/*
@@ -195,11 +213,14 @@ VIRUS VIRUS VIRUS
 *://pcmacstore.com/*
 *://photo-album.blog.jp/*
 *://*.play-azlabs.com/*
+*://*.pointag.asia/*
+*://pointag.asia/*
 *://progsoft.net/*
 *://*.pplepop.com/*
 *://rank-king.jp/*
 *://*.rankred.com/*
 *://renote.jp/*
+*://rosemary.is/*
 *://*.safetydetectives.com/*
 *://sakidori.co/*
 *://securitysoft.asia/*
