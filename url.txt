@@ -214,6 +214,8 @@
 *://dougalove2.com/*
 *://drama-blog.net/*
 *://dramaru.net/*
+*://*.dream-stage.jp/*
+*://dream-stage.jp/*
 *://dream04090129.biz/*
 *://dreamgateway01.com/*
 *://dreamstyle.life/*
@@ -845,6 +847,7 @@
 *://restarean.com/*
 *://rhiliy.com/*
 *://richness4.com/*
+*://ridequest.jp/*
 *://riekoblog.com/*
 *://rikokko.com/*
 *://rins-rin-mei.blog.ss-blog.jp/*
@@ -920,6 +923,7 @@
 *://shufuwork.com/*
 *://shun-tame.com/*
 *://since2019gossip.com/*
+*://sirabee.com/*
 *://sirohigedan.xyz/*
 *://sk-style.xyz/*
 *://skyscraper-oasis.com/*
