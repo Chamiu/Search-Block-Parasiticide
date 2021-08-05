@@ -2,6 +2,7 @@ VIRUS VIRUS VIRUS
 *://jigadorierogazou.blog.fc2.com/*
 *://kahucrossfit.com/*
 *://sadhanacircle.com/*
+*://topchineseporn.com/*
 *://topshippingja.com/*
 *://tratzsolucoes.com.br/*
 教えて
@@ -26,11 +27,11 @@ VIRUS VIRUS VIRUS
 *://*.ladylibertybrands.com/*
 *://ladylibertybrands.com/*
 中国制造的山寨软件(Chinese Copycat Software)
-*://*.4videosoft.*/*
+*://*.4videosoft.jp/*
 *://*.aimersoft.*/*
 *://*.aiseesoft.(jp|com)/*
 *://*.anymp4.*/*
-*://*.apowersoft.*/*
+*://*.apowersoft.jp/*
 *://*.bitwar.net/
 *://blu-ray.software/*
 *://*.bluray-player-software.com/*
@@ -113,6 +114,7 @@ meta tag SPAM
 *://aibou.main.jp/*
 *://affiliate7.jp/*
 *://*.amamoba.com/*
+*://aohajkl.com/*
 *://app-liv.jp/*
 *://appdam.info/*
 *://applion.jp/*
@@ -154,6 +156,9 @@ meta tag SPAM
 *://eco-points.jp/*
 *://eiga-watch.com/*
 *://elenigroszer.com/*
+*://*.elog-ch.net/*
+*://elog-ch.net/*
+*://erodaioh.com/*
 *://*.euromobil-japan.com/*
 *://*.fossmint.com/*
 *://*.free-mac-software.com/*
@@ -182,6 +187,7 @@ meta tag SPAM
 *://johnny-movie.com/*
 *://*.jpnews-video.com/*
 *://kakoshiru.com/*
+*://kandaeshop.com/*
 *://kdgadget.com/*
 *://keitaijoho.com/*
 *://killy.biz/*
@@ -210,6 +216,7 @@ meta tag SPAM
 *://optom.typort.my.id/*
 *://osxdaily.com/*
 *://outlay.info/*
+*://panchira.tokyo/*
 *://pcmacstore.com/*
 *://photo-album.blog.jp/*
 *://*.play-azlabs.com/*
