@@ -1,22 +1,25 @@
-VIRUS VIRUS VIRUS
+!# VIRUS VIRUS VIRUS
 *://jigadorierogazou.blog.fc2.com/*
 *://kahucrossfit.com/*
 *://sadhanacircle.com/*
 *://topchineseporn.com/*
 *://topshippingja.com/*
 *://tratzsolucoes.com.br/*
-教えて
+
+!# 教えて
 *://*.itreview.jp/*
 *://okwave.jp/*
 *://oshiete.goo.ne.jp/*
 *://stackoverflow.com/*
-機械翻訳
+
+!# 機械翻訳
 *://askdev.io/*
 *://*.mysterytribune.com/*
 *://*.narkive.jp/*
 *://www.websitehostingrating.com/*
 *://*.westerlystpiusxschool.org/*
-詐欺
+
+!# 詐欺
 *://aroma-ecru.com/*
 *://bajaoreilles.com/*
 *://ciernykvinnan.com/*
@@ -26,7 +29,8 @@ VIRUS VIRUS VIRUS
 *://mackeeper.com/*
 *://*.ladylibertybrands.com/*
 *://ladylibertybrands.com/*
-中国制造的山寨软件(Chinese Copycat Software)
+
+!# 中国制造的山寨软件(Chinese Copycat Software)
 *://*.4videosoft.jp/*
 *://*.aimersoft.*/*
 *://*.aiseesoft.(jp|com)/*
@@ -71,7 +75,8 @@ VIRUS VIRUS VIRUS
 *://*.winxdvd.com/*
 *://*.wondershare.jp/*
 *://*.xmlbar.net/*
-销售中国制造的山寨软件(seller of Chinese Copycat Software)
+
+!# 销售中国制造的山寨软件(seller of Chinese Copycat Software)
 *://appli-world.jp/*
 *://butsuyoku-gadget.com/*
 *://*.chinadap.com/*
@@ -96,15 +101,18 @@ VIRUS VIRUS VIRUS
 *://taishon.nagoya/*
 *://uninstallmacapp.blogspot.com/*
 *://urusulambda.com/*
-中華
+
+!# 中華
 *://*.aliexpress.com/*
 *://*.banggood.com/*
 *://*.shenzhenaudio.com/*
 *://shenzhenaudio.jp/*
 *://*.sunnews.site/*
-meta tag SPAM
+
+!# meta tag SPAM
 *://e-living.info/*
-乞食
+
+!# 乞食
 *://*.1st-net.jp/*
 *://*.ab-cafe.com/*
 *://akiba.jpn.org/*
@@ -176,6 +184,8 @@ meta tag SPAM
 *://gloture.jp/*
 *://goocho.jp/*
 *://goworkship.com/*
+*://*.gpoint.co.jp/*
+*://gpoint.co.jp/*
 *://heim.jp/*
 *://happyeiga.com/*
 *://hm-hm.net/*
@@ -260,12 +270,14 @@ meta tag SPAM
 *://yoh-suke-blog.com/*
 *://yuyujiteki.site/*
 *://zasssafety.com/*
-ガセ
+
+!# ガセ
 *://akiko-counselingroom.com/*
 *://*.appbank.net/*
 *://artworks-inter.net/*
 *://*.asyura2.com/*
 *://chht7.com/*
+*://cura-prodest.com/*
 *://globo-site.com/*
 *://happy-science.jp/*
 *://iboyagi.zouri.jp/*
@@ -290,11 +302,14 @@ meta tag SPAM
 *://*.yo-in.com/*
 *://yourei.jp/*
 *://スピリチュアルライフ.com/*
-ハラスメント
+
+!# ハラスメント
 *://athfunch.com/*
-クソUI
+
+!# クソUI
 *://*.cheerup.jp/*
-再配信
+
+!# 再配信
 *://ceron.jp/*
 *://news.infoseek.co.jp/*
 *://news.line.me/*
@@ -308,23 +323,27 @@ meta tag SPAM
 *://*.twipple.jp/*
 *://news.biglobe.ne.jp/*
 *://www.msn.com/*
-Wikipedia copy and paste
+
+!# Wikipedia copy and paste
 *://mairi.me/*
 *://name01.unsei.me/*
 *://*.memory-jp.com/*
 *://*.wikiredia.com/*
-樋渡啓祐
+
+!# 樋渡啓祐
 *://*.e-earphone.jp/*
 *://e-earphone.blog/*
 *://*.okwave.jp/*
 *://*.tsite.jp/*
 *://*.yahoo.co.jp/*
-井戸端
+
+!# 井戸端
 *://b.hatena.ne.jp/*
 *://bbs.kakaku.com/*
 *://*.nicovideo.jp/*
 *://*.yourpedia.org/*
-完全なる好み
+
+!# 完全なる好み
 *://*.carsensor.net/*
 *://*.carview.co.jp/*
 *://*.deviantart.com/*
