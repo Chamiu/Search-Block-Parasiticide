@@ -29,6 +29,7 @@
 *://mackeeper.com/*
 *://*.ladylibertybrands.com/*
 *://ladylibertybrands.com/*
+*://raworlnig7.over-blog.com/*
 
 !# 中国制造的山寨软件(Chinese Copycat Software)
 *://*.4videosoft.jp/*
@@ -132,6 +133,7 @@
 *://*.apwork.asia/*
 *://apwork.asia/*
 *://belcy.jp/*
+*://berlioz.xyz/*
 *://bestreviews.net/*
 *://*.bestreviews.net/*
 *://*.bitsrc.io/*
@@ -262,12 +264,14 @@
 *://usoko.net/*
 *://warasoft.com/*
 *://webcatalog.app/*
+*://webhoric.com/*
 *://*.weebly.com/*
 *://*.wonderhowto.com/*
 *://*.writemyessay24h.net/*
 *://yamauto.jp/*
 *://yaseibook.com/*
 *://yoh-suke-blog.com/*
+*://yomoyama-joho.com/*
 *://yuyujiteki.site/*
 *://zasssafety.com/*
 
@@ -356,7 +360,8 @@
 *://*.mixi.jp/*
 *://note.com/*
 *://pc-karuma.net/*
-*://*.rakuten.(co|ne).jp/*
+*://*.rakuten.co.jp/*
+*://*.rakuten.ne.jp/*
 *://*.syosetu.com/*
 *://syosetu.com/*
 *://*.trendmicro.com/*
