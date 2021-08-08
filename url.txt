@@ -1,11 +1,16 @@
+!# 0
 *://009-50th.jp/*
 *://*.036izu.net/*
 *://036izu.net/*
+
+!# 1
 *://1000mg.jp/*
 *://*.123ish.com/*
 *://123ish.com/*
 *://1917-movie.jp/*
 *://1yomeblo.com/*
+
+!# 2
 *://*.2monkeys.jp/*
 *://2monkeys.jp/*
 *://2ch.logpo.jp/*
@@ -13,18 +18,28 @@
 *://2chmatomesokuhou.com/*
 *://2chvsoku.com/*
 *://2ndmedia.info/*
+
+!# 3
 *://*.3333.tokyo/*
 *://3333.tokyo/*
 *://36kirakira.com/*
 *://38hana.com/*
+
+!# 5
 *://55kengo.com/*
 *://5w1h-jp.com/*
+
+!# 7
 *://758ryu.com/*
 *://774route.com/*
+
+!# 8
 *://*.80s90s-songs.fun/*
 *://80s90s-songs.fun/*
 *://818-news-blog.com/*
 *://8mato.jp/*
+
+!# A
 *://a-genzai.com/*
 *://a711.work/*
 *://aaanews.net/*
@@ -98,6 +113,8 @@
 *://az-knowledge.com/*
 *://az-news.blog.jp/*
 *://azukimama.com/*
+
+!# B
 *://bad-labo.com/*
 *://badvugum.com/*
 *://bakusokunews.com/*
@@ -138,6 +155,8 @@
 *://buzzneta-topic.com/*
 *://buzzpicks.jp/*
 *://buzzterr.com/*
+
+!# C
 *://cambridge-india.org/*
 *://*.canoviano.net/*
 *://canoviano.net/*
@@ -158,9 +177,11 @@
 *://chelra-note.com/*
 *://chenmamablog.com/*
 *://cherish-media.jp/*
+*://blog.chhs.ca.gov/*
 *://chomanga.org/*
 *://chops.chips.jp/*
 *://blog.livedoor.jp/christmas1224/*
+*://cmmonster.com/*
 *://cinemachi.net/*
 *://*.cinematoday.jp/*
 *://cinematoday.jp/*
@@ -181,6 +202,8 @@
 *://cup-and-saucer.net/*
 *://curious-rabble.net/*
 *://cyoppaya.com/*
+
+!# D
 *://*.daigakuco.jp/*
 *://daigakuco.jp/*
 *://daigakuikungo.com/*
@@ -219,6 +242,8 @@
 *://dream04090129.biz/*
 *://dreamgateway01.com/*
 *://dreamstyle.life/*
+
+!# E
 *://e-news67.com/*
 *://earsoku.com/*
 *://ebitsu.net/*
@@ -253,6 +278,8 @@
 *://exa000.com/*
 *://exawarosu.net/*
 *://extra-newspaper.com/*
+
+!# F
 *://f-shirushi.com/*
 *://favorite-blog.com/*
 *://feizeus.com/*
@@ -277,10 +304,13 @@
 *://furamu4568.com/*
 *://futaba05.com/*
 *://futamato.blog.jp/*
+*://futoukou.love/*
 *://future-sparkling.com/*
 *://fuwafuwam.com/*
 *://*.fw-movie.jp/*
 *://fw-movie.jp/*
+
+!# G
 *://g-matome.com/*
 *://*.gadget2ch.com/*
 *://gadget2ch.com/*
@@ -329,6 +359,8 @@
 *://gurigetfree.com/*
 *://guriguri.xyz/*
 *://gvonne.com/*
+
+!# H
 *://ha-navi.com/*
 *://*.hachi8.me/*
 *://hachi8.me/*
@@ -394,6 +426,9 @@
 *://*.horigiri.net/*
 *://hosyusokuhou.jp/*
 *://hotword-coolword.com/*
+*://hunter-log.com/*
+
+!# I
 *://ichikahappylife.com/*
 *://idolfan.xsrv.jp/*
 *://idol-network.com/*
@@ -424,6 +459,8 @@
 *://it-toranoana.com/*
 *://blog.livedoor.jp/itsoku/*
 *://itzmysnow.com/*
+
+!# J
 *://jacklog.doorblog.jp/*
 *://jaguar-information.com/*
 *://japanation.jp/*
@@ -452,6 +489,8 @@
 *://jyoshianaguguru.com/*
 *://jyouhou-knt.com/*
 *://blog.livedoor.jp/jyoushiki43/*
+
+!# K
 *://kabuyattemita.blog.fc2.com/*
 *://kad28.com/*
 *://kaigaiceleb.com/*
@@ -532,6 +571,8 @@
 *://kyousoku.net/*
 *://kyoyym19.com/*
 *://kyun2-girls.com/*
+
+!# L
 *://lab4g.net/*
 *://labopick.com/*
 *://lalirondalla.com/*
@@ -567,6 +608,8 @@
 *://luxable.info/*
 *://*.lvqbf.co/*
 *://lvqbf.co/*
+
+!# M
 *://maboblog.com/*
 *://mabomabo00.com/*
 *://mac-lib.com/*
@@ -610,6 +653,7 @@
 *://meilingual.com/*
 *://memorylane-media.com/*
 *://meshinews.blog.jp/*
+*://mgmenjoy85.com/*
 *://*.mine-3m.com/*
 *://mine-3m.com/*
 *://mh-r.more-gamer.com/*
@@ -656,6 +700,8 @@
 *://mwphglch.org/*
 *://mybouzu.info/*
 *://my-own-pace.com/*
+
+!# N
 *://*.n-manga.com/*
 *://n2-ch.com/*
 *://naasasao.com/*
@@ -721,6 +767,7 @@
 *://nikenickel.com/*
 *://nichansummarycompany.com/*
 *://nicotubers.com/*
+*://nice-plus.com/*
 *://nigiwasu.com/*
 *://niigata-ikumen.jp/*
 *://nilcollection.net/*
@@ -744,6 +791,8 @@
 *://blog.livedoor.jp/nwknews/*
 *://nyanpararism.xyz/*
 *://nyanyako.xyz/*
+
+!# O
 *://oceanmemo.com/*
 *://o-kaminews.com/*
 *://oishiimono-daisuki-hokusetsu.com/*
@@ -766,6 +815,7 @@
 *://oniyomech.livedoor.biz/*
 *://oomonoyoutubersokuhou.blogo.jp/*
 *://oqirena.com/*
+*://oregano.work/*
 *://orenosaito.com/*
 *://oreno-trend.biz/*
 *://oricoma.com/*
@@ -775,10 +825,13 @@
 *://otameshivip.com/*
 *://otyobolife.com/*
 *://oucedonc.com/*
+*://ouest-ecowatt.com/*
 *://outdooor.blog.jp/*
 *://outidesigoto.com/*
 *://oyakudachi2525.com/*
 *://oyakudatiinfo.com/*
+
+!# P
 *://p-o-chitto.com/*
 *://*.pacostech.com/*
 *://paradisefive.net/*
@@ -823,9 +876,13 @@
 *://pswriter1129.com/*
 *://puralog.com/*
 *://purulife.site/*
+
+!# Q
 *://question56.blog.jp/*
 *://quickforms.net/*
 *://quick-news.site/*
+
+!# R
 *://r-news.net/*
 *://r40quest.com/*
 *://raifuappu.com/*
@@ -868,6 +925,8 @@
 *://ryota0814.com/*
 *://ryoto-seeking-dailylife.com/*
 *://ryusoku.com/*
+
+!# S
 *://sa-ta-mi.com/*
 *://sabucaru.com/*
 *://sachiko-blog.com/*
@@ -971,6 +1030,8 @@
 *://syotiku9910.com/*
 *://syouheinouhau.daa.jp/*
 *://syufunotie.com/*
+
+!# T
 *://ta-see.com/*
 *://taakkk.com/*
 *://takahide.net/*
@@ -992,6 +1053,7 @@
 *://thankyoujudy.com/*
 *://thedieiscast4.com/*
 *://the-jet-sleeper.com/*
+*://theblacklinebylauren.com/*
 *://time-punch.com/*
 *://tktktakunet.com/*
 *://tokiryo.net/*
@@ -1037,6 +1099,8 @@
 *://tv-rider.jp/*
 *://twintailsokuhou.blog.jp/*
 *://twun61.com/*
+
+!# U
 *://u-mindmap.com/*
 *://uberpartner.hatenablog.com/*
 *://ueno-halloween.com/*
@@ -1055,6 +1119,8 @@
 *://usj-joho.blog.ss-blog.jp/*
 *://usuke0815.com/*
 *://utina-ketumekko.com/*
+
+!# V
 *://valor0code.com/*
 *://variety-fan.com/*
 *://*.varietynews.info/*
@@ -1074,9 +1140,13 @@
 *://*.votelouann.com/*
 *://votelouann.com/*
 *://vtubersokuhou.com/*
+
+!# W
 *://wadai-journal.com/*
 *://wadai-log.com/*
 *://wadainews365.blog.ss-blog.jp/*
+*://*.wadaino-news.com/*
+*://wadaino-news.com/*
 *://wadainomori.net/*
 *://wadai-pocket.com/*
 *://wagonnavi.click/*
@@ -1100,6 +1170,8 @@
 *://womanaffil.com/*
 *://world-fusigi.net/*
 *://worldlifelove.com/*
+
+!# X
 *://xn--0ck0bw169avpb.com/*
 *://xn--48j1a3b0i.com/*
 *://xn--4gq072e7scpvq.com/*
@@ -1124,6 +1196,8 @@
 *://xn--ziprar-h51mh64dd7d8xm.site/*
 *://xskriv.com/*
 *://xxxyuxxxka.com/*
+
+!# Y
 *://yachilog.com/*
 *://yakudati365.com/*
 *://yamaitachi.com/*
@@ -1174,6 +1248,8 @@
 *://yuuhime.xyz/*
 *://yuyu007.com/*
 *://yuyufirst.com/*
+
+!# Z
 *://zaitakudemamawork.com/*
 *://zakeru.com/*
 *://zaki-tore.com/*
@@ -1184,6 +1260,8 @@
 *://zizineta.com/*
 *://zizineta-sokuho.com/*
 *://zuckyzczc.com/*
+
+!# gross
 /.*(2ch).*/
 /.*(5ch).*/
 /.*(matome).*/
