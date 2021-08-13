@@ -500,6 +500,7 @@
 *://kajjfawjagr.lfhfdfiehgg.com/*
 *://kami-ch.com/*
 *://kan8oskar.com/*
+*://kanakanaworks.com/*
 *://kanameblog.com/*
 *://kanata12.com/*
 *://kasane-movie.jp/*
@@ -515,6 +516,7 @@
 *://*.kaznao.com/*
 *://kaznao.com/*
 *://kban.me/*
+*://kei-mamablog.com/*
 *://kenjiroo.com/*
 *://kenny-dfd.com/*
 *://kerorin1010.com/*
@@ -801,6 +803,7 @@
 *://okaymac.com/*
 *://okboook.com/*
 *://oki-itsmylife.com/*
+*://okuribito.org/*
 *://olochimaru.tokyo/*
 *://omix1967.com/*
 *://ommichelleh961.cocolog-nifty.com/*
