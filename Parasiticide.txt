@@ -1,4 +1,5 @@
 !# VIRUS VIRUS VIRUS
+*://imandarinpod.com/*
 *://jigadorierogazou.blog.fc2.com/*
 *://kahucrossfit.com/*
 *://sadhanacircle.com/*
@@ -14,6 +15,7 @@
 
 !# 機械翻訳
 *://askdev.io/*
+*://br.atsit.in/*
 *://*.mysterytribune.com/*
 *://*.narkive.jp/*
 *://www.websitehostingrating.com/*
@@ -41,7 +43,7 @@
 *://blu-ray.software/*
 *://*.bluray-player-software.com/*
 *://*.bluraycopys.*/*
-*://*.cisdem.*/*
+*://*.cisdem.com/*
 *://*.copytrans.*/*
 *://*.dumbofab.com/*
 *://*.dvdfab.cn/*
@@ -74,7 +76,7 @@
 *://*.videoproc.com/*
 *://*.vidmore.com/*
 *://*.winxdvd.com/*
-*://*.wondershare.jp/*
+*://*.wondershare.(jp|com)/*
 *://*.xmlbar.net/*
 
 !# 销售中国制造的山寨软件(seller of Chinese Copycat Software)
@@ -110,8 +112,11 @@
 *://shenzhenaudio.jp/*
 *://*.sunnews.site/*
 
-!# meta tag SPAM
+!# spamdexing
+*://datanews.chhs.ca.gov/*
 *://e-living.info/*
+*://hivic-recruit.com/*
+*://ラーメン健太.com/*
 
 !# 乞食
 *://*.1st-net.jp/*
@@ -132,6 +137,7 @@
 *://*.appps.jp/*
 *://*.apwork.asia/*
 *://apwork.asia/*
+*://bafwsprod-bafwsprodnew.azurewebsites.net/*
 *://belcy.jp/*
 *://berlioz.xyz/*
 *://bestreviews.net/*
@@ -142,6 +148,7 @@
 *://bpkfp38qxf.wiki2.jp/*
 *://*.business2community.com/*
 *://buzzmac.jp/*
+*://choice.jpn.org/*
 *://cinemazuki.com/*
 *://cinemarche.net/*
 *://corriente.top/*
@@ -280,8 +287,10 @@
 *://*.appbank.net/*
 *://artworks-inter.net/*
 *://*.asyura2.com/*
+*://chainonet.com/*
 *://chht7.com/*
 *://cura-prodest.com/*
+*://furatel.club/*
 *://globo-site.com/*
 *://happy-science.jp/*
 *://iboyagi.zouri.jp/*
