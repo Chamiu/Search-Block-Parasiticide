@@ -284,12 +284,16 @@
 
 !# ガセ
 *://akiko-counselingroom.com/*
+*://ancient.powf.net/*
 *://*.appbank.net/*
 *://artworks-inter.net/*
 *://*.asyura2.com/*
 *://chainonet.com/*
 *://chht7.com/*
 *://cura-prodest.com/*
+*://cutthecorner.net/*
+*://www.diskdig.com/*
+*://eritokyo.jp/*
 *://furatel.club/*
 *://globo-site.com/*
 *://happy-science.jp/*
@@ -297,23 +301,29 @@
 *://*.kanteiya.com/*
 *://kenjya.org/*
 *://blog.goo.ne.jp/kimito39/*
+*://koiy.hatenadiary.jp/*
 *://leisurego.jp/*
+*://www.link-21.com/*
 *://mobile-shuri.jp/*
 *://nihon-omokage.com/*
 *://*.rui.jp/*
 *://scary-story.net/*
+*://shanti-phula.net/*
 *://smartlog.jp/*
 *://tadatabilife.hatenablog.com/*
 *://trafficnews.jp/*
 *://traumhaus.tokyo/*
 *://trivia-and-know-how-notes.com/*
 *://tyuuta1.com/*
+*://uekusak.cocolog-nifty.com/*
 *://*.wpcoding.net/*
 *://wpcoding.net/*
 *://xiaolongchakan.com/*
 *://xn--w8j5cwb6a1433a427bijc90wdu1d.com/*
 *://*.yo-in.com/*
 *://yourei.jp/*
+*://www.hm.aitai.ne.jp/~ytmta/*
+*://yukilifeblog.com/*
 *://スピリチュアルライフ.com/*
 
 !# ハラスメント
