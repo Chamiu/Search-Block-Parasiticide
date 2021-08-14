@@ -52,6 +52,7 @@
 *://aikru.com/*
 *://aikuwabaratrio.com/*
 *://blog.livedoor.jp/ainbekker-news2/*
+*://airlinehonpo.blog.fc2.com/*
 *://akasann.biz/*
 *://*.akiko-no-blog.com/*
 *://akiko-no-blog.com/*
@@ -335,6 +336,7 @@
 *://geronhaita.com/*
 *://getnews.jp/*
 *://gi-o.com/*
+*://gigigi.blog.jp/*
 *://giko-antenna.com/*
 *://girlschannel.net/*
 *://girlshour.net/*
@@ -744,11 +746,12 @@
 *://netgeek.biz/*
 *://netouyonews.net/*
 *://netsoku.com/*
+*://newmatosoku.com/*
+*://newneta.work/*
 *://news-japan365.com/*
 *://news-news-news.net/*
 *://news-three-stars.net/*
-*://newmatosoku.com/*
-*://newneta.work/*
+*://news-discussion.com/*
 *://newnews36.com/*
 *://blog.livedoor.jp/news23vip/*
 *://*.news30over.com/*
@@ -891,6 +894,7 @@
 *://raifuappu.com/*
 *://rainmakerofnews.com/*
 *://rajeev2004.blogspot.com/*
+*://ramumiki.blog14.fc2.com/*
 *://ranpunosei.com/*
 *://rastaneko-blog.com/*
 *://ravex.jp/*
@@ -1119,6 +1123,7 @@
 *://urbansmalltalk.com/*
 *://urauraplus.com/*
 *://usagi-syufulife.com/*
+*://usi32.com/*
 *://usj-joho.blog.ss-blog.jp/*
 *://usuke0815.com/*
 *://utina-ketumekko.com/*
