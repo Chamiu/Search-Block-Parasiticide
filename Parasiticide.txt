@@ -115,10 +115,17 @@
 !# spamdexing
 *://datanews.chhs.ca.gov/*
 *://e-living.info/*
+*://grandfleet.info/*
 *://hivic-recruit.com/*
+*://jkhewjthfj.blogspot.com/*
+*://zatsugaku-mystery.com/*
 *://ラーメン健太.com/*
 
-!# 乞食
+!# 明示的乞食
+*://atsugiebina.hatenablog.com/*
+*://*.myappdata.net*
+
+!# 暗示的乞食
 *://*.1st-net.jp/*
 *://*.ab-cafe.com/*
 *://akiba.jpn.org/*
