@@ -217,6 +217,7 @@
 *://danpei.blog.ss-blog.jp/*
 *://daydollarbotch.hatenablog.com/*
 *://dayslabo.com/*
+*://de-baystars.doorblog.jp/*
 *://decopachi.com/*
 *://delaidback.com/*
 *://*.den-gaku.net/*
@@ -715,6 +716,7 @@
 *://nakasuga13.com/*
 *://nakayoshiblog.com/*
 *://namakemono-no-gogai.blog.ss-blog.jp/*
+*://namakemonoyoshi.com/*
 *://nameless-net.com/*
 *://nami55.xyz/*
 *://nananono77.com/*
@@ -742,6 +744,7 @@
 *://nensyu.site/*
 *://neroeule96blog.com/*
 *://netacheck.com/*
+*://netalstation.com/*
 *://netatori.com/*
 *://netgeek.biz/*
 *://netouyonews.net/*
@@ -875,6 +878,7 @@
 *://poppy17.com/*
 *://posoboso.com/*
 *://post.more-gamer.com/*
+*://pouchs.jp/*
 *://powakitchen.site/*
 *://pre-cinema.com/*
 *://precious.jp/*
@@ -960,6 +964,7 @@
 *://science-festa.jp/*
 *://*.sebameru.com/*
 *://sebameru.com/*
+*://*.securite-prevention-sncf.com/*
 *://securite-prevention-sncf.com/*
 *://seek-levels.com/*
 *://seidentest.com/*
@@ -998,6 +1003,7 @@
 *://smilenarich.com/*
 *://smile-note1211.com/*
 *://sn-jp.com/*
+*://snacktime75.com/*
 *://snopommedia.com/*
 *://snsdays.com/*
 *://soiginta.biz/*
