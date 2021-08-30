@@ -89,6 +89,7 @@
 *://appleslide.com/*
 *://aprico-media.com/*
 *://arafokonashi.hatenablog.com/*
+*://araou.jp/*
 *://arasa-mama.com/*
 *://arincoroom.com/*
 *://armybeginner.web.fc2.com/*
@@ -324,11 +325,12 @@
 *://ganbariyasan.com/*
 *://geektushin.com/*
 *://geino-taro.com/*
+*://geinou-now.net/*
 *://*.geinou-research555.com/*
 *://geinou-research555.com/*
+*://geinoukame.blog.fc2.com/*
 *://geinounewstorenndo.blog.ss-blog.jp/*
 *://geinouninzin.net/*
-*://geinou-now.net/*
 *://geisposoul.com/*
 *://genkimorizou.com/*
 *://genkimura.net/*
@@ -620,6 +622,7 @@
 *://mac-lib.com/*
 *://*.maesuke.com/*
 *://maesuke.com/*
+*://magazinehack.com/*
 *://magical-news.blog.jp/*
 *://magusite.com/*
 *://blog.livedoor.jp/mahjongch/*
@@ -994,6 +997,7 @@
 *://shufuwork.com/*
 *://shun-tame.com/*
 *://since2019gossip.com/*
+*://sippaidan.com/*
 *://sirabee.com/*
 *://sirohigedan.xyz/*
 *://sk-style.xyz/*
@@ -1054,6 +1058,8 @@
 *://takiro-pj.com/*
 *://takosu6129.fun/*
 *://takuokunndesuyotte.com/*
+*://*.talked.info/*
+*://talked.info/*
 *://tanukinews.com/*
 *://tarou2525.com/*
 *://tatutt47.xsrv.jp/*
@@ -1167,6 +1173,7 @@
 *://wankoshoten.com/*
 *://waon-guam.com/*
 *://wapri.site/*
+*://waraiki.com/*
 *://waranote.livedoor.biz/*
 *://warikini-topic.jp/*
 *://warsuksdo.com/*
@@ -1238,6 +1245,7 @@
 *://youtuberpedia.com/*
 *://youtuber-world-v.com/*
 *://youtube-times.com/*
+*://yta2408.info/*
 *://yubikitasu.org/*
 *://yudainews.com/*
 *://*.yui-abc.com/*
