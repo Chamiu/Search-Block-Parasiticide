@@ -83,6 +83,7 @@
 *://aoiro5.com/*
 *://aokiin.com/*
 *://aoteen.net/*
+*://apceee.net/*
 *://apokuso.com/*
 *://app-sin.com/*
 *://applech2.com/*
@@ -1052,6 +1053,7 @@
 *://ta-see.com/*
 *://taakkk.com/*
 *://takahide.net/*
+*://*.takamatsu-webmuseum.jp/*
 *://*.takashidesu.work/*
 *://takashidesu.work/*
 *://takekonoblog.com/*
