@@ -11,11 +11,16 @@
 *://*.itreview.jp/*
 *://okwave.jp/*
 *://oshiete.goo.ne.jp/*
+*://*.quora.com/*
 *://stackoverflow.com/*
 
 !# 機械翻訳
+*://*.affdu.com/*
+*://alternativesoft.info/*
 *://askdev.io/*
 *://br.atsit.in/*
+*://cepe-eua.org/*
+*://*.goodcloudstorage.net/*
 *://*.mysterytribune.com/*
 *://*.narkive.jp/*
 *://www.websitehostingrating.com/*
@@ -69,7 +74,7 @@
 *://*.r-studio.com/*
 *://*.remorecover.com/*
 *://*.remosoftware.com/*
-*://*.reneelab.*/*
+*://*.reneelab.jp/*
 *://*.stellarinfo.com/*
 *://*.tenorshare.*/*
 *://*.tunefab.jp/*
@@ -114,15 +119,20 @@
 *://*.sunnews.site/*
 
 !# spamdexing
-+://cycling.org.sg/*
+*://*.atlanticcouncil.org/*
+*://copin-cp.com/*
+*://cycling.org.sg/*
 *://datanews.chhs.ca.gov/*
 *://e-living.info/*
 *://etymology-encyclopedia.com/*
+*://fumimoko.blog/*
 *://grandfleet.info/*
 *://hivic-recruit.com/*
 *://jkhewjthfj.blogspot.com/*
 *://ken-plan.com/*
 *://lostash.jp/*
+*://raviatowen-conseil.fr/*
+*://samex.jp/*
 *://zatsugaku-mystery.com/*
 *://ラーメン健太.com/*
 
@@ -141,8 +151,10 @@
 *://aohajkl.com/*
 *://app-liv.jp/*
 *://appdam.info/*
+*://appleinsider.com/*
 *://applion.jp/*
 *://appmus.com/*
+*://appq.jp/*
 *://appsuke.com/*
 *://*.appps.jp/*
 *://*.apwork.asia/*
@@ -221,6 +233,7 @@
 *://goworkship.com/*
 *://*.gpoint.co.jp/*
 *://gpoint.co.jp/*
+*://*.guidingtech.com/
 
 !# 乞食-H
 *://heim.jp/*
@@ -230,6 +243,7 @@
 *://how-old.info/*
 
 !# 乞食-I
+*://*.imore.com/*
 *://*.informer.com/*
 *://ioc-waseda.jp/*
 
@@ -252,6 +266,7 @@
 !# 乞食-L
 *://*.lifehacker.jp/*
 *://link-man.net/*
+*://love-guava.com/*
 
 !# 乞食-M
 *://macappstore.org/*
@@ -320,6 +335,7 @@
 *://thebestgame2020.com/*
 *://*.tobita-huuzoku.com/*
 *://trend-top.com/*
+*://*.tutsplus.com/*
 *://tv-movie.wark.info/*
 *://tvzuki.com/*
 
@@ -383,9 +399,11 @@
 *://*.otsukaresama-deshita.com/*
 *://otsukaresama-deshita.com/*
 *://r25.jp/*
+*://rikupsycho.hatenablog.com/*
 *://*.rui.jp/*
 *://scary-story.net/*
 *://shanti-phula.net/*
+*://siraberuko.jp/*
 *://smartlog.jp/*
 *://tadatabilife.hatenablog.com/*
 *://tennis-mass.com/*
@@ -412,6 +430,7 @@
 !# 差別主義者
 *://athfunch.com/*
 *://daigo.jp/*
+*://seiron-sankei.com/*
 
 !# クソUI
 *://*.cheerup.jp/*
@@ -441,6 +460,7 @@
 *://*.e-earphone.jp/*
 *://e-earphone.blog/*
 *://*.okwave.jp/*
+*://*.sakimeshi.com/*
 *://*.tsite.jp/*
 *://*.yahoo.co.jp/*
 
