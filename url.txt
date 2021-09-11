@@ -17,6 +17,7 @@
 *://2chan-matome.yuu-progra.com/*
 *://2chmatomesokuhou.com/*
 *://2chvsoku.com/*
+*://2logch.com/*
 *://2ndmedia.info/*
 
 !# 3
@@ -207,6 +208,7 @@
 *://cyoppaya.com/*
 
 !# D
+*://d-ri.com/*
 *://*.daigakuco.jp/*
 *://daigakuco.jp/*
 *://daigakuikungo.com/*
@@ -672,6 +674,7 @@
 *://mikansan.xyz/*
 *://mikimane.com/*
 *://mikobito.com/*
+*://milky-holmes-ofc.com/*
 *://min8.net/*
 *://minamina.net/*
 *://mindhack2ch.com/*
@@ -746,6 +749,7 @@
 *://nekomegane.com/*
 *://nekowata.com/*
 *://nensyu.site/*
+*://nerdsoku.com/*
 *://neroeule96blog.com/*
 *://netacheck.com/*
 *://netalstation.com/*
