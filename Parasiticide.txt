@@ -20,6 +20,7 @@
 *://askdev.io/*
 *://br.atsit.in/*
 *://cepe-eua.org/*
+*://*.ditching.eu/*
 *://*.goodcloudstorage.net/*
 *://*.mysterytribune.com/*
 *://*.narkive.jp/*
@@ -27,56 +28,67 @@
 *://*.westerlystpiusxschool.org/*
 
 !# 詐欺
+*://apeailiruric.nagesen.net/*
 *://aroma-ecru.com/*
 *://bajaoreilles.com/*
 *://ciernykvinnan.com/*
 *://gitfinder.xyz/*
+*://*.ladylibertybrands.com/*
+*://ladylibertybrands.com/*
 *://*.macbooster.net/*
 *://macbooster.net/*
 *://mackeeper.com/*
-*://*.ladylibertybrands.com/*
-*://ladylibertybrands.com/*
+*://nextag.web.fc2.com/*
 *://raworlnig7.over-blog.com/*
 *://solar-lab.jp/*
 
+!# ステマ屋
+*://amlaksoofi.ir/*
+*://europeanantiquepine.com/*
+*://hart2hartfarm.org/*
+*://miracle.lk/*
+*://*.pujarussaianspa.com/*
+*://e56.stars.ne.jp/*
+*://wnsom.com/*
+
 !# 中国制造的山寨软件(Chinese Copycat Software)
 *://*.4videosoft.jp/*
-*://*.aimersoft.*/*
+*://*.aimersoft.com/*
 *://*.aiseesoft.(jp|com)/*
-*://*.anymp4.*/*
+*://*.anymp4.jp/*
 *://*.apowersoft.jp/*
 *://*.bitwar.net/
 *://blu-ray.software/*
 *://*.bluray-player-software.com/*
-*://*.bluraycopys.*/*
+*://*.bluraycopys.com/*
 *://*.cisdem.com/*
-*://*.copytrans.*/*
+*://*.copytrans.jp/*
 *://*.dumbofab.com/*
 *://*.dvdfab.cn/*
 *://*.easeus.com/*
-*://*.eelphone.*/*
+*://*.eelphone.jp/*
 *://*.epubor.com/*
 *://fixmacissue.com/*
 *://*.fonedog.jp/*
-*://*.fonepaw.*/*
+*://blog.fonepaw.jp/*
 *://gemsoft.jp/*
 *://iboysoft.com/*
 *://*.imobie.jp/*
-*://*.imyfone.*/*
+*://*.imyfone.com/*
 *://*.iskysoft.(com|jp)/*
 *://*.leawo.org/*
 *://*.macbookdatarecovery.org/*
 *://*.macxdvd.com/*
 *://*.minitool.com/*
-*://*.movavi.*/*
-*://nektony.*/*
+*://*.movavi.com/*
+*://nektony.com/*
 *://*.noteburner.com/*
 *://*.r-studio.com/*
 *://*.remorecover.com/*
 *://*.remosoftware.com/*
 *://*.reneelab.jp/*
 *://*.stellarinfo.com/*
-*://*.tenorshare.*/*
+*://*.tenorshare.(jp|com)/*
 *://*.tunefab.jp/*
 *://*.videoconverterfactory.com/*
 *://*.videoproc.com/*
@@ -100,6 +112,7 @@
 *://*.macotakara.jp/*
 *://*.macupdate.com/*
 *://mice-cinemanami.hatenablog.com/*
+*://minto.tech/*
 *://motionfile.jp/*
 *://muralnotes.com/*
 *://office7e.com/*
@@ -107,6 +120,7 @@
 *://pcmanabu.com/*
 *://pocyo.at.webry.info/*
 *://removemacapplication.wordpress.com/*
+*://robertegraham.com/*
 *://taishon.nagoya/*
 *://uninstallmacapp.blogspot.com/*
 *://urusulambda.com/*
@@ -119,6 +133,9 @@
 *://*.sunnews.site/*
 
 !# spamdexing
+*://aetdiesel.com:8888/*
+*://*.andersonart.org/*
+*://*.armevents.co.in/*
 *://*.atlanticcouncil.org/*
 *://copin-cp.com/*
 *://cycling.org.sg/*
@@ -127,11 +144,14 @@
 *://etymology-encyclopedia.com/*
 *://fumimoko.blog/*
 *://grandfleet.info/*
+*://heatfry.com/*
 *://hivic-recruit.com/*
 *://jkhewjthfj.blogspot.com/*
 *://ken-plan.com/*
 *://lostash.jp/*
+*://mikagamit777.com/*
 *://raviatowen-conseil.fr/*
+*://rittencalculator.tnls.nl/*
 *://samex.jp/*
 *://zatsugaku-mystery.com/*
 *://ラーメン健太.com/*
@@ -152,6 +172,7 @@
 *://app-liv.jp/*
 *://appdam.info/*
 *://appleinsider.com/*
+*://appleshinja.com/*
 *://applion.jp/*
 *://appmus.com/*
 *://appq.jp/*
@@ -159,6 +180,7 @@
 *://*.appps.jp/*
 *://*.apwork.asia/*
 *://apwork.asia/*
+*://arekore.app/*
 *://atsugiebina.hatenablog.com/*
 
 !# 乞食-B
@@ -234,6 +256,7 @@
 *://*.gpoint.co.jp/*
 *://gpoint.co.jp/*
 *://*.guidingtech.com/
+*://gyutan.chu.jp/*
 
 !# 乞食-H
 *://heim.jp/*
@@ -257,9 +280,11 @@
 !# 乞食-K
 *://kakoshiru.com/*
 *://kandaeshop.com/*
+*://*.kaerucloud.com/*
 *://kdgadget.com/*
 *://keitaijoho.com/*
 *://killy.biz/*
+*://*.kogire.com/*
 *://*.kspxnr.work/*
 *://kuraneo.jp/*
 
@@ -332,6 +357,7 @@
 *://techigem.com/*
 *://*.tecmint.com/*
 *://the360.life/*
+*://thebest-1.com/*
 *://thebestgame2020.com/*
 *://*.tobita-huuzoku.com/*
 *://trend-top.com/*
@@ -415,6 +441,7 @@
 *://trivia-and-know-how-notes.com/*
 *://tyuuta1.com/*
 *://uekusak.cocolog-nifty.com/*
+*://windowsapp.tokyo/*
 *://*.wpcoding.net/*
 *://wpcoding.net/*
 *://xiaolongchakan.com/*
@@ -459,6 +486,7 @@
 !# 樋渡啓祐
 *://*.e-earphone.jp/*
 *://e-earphone.blog/*
+*://hawk-a.com/*
 *://*.okwave.jp/*
 *://*.sakimeshi.com/*
 *://*.tsite.jp/*
