@@ -173,6 +173,7 @@
 *://cfp-offset.jp/*
 *://celebritymn.com/*
 *://celeby-media.net/*
+*://chaifafa.com/*
 *://*.chaki9.com/*
 *://chaki9.com/*
 *://changcoroom.com/*
@@ -794,6 +795,7 @@
 *://nnk18.s1007.xrea.com/*
 *://nobiciro.com/*
 *://nobicoma.com/*
+*://nobu0111.com/*
 *://noma66.com/*
 *://nomadstarbucks.com/*
 *://norisuke-world.com/*
