@@ -20,6 +20,7 @@
 *://askdev.io/*
 *://br.atsit.in/*
 *://cepe-eua.org/*
+*://*.twittospia.com/*
 *://*.ditching.eu/*
 *://*.goodcloudstorage.net/*
 *://*.mysterytribune.com/*
@@ -54,8 +55,9 @@
 !# 中国制造的山寨软件(Chinese Copycat Software)
 *://*.4videosoft.jp/*
 *://*.aimersoft.com/*
-*://*.aiseesoft.(jp|com)/*
+*://*.aiseesoft\.(jp|com)/*
 *://*.anymp4.jp/*
+*://*.apeaksoft.com/*
 *://*.apowersoft.jp/*
 *://*.bitwar.net/
 *://blu-ray.software/*
@@ -75,7 +77,7 @@
 *://iboysoft.com/*
 *://*.imobie.jp/*
 *://*.imyfone.com/*
-*://*.iskysoft.(com|jp)/*
+*://*.iskysoft\.(jp|com)/*
 *://*.leawo.org/*
 *://*.macbookdatarecovery.org/*
 *://*.macxdvd.com/*
@@ -88,13 +90,13 @@
 *://*.remosoftware.com/*
 *://*.reneelab.jp/*
 *://*.stellarinfo.com/*
-*://*.tenorshare.(jp|com)/*
+*://*.tenorshare\.(jp|com)/*
 *://*.tunefab.jp/*
 *://*.videoconverterfactory.com/*
 *://*.videoproc.com/*
 *://*.vidmore.com/*
 *://*.winxdvd.com/*
-*://*.wondershare.(jp|com)/*
+*://*.wondershare\.(jp|com)/*
 *://*.xmlbar.net/*
 
 !# 销售中国制造的山寨软件(seller of Chinese Copycat Software)
@@ -248,6 +250,7 @@
 *://*.geardownload.com/*
 *://*.geckoandfly.com/*
 *://*.gefest61.ru/*
+*://gatearrows.com/*
 *://gfx-tools.com/*
 *://gloture.jp/*
 *://goocho.jp/*
@@ -281,6 +284,7 @@
 *://kakoshiru.com/*
 *://kandaeshop.com/*
 *://*.kaerucloud.com/*
+*://*.kashi-mo.com/*
 *://kdgadget.com/*
 *://keitaijoho.com/*
 *://killy.biz/*
@@ -343,6 +347,7 @@
 !# 乞食-S
 *://*.safetydetectives.com/*
 *://sakidori.co/*
+*://sec-sim.com/*
 *://securitysoft.asia/*
 *://shoiblog.com/*
 *://*.slant.co/*
@@ -353,12 +358,14 @@
 *://*.stuklopechat.com/*
 
 !# 乞食-T
+*://taccuma.com/*
 *://takehisayuriko.tokyo/*
 *://techigem.com/*
 *://*.tecmint.com/*
 *://the360.life/*
 *://thebest-1.com/*
 *://thebestgame2020.com/*
+*://thehikaku.net/*
 *://*.tobita-huuzoku.com/*
 *://trend-top.com/*
 *://*.tutsplus.com/*
@@ -376,6 +383,7 @@
 *://webcatalog.app/*
 *://webhoric.com/*
 *://*.weebly.com/*
+*://*.wizcase.com/*
 *://*.wonderhowto.com/*
 *://*.writemyessay24h.net/*
 
