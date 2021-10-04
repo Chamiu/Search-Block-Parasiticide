@@ -25,7 +25,9 @@
 *://*.goodcloudstorage.net/*
 *://*.mysterytribune.com/*
 *://*.narkive.jp/*
-*://www.websitehostingrating.com/*
+*://*.partitionwizard.jp/*
+*://*.vpnmentor.com/*
+*://*.websitehostingrating.com/*
 *://*.westerlystpiusxschool.org/*
 
 !# 詐欺
@@ -42,6 +44,8 @@
 *://nextag.web.fc2.com/*
 *://raworlnig7.over-blog.com/*
 *://solar-lab.jp/*
+*://trade.netgame-rmt.jp/*
+*://yogacondavidgiri.es/*
 
 !# ステマ屋
 *://amlaksoofi.ir/*
@@ -56,6 +60,9 @@
 *://*.4videosoft.jp/*
 *://*.aimersoft.com/*
 *://*.aiseesoft\.(jp|com)/*
+*://*.anvsoftt\.*/*
+*://*.any-video-converter.com/*
+*://*.any-dvd-converter.com/*
 *://*.anymp4.jp/*
 *://*.apeaksoft.com/*
 *://*.apowersoft.jp/*
@@ -85,6 +92,8 @@
 *://*.movavi.com/*
 *://nektony.com/*
 *://*.noteburner.com/*
+*://*.pdfmate.com/*
+*://*.photo-dvd-maker.com/*
 *://*.r-studio.com/*
 *://*.remorecover.com/*
 *://*.remosoftware.com/*
@@ -146,9 +155,12 @@
 *://etymology-encyclopedia.com/*
 *://fumimoko.blog/*
 *://grandfleet.info/*
+*://happycamperbathbombs.com/*
+*://*.haushueter-lsz.de/*
 *://heatfry.com/*
 *://hivic-recruit.com/*
 *://jkhewjthfj.blogspot.com/*
+*://*.jpg4\.*/*
 *://ken-plan.com/*
 *://lostash.jp/*
 *://mikagamit777.com/*
@@ -160,8 +172,10 @@
 
 !# 乞食-数字
 *://*.1st-net.jp/*
+*://1wordworld.blog26.fc2.com/*
 
 !# 乞食-A
+*://*.a-inquiry.com/*
 *://*.ab-cafe.com/*
 *://akiba.jpn.org/*
 *://*.alphr.com/*
@@ -206,6 +220,7 @@
 *://cinemarche.net/*
 *://corriente.top/*
 *://crisis.lifecycle-maps.com/*
+*://cybersecurity-jp.com/*
 
 !# 乞食-D
 *://*.dailydownloaded.com/*
@@ -255,6 +270,7 @@
 *://gloture.jp/*
 *://goocho.jp/*
 *://gori.me/*
+*://gourmet-note.jp/*
 *://goworkship.com/*
 *://*.gpoint.co.jp/*
 *://gpoint.co.jp/*
@@ -262,8 +278,8 @@
 *://gyutan.chu.jp/*
 
 !# 乞食-H
-*://heim.jp/*
 *://happyeiga.com/*
+*://heim.jp/*
 *://hm-hm.net/*
 *://htraeevas.hatenablog.com/*
 *://how-old.info/*
@@ -331,6 +347,7 @@
 !# 乞食-P
 *://panchira.tokyo/*
 *://pcmacstore.com/*
+*://phexcel.work/*
 *://photo-album.blog.jp/*
 *://*.play-azlabs.com/*
 *://*.pointag.asia/*
@@ -375,6 +392,7 @@
 !# 乞食-U
 *://*.uninstallmacapp.com/*
 *://*.updatestar.com/*
+*://*.uptodown.com/*
 *://*.usoko.net/*
 *://usoko.net/*
 
@@ -386,6 +404,9 @@
 *://*.wizcase.com/*
 *://*.wonderhowto.com/*
 *://*.writemyessay24h.net/*
+
+!# 乞食-X
+*://xn--mprwb863iczq.com/*
 
 !# 乞食-Y
 *://yamauto.jp/*
@@ -411,6 +432,7 @@
 *://counter-attaaack.net/*
 *://cura-prodest.com/*
 *://cutthecorner.net/*
+*://demimen.jp/*
 *://*.diskdig.com/*
 *://eigobu.jp/*
 *://eritokyo.jp/*
@@ -433,6 +455,7 @@
 *://*.otsukaresama-deshita.com/*
 *://otsukaresama-deshita.com/*
 *://r25.jp/*
+*://rapt-plusalpha.com/*
 *://rikupsycho.hatenablog.com/*
 *://*.rui.jp/*
 *://scary-story.net/*
@@ -470,7 +493,7 @@
 !# クソUI
 *://*.cheerup.jp/*
 
-!# 再配信
+!# 他人の褌で飯が旨い
 *://ceron.jp/*
 *://news.infoseek.co.jp/*
 *://news.line.me/*
@@ -484,6 +507,9 @@
 *://*.twipple.jp/*
 *://news.biglobe.ne.jp/*
 *://www.msn.com/*
+
+!# インターネッツストーカー over 16
+*://*.hatenadiary.jp/*
 
 !# Wikipedia copy and paste
 *://mairi.me/*
@@ -504,6 +530,7 @@
 *://b.hatena.ne.jp/*
 *://bbs.kakaku.com/*
 *://*.nicovideo.jp/*
+*://*.pinterest.com/*
 *://*.yourpedia.org/*
 
 !# 完全なる好み
