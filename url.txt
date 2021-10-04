@@ -182,6 +182,7 @@
 *://chelra-note.com/*
 *://chenmamablog.com/*
 *://cherish-media.jp/*
+*://chitokarajoshi.com/*
 *://blog.chhs.ca.gov/*
 *://chomanga.org/*
 *://chops.chips.jp/*
@@ -225,6 +226,7 @@
 *://de-baystars.doorblog.jp/*
 *://decopachi.com/*
 *://delaidback.com/*
+*://demimen.jp/*
 *://*.den-gaku.net/*
 *://den-gaku.net/*
 *://detail-news.com/*
@@ -252,6 +254,7 @@
 
 !# E
 *://e-news67.com/*
+*://s-sele.com/*
 *://earsoku.com/*
 *://ebitsu.net/*
 *://ebookcrossroads.com/*
@@ -579,6 +582,7 @@
 *://kuniokundodge.com/*
 *://kurara-blog.com/*
 *://kyocoloco.com/*
+*://kyoto-doramakan.jp/*
 *://kyousoku.net/*
 *://kyoyym19.com/*
 *://kyun2-girls.com/*
@@ -913,6 +917,7 @@
 *://rastaneko-blog.com/*
 *://ravex.jp/*
 *://blog.livedoor.jp/rbkyn844/*
+*://re-sho.com/*
 *://rebeauty.love/*
 *://reco-link.com/*
 *://recommend-travel.com/*
@@ -1040,6 +1045,7 @@
 *://sugaropenarea.com/*
 *://suimin.biz/*
 *://suki-kira.com/*
+*://sukimafull.com/*
 *://sumahogame.net/*
 *://sumaholife.biz/*
 *://summer-century.com/*
@@ -1265,6 +1271,7 @@
 *://yukiaffili.com/*
 *://yukirinhappy.com/*
 *://yukoblog.net/*
+*://yularihappysmile.com/*
 *://yumeijinhensachi.com/*
 *://yumemiru.click/*
 *://yume-miru-blog.com/*
