@@ -103,6 +103,7 @@
 *://artroot.jp/*
 *://arxs-pic08022018.com/*
 *://asahi-e.net/*
+*://asahi-prime.com/*
 *://asahirubannimo.com/*
 *://asanonblog.com/*
 *://asitanokakehasi.blog.ss-blog.jp/*
@@ -363,6 +364,7 @@
 *://girlschannel.net/*
 *://girlshour.net/*
 *://girlynews.net/*
+*://give-a-shot2020.com/*
 *://glasses.daiiblog.com/*
 *://glen-air.com/*
 *://blog.livedoor.jp/goldennews/*
@@ -377,6 +379,7 @@
 *://*.grade.tokyo/*
 *://grade.tokyo/*
 *://gremlins-ichigo.com/*
+*://*.growthology.org/*
 *://gruzovoe-taksi.com/*
 *://gundam-antenna.net/*
 *://gundamlog.com/*
@@ -393,6 +396,7 @@
 *://hachiojimusashino.com/*
 *://hageiwashi.com/*
 *://hagemarugt.com/*
+*://hajime10manabu.info/*
 *://hamame.xyz/*
 *://hameets.com/*
 *://hamusoku.com/*
@@ -671,11 +675,13 @@
 *://maroup.net/*
 *://marublog.biz/*
 *://marucure-picks.com/*
+*://masaiian.com/*
 *://masamurai.com/*
 *://matome.eternalcollegest.com/*
 *://materials-edge.net/*
 *://mato-news.com/*
 *://matomeijin.com/*
+*://matomame.jp/*
 *://matomate.jp/*
 *://matome-new.com/*
 *://matome-zzz.com/*
@@ -715,6 +721,8 @@
 *://miyatarou.com/*
 *://mizharu.com/*
 *://mo-mo-town.com/*
+*://moccosnoon.com/*
+*://moccosnoon.tumblr.com/*
 *://mokomoko30.com/*
 *://molulabo.com/*
 *://momonjin.com/*
@@ -883,6 +891,7 @@
 *://parupunte-life.com/*
 *://parusoku.com/*
 *://pathtimeblog.com/*
+*://pecopeco0721.com/*
 *://*.pedia-jp.com/*
 *://penguinblog.net/*
 *://pentanews.net/*
@@ -893,6 +902,7 @@
 *://piano-when-music.com/*
 *://pica-lifedesigner.com/*
 *://piccolo-net.com/*
+*://pillowycafe.com/*
 *://*.pimmsofficial.com/*
 *://pimmsofficial.com/*
 *://pink-almond.com/*
@@ -1075,6 +1085,7 @@
 *://sunshine4424.com/*
 *://suntoranosuke.com/*
 *://sutakorasacchan.com/*
+*://suu0305.com/*
 *://svgfire.com/*
 *://switchsoku.com/*
 *://syokutaku-annai.com/*
