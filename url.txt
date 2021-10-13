@@ -1178,6 +1178,7 @@
 *://ujijijitorend.com/*
 *://ukilakuy.com/*
 *://ultchan.com/*
+*://*.ume-jiten.com/*
 *://under-the-veil.jp/*
 *://upu0.info/*
 *://*.uranai3.com/*
