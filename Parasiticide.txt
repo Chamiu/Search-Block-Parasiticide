@@ -297,6 +297,7 @@
 *://gyutan.chu.jp/*
 
 !# 乞食-H
+*://hajipro.com/*
 *://happyeiga.com/*
 *://heim.jp/*
 *://hm-hm.net/*
@@ -388,6 +389,7 @@
 *://sakidori.co/*
 *://sec-sim.com/*
 *://securitysoft.asia/*
+*://*.sejuku.net/*
 *://shoiblog.com/*
 *://*.slant.co/*
 *://smartio.life/*
