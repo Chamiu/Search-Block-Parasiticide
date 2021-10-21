@@ -219,6 +219,7 @@
 
 !# D
 *://d-ri.com/*
+*://daddys-life.com/*
 *://*.daigakuco.jp/*
 *://daigakuco.jp/*
 *://daigakuikungo.com/*
@@ -348,6 +349,7 @@
 *://*.geinou-research555.com/*
 *://geinou-research555.com/*
 *://geinou-resistance.info/*
+*://geinoueroch.com/archives/*
 *://geinoukame.blog.fc2.com/*
 *://geinounewstorenndo.blog.ss-blog.jp/*
 *://geinouninzin.net/*
@@ -1085,6 +1087,7 @@
 *://sunshine4424.com/*
 *://suntoranosuke.com/*
 *://sutakorasacchan.com/*
+*://studynews.jp/*
 *://suu0305.com/*
 *://svgfire.com/*
 *://switchsoku.com/*
@@ -1275,6 +1278,7 @@
 *://yakudati365.com/*
 *://yamaitachi.com/*
 *://yamatemama.com/*
+*://yamerugendai.com/*
 *://yancane-shukatsu.com/*
 *://yaraon-blog.com/*
 *://yellowpage01.com/*
