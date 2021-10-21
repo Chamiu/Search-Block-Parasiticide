@@ -331,6 +331,7 @@
 *://kuraneo.jp/*
 
 !# 乞食-L
+*://later-life.jp/*
 *://*.lifehacker.jp/*
 *://link-man.net/*
 *://love-guava.com/*
@@ -596,6 +597,7 @@
 *://mato.media/*
 *://news.nifty.com/*
 *://*.pinterest\.(com|jp)/*
+*://cont.t-com.ne.jp/*
 *://news.yahoo.co.jp/*
 
 !# インターネッツストーカー over 16
