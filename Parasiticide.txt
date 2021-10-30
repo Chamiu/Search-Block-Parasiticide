@@ -340,6 +340,7 @@
 *://macappstore.org/*
 *://*.macbed.com/*
 *://*.maketecheasier.com/*
+*://*.makeuseof.com/*
 *://*.malavida.com/*
 *://malavida.com/*
 *://*.mentdis.asia/*
@@ -370,6 +371,7 @@
 !# 乞食-P
 *://panchira.tokyo/*
 *://pcmacstore.com/*
+*://petokoto.com/*
 *://phexcel.work/*
 *://photo-album.blog.jp/*
 *://*.play-azlabs.com/*
@@ -393,6 +395,7 @@
 *://*.sejuku.net/*
 *://shoiblog.com/*
 *://*.slant.co/*
+*://smap25years.com/*
 *://smartio.life/*
 *://softantenna.com/*
 *://*.softpedia.com/*
@@ -516,6 +519,7 @@
 *://otsukaresama-deshita.com/*
 
 !# ガセ-P
+*://potesara.work/*
 *://piyoemon.com/*
 
 !# ガセ-R
@@ -585,19 +589,29 @@
 !# 他人の褌で飯が旨い
 *://news.biglobe.ne.jp/*
 *://ceron.jp/*
+*://create-navi.info/*
+*://discover-lab.info/*
 *://topics.smt.docomo.ne.jp/*
+*://news.fresheye.com/*
 *://news.guideme.jp/*
 *://headtopics.com/*
 *://news.infoseek.co.jp/*
+*://kadenk.com/*
 *://news.line.me/*
 *://news.livedoor.com/*
+*://newstweet.jp/*
 *://news.mynavi.jp/*
 *://www.msn.com/*
 *://*.mato.media/*
 *://mato.media/*
+*://newstopics.jp/*
 *://news.nifty.com/*
 *://*.pinterest\.(com|jp)/*
 *://cont.t-com.ne.jp/*
+<<<<<<< HEAD
+*://topics24.jp/*
+=======
+>>>>>>> 8d7d723229012d0cadd7f333d1453a027ff8417a
 *://news.yahoo.co.jp/*
 
 !# インターネッツストーカー over 16
@@ -624,7 +638,6 @@
 *://b.hatena.ne.jp/*
 *://bbs.kakaku.com/*
 *://*.nicovideo.jp/*
-*://*.pinterest.com/*
 *://*.yourpedia.org/*
 
 !# 完全なる好み
@@ -643,7 +656,8 @@
 *://namaeuranai.biz/*
 *://note.com/*
 *://pc-karuma.net/*
-*://*.rakuten\.(co|ne).jp/*
+*://*.rakuten.co.jp/*
+*://*.rakuten.ne.jp/*
 *://*.syosetu.com/*
 *://syosetu.com/*
 *://togetter.com/*
