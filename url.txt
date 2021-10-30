@@ -40,37 +40,52 @@
 *://818-news-blog.com/*
 *://8mato.jp/*
 
-!# A
+!# A*
 *://a-genzai.com/*
 *://a711.work/*
 *://aaanews.net/*
+
+!# AB
 *://abc84179.com/*
+
+!# AD
 *://advansteadily2310.com/*
+
+!# AF
 *://affiliatequest0004.xyz/*
+
+!# AG
 *://*.agronet.jp/*
 *://agronet.jp/*
+
+!# AI
 *://aidoly.net/*
 *://aikru.com/*
 *://aikuwabaratrio.com/*
 *://blog.livedoor.jp/ainbekker-news2/*
 *://airlinehonpo.blog.fc2.com/*
 *://aistageup777.com/*
+
+!# AK
 *://akasann.biz/*
 *://*.akiko-no-blog.com/*
 *://akiko-no-blog.com/*
 *://akitakaoru.com/*
 *://aki-test.com/*
+
+!# AL
 *://albblo.com/*
 *://alfalfalfa.com/*
 *://alpaca1115.xyz/*
 *://alrescha.work/*
+
+!# AM
 *://amaebi.co/*
 *://amaitime.com/*
 *://amaneku.blog.jp/*
-*://ameblo.jp/direscare/*
-*://ameblo.jp/moju0304/*
-*://ameblo.jp/unarigoe/*
 *://blog.livedoor.jp/amenimomakezu_/*
+
+!# AN
 *://anaenta.com/*
 *://anincline.com/*
 *://anohito-genzai.com/*
@@ -84,40 +99,59 @@
 *://anogate.jp/*
 *://anohito.xyz/*
 *://anttest.warotamaker.com/*
+
+!# AO
 *://aoiro5.com/*
 *://aokiin.com/*
 *://aoteen.net/*
+
+!# AP
 *://apceee.net/*
 *://apokuso.com/*
 *://app-sin.com/*
 *://applech2.com/*
 *://appleslide.com/*
 *://aprico-media.com/*
+
+!# AR
 *://arafokonashi.hatenablog.com/*
 *://araou.jp/*
 *://arasa-mama.com/*
+*://arecorelog.com/*
 *://arincoroom.com/*
 *://armybeginner.web.fc2.com/*
 *://aroundfortylife.net/*
 *://around-topics.net/*
 *://artroot.jp/*
 *://arxs-pic08022018.com/*
+
+!# AS
 *://asahi-e.net/*
 *://asahi-prime.com/*
 *://asahirubannimo.com/*
 *://asanonblog.com/*
 *://asitanokakehasi.blog.ss-blog.jp/*
 *://*.asyura2.com/*
+
+!# AT
 *://athlete-information.com/*
 *://atsumarehomogakinomori.com/*
+
+!# AU
 *://aurora-aurum.com/*
+
+!# AW
 *://awareliving.net/*
 *://awazu-gh.jp/*
+
+!# AY
 *://ayabohappy.com/*
 *://*.aya-chanchan.com/*
 *://aya-chanchan.com/*
 *://ayairodoriblog.com/*
 *://ayurvedasociety.com/*
+
+!# AZ
 *://az-knowledge.com/*
 *://az-news.blog.jp/*
 *://azukimama.com/*
@@ -249,6 +283,7 @@
 *://*.digitalsojourn.org/*
 *://digitalsojourn.org/*
 *://digtopi.com/*
+*://ameblo.jp/direscare/*
 *://blog.livedoor.jp/dqnplus/*
 *://dolomitilive.net/*
 *://doragonets.com/*
@@ -343,6 +378,7 @@
 *://gamerconsul.com/*
 *://ganbarinote.net/*
 *://ganbariyasan.com/*
+*://gazousukie.net/*
 *://geektushin.com/*
 *://geino-taro.com/*
 *://geinou-now.net/*
@@ -390,7 +426,7 @@
 *://guriguri.xyz/*
 *://gvonne.com/*
 
-!# H
+!# HA
 *://ha-navi.com/*
 *://*.hachi8.me/*
 *://hachi8.me/*
@@ -421,16 +457,23 @@
 *://haru-journal.com/*
 *://harurino.com/*
 *://hayarimono.tokyo/*
+
+!# HD
 *://hdydfy.com/*
+
+!# HE
 *://*.hellopyeongchang.com/*
 *://hellopyeongchang.com/*
 *://helpcurenow.org/*
 *://healthy-life-blog.com/*
+
+!# HI
 *://hibikakeru.com/*
 *://hibiomo.com/*
 *://hidekun-blog.com/*
 *://hideyoshi123.com/*
 *://hien-rt.net/*
+*://hikari-iyashi.com/*
 *://himaotanews.com/*
 *://himmel-ellipse.com/*
 *://hinachoice.com/*
@@ -446,6 +489,8 @@
 *://history-men.com/*
 *://hitoshitorendo.blog.ss-blog.jp/*
 *://hituzinokegari.com/*
+
+!# HO
 *://ho4ta3.com/*
 *://holakikou.com/*
 *://holosoku.com/*
@@ -457,6 +502,8 @@
 *://*.horigiri.net/*
 *://hosyusokuhou.jp/*
 *://hotword-coolword.com/*
+
+!# HU
 *://hughug55.com/*
 *://hunter-log.com/*
 
@@ -515,6 +562,7 @@
 *://joshiana.(site|com)/*
 *://joukyunews.com/*
 *://journallimited.com/*
+*://joyuu-media.com/*
 *://jufusion.com/*
 *://junabroadinfo.com/*
 *://justnews.jp/*
@@ -725,6 +773,7 @@
 *://mo-mo-town.com/*
 *://moccosnoon.com/*
 *://moccosnoon.tumblr.com/*
+*://ameblo.jp/moju0304/*
 *://mokomoko30.com/*
 *://molulabo.com/*
 *://momonjin.com/*
@@ -876,6 +925,7 @@
 *://oricoma.com/*
 *://orusoku.com/*
 *://osarai-media.net/*
+*://osawagase.com/*
 *://oshibtn.com/*
 *://otameshivip.com/*
 *://otyobolife.com/*
@@ -963,6 +1013,7 @@
 *://reon0912.com/*
 *://reserve111.com/*
 *://restarean.com/*
+*://resumedia.jp/*
 *://rhiliy.com/*
 *://richness4.com/*
 *://ridequest.jp/*
@@ -1098,7 +1149,7 @@
 *://syouheinouhau.daa.jp/*
 *://syufunotie.com/*
 
-!# T
+!# TA
 *://ta-see.com/*
 *://taakkk.com/*
 *://takahide.net/*
@@ -1115,10 +1166,18 @@
 *://tanukinews.com/*
 *://tarou2525.com/*
 *://tatutt47.xsrv.jp/*
+
+!# TB
 *://tbe4wh.ddns.us/*
+
+!# TD
 *://tdyt11311131.com/*
+
+!# TE
 *://teikyo-mck.com/*
 *://textlog.oroti.net/*
+
+!# TH
 *://thailandw.info/*
 *://thainiikitai.com/*
 *://thankyoujudy.com/*
@@ -1126,8 +1185,14 @@
 *://thedieiscast4.com/*
 *://theblacklinebylauren.com/*
 *://thenewspost.net/*
+
+!# TI
 *://time-punch.com/*
+
+!# TK
 *://tktktakunet.com/*
+
+!# TO
 *://tokiryo.net/*
 *://toko-blog.com/*
 *://toku-shin.net/*
@@ -1145,6 +1210,8 @@
 *://toretateblog.com/*
 *://toushichannel.net/*
 *://toyota-phv.jp/*
+
+!# TR
 *://traditionaliconography.com/*
 *://tremaindkon.net/*
 *://trend-express.net/*
@@ -1152,25 +1219,36 @@
 *://trend-music.com/*
 *://trend-passion-life.com/*
 *://trend-rocks.com/*
-*://trendquest34.com/*
-*://trendroom5.com/*
 *://trend-usagi.com/*
+*://trendquest34.com/*
+*://trendnews9891.site/*
+*://trendroom5.com/*
 *://trendy15.info/*
 *://trendynewss.xyz/*
 *://trendyossy.com/*
 *://trendytalking.com/*
 *://trigger-9.com/*
+
+!# TS
 *://tsubuchan.blog.jp/*
 *://tsuisoku.com/*
 *://tsuki-review.com/*
 *://tsurumatsu-shoten.com/*
 *://tsuruniha.com/*
+
+!# TU
 *://tuberz.net/*
 *://turu36.com/*
 *://tuttataka.com/*
 *://tuuburo001.com/*
+
+!# TV
 *://tv-rider.jp/*
+
+!# TW
 *://twintailsokuhou.blog.jp/*
+
+!# TW
 *://twun61.com/*
 
 !# U
@@ -1182,6 +1260,7 @@
 *://ukilakuy.com/*
 *://ultchan.com/*
 *://*.ume-jiten.com/*
+*://ameblo.jp/unarigoe/*
 *://under-the-veil.jp/*
 *://upu0.info/*
 *://*.uranai3.com/*
@@ -1231,6 +1310,7 @@
 *://waraiki.com/*
 *://waranote.livedoor.biz/*
 *://warikini-topic.jp/*
+*://warotanikki.com/*
 *://warsuksdo.com/*
 *://*.watch2chan.com/*
 *://watch2chan.com/*
