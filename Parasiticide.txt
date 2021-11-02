@@ -52,6 +52,7 @@
 *://solar-lab.jp/*
 *://trade.netgame-rmt.jp/*
 *://xn--pcksd1bza2ae0c0qse.jp/*
+*://xn----xeutb1bza2am.jp/*
 *://yogacondavidgiri.es/*
 
 !# ステマ屋
@@ -66,7 +67,7 @@
 !# 中国制造的山寨软件(Chinese Copycat Software)
 *://*.4videosoft.jp/*
 *://*.aimersoft.com/*
-*://*.aiseesoft\.(jp|com)/*
+*://*.aiseesoft.jp/*
 *://*.anvsoftt\.*/*
 *://*.any-video-converter.com/*
 *://*.any-dvd-converter.com/*
@@ -91,7 +92,8 @@
 *://iboysoft.com/*
 *://*.imobie.jp/*
 *://*.imyfone.com/*
-*://*.iskysoft\.(jp|com)/*
+*://*.iskysoft.jp/*
+*://*.iskysoft.com/*
 *://*.leawo.org/*
 *://*.macbookdatarecovery.org/*
 *://*.macxdvd.com/*
@@ -106,13 +108,15 @@
 *://*.remosoftware.com/*
 *://*.reneelab.jp/*
 *://*.stellarinfo.com/*
-*://*.tenorshare\.(jp|com)/*
+*://*.tenorshare.jp/*
+*://*.tenorshare.com/*
 *://*.tunefab.jp/*
 *://*.videoconverterfactory.com/*
 *://*.videoproc.com/*
 *://*.vidmore.com/*
 *://*.winxdvd.com/*
-*://*.wondershare\.(jp|com)/*
+*://*.wondershare.jp/*
+*://*.wondershare.com/*
 *://*.xmlbar.net/*
 
 !# 销售中国制造的山寨软件(seller of Chinese Copycat Software)
@@ -226,6 +230,7 @@
 *://*.bitsrc.io/*
 *://bitwave.showcase-tv.com/*
 *://*.biz.id/*
+*://botanica-media.jp/*
 *://bpkfp38qxf.wiki2.jp/*
 *://*.business2community.com/*
 *://buzzmac.jp/*
@@ -338,6 +343,7 @@
 
 !# 乞食-M
 *://macappstore.org/*
+*://macaro-ni.jp/*
 *://*.macbed.com/*
 *://*.maketecheasier.com/*
 *://*.makeuseof.com/*
@@ -345,6 +351,8 @@
 *://malavida.com/*
 *://*.mentdis.asia/*
 *://mentdis.asia/*
+*://*.miyamatakeru.com/*
+*://miyamatakeru.com/*
 *://moemoematome.net/*
 *://monomania.sblo.jp/*
 *://monoreco.ameba.jp/*
@@ -394,6 +402,7 @@
 *://securitysoft.asia/*
 *://*.sejuku.net/*
 *://shoiblog.com/*
+*://shoppingosusume.com/*
 *://*.slant.co/*
 *://smap25years.com/*
 *://smartio.life/*
@@ -447,6 +456,7 @@
 *://yuyujiteki.site/*
 
 !# 乞食-Z
+*://zattapo.com/*
 *://zasssafety.com/*
 
 !# ガセ-A
@@ -485,6 +495,7 @@
 
 !# ガセ-G
 *://globo-site.com/*
+*://goassetmanage.net/*
 *://gogen-yurai.jp/*
 
 !# ガセ-H
@@ -502,6 +513,8 @@
 *://blog.goo.ne.jp/kimito39/*
 *://kisetsumimiyori.com/*
 *://koiy.hatenadiary.jp/*
+*://*.koregasiritai.com/*
+*://koregasiritai.com/*
 
 !# ガセ-L
 *://leisurego.jp/*
@@ -608,13 +621,11 @@
 *://news.nifty.com/*
 *://*.pinterest\.(com|jp)/*
 *://cont.t-com.ne.jp/*
-<<<<<<< HEAD
 *://topics24.jp/*
-=======
->>>>>>> 8d7d723229012d0cadd7f333d1453a027ff8417a
 *://news.yahoo.co.jp/*
 
 !# インターネッツストーカー over 16
+*://box.com/*
 *://*.hatenadiary.jp/*
 
 !# Wikipedia copy and paste
@@ -658,8 +669,10 @@
 *://pc-karuma.net/*
 *://*.rakuten.co.jp/*
 *://*.rakuten.ne.jp/*
+*://*.rakuten-search.com/*
 *://*.syosetu.com/*
 *://syosetu.com/*
+*://*.tiktok.com/*
 *://togetter.com/*
 *://*.trendmicro.com/*
 *://*.vector.co.jp/*
