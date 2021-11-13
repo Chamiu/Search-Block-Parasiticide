@@ -195,6 +195,7 @@
 *://bororon.doorblog.jp/*
 *://boshi-hawaii.com/*
 *://brandnew-s.com/*
+*://bungu-uranai.com/*
 *://bunkumo99.com/*
 *://burusoku-vip.com/*
 *://buzz-notice.com/*
@@ -260,6 +261,7 @@
 *://cinesoku.net/*
 
 ## CL
+*://clapg.ldblog.jp/*
 *://clearsky01.com/*
 
 ## CM
@@ -366,10 +368,12 @@
 *://entaentaenta.com/*
 *://entame000ss.seesaa.net/*
 *://entamescramble.com/*
+*://entametimes.com/*
 *://entamix777.com/*
 *://entertainment-days.com/*
 *://entertainment-topics.jp/*
 *://epicmaterialdays.com/*
+*://ero-koen.com/*
 *://*.esuteru.com/*
 *://esuteru.com/*
 *://eraption.com/*
@@ -448,6 +452,7 @@
 *://geinoueroch.com/archives/*
 *://geinoujin-info.com/*
 *://geinoukame.blog.fc2.com/*
+*://geinoukame.com/*
 *://geinounewstorenndo.blog.ss-blog.jp/*
 *://geinouninzin.net/*
 *://geisposoul.com/*
@@ -499,6 +504,7 @@
 *://gundam-antenna.net/*
 *://gundamlog.com/*
 *://gunpla-news24.info/*
+*://guraburu.info/*
 *://gurigetfree.com/*
 *://guriguri.xyz/*
 
@@ -584,6 +590,7 @@
 *://honjitu.net/*
 *://honki.ldblog.jp/*
 *://honne-channel.com/*
+*://hons.blog.jp/*
 *://honsoku.com/*
 *://*.horigiri.net/*
 *://hosyusokuhou.jp/*
@@ -603,6 +610,7 @@
 *://ikuji-funtouki.com/*
 *://ikumen-smile.com/*
 *://ima-coco369.com/*
+*://imageadvertisingec.blogspot.com/*
 *://imaginary.red/*
 *://imasoku.com/*
 *://imasugunews.com/*
@@ -758,6 +766,7 @@
 *://kujira-movie.com/*
 *://kuniokundodge.com/*
 *://kurara-blog.com/*
+*://kuri810.com/*
 
 ## KY
 *://kyocoloco.com/*
@@ -1125,6 +1134,8 @@
 *://pipi1211.com/*
 *://*.planetpixmedia.com/*
 *://planetpixmedia.com/*
+*://*.po-kaki-to.com/*
+*://po-kaki-to.com/*
 *://blog.livedoor.jp/pocketcamp/*
 *://pochisoku.net/*
 *://pocop0c0.blog.fc2.com/*
@@ -1430,6 +1441,7 @@
 *://torasan1.com/*
 *://torendosokuhou.com/*
 *://toreosa.green/*
+*://toresube.com/*
 *://toretateblog.com/*
 *://touseikan.com/*
 *://toushichannel.net/*
