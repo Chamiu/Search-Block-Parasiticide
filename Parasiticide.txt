@@ -47,6 +47,7 @@
 *://gitfinder.xyz/*
 *://happymail.co.jp/*
 *://happymlm888.com/*
+*://infojoho.org/*
 *://korekaradesu.com/*
 *://*.ladylibertybrands.com/*
 *://ladylibertybrands.com/*
@@ -167,6 +168,20 @@
 *://shenzhenaudio.jp/*
 *://*.sunnews.site/*
 
+# RMT
+*://ff11account.blog109.fc2.com/*
+*://*.gamemoney.cc/*
+*://gamemoney.cc/*
+*://*.gameplanet.jp/*
+*://gameplanet.jp/*
+*://gametrade.jp/*
+*://*.iimy.co.jp/*
+*://iimy.co.jp/*
+*://*.itemdepot.jp/*
+*://itemdepot.jp/*
+*://rmt.club/*
+*://rmtinc.jp/*
+
 # spamdexing
 *://3p9417.ddns.us/*
 *://adviserbest.com/*
@@ -179,6 +194,7 @@
 *://copin-cp.com/*
 *://cycling.org.sg/*
 *://datanews.chhs.ca.gov/*
+*://dunder.ns01.info/*
 *://e-living.info/*
 *://emergencysolutions4u.com/*
 *://etymology-encyclopedia.com/*
@@ -204,6 +220,7 @@
 *://raviatowen-conseil.fr/*
 *://rittencalculator.tnls.nl/*
 *://samex.jp/*
+*://sagerdz.blogspot.com/*
 *://zatsugaku-mystery.com/*
 *://xn--4dkp5a8a5264a48k.com/*
 
@@ -446,6 +463,8 @@
 
 ## 乞食-T
 *://taccuma.com/*
+*://*.tadamonkugaiitakute.com/*
+*://tadamonkugaiitakute.com/*
 *://takehisayuriko.tokyo/*
 *://techigem.com/*
 *://*.tecmint.com/*
@@ -527,6 +546,7 @@
 
 ## ガセ-F
 *://furatel.club/*
+*://futoukou-consultant.com/*
 
 ## ガセ-G
 *://globo-site.com/*
@@ -650,6 +670,7 @@
 *://news.guideme.jp/*
 *://headtopics.com/*
 *://news.infoseek.co.jp/*
+*://*.jpg4.pw/*
 *://kadenk.com/*
 *://news.line.me/*
 *://news.livedoor.com/*
@@ -661,6 +682,7 @@
 *://newstopics.jp/*
 *://news.nifty.com/*
 *://*.pinterest.com/*
+*://*.pinterest.fr/*
 ://*.pinterest.jp/*
 *://cont.t-com.ne.jp/*
 *://*.thenews.ne.jp/*
@@ -704,18 +726,9 @@
 *://*.deviantart.com/*
 *://deviantart.com/*
 *://*.facebook.com/*
-*://ff11account.blog109.fc2.com/*
 *://filmest.jp/*
-*://*.gamemoney.cc/*
-*://gamemoney.cc/*
-*://*.gameplanet.jp/*
-*://gameplanet.jp/*
 *://*.goo.ne.jp/*
 *://books.google.co.jp/*
-*://*.iimy.co.jp/*
-*://iimy.co.jp/*
-*://*.itemdepot.jp/*
-*://itemdepot.jp/*
 *://*.mercari.com/*
 *://*.mixi.jp/*
 *://namaeuranai.biz/*
