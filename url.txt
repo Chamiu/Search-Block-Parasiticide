@@ -27,6 +27,7 @@
 *://3333.tokyo/*
 *://36kirakira.com/*
 *://38hana.com/*
+*://39funtime.net/*
 
 # 5
 *://55kengo.com/*
@@ -163,12 +164,14 @@
 *://azukimama.com/*
 
 # B
+*://b-and-s.info/*
 *://b-aro50.com/*
+*://b-and-s.info/*
 *://bad-labo.com/*
 *://badvugum.com/*
+*://baikalhostels.com/*
 *://bakusokunews.com/*
 *://banbi-eye.com/*
-*://b-and-s.info/*
 *://baneyann.com/*
 *://barutosuserver.com/*
 *://bbhylife.com/*
@@ -233,6 +236,7 @@
 *://celeby-media.net/*
 
 ## CH
+*://chagamaru.com/*
 *://chaifafa.com/*
 *://*.chaki9.com/*
 *://chaki9.com/*
@@ -241,6 +245,7 @@
 *://chekko-8692.com/*
 *://chelra-note.com/*
 *://chenmamablog.com/*
+*://cherio199.blog120.fc2.com/*
 *://cherish-media.jp/*
 *://chihanote.com/*
 *://chikuchiku0728.com/*
@@ -298,8 +303,11 @@
 ## CY
 *://cyoppaya.com/*
 
-# D
+# D 2021.12.07 分割 +14
+## D*
 *://d-ri.com/*
+
+## DA
 *://daddys-life.com/*
 *://*.daigakuco.jp/*
 *://daigakuco.jp/*
@@ -308,14 +316,18 @@
 *://daiki-global.work/*
 *://daily-necessities.net/*
 *://daily-trendy.com/*
+*://diary.ponkichi01.com/*
 *://dailynews24.jp/*
 *://dailytaurus.co/*
 *://dannadaisuki.com/*
 *://danpei.blog.ss-blog.jp/*
 *://daydollarbotch.hatenablog.com/*
 *://dayslabo.com/*
+
+## DE
 *://de-baystars.doorblog.jp/*
 *://deai-wakare.tokyo/*
+*://deainu.livedoor.blog/*
 *://decopachi.com/*
 *://delaidback.com/*
 *://demimen.jp/*
@@ -324,23 +336,30 @@
 *://denden6464.com/*
 *://detail-news.com/*
 *://dethein.net/*
-*://daily-trendy.com/*
-*://diary.ponkichi01.com/*
+
+## DI
 *://dibablog.net/*
 *://diddlediddle.net/*
 *://*.digitalsojourn.org/*
 *://digitalsojourn.org/*
 *://digtopi.com/*
 *://ameblo.jp/direscare/*
-*://blog.livedoor.jp/dqnplus/*
+
+## DO
 *://dococore.com/*
 *://dolomitilive.net/*
 *://doragonets.com/*
 *://dorama-netabare.com/*
 *://dott.link/*
 *://dougalove2.com/*
+
+## DQ
+*://blog.livedoor.jp/dqnplus/*
+
+## DR
 *://drama-blog.net/*
 *://dramaru.net/*
+*://drdinl.com/*
 *://*.dream-stage.jp/*
 *://dream-stage.jp/*
 *://dream04090129.biz/*
@@ -412,6 +431,7 @@
 *://free-humanlife23.com/*
 *://free-workstyle.com/*
 *://blog.livedoor.jp/foufif/*
+*://fufu.ame-plus.net/*
 *://fukuniko.com/*
 *://funfunfun-trendlabo.xyz/*
 *://funwayroad.com/*
@@ -427,7 +447,8 @@
 *://*.fw-movie.jp/*
 *://fw-movie.jp/*
 
-# G 2021.11.02 ２文字目まで分割 +9
+# G
+## G*
 *://g-matome.com/*
 
 ## GA
@@ -436,6 +457,8 @@
 *://*.gakusei-walker.jp/*
 *://gakusei-walker.jp/*
 *://galaxydesign.site/*
+*://game.tok2news.com/*
+*://game.videpost.org/*
 *://gamerconsul.com/*
 *://ganbarinote.net/*
 *://ganbariyasan.com/*
@@ -443,6 +466,7 @@
 *://gazousukie.net/*
 
 ## GE
+*://ge-soku.com/*
 *://geektushin.com/*
 *://geino-taro.com/*
 *://geinou-now.net/*
@@ -456,10 +480,11 @@
 *://geinounewstorenndo.blog.ss-blog.jp/*
 *://geinouninzin.net/*
 *://geisposoul.com/*
-*://genkimorizou.com/*
-*://genkimura.net/*
 *://*.gekiura.press/*
 *://gekiura.press/*
+*://genkimorizou.com/*
+*://genkimura.net/*
+*://gensenav.fun/*
 *://geronag.com/*
 *://geronhaita.com/*
 *://getnews.jp/*
@@ -512,6 +537,9 @@
 *://gvonne.com/*
 
 # H
+## H*
+*://h-mediaweb.com/*
+
 ## HA
 *://ha-navi.com/*
 *://*.hachi8.me/*
@@ -520,6 +548,7 @@
 *://hachiojimusashino.com/*
 *://hageiwashi.com/*
 *://hagemarugt.com/*
+*://hahaoya-gyo.com/*
 *://hajime10manabu.info/*
 *://hamame.xyz/*
 *://hameets.com/*
@@ -546,6 +575,7 @@
 *://harry-san.com/*
 *://haru-journal.com/*
 *://harurino.com/*
+*://haryu-korea.net/*
 *://hayarimono.tokyo/*
 *://hayawakari11.com/*
 
@@ -565,7 +595,10 @@
 *://hidekun-blog.com/*
 *://hideyoshi123.com/*
 *://hien-rt.net/*
+*://hijikisokuhou.doorblog.jp/*
 *://hikari-iyashi.com/*
+*://*.himablo.xyz/*
+*://himablo.xyz/*
 *://himaotanews.com/*
 *://himmel-ellipse.com/*
 *://hinachoice.com/*
@@ -632,6 +665,7 @@
 *://isidorus-ex-camera.com/*
 *://*.it-news-sokuhou.com/*
 *://it-toranoana.com/*
+*://itips.krsw.biz/*
 *://blog.livedoor.jp/itsoku/*
 *://itzmysnow.com/*
 *://ivest-part.com/*
@@ -764,6 +798,7 @@
 ## KU
 *://kubotayasan.com/*
 *://kujira-movie.com/*
+*://kini7run.livedoor.blog/*
 *://kuniokundodge.com/*
 *://kurara-blog.com/*
 *://kuri810.com/*
@@ -808,6 +843,7 @@
 *://logtube.jp/*
 *://love-all.jp/*
 *://blog.livedoor.jp/love120331/*
+*://lovely-a-library.com/*
 *://lovescenario.tokyo/*
 *://lovewagonblog.wordpress.com/*
 *://luckystar2010.com/*
@@ -817,7 +853,7 @@
 *://*.lvqbf.co/*
 *://lvqbf.co/*
 
-# M 2021.11.02 ２文字目まで分割 +9
+# M
 ## MA
 *://maboblog.com/*
 *://mabomabo00.com/*
@@ -850,8 +886,11 @@
 *://maroup.net/*
 *://marublog.biz/*
 *://marucure-picks.com/*
+*://marumohu.com/*
+*://marunikomiudon.com/*
 *://masaiian.com/*
 *://masamurai.com/*
+*://masatonoblog.com/*
 *://matome.eternalcollegest.com/*
 *://materials-edge.net/*
 *://mato-news.com/*
@@ -891,9 +930,11 @@
 *://min8.net/*
 *://minamina.net/*
 *://mindhack2ch.com/*
+*://minnanogt888.com/*
 *://miniborder.com/*
 *://miniminimiutat.com/*
 *://mira0502.com/*
+*://miraclemilk.blog.jp/*
 *://mirimari.net/*
 *://miruku.fun/*
 *://misaglobal.com/*
@@ -991,8 +1032,10 @@
 *://netgeek.biz/*
 *://netouyonews.net/*
 *://netsoku.com/*
+*://new-puzz.com/*
 *://newmatosoku.com/*
 *://newneta.work/*
+*://newpuru.doorblog.jp/*
 *://news-japan365.com/*
 *://news-news-news.net/*
 *://news-three-stars.net/*
@@ -1053,6 +1096,7 @@
 *://nsl-enter.com/*
 
 ## NU
+*://rubese.net/*
 *://nuinuhou.com/*
 *://nusa-bali.com/*
 
@@ -1107,13 +1151,21 @@
 *://oyakudachi2525.com/*
 *://oyakudatiinfo.com/*
 
-# P
+# P 2021.12.07 分割 +21
+## P*
 *://p-o-chitto.com/*
+
+## PA
 *://*.pacostech.com/*
 *://paradisefive.net/*
 *://parupunte-life.com/*
 *://parusoku.com/*
 *://pathtimeblog.com/*
+
+## PC
+*://pcci.jp/*
+
+## PE
 *://pecopeco0721.com/*
 *://*.pedia-jp.com/*
 *://penguinblog.net/*
@@ -1121,7 +1173,11 @@
 *://persimmonichinaru.com/*
 *://perspective.wp-x.jp/*
 *://petitwings.com/*
+
+## PH
 *://ph-fxss.jp/*
+
+## PI
 *://piano-when-music.com/*
 *://pica-lifedesigner.com/*
 *://piccolo-net.com/*
@@ -1132,8 +1188,12 @@
 *://pinky-honey.com/*
 *://pinky-media.jp/*
 *://pipi1211.com/*
+
+## PL
 *://*.planetpixmedia.com/*
 *://planetpixmedia.com/*
+
+## PO
 *://*.po-kaki-to.com/*
 *://po-kaki-to.com/*
 *://blog.livedoor.jp/pocketcamp/*
@@ -1151,10 +1211,17 @@
 *://post.more-gamer.com/*
 *://pouchs.jp/*
 *://powakitchen.site/*
+
+## PR
 *://pre-cinema.com/*
 *://precious.jp/*
+*://pormo.me/*
 *://proviamo.info/*
+
+## PS
 *://pswriter1129.com/*
+
+## PU
 *://puralog.com/*
 *://purulife.site/*
 
@@ -1188,6 +1255,7 @@
 *://replicas.jp/*
 *://reserve111.com/*
 *://restarean.com/*
+*://restren.com/*
 *://resumedia.jp/*
 *://rhiliy.com/*
 *://richness4.com/*
@@ -1214,11 +1282,12 @@
 *://ryusoku.com/*
 
 # S
-## SA 2021.11.02 ２文字目まで分割 +18
+## SA
 *://sa-ta-mi.com/*
 *://sabucaru.com/*
 *://sachiko-blog.com/*
 *://saeriho.com/*
+*://sag.tank.jp/*
 *://sai001.com/*
 *://sai2.info/*
 *://saisin-news.com/*
@@ -1253,12 +1322,14 @@
 *://seidentest.com/*
 *://seiyuu-voiceactor.com/*
 *://sekai-kawaru.com/*
+*://sexy-tweet.blog.jp/*
 *://sey-88.com/*
 
 ## SF
 *://sfgidf.blog.jp/*
 
 ## SH
+*://shadosoku.com/*
 *://sharelifestyle.info/*
 *://sheepdog-trend.com/*
 *://shiawaseninaritai.com/*
@@ -1378,6 +1449,7 @@
 ## TA
 *://ta-see.com/*
 *://taakkk.com/*
+*://taiyonoie-movie.jp/*
 *://takahide.net/*
 *://*.takamatsu-webmuseum.jp/*
 *://*.takashidesu.work/*
@@ -1460,6 +1532,7 @@
 *://trendnews9891.site/*
 *://trendroom5.com/*
 *://trendy15.info/*
+*://trendybaru.com/*
 *://trendynewss.xyz/*
 *://trendyossy.com/*
 *://trendytalking.com/*
@@ -1588,11 +1661,13 @@
 *://xn--y8jua2at4d.com/*
 *://xn--zck3adi4kpbxc7d2131c340f.jp/*
 *://xn--ziprar-h51mh64dd7d8xm.site/*
+*://*.xox-tokyo.jp/*
+*://xox-tokyo.jp/*
 *://xskriv.com/*
 *://xxxyuxxxka.com/*
 
 # Y
-## YA 2021.11.02 ２文字目まで分割 +4
+## YA
 *://yachilog.com/*
 *://yakudati365.com/*
 *://yamaitachi.com/*
@@ -1600,6 +1675,7 @@
 *://yamerugendai.com/*
 *://yancane-shukatsu.com/*
 *://yaraon-blog.com/*
+*://yaruman.blog.jp/*
 
 ## YE
 *://yellowpage01.com/*
@@ -1665,6 +1741,7 @@
 *://zakki-saito.com/*
 *://zatta-zakki555.com/*
 *://zaxtukiblog.com/*
+*://zch-vip.com/*
 *://ziro83.com/*
 *://zizineta.com/*
 *://zizineta-sokuho.com/*
