@@ -24,6 +24,7 @@
 # 機械翻訳
 *://*.affdu.com/*
 *://alternativesoft.info/*
+*://apple-teach.com/*
 *://askdev.io/*
 *://br.atsit.in/*
 *://cepe-eua.org/*
@@ -44,6 +45,7 @@
 *://aroma-ecru.com/*
 *://bajaoreilles.com/*
 *://ciernykvinnan.com/*
+*://cleanmymac.com/*
 *://gitfinder.xyz/*
 *://happymail.co.jp/*
 *://happymlm888.com/*
@@ -395,7 +397,8 @@
 *://*.makeuseof.com/*
 *://*.malavida.com/*
 *://malavida.com/*
-*://mamanurs.com/
+*://mamanurs.com/*
+*://mazenta0.blogspot.com/*
 *://*.mentdis.asia/*
 *://mentdis.asia/*
 *://*.miyamatakeru.com/*
@@ -460,6 +463,7 @@
 *://*.softpedia.com/*
 *://*.softoware.org/*
 *://*.stuklopechat.com/*
+*://supari.jp/*
 
 ## 乞食-T
 *://taccuma.com/*
@@ -595,6 +599,7 @@
 ## ガセ-R
 *://r25.jp/*
 *://rapt-plusalpha.com/*
+*://rekisiru.com/*
 *://richterminal.com/*
 *://rikupsycho.hatenablog.com/*
 *://*.rui.jp/*
@@ -606,6 +611,7 @@
 *://siraberuko.jp/*
 *://sisannotamago.com/*
 *://smartlog.jp/*
+*://spirit.aptty.com/*
 *://spiritual.syuji.com/*
 
 ## ガセ-T
