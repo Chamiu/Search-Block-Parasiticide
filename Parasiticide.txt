@@ -654,6 +654,7 @@
 *://daigo.jp/*
 *://daigoblog.jp/*
 *://daigovideolab.jp/*
+*://el.jibun.atmarkit.co.jp/*
 *://*.hasannews.org/*
 *://hasannews.org/*
 *://hoshutube.army.jp/*
