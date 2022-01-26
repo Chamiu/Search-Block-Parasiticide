@@ -1,17 +1,26 @@
 # VIRUS VIRUS VIRUS
+*://allmacworld.com/*
 *://anirobik.com/*
+*://chinesemix.com/*
 *://*.cubillookinside.co/*
 *://cubillookinside.co/*
+*://honestcareforkids.us/*
 *://imandarinpod.com/*
+*://jav19.analtube.info/*
+*://javdc.net/*
+*://javhdo.net/*
+*://javrav.com/*
 *://jigadorierogazou.blog.fc2.com/*
 *://kahucrossfit.com/*
 *://macuninstallguides.com/*
 *://*.medmalrx.com/*
+*://pornmoviesfull.com/*
 *://sadhanacircle.com/*
 *://topchineseporn.com/*
 *://topshippingja.com/*
 *://tratzsolucoes.com.br/*
 *://wangel.aioilight.space/*
+*://*.xero.porn/*
 *://zettai-ero.com/*
 
 # 教えて
@@ -28,13 +37,17 @@
 *://askdev.io/*
 *://br.atsit.in/*
 *://cepe-eua.org/*
-*://*.twittospia.com/*
 *://*.ditching.eu/*
 *://*.goodcloudstorage.net/*
+*://ja.ihowto.tips/*
+*://ja.istarapps.com/*
++://ja.joecomp.com/*
 *://*.mysterytribune.com/*
 *://*.narkive.jp/*
 *://*.partitionwizard.jp/*
 *://*.soydemac.com/ja/
+*://*.twittospia.com/*
+*://volsiz.ru/*
 *://*.vpnmentor.com/*
 *://*.websitehostingrating.com/*
 *://*.westerlystpiusxschool.org/*
@@ -56,6 +69,7 @@
 *://*.macbooster.net/*
 *://macbooster.net/*
 *://mackeeper.com/*
+*://macpaw.com/*
 *://networkbusiness-success.net/*
 *://nextag.web.fc2.com/*
 *://raworlnig7.over-blog.com/*
@@ -193,6 +207,8 @@
 *://*.atlanticcouncil.org/*
 *://*.nicasan.ru/*
 *://nicasan.ru/*
+*://*.cnkeejie.xyz/*
+*://cnkeejie.xyz/*
 *://copin-cp.com/*
 *://cycling.org.sg/*
 *://datanews.chhs.ca.gov/*
@@ -223,6 +239,7 @@
 *://rittencalculator.tnls.nl/*
 *://samex.jp/*
 *://sagerdz.blogspot.com/*
+*://voipnim.com/*
 *://zatsugaku-mystery.com/*
 *://xn--4dkp5a8a5264a48k.com/*
 
@@ -347,6 +364,7 @@
 
 ## 乞食-H
 *://hajipro.com/*
+*://hakobuliving.com/*
 *://happyeiga.com/*
 *://heim.jp/*
 *://hm-hm.net/*
@@ -388,6 +406,7 @@
 *://*.lifehacker.jp/*
 *://link-man.net/*
 *://love-guava.com/*
+*://lovetalk-info.com/*
 
 ## 乞食-M
 *://macappstore.org/*
@@ -408,6 +427,7 @@
 *://monoreco.ameba.jp/*
 *://motivation-up.com/*
 *://motifyublog.com/*
+*://mouhu.jp/*
 *://movie-funs.com/*
 *://moviesfan.sakura.ne.jp/*
 *://mupon.net/*
@@ -424,6 +444,7 @@
 *://ohitoritv.com/*
 *://okane-fueeru.com/*
 *://optom.typort.my.id/*
+*://oradata.net/*
 *://osxdaily.com/*
 *://outlay.info/*
 
@@ -450,6 +471,8 @@
 
 ## 乞食-S
 *://*.safetydetectives.com/*
+*://*.saito-miyu.com/*
+*://saito-miyu.com/*
 *://sakidori.co/*
 *://sec-sim.com/*
 *://securitysoft.asia/*
@@ -488,6 +511,7 @@
 *://*.uptodown.com/*
 *://*.usoko.net/*
 *://usoko.net/*
+*://utile-site.com/*
 
 ## 乞食-V
 *://*.value-press.com/*
@@ -541,6 +565,7 @@
 *://cutthecorner.net/*
 
 ## ガセ-D
+*://daiwaryu1121.com/*
 *://demimen.jp/*
 *://*.diskdig.com/*
 
@@ -600,6 +625,8 @@
 *://r25.jp/*
 *://rapt-plusalpha.com/*
 *://rekisiru.com/*
+*://*.rich-life58.com/*
+*://rich-life58.com/*
 *://richterminal.com/*
 *://rikupsycho.hatenablog.com/*
 *://*.rui.jp/*
@@ -664,8 +691,9 @@
 *://seiron-sankei.com/*
 *://*.wa-net.net/*
 
-# クソUI
+# クソUI(句読点が改行のガラパゴス書式を含む)
 *://*.cheerup.jp/*
+*://shufu-chie.com/*
 
 # 他人の褌で飯が旨い
 *://news.biglobe.ne.jp/*
