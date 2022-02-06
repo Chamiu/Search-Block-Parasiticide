@@ -1,6 +1,8 @@
 # VIRUS VIRUS VIRUS
 *://allmacworld.com/*
 *://anirobik.com/*
+*://*.carlostoriophoto.com/*
+*://carlostoriophoto.com/*
 *://chinesemix.com/*
 *://*.cubillookinside.co/*
 *://cubillookinside.co/*
@@ -14,6 +16,8 @@
 *://kahucrossfit.com/*
 *://macuninstallguides.com/*
 *://*.medmalrx.com/*
+*://*.pc-express-france.com/*
+*://pc-express-france.com/*
 *://pornmoviesfull.com/*
 *://sadhanacircle.com/*
 *://topchineseporn.com/*
@@ -243,7 +247,11 @@
 *://zatsugaku-mystery.com/*
 *://xn--4dkp5a8a5264a48k.com/*
 
-#乞食
+# link trap
+*://geinoueroch.com/*
+*://mtmx.jp/*
+
+# 乞食
 ## 乞食-数字
 *://*.1st-net.jp/*
 *://1wordworld.blog26.fc2.com/*
@@ -275,6 +283,7 @@
 *://apwork.asia/*
 *://arekore.app/*
 *://atsugiebina.hatenablog.com/*
+*://attain-grant.com/*
 *://ayblg.work/*
 
 ## 乞食-B
@@ -295,6 +304,7 @@
 ## 乞食-C
 *://*.card-shinsa.com/*
 *://card-shinsa.com/*
+*://caredeself.jp/*
 *://career-picks.com/*
 *://choice.jpn.org/*
 *://cinemazuki.com/*
@@ -330,7 +340,11 @@
 *://elog-ch.net/*
 *://japanese.engadget.com/*
 *://erodaioh.com/*
+*://erodouga-tairiku.com/*
 *://*.euromobil-japan.com/*
+*://euromobil-japan.com/*
+*://*.eropuru.com/*
+*://eropuru.com/*
 
 ## 乞食-F
 *://*.fenet.jp/*
@@ -446,6 +460,7 @@
 *://optom.typort.my.id/*
 *://oradata.net/*
 *://osxdaily.com/*
+*://otoko-life.com/*
 *://outlay.info/*
 
 ## 乞食-P
@@ -521,6 +536,7 @@
 *://webcatalog.app/*
 *://webhoric.com/*
 *://*.weebly.com/*
+*://wiseman-hiro.com/*
 *://*.wizcase.com/*
 *://*.wonderhowto.com/*
 *://*.writemyessay24h.net/*
@@ -533,6 +549,7 @@
 *://yaseibook.com/*
 *://yoh-suke-blog.com/*
 *://yomoyama-joho.com/*
+*://yutolist.com/*
 *://yuyujiteki.site/*
 
 ## 乞食-Z
@@ -540,6 +557,9 @@
 *://zasssafety.com/*
 
 # ガセ
+## 数字または記号 2022.02.06追加
+*://309mm.com/*
+
 ## ガセ-A
 *://akiko-counselingroom.com/*
 *://ancient.powf.net/*
@@ -606,6 +626,7 @@
 *://*.link-21.com/*
 
 ## ガセ-M
+*://meiyouwenti.net/*
 *://mobile-shuri.jp/*
 *://*.mylohas.net/*
 
@@ -694,6 +715,7 @@
 # クソUI(句読点が改行のガラパゴス書式を含む)
 *://*.cheerup.jp/*
 *://shufu-chie.com/*
+*://uraken-deai.com/*
 
 # 他人の褌で飯が旨い
 *://news.biglobe.ne.jp/*
@@ -716,7 +738,10 @@
 *://mato.media/*
 *://newstopics.jp/*
 *://news.nifty.com/*
+*://*.pinterest.co.kr/*
 *://*.pinterest.com/*
+*://*.pinterest.com.mx/*
+*://*.pinterest.es/*
 *://*.pinterest.fr/*
 ://*.pinterest.jp/*
 *://cont.t-com.ne.jp/*
