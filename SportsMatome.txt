@@ -1,0 +1,14 @@
+# スポーツまとめサイト for uBlacklist
+
+*://100wani-cafe.jp*
+*://break-place.net/*
+*://donguri-farm.jp/*
+*://*.figure-skating-life.com/*
+*://figure-skating-life.com/*
+*://figureskatejapan.com/*
+*://hos-ragby.com/*
+*://kohasaku-smile.com/*
+*://nonnon-t.com/*
+*://scramble-talk.com/*
+*://*.spocafe.jp/*
+*://spocafe.jp/*
