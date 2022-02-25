@@ -1,10 +1,8 @@
 # VIRUS VIRUS VIRUS
 *://allmacworld.com/*
 *://anirobik.com/*
-*://*.carlostoriophoto.com/*
 *://carlostoriophoto.com/*
 *://chinesemix.com/*
-*://*.cubillookinside.co/*
 *://cubillookinside.co/*
 *://honestcareforkids.us/*
 *://imandarinpod.com/*
@@ -15,8 +13,7 @@
 *://jigadorierogazou.blog.fc2.com/*
 *://kahucrossfit.com/*
 *://macuninstallguides.com/*
-*://*.medmalrx.com/*
-*://*.pc-express-france.com/*
+*://medmalrx.com/*
 *://pc-express-france.com/*
 *://pornmoviesfull.com/*
 *://sadhanacircle.com/*
@@ -24,53 +21,52 @@
 *://topshippingja.com/*
 *://tratzsolucoes.com.br/*
 *://wangel.aioilight.space/*
-*://*.xero.porn/*
+*://xero.porn/*
 *://zettai-ero.com/*
 
 # 教えて
-*://*.itreview.jp/*
+*://itreview.jp/*
 *://okwave.jp/*
 *://oshiete.goo.ne.jp/*
-*://*.quora.com/*
+*://quora.com/*
 *://stackoverflow.com/*
 
 # 機械翻訳
-*://*.affdu.com/*
+*://affdu.com/*
 *://alternativesoft.info/*
 *://apple-teach.com/*
 *://askdev.io/*
 *://br.atsit.in/*
 *://cepe-eua.org/*
-*://*.ditching.eu/*
-*://*.goodcloudstorage.net/*
+*://ditching.eu/*
+*://goodcloudstorage.net/*
 *://ja.ihowto.tips/*
 *://ja.istarapps.com/*
 +://ja.joecomp.com/*
-*://*.mysterytribune.com/*
-*://*.narkive.jp/*
-*://*.partitionwizard.jp/*
-*://*.soydemac.com/ja/
-*://*.twittospia.com/*
+*://mysterytribune.com/*
+*://narkive.jp/*
+*://partitionwizard.jp/*
+*://soydemac.com/ja/
+*://twittospia.com/*
 *://volsiz.ru/*
-*://*.vpnmentor.com/*
-*://*.websitehostingrating.com/*
-*://*.westerlystpiusxschool.org/*
+*://vpnmentor.com/*
+*://websitehostingrating.com/*
+*://westerlystpiusxschool.org/*
 
 # 詐欺
-*://*.1lifenet.com/*
+*://1lifenet.com/*
 *://apeailiruric.nagesen.net/*
 *://aroma-ecru.com/*
 *://bajaoreilles.com/*
 *://ciernykvinnan.com/*
 *://cleanmymac.com/*
+*://eiwr47.ffmaria.catania.it/*
 *://gitfinder.xyz/*
 *://happymail.co.jp/*
 *://happymlm888.com/*
 *://infojoho.org/*
 *://korekaradesu.com/*
-*://*.ladylibertybrands.com/*
 *://ladylibertybrands.com/*
-*://*.macbooster.net/*
 *://macbooster.net/*
 *://mackeeper.com/*
 *://macpaw.com/*
@@ -88,69 +84,69 @@
 *://europeanantiquepine.com/*
 *://hart2hartfarm.org/*
 *://miracle.lk/*
-*://*.pujarussaianspa.com/*
+*://pujarussaianspa.com/*
 *://e56.stars.ne.jp/*
 *://wnsom.com/*
 
-# 中華制造的山寨软件(Chinese Copycat Software)
-*://*.4videosoft.jp/*
-*://*.aimersoft.com/*
-*://*.aiseesoft.jp/*
-*://*.anvsoftt\.*/*
-*://*.any-video-converter.com/*
-*://*.any-dvd-converter.com/*
-*://*.anymp4.jp/*
-*://*.apeaksoft.com/*
-*://*.apowersoft.jp/*
-*://*.bitwar.net/
+# 中華盗版软件(Chinese Copycat Software)
+*://4videosoft.jp/*
+*://aimersoft.com/*
+*://aiseesoft.jp/*
+*://anvsoftt\.*/*
+*://any-video-converter.com/*
+*://any-dvd-converter.com/*
+*://anymp4.jp/*
+*://apeaksoft.com/*
+*://apowersoft.jp/*
+*://bitwar.net/
 *://blu-ray.software/*
-*://*.bluray-player-software.com/*
-*://*.bluraycopys.com/*
-*://*.cisdem.com/*
-*://*.copytrans.jp/*
-*://*.dumbofab.com/*
-*://*.dvdfab.cn/*
-*://*.easeus.com/*
-*://*.eelphone.jp/*
-*://*.epubor.com/*
+*://bluray-player-software.com/*
+*://bluraycopys.com/*
+*://cisdem.com/*
+*://copytrans.jp/*
+*://dumbofab.com/*
+*://dvdfab.cn/*
+*://easeus.com/*
+*://eelphone.jp/*
+*://epubor.com/*
 *://fixmacissue.com/*
-*://*.fonedog.jp/*
-*://blog.fonepaw.jp/*
+*://fonedog.jp/*
+*://fonepaw.jp/*
 *://gemsoft.jp/*
 *://iboysoft.com/*
-*://*.imobie.jp/*
-*://*.imyfone.com/*
-*://*.iskysoft.jp/*
-*://*.iskysoft.com/*
-*://*.leawo.org/*
-*://*.macbookdatarecovery.org/*
-*://*.macxdvd.com/*
-*://*.minitool.com/*
-*://*.movavi.com/*
+*://imobie.jp/*
+*://imyfone.com/*
+*://iskysoft.*/*
+*://leawo.org/*
+*://macbookdatarecovery.org/*
+*://macxdvd.com/*
+*://minitool.com/*
+*://movavi.com/*
 *://nektony.com/*
-*://*.noteburner.com/*
-*://*.pdfmate.com/*
-*://*.photo-dvd-maker.com/*
-*://*.r-studio.com/*
-*://*.remorecover.com/*
-*://*.remosoftware.com/*
-*://*.reneelab.jp/*
-*://*.stellarinfo.com/*
-*://*.tenorshare.jp/*
-*://*.tenorshare.com/*
-*://*.tunefab.jp/*
-*://*.videoconverterfactory.com/*
-*://*.videoproc.com/*
-*://*.vidmore.com/*
-*://*.winxdvd.com/*
-*://*.wondershare.jp/*
-*://*.wondershare.com/*
-*://*.xmlbar.net/*
+*://noteburner.com/*
+*://pdfmate.com/*
+*://photo-dvd-maker.com/*
+*://r-studio.com/*
+*://remorecover.com/*
+*://remosoftware.com/*
+*://reneelab.jp/*
+*://stellarinfo.com/*
+*://tenorshare.jp/*
+*://tenorshare.com/*
+*://tunefab.jp/*
+*://videoconverterfactory.com/*
+*://videoproc.com/*
+*://vidmore.com/*
+*://winxdvd.com/*
+*://wondershare.jp/*
+*://wondershare.com/*
+*://xmlbar.net/*
 
-# 销售中華制造的山寨软件(seller of Chinese Copycat Software)
+# 销售中華盗版软件(seller of Chinese Copycat Software)
 *://appli-world.jp/*
 *://butsuyoku-gadget.com/*
-*://*.chinadap.com/*
+*://capterra.jp/*
+*://chinadap.com/*
 *://deletemacapplications.blogspot.com/*
 *://freepc.jp/*
 *://freesoft-100.com/*
@@ -159,14 +155,14 @@
 *://kuma-tasuke.com/*
 *://loumo.jp/*
 *://m3k.biz/*
-*://*.macotakara.jp/*
-*://*.macupdate.com/*
+*://macotakara.jp/*
+*://macupdate.com/*
 *://mice-cinemanami.hatenablog.com/*
 *://minto.tech/*
 *://motionfile.jp/*
 *://muralnotes.com/*
 *://office7e.com/*
-*://*.oyazi.site/*
+*://oyazi.site/*
 *://pcmanabu.com/*
 *://pocyo.at.webry.info/*
 *://removemacapplication.wordpress.com/*
@@ -176,28 +172,21 @@
 *://urusulambda.com/*
 
 # 中国破解软件再配布 (Chinese cracking software re-distribution)
-*://*.deiniu.com/*
 *://deiniu.com/*
-*://*.jb51.net/*
 *://jb51.net/*
 
 # 中華
-*://*.aliexpress.com/*
-*://*.banggood.com/*
-*://*.shenzhenaudio.com/*
+*://aliexpress.com/*
+*://banggood.com/*
 *://shenzhenaudio.jp/*
-*://*.sunnews.site/*
+*://sunnews.site/*
 
 # RMT
 *://ff11account.blog109.fc2.com/*
-*://*.gamemoney.cc/*
 *://gamemoney.cc/*
-*://*.gameplanet.jp/*
 *://gameplanet.jp/*
 *://gametrade.jp/*
-*://*.iimy.co.jp/*
 *://iimy.co.jp/*
-*://*.itemdepot.jp/*
 *://itemdepot.jp/*
 *://rmt.club/*
 *://rmtinc.jp/*
@@ -206,12 +195,10 @@
 *://3p9417.ddns.us/*
 *://adviserbest.com/*
 *://aetdiesel.com:8888/*
-*://*.andersonart.org/*
-*://*.armevents.co.in/*
-*://*.atlanticcouncil.org/*
-*://*.nicasan.ru/*
+*://andersonart.org/*
+*://armevents.co.in/*
+*://atlanticcouncil.org/*
 *://nicasan.ru/*
-*://*.cnkeejie.xyz/*
 *://cnkeejie.xyz/*
 *://copin-cp.com/*
 *://cycling.org.sg/*
@@ -219,23 +206,21 @@
 *://dunder.ns01.info/*
 *://e-living.info/*
 *://emergencysolutions4u.com/*
+*://epoxygent.be/*
 *://etymology-encyclopedia.com/*
 *://fumimoko.blog/*
 *://gaznevada.iq.usp.br/*
 *://grandfleet.info/*
 *://happycamperbathbombs.com/*
-*://*.haushueter-lsz.de/*
+*://haushueter-lsz.de/*
 *://heatfry.com/*
 *://hivic-recruit.com/*
 *://harneymotorsltd.com/*
 *://jkhewjthfj.blogspot.com/*
-*://*.jpg4\.*/*
 *://ken-plan.com/*
 *://lostash.jp/*
-*://*.michamin.xyz/*
 *://michamin.xyz/*
 *://mikagamit777.com/*
-*://*.nodepositcarsmalta.com/*
 *://nodepositcarsmalta.com/*
 *://numebeauty.ca/*
 *://onthedockspub.com/*
@@ -244,6 +229,7 @@
 *://samex.jp/*
 *://sagerdz.blogspot.com/*
 *://voipnim.com/*
+*://yuec.co.jp/*
 *://zatsugaku-mystery.com/*
 *://xn--4dkp5a8a5264a48k.com/*
 
@@ -253,22 +239,22 @@
 
 # 乞食
 ## 乞食-数字
-*://*.1st-net.jp/*
+*://1st-net.jp/*
 *://1wordworld.blog26.fc2.com/*
 *://8nengoshi.jp/*
 
 ## 乞食-A
-*://*.a-inquiry.com/*
-*://*.ab-cafe.com/*
-*://*.advertimes.com/*
+*://a-inquiry.com/*
+*://ab-cafe.com/*
+*://advertimes.com/*
 *://affiliate-copywriting.tokyo/*
 *://akiba.jpn.org/*
-*://*.alphr.com/*
-*://*.altapps.net/*
+*://alphr.com/*
+*://altapps.net/*
 *://alternativeto.net/*
 *://aibou.main.jp/*
 *://affiliate7.jp/*
-*://*.amamoba.com/*
+*://amamoba.com/*
 *://aohajkl.com/*
 *://app-liv.jp/*
 *://appdam.info/*
@@ -278,8 +264,8 @@
 *://appmus.com/*
 *://appq.jp/*
 *://appsuke.com/*
-*://*.appps.jp/*
-*://*.apwork.asia/*
+*://appps.jp/*
+*://apwork.asia/*
 *://apwork.asia/*
 *://arekore.app/*
 *://atsugiebina.hatenablog.com/*
@@ -288,21 +274,20 @@
 
 ## 乞食-B
 *://bafwsprod-bafwsprodnew.azurewebsites.net/*
-*://*.bcnretail.com/*
+*://bcnretail.com/*
 *://belcy.jp/*
 *://berlioz.xyz/*
 *://bestreviews.net/*
-*://*.bestreviews.net/*
-*://*.bitsrc.io/*
+*://bestreviews.net/*
+*://bitsrc.io/*
 *://bitwave.showcase-tv.com/*
-*://*.biz.id/*
+*://biz.id/*
 *://botanica-media.jp/*
 *://bpkfp38qxf.wiki2.jp/*
-*://*.business2community.com/*
+*://business2community.com/*
 *://buzzmac.jp/*
 
 ## 乞食-C
-*://*.card-shinsa.com/*
 *://card-shinsa.com/*
 *://caredeself.jp/*
 *://career-picks.com/*
@@ -314,56 +299,49 @@
 *://cybersecurity-jp.com/*
 
 ## 乞食-D
-*://*.dailydownloaded.com/*
+*://dailydownloaded.com/*
 *://danshi-trendy.jp/*
 *://dejimachain.jp/*
 *://digitalidentity.co.jp/*
-*://*.diskhouse.shop/*
+*://diskhouse.shop/*
 *://docesnobres.com.br/*
 *://dorekau.com/*
-*://*.dougamatome.xyz/*
 *://dougamatome.xyz/*
 *://download.cnet.com/*
-*://*.download3k.com/*
+*://download3k.com/*
 *://dyk.tokyo/*
 *://dynamite-family.com/*
 
 ## 乞食-E
-*://*.ear-phone-review.com/*
 *://ear-phone-review.com/*
-*://*.ebid.net/*
 *://ebid.net/*
 *://eco-points.jp/*
 *://eiga-watch.com/*
 *://elenigroszer.com/*
-*://*.elog-ch.net/*
 *://elog-ch.net/*
 *://japanese.engadget.com/*
 *://erodaioh.com/*
 *://erodouga-tairiku.com/*
-*://*.euromobil-japan.com/*
 *://euromobil-japan.com/*
-*://*.eropuru.com/*
 *://eropuru.com/*
 
 ## 乞食-F
-*://*.fenet.jp/*
 *://fenet.jp/*
-*://*.fossmint.com/*
-*://*.free-mac-software.com/*
+*://fossmint.com/*
+*://free-mac-software.com/*
 *://ferret-plus.com/*
 *://firststyle.jp/*
-*://*.formidapps.com/*
+*://formidapps.com/*
 *://formidapps.com/*
 *://fuzinrizin.com/*
 
 ## 乞食-G
 *://g-soragundam.com/*
 *://gadget.yublog.com/*
-*://*.gamekana.com/*
-*://*.geardownload.com/*
-*://*.geckoandfly.com/*
-*://*.gefest61.ru/*
+*://gamekana.com/*
+*://geardownload.com/*
+*://geckoandfly.com/*
+*://gefest61.ru/*
 *://gatearrows.com/*
 *://gfx-tools.com/*
 *://gloture.jp/*
@@ -371,9 +349,8 @@
 *://gori.me/*
 *://gourmet-note.jp/*
 *://goworkship.com/*
-*://*.gpoint.co.jp/*
 *://gpoint.co.jp/*
-*://*.guidingtech.com/
+*://guidingtech.com/
 *://gyutan.chu.jp/*
 
 ## 乞食-H
@@ -388,9 +365,10 @@
 
 ## 乞食-I
 *://iikoto-info.com/*
-*://*.imore.com/*
-*://*.informer.com/*
+*://imore.com/*
+*://informer.com/*
 *://ioc-waseda.jp/*
+*://iphone-manual.net/*
 
 ## 乞食-J
 *://j8n017i30.ddns.info/*
@@ -398,26 +376,25 @@
 *://jimbutsu.jitenon.jp/*
 *://jobiken.com/*
 *://johnny-movie.com/*
-*://*.jpnews-video.com/*
 *://jpnews-video.com/*
 
 ## 乞食-K
 *://kakoshiru.com/*
 *://kandaeshop.com/*
-*://*.kaerucloud.com/*
-*://*.kashi-mo.com/*
+*://kaerucloud.com/*
+*://kashi-mo.com/*
 *://kdgadget.com/*
 *://keitaijoho.com/*
 *://killy.biz/*
 *://kinyunenkin.jp/*
-*://*.kogire.com/*
+*://kogire.com/*
 *://koumasai.jp/*
-*://*.kspxnr.work/*
+*://kspxnr.work/*
 *://kuraneo.jp/*
 
 ## 乞食-L
 *://later-life.jp/*
-*://*.lifehacker.jp/*
+*://lifehacker.jp/*
 *://link-man.net/*
 *://love-guava.com/*
 *://lovetalk-info.com/*
@@ -425,16 +402,13 @@
 ## 乞食-M
 *://macappstore.org/*
 *://macaro-ni.jp/*
-*://*.macbed.com/*
-*://*.maketecheasier.com/*
-*://*.makeuseof.com/*
-*://*.malavida.com/*
+*://macbed.com/*
+*://maketecheasier.com/*
+*://makeuseof.com/*
 *://malavida.com/*
 *://mamanurs.com/*
 *://mazenta0.blogspot.com/*
-*://*.mentdis.asia/*
 *://mentdis.asia/*
-*://*.miyamatakeru.com/*
 *://miyamatakeru.com/*
 *://moemoematome.net/*
 *://monomania.sblo.jp/*
@@ -446,8 +420,8 @@
 *://moviesfan.sakura.ne.jp/*
 *://mupon.net/*
 *://my-best.com/*
-*://*.myappdata.net/*
-*://*.my.id/*
+*://myappdata.net/*
+*://my.id/*
 
 ## 乞食-N
 *://n21computer.com/*
@@ -469,77 +443,76 @@
 *://petokoto.com/*
 *://phexcel.work/*
 *://photo-album.blog.jp/*
-*://*.play-azlabs.com/*
-*://*.pointag.asia/*
+*://play-azlabs.com/*
+*://pointag.asia/*
 *://pointag.asia/*
 *://progsoft.net/*
-*://*.pplepop.com/*
+*://pplepop.com/*
 
 ## 乞食-R
 *://rakuraku-info.com/*
 *://rank-king.jp/*
-*://*.rankred.com/*
-*://*.rbbtoday.com/*
+*://rankred.com/*
+*://rbbtoday.com/*
 *://renote.jp/*
 *://rosemary.is/*
 *://ryublogs0024.com/*
 
 ## 乞食-S
-*://*.safetydetectives.com/*
-*://*.saito-miyu.com/*
+*://safetydetectives.com/*
+*://saito-miyu.com/*
 *://saito-miyu.com/*
 *://sakidori.co/*
 *://sec-sim.com/*
 *://securitysoft.asia/*
-*://*.sejuku.net/*
+*://sejuku.net/*
 *://shoiblog.com/*
 *://shoppingosusume.com/*
-*://*.slant.co/*
+*://slant.co/*
 *://smap25years.com/*
 *://smartio.life/*
 *://softantenna.com/*
-*://*.softpedia.com/*
-*://*.softoware.org/*
-*://*.stuklopechat.com/*
+*://softpedia.com/*
+*://softoware.org/*
+*://stuklopechat.com/*
 *://supari.jp/*
 
 ## 乞食-T
 *://taccuma.com/*
-*://*.tadamonkugaiitakute.com/*
 *://tadamonkugaiitakute.com/*
 *://takehisayuriko.tokyo/*
 *://techigem.com/*
-*://*.tecmint.com/*
+*://tecmint.com/*
 *://the360.life/*
 *://thebest-1.com/*
 *://thebestgame2020.com/*
 *://thehikaku.net/*
-*://*.tobita-huuzoku.com/*
+*://tobita-huuzoku.com/*
 *://trend-top.com/*
-*://*.tutsplus.com/*
+*://tutsplus.com/*
 *://tv-movie.wark.info/*
 *://tvzuki.com/*
 
 ## 乞食-U
-*://*.uninstallmacapp.com/*
-*://*.updatestar.com/*
-*://*.uptodown.com/*
-*://*.usoko.net/*
+*://uninstallmacapp.com/*
+*://updatestar.com/*
+*://uptodown.com/*
+*://usoko.net/*
 *://usoko.net/*
 *://utile-site.com/*
 
 ## 乞食-V
-*://*.value-press.com/*
+*://value-press.com/*
 
 ## 乞食-W
 *://warasoft.com/*
 *://webcatalog.app/*
 *://webhoric.com/*
-*://*.weebly.com/*
+*://weebly.com/*
 *://wiseman-hiro.com/*
-*://*.wizcase.com/*
-*://*.wonderhowto.com/*
-*://*.writemyessay24h.net/*
+*://wizcase.com/*
+*://wonderhowto.com/*
+*://writemyessay24h.net/*
 
 ## 乞食-X
 *://xn--mprwb863iczq.com/*
@@ -563,11 +536,11 @@
 ## ガセ-A
 *://akiko-counselingroom.com/*
 *://ancient.powf.net/*
-*://*.appbank.net/*
+*://appbank.net/*
 *://artworks-inter.net/*
 *://asimil.biz/*
-*://*.asyura2.com/*
-*://*.aura-office.co.jp/*
+*://asyura2.com/*
+*://aura-office.co.jp/*
 
 ## ガセ-B
 *://bizword.jp/*
@@ -575,10 +548,10 @@
 ## ガセ-C
 *://careersupli.jp/*
 *://chainonet.com/*
-*://*.chaneltc.com/*
+*://chaneltc.com/*
 *://chht7.com/*
 *://cktt.jp/*
-*://*.cocololo.jp/*
+*://cocololo.jp/*
 *://cocololo.jp/*
 *://counter-attaaack.net/*
 *://cura-prodest.com/*
@@ -587,7 +560,7 @@
 ## ガセ-D
 *://daiwaryu1121.com/*
 *://demimen.jp/*
-*://*.diskdig.com/*
+*://diskdig.com/*
 
 ## ガセ-E
 *://eigobu.jp/*
@@ -611,31 +584,29 @@
 *://iboyagi.zouri.jp/*
 
 ## ガセ-K
-*://*.kabo-kao.com/*
-*://*.kanteiya.com/*
+*://kabo-kao.com/*
+*://kanteiya.com/*
 *://kazahanamirai.com/*
 *://kenjya.org/*
 *://blog.goo.ne.jp/kimito39/*
 *://kisetsumimiyori.com/*
 *://koiy.hatenadiary.jp/*
-*://*.koregasiritai.com/*
 *://koregasiritai.com/*
 
 ## ガセ-L
 *://leisurego.jp/*
-*://*.link-21.com/*
+*://link-21.com/*
 
 ## ガセ-M
 *://meiyouwenti.net/*
 *://mobile-shuri.jp/*
-*://*.mylohas.net/*
+*://mylohas.net/*
 
 ## ガセ-N
 *://nihon-omokage.com/*
 
 ## ガセ-O
 *://okane-fueeru.com/*
-*://*.otsukaresama-deshita.com/*
 *://otsukaresama-deshita.com/*
 
 ## ガセ-P
@@ -646,11 +617,11 @@
 *://r25.jp/*
 *://rapt-plusalpha.com/*
 *://rekisiru.com/*
-*://*.rich-life58.com/*
+*://rich-life58.com/*
 *://rich-life58.com/*
 *://richterminal.com/*
 *://rikupsycho.hatenablog.com/*
-*://*.rui.jp/*
+*://rui.jp/*
 
 ## ガセ-S
 *://scary-story.net/*
@@ -665,10 +636,10 @@
 ## ガセ-T
 *://tadatabilife.hatenablog.com/*
 *://tennis-mass.com/*
-*://*.tokai.jp/*
+*://tokai.jp/*
 *://torothy.com/*
 *://trafficnews.jp/*
-*://*.trans-suite.jp/*
+*://trans-suite.jp/*
 *://traumhaus.tokyo/*
 *://trivia-and-know-how-notes.com/*
 *://tyuuta1.com/*
@@ -678,7 +649,7 @@
 
 ## ガセ-W
 *://windowsapp.tokyo/*
-*://*.wpcoding.net/*
+*://wpcoding.net/*
 *://wpcoding.net/*
 
 ## ガセ-X
@@ -687,9 +658,9 @@
 
 ## ガセ-Y
 *://yain.jp/*
-*://*.yo-in.com/*
+*://yo-in.com/*
 *://yourei.jp/*
-*://*.hm.aitai.ne.jp/~ytmta/*
+*://hm.aitai.ne.jp/~ytmta/*
 *://yukilifeblog.com/*
 *://yuu01.jp/*
 *://yuukiwada.com/*
@@ -703,17 +674,16 @@
 *://daigoblog.jp/*
 *://daigovideolab.jp/*
 *://el.jibun.atmarkit.co.jp/*
-*://*.hasannews.org/*
 *://hasannews.org/*
 *://hoshutube.army.jp/*
 *://jigensha.info/*
 *://jpon.xyz/*
 *://lineblog.me/mentalist_daigo/*
 *://seiron-sankei.com/*
-*://*.wa-net.net/*
+*://wa-net.net/*
 
 # クソUI(句読点が改行のガラパゴス書式を含む)
-*://*.cheerup.jp/*
+*://cheerup.jp/*
 *://shufu-chie.com/*
 *://uraken-deai.com/*
 
@@ -724,83 +694,84 @@
 *://discover-lab.info/*
 *://topics.smt.docomo.ne.jp/*
 *://news.fresheye.com/*
+*://g2.com/*
+*://geikuchi.com/*
 *://news.guideme.jp/*
 *://headtopics.com/*
 *://news.infoseek.co.jp/*
-*://*.jpg4.pw/*
+*://jpg4\.*/*
 *://kadenk.com/*
 *://news.line.me/*
 *://news.livedoor.com/*
 *://newstweet.jp/*
 *://news.mynavi.jp/*
 *://www.msn.com/*
-*://*.mato.media/*
+*://mato.media/*
 *://mato.media/*
 *://newstopics.jp/*
 *://news.nifty.com/*
-*://*.pinterest.co.kr/*
-*://*.pinterest.com/*
-*://*.pinterest.com.mx/*
-*://*.pinterest.es/*
-*://*.pinterest.fr/*
-://*.pinterest.jp/*
+*://pinterest.co.kr/*
+*://pinterest.com/*
+*://pinterest.com.mx/*
+*://pinterest.es/*
+*://pinterest.fr/*
+://pinterest.jp/*
 *://cont.t-com.ne.jp/*
-*://*.thenews.ne.jp/*
 *://thenews.ne.jp/*
 *://trend-at-tv.com/*
+*://topbestalternative.com/*
 *://topics24.jp/*
+*://view.cafe/*
 *://news.yahoo.co.jp/*
 
 # インターネッツストーカー over 16
 *://box.com/*
-*://*.hatenadiary.jp/*
+*://hatenadiary.jp/*
 
 # Wikipedia copy and paste
 *://autopedia.jpn.org/*
 *://mairi.me/*
 *://name01.unsei.me/*
-*://*.memory-jp.com/*
-*://*.wikiredia.com/*
+*://memory-jp.com/*
+*://wikiredia.com/*
 
 # 樋渡啓祐
-*://*.e-earphone.jp/*
 *://e-earphone.blog/*
 *://hawk-a.com/*
-*://*.okwave.jp/*
+*://okwave.jp/*
 *://otokitashun.com/*
-*://*.sakimeshi.com/*
-*://*.tsite.jp/*
-*://*.yahoo.co.jp/*
+*://sakimeshi.com/*
+*://tsite.jp/*
+*://yahoo.co.jp/*
 
 # 井戸端
 *://b.hatena.ne.jp/*
 *://bbs.kakaku.com/*
-*://*.nicovideo.jp/*
-*://*.yourpedia.org/*
+*://nicovideo.jp/*
+*://yourpedia.org/*
 
 # 完全なる好み
 *://ameblo.jp/*
-*://*.carsensor.net/*
-*://*.carview.co.jp/*
-*://*.cyzo.com/*
-*://*.deviantart.com/*
+*://carsensor.net/*
+*://carview.co.jp/*
+*://cyzo.com/*
 *://deviantart.com/*
-*://*.facebook.com/*
+*://deviantart.com/*
+*://facebook.com/*
 *://filmest.jp/*
-*://*.goo.ne.jp/*
+*://goo.ne.jp/*
 *://books.google.co.jp/*
-*://*.mercari.com/*
-*://*.mixi.jp/*
+*://mercari.com/*
+*://mixi.jp/*
 *://namaeuranai.biz/*
 *://note.com/*
 *://pc-karuma.net/*
-*://*.rakuten.co.jp/*
-*://*.rakuten.ne.jp/*
-*://*.rakuten-search.com/*
-*://*.syosetu.com/*
+*://rakuten.ne.jp/*
+*://rakuten-search.com/*
 *://syosetu.com/*
-*://*.tiktok.com/*
+*://syosetu.com/*
+*://tiktok.com/*
 *://togetter.com/*
-*://*.trendmicro.com/*
-*://*.vector.co.jp/*
+*://trendmicro.com/*
+*://vector.co.jp/*
 *://wowma.jp/*
