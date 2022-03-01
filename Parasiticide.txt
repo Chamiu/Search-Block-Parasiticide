@@ -90,7 +90,7 @@
 
 # 中華盗版软件(Chinese Copycat Software)
 *://4videosoft.jp/*
-*://aimersoft.com/*
+*://aimersoft\.*/*
 *://aiseesoft.jp/*
 *://anvsoftt\.*/*
 *://any-video-converter.com/*
@@ -148,6 +148,8 @@
 *://capterra.jp/*
 *://chinadap.com/*
 *://deletemacapplications.blogspot.com/*
+*://eltima.com/*
+*://filehippo.jp/*
 *://freepc.jp/*
 *://freesoft-100.com/*
 *://gori3353.club/*
@@ -173,6 +175,7 @@
 
 # 中国破解软件再配布 (Chinese cracking software re-distribution)
 *://deiniu.com/*
+*://honzukia.tistory.com/*
 *://jb51.net/*
 
 # 中華
@@ -541,6 +544,7 @@
 *://asimil.biz/*
 *://asyura2.com/*
 *://aura-office.co.jp/*
+*://azscitechfest.org/*
 
 ## ガセ-B
 *://bizword.jp/*
