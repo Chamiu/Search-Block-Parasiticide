@@ -17,6 +17,7 @@
 *://pc-express-france.com/*
 *://pornmoviesfull.com/*
 *://sadhanacircle.com/*
+*://ssk1010.com/*
 *://topchineseporn.com/*
 *://topshippingja.com/*
 *://tratzsolucoes.com.br/*
@@ -74,6 +75,7 @@
 *://nextag.web.fc2.com/*
 *://raworlnig7.over-blog.com/*
 *://solar-lab.jp/*
+*://sports-adventurer.com/*
 *://trade.netgame-rmt.jp/*
 *://xn--pcksd1bza2ae0c0qse.jp/*
 *://xn----xeutb1bza2am.jp/*
@@ -334,6 +336,7 @@
 *://free-mac-software.com/*
 *://ferret-plus.com/*
 *://firststyle.jp/*
+*://forzastyle.com/*
 *://formidapps.com/*
 *://formidapps.com/*
 *://fuzinrizin.com/*
@@ -378,6 +381,7 @@
 *://iphone-mania.jp/*
 *://jimbutsu.jitenon.jp/*
 *://jobiken.com/*
+*://jocee.jp/*
 *://johnny-movie.com/*
 *://jpnews-video.com/*
 
@@ -429,6 +433,7 @@
 ## 乞食-N
 *://n21computer.com/*
 *://netagear.net/*
+*://news-sokuhou.site/*
 *://nomad-ceo.com/*
 
 ## 乞食-O
@@ -484,6 +489,7 @@
 *://taccuma.com/*
 *://tadamonkugaiitakute.com/*
 *://takehisayuriko.tokyo/*
+*://tano-iku.com/*
 *://techigem.com/*
 *://tecmint.com/*
 *://the360.life/*
@@ -512,6 +518,7 @@
 *://webcatalog.app/*
 *://webhoric.com/*
 *://weebly.com/*
+*://welcome-to-oze.com/*
 *://wiseman-hiro.com/*
 *://wizcase.com/*
 *://wonderhowto.com/*
@@ -697,6 +704,7 @@
 *://create-navi.info/*
 *://discover-lab.info/*
 *://topics.smt.docomo.ne.jp/*
+*://dreamstime.com/*
 *://news.fresheye.com/*
 *://g2.com/*
 *://geikuchi.com/*
@@ -705,6 +713,7 @@
 *://news.infoseek.co.jp/*
 *://jpg4\.*/*
 *://kadenk.com/*
+*://kyuujoushou.net/*
 *://news.line.me/*
 *://news.livedoor.com/*
 *://newstweet.jp/*
@@ -714,17 +723,13 @@
 *://mato.media/*
 *://newstopics.jp/*
 *://news.nifty.com/*
-*://pinterest.co.kr/*
-*://pinterest.com/*
-*://pinterest.com.mx/*
-*://pinterest.es/*
-*://pinterest.fr/*
-://pinterest.jp/*
+*://pinterest\.*/*
 *://cont.t-com.ne.jp/*
 *://thenews.ne.jp/*
 *://trend-at-tv.com/*
 *://topbestalternative.com/*
 *://topics24.jp/*
+*://torange.biz/*
 *://view.cafe/*
 *://news.yahoo.co.jp/*
 
