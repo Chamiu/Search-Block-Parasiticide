@@ -12,6 +12,7 @@
 *://*.javrav.com/*
 *://*.jigadorierogazou.blog.fc2.com/*
 *://*.kahucrossfit.com/*
+*://loadinglady.blogmastery.co/*
 *://*.macuninstallguides.com/*
 *://*.medmalrx.com/*
 *://*.pc-express-france.com/*
@@ -94,7 +95,7 @@
 # 中華盗版软件(Chinese Copycat Software)
 *://*.4videosoft.jp/*
 *://*.aimersoft\.*/*
-*://*.aiseesoft.jp/*
+*://*.aiseesoft.(com|jp)/*
 *://*.anvsoftt\.*/*
 *://*.any-video-converter.com/*
 *://*.any-dvd-converter.com/*
@@ -205,7 +206,7 @@
 *://*.andersonart.org/*
 *://*.armevents.co.in/*
 *://*.atlanticcouncil.org/*
-*://*.nicasan.ru/*
+*://*.b-tayama.com/*
 *://*.cnkeejie.xyz/*
 *://*.copin-cp.com/*
 *://*.cycling.org.sg/*
@@ -226,14 +227,18 @@
 *://*.hivic-recruit.com/*
 *://*.harneymotorsltd.com/*
 *://*.jkhewjthfj.blogspot.com/*
+*://*.kato-hakuraku.com/*
 *://*.ken-plan.com/*
 *://*.lostash.jp/*
 *://*.michamin.xyz/*
 *://*.mikagamit777.com/*
+*://*.nicasan.ru/*
 *://*.nodepositcarsmalta.com/*
 *://*.numebeauty.ca/*
 *://*.onthedockspub.com/*
+*://*.purumeria.com/*
 *://*.raviatowen-conseil.fr/*
+*://*.reddingcanvas.com/*
 *://*.rittencalculator.tnls.nl/*
 *://*.samex.jp/*
 *://*.sagerdz.blogspot.com/*
@@ -643,6 +648,7 @@
 ## ガセ-S
 *://*.scary-story.net/*
 *://*.shanti-phula.net/*
+*://*.shinjuku-tiger.com/*
 *://*.sinrigaku-lovers.com/*
 *://*.siraberuko.jp/*
 *://*.sisannotamago.com/*
@@ -716,6 +722,8 @@
 *://*.geikuchi.com/*
 *://*.news.guideme.jp/*
 *://*.headtopics.com/*
+*://*.hitoribucho.com/*
+*://news.hostlove.com/*
 *://*.news.infoseek.co.jp/*
 *://*.jpg4\.*/*
 *://*.kadenk.com/*
