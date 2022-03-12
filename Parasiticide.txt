@@ -38,19 +38,22 @@
 *://*.alternativesoft.info/*
 *://*.apple-teach.com/*
 *://*.askdev.io/*
-*://*.br.atsit.in/*
+*://*.atsit.in/*
 *://*.cepe-eua.org/*
 *://*.ditching.eu/*
-*://*.*.gadget-info.com/*
+*://*.eyewated.com/*
+*://*.gadget-info.com/*
 *://*.goodcloudstorage.net/*
-*://*.ja.ihowto.tips/*
-*://*.ja.istarapps.com/*
-+://ja.joecomp.com/*
+*://*.ihowto.tips/*
+*://*.istarapps.com/*
+*://*.iwofr.org/*
++://*.joecomp.com/*
 *://*.mysterytribune.com/*
 *://*.narkive.jp/*
 *://*.partitionwizard.jp/*
 *://*.soydemac.com/ja/
 *://*.twittospia.com/*
+*://*.uirusu.jp/*
 *://*.volsiz.ru/*
 *://*.vpnmentor.com/*
 *://*.websitehostingrating.com/*
@@ -128,6 +131,7 @@
 *://*.movavi.com/*
 *://*.nektony.com/*
 *://*.noteburner.com/*
+*://*.partitionwizard\.*/*
 *://*.pdfmate.com/*
 *://*.photo-dvd-maker.com/*
 *://*.r-studio.com/*
@@ -341,6 +345,7 @@
 *://*.eropuru.com/*
 
 ## 乞食-F
+*://*.fc2hub.com/*
 *://*.fenet.jp/*
 *://*.fossmint.com/*
 *://*.free-mac-software.com/*
@@ -523,6 +528,7 @@
 
 ## 乞食-V
 *://*.value-press.com/*
+*://*.vpnmentor.com/*
 
 ## 乞食-W
 *://*.warasoft.com/*
@@ -541,6 +547,7 @@
 ## 乞食-Y
 *://*.yamauto.jp/*
 *://*.yaseibook.com/*
+*://*.yellowcorn.jp/*
 *://*.yoh-suke-blog.com/*
 *://*.yomoyama-joho.com/*
 *://*.yutolist.com/*
@@ -738,6 +745,7 @@
 *://*.newstopics.jp/*
 *://*.news.nifty.com/*
 *://*.pinterest\.*/*
+*://*.rem9.net/*
 *://*.cont.t-com.ne.jp/*
 *://*.thenews.ne.jp/*
 *://*.trend-at-tv.com/*
@@ -765,7 +773,7 @@
 *://*.otokitashun.com/*
 *://*.sakimeshi.com/*
 *://*.tsite.jp/*
-*://*.*.yahoo.co.jp/*
+*://*.yahoo.co.jp/*
 
 # 井戸端
 *://*.b.hatena.ne.jp/*
