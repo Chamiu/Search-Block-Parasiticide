@@ -1,10 +1,11 @@
 # [漫画ネタバレサイト運営　ケンガンオメガ無断掲載容疑で書類送検-毎日新聞](https://mainichi.jp/articles/20220203/k00/00m/040/071000c)に基づく、ネタバレサイトのuBlacklist filterを以下にリストする。
 
-*://81orchid.com/*
-*://asahi-english.com/*
-*://channel-rei.com/*
-*://entameblog.tokyo/*
-*://happymackeyblog.com/*
-*://setosan.net/*
-*://unatia.net/*
-*://vsd1104.com/*
+*://*.81orchid.com/*
+*://*.asahi-english.com/*
+*://*.channel-rei.com/*
+*://*.electron-comic.com/*
+*://*.entameblog.tokyo/*
+*://*.happymackeyblog.com/*
+*://*.setosan.net/*
+*://*.unatia.net/*
+*://*.vsd1104.com/*
