@@ -172,6 +172,7 @@
 *://badvugum.com/*
 *://baikalhostels.com/*
 *://bakusokunews.com/*
+*://*.ball-scope.com/*
 *://banbi-eye.com/*
 *://baneyann.com/*
 *://barutosuserver.com/*
@@ -213,6 +214,7 @@
 *://bokumato.jp/*
 *://boku-tabi.com/*
 *://bombr.jp/*
+*://*.bonboyablog.com/*
 *://bororon.doorblog.jp/*
 *://boshi-hawaii.com/*
 
@@ -267,6 +269,7 @@
 *://chenmamablog.com/*
 *://cherio199.blog120.fc2.com/*
 *://cherish-media.jp/*
+*://*.cherrychillwill.com/*
 *://chihanote.com/*
 *://chikatomo.doorblog.jp/*
 *://chikuchiku0728.com/*
@@ -275,12 +278,13 @@
 *://chitokarajoshi.com/*
 *://blog.chhs.ca.gov/*
 *://chocolat-mill.jp/*
-*://cinemachi.net/*
+*://*.chunisoku.com/*
 *://chomanga.org/*
 *://chops.chips.jp/*
 *://blog.livedoor.jp/christmas1224/*
 
 ## CI
+*://cinemachi.net/*
 *://cinematoday.jp/*
 *://cinesoku.net/*
 *://cinonsan.com/*
@@ -418,6 +422,7 @@
 *://entametimes.com/*
 *://entamix777.com/*
 *://entertainment-days.com/*
+*://*.entertainment-sports.com/*
 *://entertainment-topics.jp/*
 *://epicmaterialdays.com/*
 *://ero-koen.com/*
@@ -626,7 +631,7 @@
 *://hien-rt.net/*
 *://hijikisokuhou.doorblog.jp/*
 *://hikari-iyashi.com/*
-*://himablo.xyz/*
+*://*.himablo.xyz/*
 *://himaotanews.com/*
 *://himemizu.com/*
 *://himmel-ellipse.com/*
@@ -896,33 +901,54 @@
 *://lvqbf.co/*
 
 # M
-## MA
+## MA 2022-03-12 ３文字分割 (+27 line)
+### MAB
 *://maboblog.com/*
 *://mabomabo00.com/*
+
+### MAC
 *://mac-lib.com/*
-*://medianomoriblog.com/*
+
+### MAE
 *://maesuke.com/*
+
+### MAG
 *://magazinehack.com/*
 *://magical-news.blog.jp/*
 *://magicdoor.jp/*
 *://magusite.com/*
+
+### MAH
 *://blog.livedoor.jp/mahjongch/*
+
+### MAI
 *://maidonanews.jp/*
 *://mainichi-tocotoco.com/*
 *://maitanublog.com/*
+
+### MAJ
 *://majisuka.net/*
 *://maji-topi.com/*
+
+### MAM
 *://mamaicchi.com/*
 *://mamakiwa.com/*
 *://mamanochiwatashi.com/*
 *://mamanoiro.info/*
 *://mamesoku.com/*
 *://mamintyu.com/*
+
+### MAN
 *://mangakozo888.xyz/*
+*://*.mania-of-football.com/*
 *://manimanilife.com/*
 *://mankaikana.com/*
 *://manpukunews.blog.jp/*
+
+### MAP
 *://mapimark.com/*
+
+### MAR
 *://mari-soku.com/*
 *://mariokart.antenam.jp/*
 *://marog01.com/*
@@ -931,9 +957,13 @@
 *://marucure-picks.com/*
 *://marumohu.com/*
 *://marunikomiudon.com/*
+
+### MAS
 *://masaiian.com/*
 *://masamurai.com/*
 *://masatonoblog.com/*
+
+### MAT
 *://matome.eternalcollegest.com/*
 *://materials-edge.net/*
 *://mato-news.com/*
@@ -945,11 +975,15 @@
 *://matometatta-news.net/*
 *://matsu-journal.com/*
 *://mattai.net/*
+
+### MAY
 *://mayuponstyle.com/*
 
 ## ME
+
 *://media.yamatop.com/*
 *://media-milk.com/*
+*://medianomoriblog.com/*
 *://megusoku.com/*
 *://megunews.com/*
 *://meguppechan.com/*
@@ -957,6 +991,7 @@
 *://memorylane-media.com/*
 *://menslog.net/*
 *://meshinews.blog.jp/*
+*://*.mesomablog.com/*
 
 ## MF 2022.03.01追加
 *://mf-bbc-ch.com/*
@@ -1156,6 +1191,7 @@
 *://blog.livedoor.jp/nwknews/*
 
 ## NY
+*://nya-su.doorblog.jp/*
 *://nyaasokuvip.net/*
 *://nyanpararism.xyz/*
 *://nyanyako.xyz/*
@@ -1256,6 +1292,7 @@
 *://pool-i.com/*
 *://poor-bloger.com/*
 *://poppy17.com/*
+*://*.porisoku.com/*
 *://posoboso.com/*
 *://post.more-gamer.com/*
 *://pouchs.jp/*
@@ -1372,6 +1409,7 @@
 *://seek-levels.com/*
 *://seidentest.com/*
 *://seikatunobitikuko.blog.jp/*
+*://*.seikou55.com/*
 *://seiyuu-voiceactor.com/*
 *://sekai-kawaru.com/*
 *://sexy-tweet.blog.jp/*
@@ -1671,10 +1709,11 @@
 *://wadai-journal.com/*
 *://wadai-log.com/*
 *://wadainews365.blog.ss-blog.jp/*
-*://wadaino-news.com/*
+*://*.wadaino-news.com/*
 *://wadainomori.net/*
 *://wadai-pocket.com/*
 *://wagonnavi.click/*
+*://*.waiparavalleynz.com/*
 *://wankoshoten.com/*
 *://waon-guam.com/*
 *://wapri.site/*
