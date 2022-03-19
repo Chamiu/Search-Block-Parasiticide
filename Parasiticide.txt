@@ -34,12 +34,14 @@
 *://*.stackoverflow.com/*
 
 # 機械翻訳
+*://*.affde.com/*
 *://*.affdu.com/*
 *://*.alternativesoft.info/*
 *://*.apple-teach.com/*
 *://*.askdev.io/*
 *://*.atsit.in/*
 *://*.cepe-eua.org/*
+*://codepre.com/*
 *://*.ditching.eu/*
 *://*.eyewated.com/*
 *://*.gadget-info.com/*
@@ -203,53 +205,98 @@
 *://*.rmt.club/*
 *://*.rmtinc.jp/*
 
-# spamdexing
+# spamdexing 2022-03-17分割 (Add 45 line)
+## Numeric
 *://*.3p9417.ddns.us/*
+
+## A
 *://*.adviserbest.com/*
 *://*.aetdiesel.com:8888/*
 *://*.andersonart.org/*
 *://*.armevents.co.in/*
 *://*.atlanticcouncil.org/*
+
+## B
 *://*.b-tayama.com/*
+
+## C
 *://*.cnkeejie.xyz/*
 *://*.copin-cp.com/*
 *://*.cycling.org.sg/*
+
+## D
 *://*.d-dmm.com/*
 *://*.datanews.chhs.ca.gov/*
 *://*.dunder.ns01.info/*
+
+## E
+*://*.e-item.co.jp/*
 *://*.e-living.info/*
 *://*.emergencysolutions4u.com/*
 *://*.epoxygent.be/*
 *://*.etymology-encyclopedia.com/*
+
+## F
 *://*.fumimoko.blog/*
+
+## G
 *://*.gaznevada.iq.usp.br/*
 *://*.goodnewz.net/*
 *://*.grandfleet.info/*
+
+## H
 *://*.happycamperbathbombs.com/*
 *://*.haushueter-lsz.de/*
 *://*.heatfry.com/*
 *://*.hivic-recruit.com/*
 *://*.harneymotorsltd.com/*
+
+## J
 *://*.jkhewjthfj.blogspot.com/*
+
+## K
 *://*.kato-hakuraku.com/*
 *://*.ken-plan.com/*
+
+## L
 *://*.lostash.jp/*
+
+## M
 *://*.michamin.xyz/*
 *://*.mikagamit777.com/*
+
+## N
 *://*.nicasan.ru/*
 *://*.nodepositcarsmalta.com/*
 *://*.numebeauty.ca/*
+
+## O
 *://*.onthedockspub.com/*
+
+## P
 *://*.purumeria.com/*
+
+## R
 *://*.raviatowen-conseil.fr/*
 *://*.reddingcanvas.com/*
 *://*.rittencalculator.tnls.nl/*
+
+## S
 *://*.samex.jp/*
 *://*.sagerdz.blogspot.com/*
+*://*.sbu.ac.ir/*
+
+## V
 *://*.voipnim.com/*
-*://*.yuec.co.jp/*
-*://*.zatsugaku-mystery.com/*
+
+## X (include Japanese domain name)
 *://*.xn--4dkp5a8a5264a48k.com/*
+
+## Y
+*://*.yuec.co.jp/*
+
+## Z
+*://*.zatsugaku-mystery.com/*
 
 # link trap
 *://*.geinoueroch.com/*
