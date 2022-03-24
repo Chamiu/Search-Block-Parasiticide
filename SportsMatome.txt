@@ -12,4 +12,7 @@
 *://nonnon-t.com/*
 *://scramble-talk.com/*
 *://spocafe.jp/*
+*://sports-infoclub.com/*
+*://sulog.net/*
+*://tokimeki-diary.com/*
 *://turezurenaru-zakki.com/*
