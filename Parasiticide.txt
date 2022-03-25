@@ -466,6 +466,7 @@
 *://*.lifehacker.jp/*
 *://*.link-man.net/*
 *://*.love-guava.com/*
+*://*.lovemagajin.com/*
 *://*.lovetalk-info.com/*
 
 ## 乞食-M
@@ -755,7 +756,9 @@
 *://*.hoshutube.army.jp/*
 *://*.jigensha.info/*
 *://*.jpon.xyz/*
+*://kumikosaito.com/*
 *://*.lineblog.me/mentalist_daigo/*
+*://lineblog.me/momo1101/*
 *://*.seiron-sankei.com/*
 *://*.wa-net.net/*
 
