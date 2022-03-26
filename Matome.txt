@@ -188,6 +188,7 @@
 *://bepo-blog.com/*
 *://bert-bert.com/*
 *://bateau32.com/*
+*://*.betweenjpandkr.blog/*
 
 ## BI
 *://bibi-star.jp/*
@@ -430,6 +431,7 @@
 *://eraption.com/*
 *://ereoh.com/*
 *://erimakee.com/*
+*://*.erodo-ga.com/*
 *://ertk.net/*
 *://erumaru.com/*
 *://event4info.com/*
@@ -632,6 +634,7 @@
 *://hijikisokuhou.doorblog.jp/*
 *://hikari-iyashi.com/*
 *://*.himablo.xyz/*
+*://*.himakiru.com/*
 *://himaotanews.com/*
 *://himemizu.com/*
 *://himmel-ellipse.com/*
@@ -735,6 +738,7 @@
 *://joukyunews.com/*
 *://journallimited.com/*
 *://joyuu-media.com/*
+*://*.juditanews.com/*
 *://jufusion.com/*
 *://jumpsokuhou.com/*
 *://junabroadinfo.com/*
@@ -916,6 +920,7 @@
 *://magazinehack.com/*
 *://magical-news.blog.jp/*
 *://magicdoor.jp/*
+*://*.magochan.com/*
 *://magusite.com/*
 
 ### MAH
@@ -955,6 +960,7 @@
 *://maroup.net/*
 *://marublog.biz/*
 *://marucure-picks.com/*
+*://*.marukanblog.com/*
 *://marumohu.com/*
 *://marunikomiudon.com/*
 
@@ -1004,6 +1010,7 @@
 *://mh-r.more-gamer.com/*
 *://miaotenten.com/*
 *://michoruchoru.com/*
+*://*.mitchy-blg.net/*
 *://miiolo.com/*
 *://mikansan.xyz/*
 *://mikimane.com/*
@@ -1052,6 +1059,7 @@
 *://mt-j.info/*
 
 ## MU
+*://*.mukurojiblog.com/*
 *://murajyuku.com/*
 *://mutyun.com/*
 
@@ -1229,6 +1237,7 @@
 *://osawagase.com/*
 *://oshibtn.com/*
 *://otameshivip.com/*
+*://*.otoko-musume.com/*
 *://otyobolife.com/*
 *://oucedonc.com/*
 *://ouchi-times.com/*
@@ -1478,11 +1487,13 @@
 *://soiginta.biz/*
 *://sokashi0525.com/*
 *://sokulan.com/*
+*://*.sokutrend.com/*
 *://solid.coresv.net/*
 *://solife-a.com/*
 *://sorano-mado.com/*
 *://soratoburin.com/*
 *://sorehatottemo.xyz/*
+*://*.soukaiwakaba0620.com/*
 *://sousakuchannel.com/*
 *://soul-ark.com/*
 *://southcarolinaknights.org/*
@@ -1612,6 +1623,7 @@
 *://toohottogethome.com/*
 *://topic-note.com/*
 *://topitane.net/*
+*://*.topspeed-service.jp/*
 *://torasan1.com/*
 *://torendosokuhou.com/*
 *://toreosa.green/*
@@ -1632,8 +1644,9 @@
 *://trend-passion-life.com/*
 *://trend-rocks.com/*
 *://trend-usagi.com/*
-*://trendquest34.com/*
+*://*.trendnews-c.com/*
 *://trendnews9891.site/*
+*://trendquest34.com/*
 *://trendroom5.com/*
 *://trendy15.info/*
 *://trendybaru.com/*
@@ -1647,6 +1660,7 @@
 *://tsubuchan.blog.jp/*
 *://tsuisoku.com/*
 *://tsuki-review.com/*
+*://*.tsumuji-kosodate.com/*
 *://tsurumatsu-shoten.com/*
 *://tsuruniha.com/*
 
@@ -1663,6 +1677,9 @@
 *://tweetsoku.com/*
 *://twintailsokuhou.blog.jp/*
 *://twun61.com/*
+
+## TY 2022-03-26追加
+*://*.tyomateyo.com/*
 
 # U
 *://u-mindmap.com/*
@@ -1698,6 +1715,7 @@
 *://vigood.jp/*
 *://vipnews.jp/*
 *://vipperlog.com/*
+*://*.vippers.jp/*
 *://visiontoamerica.org/*
 *://vkmw8573.work/*
 *://vod-labo.com/*
@@ -1727,6 +1745,7 @@
 *://wdic.org/*
 *://webhack.jp/*
 *://web-maket.info/*
+*://*.westrip-life.com/*
 *://white-miles.com/*
 *://wide-package.com/*
 *://wikiwiki.site/*
@@ -1785,6 +1804,7 @@
 *://yokkoi.com/*
 *://yokotablog.com/*
 *://blog.livedoor.jp/yorilog/*
+*://*.yoroko100.com/*
 *://yorozu-do.com/*
 *://yoshidakenkou.net/*
 *://yoshiemon-docodemopocket.com/*
@@ -1837,6 +1857,9 @@
 *://yuyufirst.com/*
 *://www.yurusupo.com/*
 
+## YY 2022-03-26追加
+*://*.yy-note.com/*
+
 # Z
 *://zaitakudemamawork.com/*
 *://zakeru.com/*
@@ -1846,6 +1869,7 @@
 *://zaxtukiblog.com/*
 *://zch-vip.com/*
 *://ziro83.com/*
+*://zishinm.blog.fc2.com/*
 *://zizineta.com/*
 *://zizineta-sokuho.com/*
 *://zuckyzczc.com/*
