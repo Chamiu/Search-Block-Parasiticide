@@ -463,6 +463,7 @@
 *://*.kinyunenkin.jp/*
 *://*.kogire.com/*
 *://*.koumasai.jp/*
+*://*.kurashi-no.jp/*
 *://*.kspxnr.work/*
 *://*.kuraneo.jp/*
 
@@ -561,6 +562,7 @@
 *://*.tano-iku.com/*
 *://*.techigem.com/*
 *://*.tecmint.com/*
+*://*.tetsuyan01.com/*
 *://*.the360.life/*
 *://*.thebest-1.com/*
 *://*.thebestgame2020.com/*
@@ -635,6 +637,7 @@
 *://*.cktt.jp/*
 *://*.cocololo.jp/*
 *://*.cocololo.jp/*
+*://*.cocolotus.net/*
 *://*.counter-attaaack.net/*
 *://*.cura-prodest.com/*
 *://*.cutthecorner.net/*
@@ -776,7 +779,7 @@
 *://*.shufu-chie.com/*
 *://*.uraken-deai.com/*
 
-# 他人の褌で飯が旨い
+# 他人の褌で飯が旨い (2022-03-26 pinterest-> [ublacklist-pinterest/ublacklist-pinterest.txt at main · rjaus/ublacklist-pinterest](https://github.com/rjaus/ublacklist-pinterest/blob/main/ublacklist-pinterest.txt)
 *://*.news.ameba.jp/*
 *://*.news.biglobe.ne.jp/*
 *://*.ceron.jp/*
@@ -804,7 +807,6 @@
 *://*.mato.media/*
 *://*.newstopics.jp/*
 *://*.news.nifty.com/*
-*://*.pinterest\.*/*
 *://*.rem9.net/*
 *://*.cont.t-com.ne.jp/*
 *://*.thenews.ne.jp/*
