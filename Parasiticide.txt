@@ -253,6 +253,7 @@
 
 ## J
 *://*.jkhewjthfj.blogspot.com/*
+*://*.jimoai444.hatenablog.com/*
 
 ## K
 *://*.kato-hakuraku.com/*
@@ -274,6 +275,7 @@
 *://*.onthedockspub.com/*
 
 ## P
+*://*.padova.it/*
 *://*.purumeria.com/*
 
 ## R
@@ -285,6 +287,9 @@
 *://*.samex.jp/*
 *://*.sagerdz.blogspot.com/*
 *://*.sbu.ac.ir/*
+
+## U (2022-03-26追加)
+*://*.umbria.it/*
 
 ## V
 *://*.voipnim.com/*
@@ -640,6 +645,7 @@
 *://*.diskdig.com/*
 
 ## ガセ-E
+*://*.ease-arthralgia.net/*
 *://*.eigobu.jp/*
 *://*.eritokyo.jp/*
 
@@ -653,6 +659,7 @@
 *://*.gogen-yurai.jp/*
 
 ## ガセ-H
+*://*.hapila.jp/*
 *://*.happy-science.jp/*
 *://*.happysmileinvestment.com/*
 *://*.hypnotherapy.nagoya/*
@@ -675,6 +682,7 @@
 *://*.link-21.com/*
 
 ## ガセ-M
+*://*.medical-channel.com/*
 *://*.meiyouwenti.net/*
 *://*.mobile-shuri.jp/*
 *://*.mylohas.net/*
@@ -710,6 +718,7 @@
 *://*.smartlog.jp/*
 *://*.spirit.aptty.com/*
 *://*.spiritual.syuji.com/*
+*://*.syoujyou-site.com/*
 
 ## ガセ-T
 *://*.tadatabilife.hatenablog.com/*
@@ -768,6 +777,7 @@
 *://*.uraken-deai.com/*
 
 # 他人の褌で飯が旨い
+*://*.news.ameba.jp/*
 *://*.news.biglobe.ne.jp/*
 *://*.ceron.jp/*
 *://*.create-navi.info/*
