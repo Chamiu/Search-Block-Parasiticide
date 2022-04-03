@@ -10,6 +10,7 @@
 *://*.javdc.net/*
 *://*.javhdo.net/*
 *://*.javrav.com/*
+*://*.javraveclub.com/*
 *://*.jigadorierogazou.blog.fc2.com/*
 *://*.kahucrossfit.com/*
 *://loadinglady.blogmastery.co/*
@@ -154,6 +155,7 @@
 
 # 销售中華盗版软件(seller of Chinese Copycat Software)
 *://*.appli-world.jp/*
+*://biancachan.hatenablog.com/*
 *://*.butsuyoku-gadget.com/*
 *://*.capterra.jp/*
 *://*.chinadap.com/*
@@ -327,6 +329,7 @@
 *://*.amamoba.com/*
 *://*.aohajkl.com/*
 *://*.app-liv.jp/*
+*://*.appantenna.net/*
 *://*.appdam.info/*
 *://*.appleinsider.com/*
 *://*.appleshinja.com/*
@@ -393,6 +396,7 @@
 *://*.japanese.engadget.com/*
 *://*.erodaioh.com/*
 *://*.erodouga-tairiku.com/*
+*://*.elog-ch.com/*
 *://*.euromobil-japan.com/*
 *://*.eropuru.com/*
 
@@ -451,6 +455,7 @@
 *://*.jocee.jp/*
 *://*.johnny-movie.com/*
 *://*.jpnews-video.com/*
+*://*.junglila.jp/*
 
 ## 乞食-K
 *://*.kakoshiru.com/*
@@ -460,6 +465,7 @@
 *://*.kdgadget.com/*
 *://*.keitaijoho.com/*
 *://*.killy.biz/*
+*://*.kimetsu-i.com/*
 *://*.kinyunenkin.jp/*
 *://*.kogire.com/*
 *://*.koumasai.jp/*
@@ -484,6 +490,7 @@
 *://*.malavida.com/*
 *://*.mamanurs.com/*
 *://*.mazenta0.blogspot.com/*
+*://*.me-byo-summit.jp/*
 *://*.mentdis.asia/*
 *://*.miyamatakeru.com/*
 *://*.moemoematome.net/*
@@ -544,6 +551,7 @@
 *://*.sec-sim.com/*
 *://*.securitysoft.asia/*
 *://*.sejuku.net/*
+*://*.setusoku.com/*
 *://*.shoiblog.com/*
 *://*.shoppingosusume.com/*
 *://*.slant.co/*
