@@ -1,6 +1,7 @@
 # VIRUS VIRUS VIRUS
 *://*.allmacworld.com/*
 *://*.anirobik.com/*
+*://*.bgdy88.com/*
 *://*.carlostoriophoto.com/*
 *://*.chinesemix.com/*
 *://*.cubillookinside.co/*
@@ -74,6 +75,7 @@
 *://*.happymail.co.jp/*
 *://*.happymlm888.com/*
 *://*.infojoho.org/*
+*://*.ik4.es/*
 *://*.korekaradesu.com/*
 *://*.ladylibertybrands.com/*
 *://*.macbooster.net/*
