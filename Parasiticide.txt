@@ -47,16 +47,20 @@
 *://*.ditching.eu/*
 *://*.eyewated.com/*
 *://*.gadget-info.com/*
+*://*.ghosthaunters.com/*
 *://*.goodcloudstorage.net/*
 *://*.ihowto.tips/*
 *://*.istarapps.com/*
 *://*.iwofr.org/*
 +://*.joecomp.com/*
+*://*.libreopinion.net/*
 *://*.mysterytribune.com/*
 *://*.narkive.jp/*
 *://*.partitionwizard.jp/*
-*://*.soydemac.com/ja/
+*://*.soydemac.com/*
+*://*.tombouctou-food.com/*
 *://*.twittospia.com/*
+*://*.ubunlog.com/*
 *://*.uirusu.jp/*
 *://*.volsiz.ru/*
 *://*.vpnmentor.com/*
@@ -216,12 +220,14 @@
 ## A
 *://*.adviserbest.com/*
 *://*.aetdiesel.com:8888/*
+*://*anantkaal.org/*
 *://*.andersonart.org/*
 *://*.armevents.co.in/*
 *://*.atlanticcouncil.org/*
 
 ## B
 *://*.b-tayama.com/*
+*://*.bauhaus-cottbus.de/*
 
 ## C
 *://*.cnkeejie.xyz/*
@@ -255,6 +261,9 @@
 *://*.hivic-recruit.com/*
 *://*.harneymotorsltd.com/*
 
+## I (2022-04-07追加)
+*://i-pal.or.jp/*
+
 ## J
 *://*.jkhewjthfj.blogspot.com/*
 *://*.jimoai444.hatenablog.com/*
@@ -267,8 +276,10 @@
 *://*.lostash.jp/*
 
 ## M
+*://*.mgscience.ac.in/*
 *://*.michamin.xyz/*
 *://*.mikagamit777.com/*
+*://*.municipal180.com/*
 
 ## N
 *://*.nicasan.ru/*
@@ -288,6 +299,7 @@
 *://*.rittencalculator.tnls.nl/*
 
 ## S
+*://*.sashico.jp/*
 *://*.samex.jp/*
 *://*.sagerdz.blogspot.com/*
 *://*.sbu.ac.ir/*
@@ -470,6 +482,7 @@
 *://*.kimetsu-i.com/*
 *://*.kinyunenkin.jp/*
 *://*.kogire.com/*
+*://koneta.nifty.com/*
 *://*.koumasai.jp/*
 *://*.kurashi-no.jp/*
 *://*.kspxnr.work/*
@@ -656,6 +669,7 @@
 *://*.daiwaryu1121.com/*
 *://*.demimen.jp/*
 *://*.diskdig.com/*
+*://*.drama-cm-show.com/*
 
 ## ガセ-E
 *://*.ease-arthralgia.net/*
@@ -824,6 +838,7 @@
 *://*.topbestalternative.com/*
 *://*.topics24.jp/*
 *://*.torange.biz/*
+*://*.upde.jp/*
 *://*.view.cafe/*
 *://*.news.yahoo.co.jp/*
 
@@ -869,7 +884,7 @@
 *://*.namaeuranai.biz/*
 *://*.note.com/*
 *://*.pc-karuma.net/*
-*://*.rakuten.(ne|co).jp/*
+*://*.rakuten.\*.jp/*
 *://*.rakuten-search.com/*
 *://*.syosetu.com/*
 *://*.togetter.com/*
