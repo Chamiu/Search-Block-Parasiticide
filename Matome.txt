@@ -28,6 +28,7 @@
 # 5
 *://50challenge-mutsu.com/*
 *://55kengo.com/*
+*://*.59bbs.org/*
 *://5app-ch.com/*
 *://5w1h-jp.com/*
 
@@ -216,8 +217,10 @@
 *://boku-tabi.com/*
 *://bombr.jp/*
 *://*.bonboyablog.com/*
+*://*.bookportal.jp/*
 *://bororon.doorblog.jp/*
 *://boshi-hawaii.com/*
+*://*.bouyomi.jp/*
 
 ## BR
 *://brandnew-s.com/*
@@ -432,6 +435,7 @@
 *://ereoh.com/*
 *://erimakee.com/*
 *://*.erodo-ga.com/*
+*://*.erodecoco.com/*
 *://ertk.net/*
 *://erumaru.com/*
 *://event4info.com/*
@@ -468,6 +472,7 @@
 *://blog.livedoor.jp/foufif/*
 *://fufu.ame-plus.net/*
 *://fukuniko.com/*
+*://*.fukuuti.com/*
 *://funfunfun-trendlabo.xyz/*
 *://funwayroad.com/*
 *://furamu4568.com/*
@@ -475,6 +480,7 @@
 *://futamato.blog.jp/*
 *://futoukou.love/*
 *://future-sparkling.com/*
+*://*.huuzokutaiken.blog.jp/*
 *://fuwafuwam.com/*
 *://fuyukoyuki.com/*
 *://fw-eani.net/*
@@ -499,6 +505,7 @@
 ## GE
 *://ge-soku.com/*
 *://geektushin.com/*
+*://*.geino-s.com/*
 *://geino-taro.com/*
 *://geinou-now.net/*
 *://geinou-research555.com/*
@@ -704,6 +711,7 @@
 *://iroirog.info/*
 *://iroirosokuhou.com/*
 *://iromame-beans.jp/*
+*://*.iropel0103.com/*
 *://ishiishiishi.com/*
 *://isao001.com/*
 *://isidorus-ex-camera.com/*
@@ -1040,6 +1048,7 @@
 *://moccosnoon.com/*
 *://moccosnoon.tumblr.com/*
 *://ameblo.jp/moju0304/*
+*://mokasoku.blomaga.jp/*
 *://mokomoko30.com/*
 *://molulabo.com/*
 *://momonjin.com/*
@@ -1128,11 +1137,12 @@
 *://newmatosoku.com/*
 *://newneta.work/*
 *://newpuru.doorblog.jp/*
+*://news-discussion.com/*
 *://news-himajin.work/*
 *://news-japan365.com/*
 *://news-news-news.net/*
 *://news-three-stars.net/*
-*://news-discussion.com/*
+*://*.news-toranomaki.net/*
 *://news-us.org/*
 *://news-wadai.com/*
 *://blog.livedoor.jp/news23vip/*
@@ -1231,6 +1241,7 @@
 *://oregano.work/*
 *://orenosaito.com/*
 *://oreno-trend.biz/*
+*://*.oretachi-kidan.net/*
 *://oricoma.com/*
 *://orusoku.com/*
 *://osarai-media.net/*
@@ -1421,6 +1432,7 @@
 *://*.seikou55.com/*
 *://seiyuu-voiceactor.com/*
 *://sekai-kawaru.com/*
+*://*.sekainojump.com/*
 *://sexy-tweet.blog.jp/*
 *://sey-88.com/*
 
@@ -1532,6 +1544,7 @@
 *://sumahogame.net/*
 *://sumaholife.biz/*
 *://summer-century.com/*
+*://*.sumomo-ch.com/*
 *://sumomonoie.com/*
 *://sunshine4424.com/*
 *://suntoranosuke.com/*
