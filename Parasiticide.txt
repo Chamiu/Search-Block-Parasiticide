@@ -107,8 +107,9 @@
 # 中華盗版软件(Chinese Copycat Software)
 *://*.4videosoft.jp/*
 *://*.aimersoft\.*/*
-*://*.aiseesoft.(com|jp)/*
-*://*.anvsoftt\.*/*
+*://*.aiseesoft.com/* # 2022-04-27分離
+*://*.aiseesoft.jp/*
+*://*.anvsoft\.*/*
 *://*.any-video-converter.com/*
 *://*.any-dvd-converter.com/*
 *://*.anymp4.jp/*
@@ -190,6 +191,7 @@
 *://*.taishon.nagoya/*
 *://*.uninstallmacapp.blogspot.com/*
 *://*.urusulambda.com/*
+*://yurugadget.hateblo.jp/*
 
 # 中国破解软件再配布 (Chinese cracking software re-distribution)
 *://*.deiniu.com/*
@@ -288,6 +290,7 @@
 
 ## O
 *://*.onthedockspub.com/*
+*://*.jpn.org/*
 
 ## P
 *://*.padova.it/*
@@ -326,7 +329,7 @@
 # 乞食
 ## 乞食-数字
 *://*.1st-net.jp/*
-*://*.1wordworld.blog26.fc2.com/*
+*://1wordworld.blog26.fc2.com/*
 *://*.8nengoshi.jp/*
 
 ## 乞食-A
@@ -417,8 +420,10 @@
 ## 乞食-F
 *://*.fc2hub.com/*
 *://*.fenet.jp/*
+*://*.find-model.jp/*
 *://*.fossmint.com/*
 *://*.free-mac-software.com/*
+*://*.freelifetech.com/*
 *://*.ferret-plus.com/*
 *://*.firststyle.jp/*
 *://*.forzastyle.com/*
@@ -448,11 +453,13 @@
 *://*.hajipro.com/*
 *://*.hakobuliving.com/*
 *://*.happyeiga.com/*
+*://*.hattablog.net/*
 *://*.heim.jp/*
 *://*.hm-hm.net/*
 *://*.htraeevas.hatenablog.com/*
 *://*.honestbee.jp/*
 *://*.how-old.info/*
+*://*.hubspot.jp/*
 
 ## 乞食-I
 *://*.iikoto-info.com/*
@@ -509,6 +516,7 @@
 *://*.mentdis.asia/*
 *://*.miyamatakeru.com/*
 *://*.moemoematome.net/*
+*://*.moltsinc.co.jp/*
 *://*.monomania.sblo.jp/*
 *://*.monoreco.ameba.jp/*
 *://*.motivation-up.com/*
@@ -554,6 +562,7 @@
 *://*.rankred.com/*
 *://*.rbbtoday.com/*
 *://*.renote.jp/*
+*://*.richka.co/*
 *://*.rosemary.is/*
 *://*.ryublogs0024.com/*
 
@@ -821,6 +830,7 @@
 *://*.news.infoseek.co.jp/*
 *://*.jpg4\.*/*
 *://*.kadenk.com/*
+*://*.kenchicjunrei.jp/*
 *://*.kyuujoushou.net/*
 *://*.news.line.me/*
 *://*.news.livedoor.com/*
