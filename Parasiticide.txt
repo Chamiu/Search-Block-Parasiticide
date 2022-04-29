@@ -429,6 +429,7 @@
 *://*.forzastyle.com/*
 *://*.formidapps.com/*
 *://*.formidapps.com/*
+*://*.fundo.jp/*
 *://*.fuzinrizin.com/*
 
 ## 乞食-G
@@ -698,6 +699,7 @@
 *://*.hapila.jp/*
 *://*.happy-science.jp/*
 *://*.happysmileinvestment.com/*
+*://*.health-life.jp/*
 *://*.hypnotherapy.nagoya/*
 
 ## ガセ-I
@@ -844,6 +846,7 @@
 *://*.rem9.net/*
 *://*.cont.t-com.ne.jp/*
 *://*.thenews.ne.jp/*
+*://*.tik.moe/*
 *://*.trend-at-tv.com/*
 *://*.topbestalternative.com/*
 *://*.topics24.jp/*
