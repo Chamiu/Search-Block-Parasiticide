@@ -641,6 +641,7 @@
 *://hijikisokuhou.doorblog.jp/*
 *://hikari-iyashi.com/*
 *://*.himablo.xyz/*
+*://*.himahimasan.com/*
 *://*.himakiru.com/*
 *://himaotanews.com/*
 *://himemizu.com/*
@@ -1045,6 +1046,7 @@
 
 ## MO
 *://mo-mo-town.com/*
+*://*.mob-mee.com/*
 *://moccosnoon.com/*
 *://moccosnoon.tumblr.com/*
 *://ameblo.jp/moju0304/*
@@ -1058,6 +1060,7 @@
 *://money-press.info/*
 *://monokuro0210.com/*
 *://monozuki-apparel.com/*
+*://*.monst-news.net/*
 *://mopumopu.com/*
 *://mori007.com/*
 *://morimorimoritto.com/*
@@ -1309,6 +1312,7 @@
 *://pollux555.com/*
 *://ponblog.xyz/*
 *://ponpokopon0713.net/*
+*://*.ponytailsokuhou.com/*
 *://pool-i.com/*
 *://poor-bloger.com/*
 *://poppy17.com/*
@@ -1433,6 +1437,7 @@
 *://seiyuu-voiceactor.com/*
 *://sekai-kawaru.com/*
 *://*.sekainojump.com/*
+*://*.serena0312.com/*
 *://sexy-tweet.blog.jp/*
 *://sey-88.com/*
 
@@ -1447,6 +1452,7 @@
 *://shiawaseninaritai.com/*
 *://shigemaru.info/*
 *://shikaku105.blog.jp/*
+*://*.shikandai.com/*
 *://shimammy.com/*
 *://shimaneko-news.com/*
 *://shinchan-social.jp/*
