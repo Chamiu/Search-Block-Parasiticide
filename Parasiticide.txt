@@ -107,7 +107,7 @@
 # 中華盗版软件(Chinese Copycat Software)
 *://*.4videosoft.jp/*
 *://*.aimersoft\.*/*
-*://*.aiseesoft.com/* # 2022-04-27分離
+*://*.aiseesoft.com/*
 *://*.aiseesoft.jp/*
 *://*.anvsoft\.*/*
 *://*.any-video-converter.com/*
@@ -337,7 +337,7 @@
 *://*.ab-cafe.com/*
 *://*.advertimes.com/*
 *://*.affiliate-copywriting.tokyo/*
-*://*.akiba.jpn.org/*
+*://akiba.jpn.org/*
 *://*.alphr.com/*
 *://*.altapps.net/*
 *://*.alternativeto.net/*
@@ -350,6 +350,7 @@
 *://*.appdam.info/*
 *://*.appleinsider.com/*
 *://*.appleshinja.com/*
+*://applica.info/*
 *://*.applion.jp/*
 *://*.appmus.com/*
 *://*.appq.jp/*
@@ -582,6 +583,7 @@
 *://*.slant.co/*
 *://*.smap25years.com/*
 *://*.smartio.life/*
+*://*.smsonline.cloud/*
 *://*.softantenna.com/*
 *://*.softpedia.com/*
 *://*.softoware.org/*
@@ -835,7 +837,7 @@
 *://*.kenchicjunrei.jp/*
 *://*.kyuujoushou.net/*
 *://*.news.line.me/*
-*://*.news.livedoor.com/*
+*://news.livedoor.com/*
 *://*.newstweet.jp/*
 *://*.news.mynavi.jp/*
 *://*.www.msn.com/*
