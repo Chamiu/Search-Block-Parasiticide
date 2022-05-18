@@ -2,10 +2,16 @@
 
 *://*.81orchid.com/*
 *://*.asahi-english.com/*
+*://*.asikotz.com/*
 *://*.channel-rei.com/*
 *://*.electron-comic.com/*
 *://*.entameblog.tokyo/*
 *://*.happymackeyblog.com/*
+*://*.loungecafe2004.com/*
+*://m-style.network/*
+*://*.manga-tottori.jp/*
+*://*.netabare1.com/*
+*://netabare1.blog137.fc2.com/*
 *://*.setosan.net/*
 *://*.unatia.net/*
 *://*.vsd1104.com/*
