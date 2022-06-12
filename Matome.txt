@@ -278,6 +278,7 @@
 *://chikatomo.doorblog.jp/*
 *://chikuchiku0728.com/*
 *://chimenavi.com/*
+*://*.chirimencho.net/*
 *://chisou-media.jp/*
 *://chitokarajoshi.com/*
 *://blog.chhs.ca.gov/*
@@ -968,6 +969,7 @@
 *://marog01.com/*
 *://maroup.net/*
 *://marublog.biz/*
+*://maruchan-sokuhou.blogspot.com/*
 *://marucure-picks.com/*
 *://*.marukanblog.com/*
 *://marumohu.com/*
@@ -1064,6 +1066,7 @@
 *://mopumopu.com/*
 *://mori007.com/*
 *://morimorimoritto.com/*
+*://*.motorcyclefreak.jp/*
 *://mounten-f.com/*
 *://moya-trend.com/*
 
@@ -1368,6 +1371,7 @@
 *://restarean.com/*
 *://restren.com/*
 *://resumedia.jp/*
+*://*.reywa.me/*
 *://rhiliy.com/*
 *://richness4.com/*
 *://ridequest.jp/*
@@ -1788,6 +1792,7 @@
 *://xn--l8j8azdd5nhb8192d3hzcxx2bh8d.com/*
 *://xn--n8jtc0b9dub6348amu0anh2a.net/*
 *://xn--n8jtc6ad0nv19pp9cstj8xjljc.net/*
+*://*.xn--o9j0bk5t7exbwe.com/*
 *://xn--o9j0bk7qoi1fn42z6lo.net/*
 *://xn--o9jl183u6icq84g6fc5z4c.com/*
 *://xn--q9jb1h748y.com/*
