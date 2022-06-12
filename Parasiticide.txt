@@ -24,6 +24,7 @@
 *://*.topchineseporn.com/*
 *://*.topshippingja.com/*
 *://*.tratzsolucoes.com.br/*
+*://*.vjcatkick.com/*
 *://*.wangel.aioilight.space/*
 *://*.xero.porn/*
 *://*.zettai-ero.com/*
@@ -224,6 +225,7 @@
 *://*.aetdiesel.com:8888/*
 *://*anantkaal.org/*
 *://*.andersonart.org/*
+*://anothertrophywifeintraining.blogspot.com/*
 *://*.armevents.co.in/*
 *://*.atlanticcouncil.org/*
 
@@ -232,6 +234,7 @@
 *://*.bauhaus-cottbus.de/*
 
 ## C
+*://*.cm-wako.jp/*
 *://*.cnkeejie.xyz/*
 *://*.copin-cp.com/*
 *://*.cycling.org.sg/*
@@ -255,6 +258,7 @@
 *://*.gaznevada.iq.usp.br/*
 *://*.goodnewz.net/*
 *://*.grandfleet.info/*
+*://*.grootnieuwsradio.nl/*
 
 ## H
 *://*.happycamperbathbombs.com/*
@@ -265,10 +269,12 @@
 
 ## I (2022-04-07追加)
 *://i-pal.or.jp/*
+*://*.calabria.it/*
 
 ## J
-*://*.jkhewjthfj.blogspot.com/*
-*://*.jimoai444.hatenablog.com/*
+*://*jikou.co.jp/*
+*://jimoai444.hatenablog.com/*
+*://jkhewjthfj.blogspot.com/*
 
 ## K
 *://*.kato-hakuraku.com/*
@@ -276,6 +282,7 @@
 
 ## L
 *://*.lostash.jp/*
+*://*.ltg-transporte.de/*
 
 ## M
 *://*.mgscience.ac.in/*
@@ -306,9 +313,11 @@
 *://*.samex.jp/*
 *://*.sagerdz.blogspot.com/*
 *://*.sbu.ac.ir/*
+*://sghch.sakuraweb.com/*
 
 ## U (2022-03-26追加)
 *://*.umbria.it/*
+*://*.usp.br/*
 
 ## V
 *://*.voipnim.com/*
@@ -330,6 +339,7 @@
 ## 乞食-数字
 *://*.1st-net.jp/*
 *://1wordworld.blog26.fc2.com/*
+*://55life555.blog.fc2.com/*
 *://*.8nengoshi.jp/*
 
 ## 乞食-A
@@ -337,6 +347,7 @@
 *://*.ab-cafe.com/*
 *://*.advertimes.com/*
 *://*.affiliate-copywriting.tokyo/*
+*://*affiliate-kousotu.com/*
 *://akiba.jpn.org/*
 *://*.alphr.com/*
 *://*.altapps.net/*
@@ -396,6 +407,7 @@
 *://*.digitalidentity.co.jp/*
 *://*.diskhouse.shop/*
 *://*.docesnobres.com.br/*
+*://*.donguri-farm.jp/*
 *://*.dorekau.com/*
 *://*.dougamatome.xyz/*
 *://*.download.cnet.com/*
@@ -459,6 +471,7 @@
 *://*.heim.jp/*
 *://*.hm-hm.net/*
 *://*.htraeevas.hatenablog.com/*
+*://*.honcierge.jp/*
 *://*.honestbee.jp/*
 *://*.how-old.info/*
 *://*.hubspot.jp/*
@@ -481,6 +494,7 @@
 *://*.junglila.jp/*
 
 ## 乞食-K
+*://*.kakakumag.com/*
 *://*.kakoshiru.com/*
 *://*.kandaeshop.com/*
 *://*.kaerucloud.com/*
@@ -513,6 +527,7 @@
 *://*.makeuseof.com/*
 *://*.malavida.com/*
 *://*.mamanurs.com/*
+*://*.masaru0.com/*
 *://*.mazenta0.blogspot.com/*
 *://*.me-byo-summit.jp/*
 *://*.mentdis.asia/*
@@ -563,6 +578,7 @@
 *://*.rank-king.jp/*
 *://*.rankred.com/*
 *://*.rbbtoday.com/*
+*://*.re-file.com/*
 *://*.renote.jp/*
 *://*.richka.co/*
 *://*.rosemary.is/*
@@ -580,6 +596,7 @@
 *://*.setusoku.com/*
 *://*.shoiblog.com/*
 *://*.shoppingosusume.com/*
+*://*.siteflow.jp/*
 *://*.slant.co/*
 *://*.smap25years.com/*
 *://*.smartio.life/*
@@ -607,6 +624,7 @@
 *://*.tutsplus.com/*
 *://*.tv-movie.wark.info/*
 *://*.tvzuki.com/*
+*://*.twist-design.life/*
 
 ## 乞食-U
 *://*.uninstallmacapp.com/*
@@ -729,6 +747,7 @@
 
 ## ガセ-N
 *://*.nihon-omokage.com/*
+*://*.nyusankin-kimochi.com/*
 
 ## ガセ-O
 *://*.okane-fueeru.com/*
@@ -805,6 +824,7 @@
 *://*.hoshutube.army.jp/*
 *://*.jigensha.info/*
 *://*.jpon.xyz/*
+*://keiji-pro.com/*
 *://kumikosaito.com/*
 *://*.lineblog.me/mentalist_daigo/*
 *://lineblog.me/momo1101/*
@@ -861,15 +881,17 @@
 *://*.box.com/*
 *://*.hatenadiary.jp/*
 
-# Wikipedia copy and paste
+# Wikipedia copycat
 *://*.autopedia.jpn.org/*
 *://*.mairi.me/*
 *://*.name01.unsei.me/*
 *://*.memory-jp.com/*
+*://*.weblio.jp/*
 *://*.wikiredia.com/*
 
 # 樋渡啓祐
 *://*.e-earphone.blog/*
+*://*.e-earphone.jp/*
 *://*.hawk-a.com/*
 *://*.okwave.jp/*
 *://*.otokitashun.com/*
