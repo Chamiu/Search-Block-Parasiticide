@@ -1,6 +1,6 @@
 # Search-Block-Parasiticide
 
-[Matome.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/Matome.txt)は、[yussio (yussy)](https://github.com/yussio)さんが作成したGoogle Chromeの拡張機能[uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=ja)用の[URLフィルタ](https://github.com/yussio/web-blacklist)へ、日々のThe Internetの徘徊で見付けてしまった[リスト選定基準](https://pixelog.net/post/ma5z69/)に即したdomainを追加し、[uBlacklist for Safari](https://apps.apple.com/jp/app/ublacklist-for-safari/id1547912640?mt=12)で動作検証したURLフィルタです。  
+[Matome.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/Matome.txt)は、[yussio (yussy)](https://github.com/yussio)さんが[リスト選定基準](https://pixelog.net/post/ma5z69/)に基づいて作成したGoogle Chromeの拡張機能[uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=ja)用の[URLフィルタ](https://github.com/yussio/web-blacklist)へ、日々のThe Internetの徘徊で見付けてしまった同基準に即したdomainを追加し、[uBlacklist for Safari](https://apps.apple.com/jp/app/ublacklist-for-safari/id1547912640?mt=12)で動作検証したURLフィルタです。  
 なお、inactiveになっても同目的で再利用されない保証はないので、登録を維持します。  
 また、次のフィルタもあります。
 
