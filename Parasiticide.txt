@@ -14,6 +14,7 @@
 *://*.javraveclub.com/*
 *://*.jigadorierogazou.blog.fc2.com/*
 *://*.kahucrossfit.com/*
+*://*.livedoor.jp/*
 *://loadinglady.blogmastery.co/*
 *://*.macuninstallguides.com/*
 *://*.medmalrx.com/*
@@ -223,6 +224,7 @@
 ## A
 *://*.adviserbest.com/*
 *://*.aetdiesel.com:8888/*
+*://*.altfuelsiberia.com*
 *://*anantkaal.org/*
 *://*.andersonart.org/*
 *://anothertrophywifeintraining.blogspot.com/*
@@ -467,6 +469,7 @@
 *://*.hajipro.com/*
 *://*.hakobuliving.com/*
 *://*.happyeiga.com/*
+*://*.haru-ads.com/*
 *://*.hattablog.net/*
 *://*.heim.jp/*
 *://*.hm-hm.net/*
@@ -605,6 +608,7 @@
 *://*.softpedia.com/*
 *://*.softoware.org/*
 *://*.stuklopechat.com/*
+*://*.system-creator.com/*
 *://*.supari.jp/*
 
 ## 乞食-T
@@ -685,6 +689,7 @@
 ## ガセ-C
 *://*.careersupli.jp/*
 *://*.chainonet.com/*
+*://*.chargepure.com/*
 *://*.chaneltc.com/*
 *://*.chht7.com/*
 *://*.cktt.jp/*
@@ -737,6 +742,7 @@
 
 ## ガセ-L
 *://*.leisurego.jp/*
+*://*.lessplasticlife.com/*
 *://*.link-21.com/*
 
 ## ガセ-M
@@ -751,6 +757,7 @@
 
 ## ガセ-O
 *://*.okane-fueeru.com/*
+*://otopaki.hatenablog.com/*
 *://*.otsukaresama-deshita.com/*
 
 ## ガセ-P
@@ -887,6 +894,7 @@
 *://*.name01.unsei.me/*
 *://*.memory-jp.com/*
 *://*.weblio.jp/*
+*://*.wikijp.org/*
 *://*.wikiredia.com/*
 
 # 樋渡啓祐
