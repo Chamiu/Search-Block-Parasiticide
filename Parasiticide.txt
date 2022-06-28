@@ -349,7 +349,7 @@
 *://*.ab-cafe.com/*
 *://*.advertimes.com/*
 *://*.affiliate-copywriting.tokyo/*
-*://*affiliate-kousotu.com/*
+*://*.affiliate-kousotu.com/*
 *://akiba.jpn.org/*
 *://*.alphr.com/*
 *://*.altapps.net/*
@@ -364,6 +364,7 @@
 *://*.appleinsider.com/*
 *://*.appleshinja.com/*
 *://applica.info/*
+*://*.applingo.tokyo/*
 *://*.applion.jp/*
 *://*.appmus.com/*
 *://*.appq.jp/*
