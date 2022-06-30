@@ -673,6 +673,7 @@
 # ガセ
 ## 数字または記号 2022.02.06追加
 *://*.309mm.com/*
+*://0755szjj.com/*
 
 ## ガセ-A
 *://*.akiko-counselingroom.com/*
@@ -726,6 +727,7 @@
 *://*.happy-science.jp/*
 *://*.happysmileinvestment.com/*
 *://*.health-life.jp/*
+*://*.health-more.jp/*
 *://*.hypnotherapy.nagoya/*
 
 ## ガセ-I
@@ -734,6 +736,7 @@
 ## ガセ-K
 *://*.kabo-kao.com/*
 *://*.kanteiya.com/*
+*://*.karadane.jp/*
 *://*.kazahanamirai.com/*
 *://*.kenjya.org/*
 *://*.blog.goo.ne.jp/kimito39/*
@@ -751,12 +754,14 @@
 *://*.meiyouwenti.net/*
 *://*.mobile-shuri.jp/*
 *://*.mylohas.net/*
+*://*.mywellweb.com/*
 
 ## ガセ-N
 *://*.nihon-omokage.com/*
 *://*.nyusankin-kimochi.com/*
 
 ## ガセ-O
+*://*.ogw-media.com/*
 *://*.okane-fueeru.com/*
 *://otopaki.hatenablog.com/*
 *://*.otsukaresama-deshita.com/*
@@ -790,6 +795,7 @@
 ## ガセ-T
 *://*.tadatabilife.hatenablog.com/*
 *://*.tennis-mass.com/*
+*://*.teru-saishin.com/*
 *://*.tokai.jp/*
 *://*.torothy.com/*
 *://*.trafficnews.jp/*
@@ -808,6 +814,7 @@
 
 ## ガセ-X
 *://*.xiaolongchakan.com/*
+*://*.xn--ccke5d6a8fj3i7afn.com/*
 *://*.xn--w8j5cwb6a1433a427bijc90wdu1d.com/*
 
 ## ガセ-Y
@@ -819,8 +826,8 @@
 *://*.yuu01.jp/*
 *://*.yuukiwada.com/*
 
-## ガセ-X
-*://*.xn--ccke5d6a8fj3i7afn.com/*
+## ガセ-Z (2022-06-30 Xが重複していたのでZとして再利用)
+*://*.zenplace.co.jp/*
 
 # 差別主義者
 *://*.athfunch.com/*
