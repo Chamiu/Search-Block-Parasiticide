@@ -30,6 +30,21 @@
 *://*.xero.porn/*
 *://*.zettai-ero.com/*
 
+# 薬機法違反 2022-07-06追加
+*://*.chobihige.shop/*
+*://*.doubleagentusa.com/*
+*://*.ghanaimmigration.org/*
+*://*.iekarashop.com/*
+*://*.jste35.jp/*
+*://*.kerberos-saga.jp/*
+*://*.kgura.shop/*
+*://*.kpia.shop/
+*://*.melissaaldana.com/*
+*://*.okusuri-x.com/*
+*://*.snowparknz.com/*
+*://*.rakukuru.com/*
+*://xn--u9j0pq57erfbqxcoa483af3dj0vba410juv8i46za.jp/
+
 # 教えて
 *://*.itreview.jp/*
 *://*.okwave.jp/*
@@ -281,6 +296,7 @@
 ## K
 *://*.kato-hakuraku.com/*
 *://*.ken-plan.com/*
+*://*.kingeav.co/*
 
 ## L
 *://*.lostash.jp/*
@@ -672,20 +688,23 @@
 
 # ガセ
 ## 数字または記号 2022.02.06追加
+*://*.2039.jp/*
 *://*.309mm.com/*
-*://0755szjj.com/*
+*://*.0755szjj.com/*
 
 ## ガセ-A
 *://*.akiko-counselingroom.com/*
 *://*.ancient.powf.net/*
 *://*.appbank.net/*
 *://*.artworks-inter.net/*
+*://*.asaho.com/*
 *://*.asimil.biz/*
 *://*.asyura2.com/*
 *://*.aura-office.co.jp/*
 *://*.azscitechfest.org/*
 
 ## ガセ-B
+*://benzoinfojapan.org/*
 *://*.bizword.jp/*
 
 ## ガセ-C
@@ -739,6 +758,7 @@
 *://*.karadane.jp/*
 *://*.kazahanamirai.com/*
 *://*.kenjya.org/*
+*://*.kenpo9.com/*
 *://*.blog.goo.ne.jp/kimito39/*
 *://*.kisetsumimiyori.com/*
 *://*.koiy.hatenadiary.jp/*
@@ -752,11 +772,13 @@
 ## ガセ-M
 *://*.medical-channel.com/*
 *://*.meiyouwenti.net/*
+*://minminzemi81.hatenablog.com/*
 *://*.mobile-shuri.jp/*
 *://*.mylohas.net/*
 *://*.mywellweb.com/*
 
 ## ガセ-N
+*://naomi-sayonara.hatenablog.com/*
 *://*.nihon-omokage.com/*
 *://*.nyusankin-kimochi.com/*
 
@@ -797,6 +819,7 @@
 *://*.tennis-mass.com/*
 *://*.teru-saishin.com/*
 *://*.tokai.jp/*
+*://*.tomobanashi.jp/*
 *://*.torothy.com/*
 *://*.trafficnews.jp/*
 *://*.trans-suite.jp/*
@@ -806,6 +829,7 @@
 
 ## ガセ-U
 *://*.uekusak.cocolog-nifty.com/*
+*://*.uonumasann.jp/*
 
 ## ガセ-W
 *://*.windowsapp.tokyo/*
@@ -873,14 +897,17 @@
 *://*.kyuujoushou.net/*
 *://*.news.line.me/*
 *://news.livedoor.com/*
-*://*.newstweet.jp/*
 *://*.news.mynavi.jp/*
+*://*.newstweet.jp/*
+*://*.nippon.com/*
 *://*.www.msn.com/*
 *://*.mato.media/*
 *://*.mato.media/*
 *://*.newstopics.jp/*
+*://*.nicenews.club/*
 *://*.news.nifty.com/*
 *://*.rem9.net/*
+*://*.ryo-yasukawa.com/*
 *://*.cont.t-com.ne.jp/*
 *://*.thenews.ne.jp/*
 *://*.tik.moe/*
