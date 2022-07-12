@@ -30,7 +30,7 @@
 *://*.xero.porn/*
 *://*.zettai-ero.com/*
 
-# 薬機法違反 2022-07-06追加
+# 薬機法違反→犯罪 22022-07-07変更
 *://*.chobihige.shop/*
 *://*.doubleagentusa.com/*
 *://*.ghanaimmigration.org/*
@@ -42,6 +42,7 @@
 *://*.melissaaldana.com/*
 *://*.okusuri-x.com/*
 *://*.snowparknz.com/*
+*://*.taimauniversity.com/*
 *://*.rakukuru.com/*
 *://xn--u9j0pq57erfbqxcoa483af3dj0vba410juv8i46za.jp/
 
@@ -64,6 +65,7 @@
 *://*.ditching.eu/*
 *://*.eyewated.com/*
 *://*.gadget-info.com/*
+*://*.gadgetarq.com/*
 *://*.ghosthaunters.com/*
 *://*.goodcloudstorage.net/*
 *://*.ihowto.tips/*
@@ -828,6 +830,7 @@
 *://*.tyuuta1.com/*
 
 ## ガセ-U
+*://aka.gmobb.jp/uchidamitsuo/*
 *://*.uekusak.cocolog-nifty.com/*
 *://*.uonumasann.jp/*
 
@@ -950,6 +953,7 @@
 
 # 完全なる好み
 *://*.ameblo.jp/*
+*://*.aucfan.com/*
 *://*.carsensor.net/*
 *://*.carview.co.jp/*
 *://*.cyzo.com/*
@@ -964,9 +968,10 @@
 *://*.namaeuranai.biz/*
 *://*.note.com/*
 *://*.pc-karuma.net/*
-*://*.rakuten.\*.jp/*
+*://*.rakuten.co.jp/*
 *://*.rakuten-search.com/*
 *://*.syosetu.com/*
+*://*.tabelog.com/*
 *://*.togetter.com/*
 *://*.trendmicro.com/*
 *://*.vector.co.jp/*
