@@ -400,6 +400,7 @@
 *://dreamstirs4.com/*
 *://dreamstyle.life/*
 *://drift-kingdom.com/*
+*://*.drollwolf.com/*
 *://dropby-home.com/*
 
 ## DT 2022.02.06追加
@@ -421,6 +422,7 @@
 *://endia.net/*
 *://ene-po.com/*
 *://enhoko.com/*
+*://*.entame.site/*
 *://entaentaenta.com/*
 *://entame000ss.seesaa.net/*
 *://entamescramble.com/*
@@ -437,6 +439,7 @@
 *://erimakee.com/*
 *://*.erodo-ga.com/*
 *://*.erodecoco.com/*
+*://*.eropasture.com/*
 *://ertk.net/*
 *://erumaru.com/*
 *://event4info.com/*
@@ -705,6 +708,7 @@
 *://intakeinfo.jp/*
 *://interest216.site/*
 *://interested-media.com/*
+*://*.interests-me-the-most.com/*
 *://intergate.info/*
 *://iratsuku.com/*
 *://irodori-terrace.com/*
@@ -725,6 +729,7 @@
 *://ivest-part.com/*
 
 # J
+*://*.j-im.jp/*
 *://jacklog.doorblog.jp/*
 *://jaguar-information.com/*
 *://japanation.jp/*
@@ -785,6 +790,7 @@
 *://karikari.xyz/*
 *://karukantimes.com/*
 *://katukatu8880.com/*
+*://*.katuru.com/*
 *://kawaberi.net/*
 *://kawareiworld.tokyo/*
 *://kayuitokoronite.com/*
@@ -835,6 +841,7 @@
 *://knowledge-cafe.net/*
 
 ## KO
+*://ko-taro-room.link/*
 *://ko24cs.com/*
 *://kodokuranote.com/*
 *://kodomotoasobou.com/*
@@ -844,12 +851,12 @@
 *://kokusai-singlemama.com/*
 *://komatsudayohei.jp/*
 *://komatsuryo.com/*
-*://ko-taro-room.link/*
 *://koneko2222.xyz/*
 *://konoyubitomare.jp/*
 *://korebro-news.com/*
 *://korejanai.exblog.jp/*
 *://korekarazizake.com/*
+*://*.korewaeroi.com/*
 *://kousuke-organic.com/*
 *://kotaneko.net/*
 *://kottihakillerkiller.com/*
@@ -1057,6 +1064,7 @@
 *://molulabo.com/*
 *://momonjin.com/*
 *://mom-clip.com/*
+*://*.mondainashi.net/*
 *://mondo-libre.com/*
 *://money-life.doorblog.jp/*
 *://money-press.info/*
@@ -1144,6 +1152,7 @@
 *://newneta.work/*
 *://newpuru.doorblog.jp/*
 *://news-discussion.com/*
+*://*.news-enspo.com/*
 *://news-himajin.work/*
 *://news-japan365.com/*
 *://news-news-news.net/*
@@ -1259,6 +1268,7 @@
 *://oucedonc.com/*
 *://ouchi-times.com/*
 *://ouest-ecowatt.com/*
+*://*.oumasansokuhou.com/*
 *://outdooor.blog.jp/*
 *://outidesigoto.com/*
 *://oyakudachi2525.com/*
@@ -1498,7 +1508,7 @@
 *://smiletrendinfo.com/*
 
 ## SN
-*://sn-jp.com/*
+*://*.sn-jp.com/*
 *://snacktime75.com/*
 *://snopommedia.com/*
 *://snsdays.com/*
@@ -1506,12 +1516,14 @@
 
 ## SO
 *://social-fill.com/*
+*://*.socom.yokohama/*
 *://soiginta.biz/*
 *://sokashi0525.com/*
 *://sokulan.com/*
 *://*.sokutrend.com/*
 *://solid.coresv.net/*
 *://solife-a.com/*
+*://*.soins-life.com/*
 *://sorano-mado.com/*
 *://soratoburin.com/*
 *://sorehatottemo.xyz/*
@@ -1645,6 +1657,7 @@
 *://tonboeye.com/*
 *://toohottogethome.com/*
 *://topic-note.com/*
+*://*.topiclouds.net/*
 *://topitane.net/*
 *://*.topspeed-service.jp/*
 *://torasan1.com/*
@@ -1874,6 +1887,7 @@
 *://yuno-1031.com/*
 *://yuruiki.site/*
 *://yuruneto.com/*
+*://*.yutakanahibi.com/*
 *://yutber.blog.jp/*
 *://yuuhime.xyz/*
 *://yuyu007.com/*
