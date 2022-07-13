@@ -5,6 +5,7 @@
 *://*.carlostoriophoto.com/*
 *://*.chinesemix.com/*
 *://*.cubillookinside.co/*
+*://*.esquarehomes.com/*
 *://*.honestcareforkids.us/*
 *://*.imandarinpod.com/*
 *://*.jav19.analtube.info/*
@@ -185,7 +186,6 @@
 *://*.butsuyoku-gadget.com/*
 *://*.capterra.jp/*
 *://*.chinadap.com/*
-*://*.deletemacapplications.blogspot.com/*
 *://*.eltima.com/*
 *://*.filehippo.jp/*
 *://*.freepc.jp/*
@@ -208,7 +208,6 @@
 *://*.removemacapplication.wordpress.com/*
 *://*.robertegraham.com/*
 *://*.taishon.nagoya/*
-*://*.uninstallmacapp.blogspot.com/*
 *://*.urusulambda.com/*
 *://yurugadget.hateblo.jp/*
 
@@ -244,7 +243,7 @@
 *://*.altfuelsiberia.com*
 *://*anantkaal.org/*
 *://*.andersonart.org/*
-*://anothertrophywifeintraining.blogspot.com/*
+*://*.approvals.ae/*
 *://*.armevents.co.in/*
 *://*.atlanticcouncil.org/*
 
@@ -275,6 +274,7 @@
 
 ## G
 *://*.gaznevada.iq.usp.br/*
+*://*.gem-gem.jp/*
 *://*.goodnewz.net/*
 *://*.grandfleet.info/*
 *://*.grootnieuwsradio.nl/*
@@ -293,7 +293,6 @@
 ## J
 *://*jikou.co.jp/*
 *://jimoai444.hatenablog.com/*
-*://jkhewjthfj.blogspot.com/*
 
 ## K
 *://*.kato-hakuraku.com/*
@@ -331,7 +330,6 @@
 ## S
 *://*.sashico.jp/*
 *://*.samex.jp/*
-*://*.sagerdz.blogspot.com/*
 *://*.sbu.ac.ir/*
 *://sghch.sakuraweb.com/*
 
@@ -550,7 +548,6 @@
 *://*.malavida.com/*
 *://*.mamanurs.com/*
 *://*.masaru0.com/*
-*://*.mazenta0.blogspot.com/*
 *://*.me-byo-summit.jp/*
 *://*.mentdis.asia/*
 *://*.miyamatakeru.com/*
@@ -954,6 +951,7 @@
 # 完全なる好み
 *://*.ameblo.jp/*
 *://*.aucfan.com/*
+*://*.blogspot.com/*
 *://*.carsensor.net/*
 *://*.carview.co.jp/*
 *://*.cyzo.com/*
