@@ -4,6 +4,7 @@
 *://*.bgdy88.com/*
 *://*.carlostoriophoto.com/*
 *://*.chinesemix.com/*
+*://*.combocleaner.com/*
 *://*.cubillookinside.co/*
 *://*.esquarehomes.com/*
 *://*.honestcareforkids.us/*
@@ -20,9 +21,11 @@
 *://*.macuninstallguides.com/*
 *://*.medmalrx.com/*
 *://*.pc-express-france.com/*
+*://*.pcrisk.com/*
 *://*.pornmoviesfull.com/*
 *://*.sadhanacircle.com/*
 *://*.ssk1010.com/*
+*://*.techpout.com/*
 *://*.topchineseporn.com/*
 *://*.topshippingja.com/*
 *://*.tratzsolucoes.com.br/*
@@ -89,6 +92,7 @@
 
 # 詐欺
 *://*.1lifenet.com/*
+*://*.akionakamura.com/*
 *://*.apeailiruric.nagesen.net/*
 *://*.aroma-ecru.com/*
 *://*.bajaoreilles.com/*
@@ -105,11 +109,13 @@
 *://*.macbooster.net/*
 *://*.mackeeper.com/*
 *://*.macpaw.com/*
+*://*.mayosayo.com/*
 *://*.networkbusiness-success.net/*
 *://*.nextag.web.fc2.com/*
 *://*.raworlnig7.over-blog.com/*
 *://*.solar-lab.jp/*
 *://*.sports-adventurer.com/*
+*://*.sugimuratakashi.com/*
 *://*.trade.netgame-rmt.jp/*
 *://*.xn--pcksd1bza2ae0c0qse.jp/*
 *://*.xn----xeutb1bza2am.jp/*
@@ -250,6 +256,7 @@
 ## B
 *://*.b-tayama.com/*
 *://*.bauhaus-cottbus.de/*
+*://*.buenosairessos.com.ar/*
 
 ## C
 *://*.cm-wako.jp/*
@@ -570,6 +577,7 @@
 *://*.netagear.net/*
 *://*.news-sokuhou.site/*
 *://*.nomad-ceo.com/*
+*://*.noto.mobi/*
 
 ## 乞食-O
 *://*.ohitoritv.com/*
@@ -843,6 +851,7 @@
 
 ## ガセ-Y
 *://*.yain.jp/*
+*://*.yamatoq.info/*
 *://*.yo-in.com/*
 *://*.yourei.jp/*
 *://*.hm.aitai.ne.jp/~ytmta/*
@@ -869,6 +878,10 @@
 *://lineblog.me/momo1101/*
 *://*.seiron-sankei.com/*
 *://*.wa-net.net/*
+
+# 弱者搾取 2022-07-17追加
+*://*.seihojouken.com/*
+*://*.seikathuhogomanabou.com/*
 
 # クソUI(句読点が改行のガラパゴス書式を含む)
 *://*.cheerup.jp/*
@@ -908,6 +921,7 @@
 *://*.news.nifty.com/*
 *://*.rem9.net/*
 *://*.ryo-yasukawa.com/*
+*://*.sendai-podcast.jp/*
 *://*.cont.t-com.ne.jp/*
 *://*.thenews.ne.jp/*
 *://*.tik.moe/*
@@ -949,13 +963,13 @@
 *://*.yourpedia.org/*
 
 # 完全なる好み
+*://*.adlock.com/*
 *://*.ameblo.jp/*
 *://*.aucfan.com/*
 *://*.blogspot.com/*
 *://*.carsensor.net/*
 *://*.carview.co.jp/*
 *://*.cyzo.com/*
-*://*.deviantart.com/*
 *://*.deviantart.com/*
 *://*.facebook.com/*
 *://*.filmest.jp/*
