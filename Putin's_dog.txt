@@ -1,4 +1,5 @@
 # Putin's dog
 # cerate : 2022-03-26
 
+*://*.rbth.com/*
 *://*.sputniknews.com/*
