@@ -20,6 +20,8 @@
 *://loadinglady.blogmastery.co/*
 *://*.macuninstallguides.com/*
 *://*.medmalrx.com/*
+*://*.mystrikingly.com/*
+*://*.netlify.app/*
 *://*.pc-express-france.com/*
 *://*.pcrisk.com/*
 *://*.pornmoviesfull.com/*
@@ -332,6 +334,7 @@
 ## R
 *://*.raviatowen-conseil.fr/*
 *://*.reddingcanvas.com/*
+*://retogenofu.hatenablog.com/*
 *://*.rittencalculator.tnls.nl/*
 
 ## S
@@ -913,12 +916,13 @@
 *://*.news.mynavi.jp/*
 *://*.newstweet.jp/*
 *://*.nippon.com/*
-*://*.www.msn.com/*
+*://*.msn.com/*
 *://*.mato.media/*
 *://*.mato.media/*
 *://*.newstopics.jp/*
 *://*.nicenews.club/*
 *://*.news.nifty.com/*
+*://*.nowtice.net/*
 *://*.rem9.net/*
 *://*.ryo-yasukawa.com/*
 *://*.sendai-podcast.jp/*
@@ -940,6 +944,7 @@
 # Wikipedia copycat
 *://*.autopedia.jpn.org/*
 *://*.mairi.me/*
+*://*.monistrol-lesamisduchateau.org/*
 *://*.name01.unsei.me/*
 *://*.memory-jp.com/*
 *://*.weblio.jp/*
@@ -965,6 +970,8 @@
 # 完全なる好み
 *://*.adlock.com/*
 *://*.ameblo.jp/*
+*://*.appbank.co.jp/*
+*://*.appbankstore.jp/*
 *://*.aucfan.com/*
 *://*.blogspot.com/*
 *://*.carsensor.net/*
