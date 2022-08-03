@@ -450,12 +450,14 @@
 *://*.eco-points.jp/*
 *://*.economical.co.jp/*
 *://*.eiga-watch.com/*
+*://*.eikyuu-datsumou.info/*
 *://*.elenigroszer.com/*
 *://*.elog-ch.net/*
+*://*.elog-ch.com/*
 *://*.japanese.engadget.com/*
 *://*.erodaioh.com/*
 *://*.erodouga-tairiku.com/*
-*://*.elog-ch.com/*
+*://*.espo-game.jp/*
 *://*.euromobil-japan.com/*
 *://*.eropuru.com/*
 
@@ -581,6 +583,7 @@
 *://*.news-sokuhou.site/*
 *://*.nomad-ceo.com/*
 *://*.noto.mobi/*
+*://*.nws-blast.com/*
 
 ## 乞食-O
 *://*.ohitoritv.com/*
@@ -671,6 +674,7 @@
 
 ## 乞食-W
 *://*.warasoft.com/*
+*://*.web-graphics.com/*
 *://*.webcatalog.app/*
 *://*.webhoric.com/*
 *://*.weebly.com/*
@@ -805,6 +809,7 @@
 ## ガセ-R
 *://*.r25.jp/*
 *://*.rapt-plusalpha.com/*
+*://*.reifuworks.com/*
 *://*.rekisiru.com/*
 *://*.rich-life58.com/*
 *://*.rich-life58.com/*
@@ -988,6 +993,7 @@
 *://*.note.com/*
 *://*.pc-karuma.net/*
 *://*.rakuten.co.jp/*
+*://*.rakuten.ne.jp/*
 *://*.rakuten-search.com/*
 *://*.syosetu.com/*
 *://*.tabelog.com/*
