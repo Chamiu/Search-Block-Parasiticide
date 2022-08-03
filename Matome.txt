@@ -37,7 +37,7 @@
 *://774route.com/*
 
 # 8
-*://80s90s-songs.fun/*
+*://*.80s90s-songs.fun/*
 *://818-news-blog.com/*
 *://8mato.jp/*
 
@@ -71,6 +71,7 @@
 
 ## AK
 *://akasann.biz/*
+*://*.akasannbiz.com/*
 *://akiko-no-blog.com/*
 *://akitakaoru.com/*
 *://aki-test.com/*
@@ -196,6 +197,7 @@
 *://bibri.com/*
 *://bignews77.com/*
 *://bikuchan.com/*
+*://*.binetsu.net/*
 *://bipblog.com/*
 *://bisekmmtnkhsmm.com/*
 
@@ -266,6 +268,7 @@
 *://chaifafa.com/*
 *://chaki9.com/*
 *://changcoroom.com/*
+*://*.chanare.com/*
 *://channelz.blog.fc2.com/*
 *://cheetah-sokuho.com/*
 *://chekko-8692.com/*
@@ -287,6 +290,7 @@
 *://chomanga.org/*
 *://chops.chips.jp/*
 *://blog.livedoor.jp/christmas1224/*
+*://*.chyamin.com/*
 
 ## CI
 *://cinemachi.net/*
@@ -322,6 +326,7 @@
 
 ## CR
 *://create-yourlife.info/*
+*://*.create-stmedia.com/*
 *://createatrend.com/*
 *://crx7601.com/*
 
@@ -402,6 +407,7 @@
 *://drift-kingdom.com/*
 *://*.drollwolf.com/*
 *://dropby-home.com/*
+*://*.drops-official.com/*
 
 ## DT 2022.02.06追加
 *://dtsoku.com/*
@@ -559,8 +565,7 @@
 *://gourmet-park.site/*
 
 ## GR
-*://grace17.com/*
-*://grade.tokyo/*
+*://*.grade.tokyo/*
 *://grade.tokyo/*
 *://greenforestmiffy.com/*
 *://gremlins-ichigo.com/*
@@ -624,16 +629,18 @@
 *://harurino.com/*
 *://haryu-korea.net/*
 *://hayarimono.tokyo/*
+*://*.havespi.jp/*
 *://hayawakari11.com/*
 
 ## HD
 *://hdydfy.com/*
 
 ## HE
+*://healthy-life-blog.com/*
 *://heaigie.blog.jp/*
 *://hellopyeongchang.com/*
 *://helpcurenow.org/*
-*://healthy-life-blog.com/*
+*://*.henko-movie.com/*
 
 ## HI
 *://hi-mylife15.com/*
@@ -721,7 +728,7 @@
 *://ishiishiishi.com/*
 *://isao001.com/*
 *://isidorus-ex-camera.com/*
-*://it-news-sokuhou.com/*
+*://*.it-news-sokuhou.com/*
 *://it-toranoana.com/*
 *://itips.krsw.biz/*
 *://blog.livedoor.jp/itsoku/*
@@ -753,6 +760,7 @@
 *://joukyunews.com/*
 *://journallimited.com/*
 *://joyuu-media.com/*
+*://*.jrs-w.com/*
 *://*.juditanews.com/*
 *://jufusion.com/*
 *://jumpsokuhou.com/*
@@ -776,6 +784,7 @@
 *://kan8oskar.com/*
 *://kagerou-kazoku.com/*
 *://kameshiba1212.com/*
+*://*.kami-park.jp/*
 *://kanakanaworks.com/*
 *://kanameblog.com/*
 *://kanata12.com/*
@@ -934,6 +943,7 @@
 *://maesuke.com/*
 
 ### MAG
+*://*.mag-zou.com/*
 *://magazinehack.com/*
 *://magical-news.blog.jp/*
 *://magicdoor.jp/*
@@ -1165,6 +1175,7 @@
 *://news4vip.livedoor.biz/*
 *://news4wide.net/*
 *://news7-web.com/*
+*://*.newshi.net/*
 *://newhoshu.blog.jp/*
 *://newnews36.com/*
 *://newsee-media.com/*
@@ -1346,6 +1357,7 @@
 *://pswriter1129.com/*
 
 ## PU
+*://*.puddlesocial.com/*
 *://puralog.com/*
 *://purulife.site/*
 
@@ -1355,8 +1367,11 @@
 *://quick-news.site/*
 
 # R
+## R英数字
 *://r-news.net/*
 *://r40quest.com/*
+
+## RA
 *://raifuappu.com/*
 *://rainmakerofnews.com/*
 *://rajeev2004.blogspot.com/*
@@ -1364,7 +1379,11 @@
 *://ranpunosei.com/*
 *://rastaneko-blog.com/*
 *://ravex.jp/*
+
+## RB
 *://blog.livedoor.jp/rbkyn844/*
+
+## RE
 *://re-sho.com/*
 *://rebeauty.love/*
 *://reco-link.com/*
@@ -1382,24 +1401,35 @@
 *://restren.com/*
 *://resumedia.jp/*
 *://*.reywa.me/*
+
+## RH
 *://rhiliy.com/*
+
+## RI
 *://richness4.com/*
 *://ridequest.jp/*
 *://riekoblog.com/*
 *://rikokko.com/*
+*://*.rincon222.com/*
 *://rins-rin-mei.blog.ss-blog.jp/*
 *://rio2016-live.com/*
 *://risazoo.com/*
 *://risumote.com/*
+
+## RO
 *://road-to-self-realization.com/*
 *://robamimireport.com/*
 *://robotasu.com/*
 *://rockyrocky.work/*
 *://rokkobeauty.net/*
 *://rosyblog.com/*
+
+## RU
 *://ru.sz-search.com/*
 *://ruanalife.com/*
 *://ruriblue.com/*
+
+##RY
 *://ryo3noheya.com/*
 *://ryo-ishikawa.fun/*
 *://ryota0814.com/*
@@ -1421,6 +1451,7 @@
 *://sakumi39.com/*
 *://saku-saku-a.com/*
 *://saladbowl.net/*
+*://*.samuraijournal.net/*
 *://sandarukoko.com/*
 *://sanpon358.com/*
 *://saolifegetwell.com/*
@@ -1474,6 +1505,7 @@
 *://shining-days.com/*
 *://shirashiru.com/*
 *://shittoku.net/*
+*://*.shitureisimasu.com/*
 *://shogogor.com/*
 *://shoko-mag.com/*
 *://shounenki.jp/*
@@ -1651,6 +1683,7 @@
 *://tokutas.com/*
 *://tokyo-minpo.jp/*
 *://tokyoboy.me/*
+*://*.tomami.net/*
 *://tomatomarigi.com/*
 *://tomoful.blog/*
 *://tonatore.com/*
@@ -1669,6 +1702,7 @@
 *://totalwar.doorblog.jp/*
 *://touseikan.com/*
 *://toushichannel.net/*
+*://*.toyo-fc.jp/*
 *://toyota-phv.jp/*
 
 ## TR
@@ -1680,6 +1714,7 @@
 *://trend-passion-life.com/*
 *://trend-rocks.com/*
 *://trend-usagi.com/*
+*://*.trend-wind.com/*
 *://*.trendnews-c.com/*
 *://trendnews9891.site/*
 *://trendquest34.com/*
@@ -1708,6 +1743,7 @@
 
 ## TV
 *://tv-rider.jp/*
+*://*.tv-watch.net/*
 
 ## TW
 *://tweetsoku.com/*
@@ -1736,6 +1772,7 @@
 *://urauraplus.com/*
 *://usagi-syufulife.com/*
 *://usi32.com/*
+*://*.usioproject.com/*
 *://usj-joho.blog.ss-blog.jp/*
 *://usuke0815.com/*
 *://utina-ketumekko.com/*
@@ -1768,6 +1805,7 @@
 *://wadai-pocket.com/*
 *://wagonnavi.click/*
 *://*.waiparavalleynz.com/*
+*://*.walkwithtohoku.jp/*
 *://wankoshoten.com/*
 *://waon-guam.com/*
 *://wapri.site/*
@@ -1781,6 +1819,7 @@
 *://wdic.org/*
 *://webhack.jp/*
 *://web-maket.info/*
+*://*.webrtcconference.jp/*
 *://*.westrip-life.com/*
 *://white-miles.com/*
 *://wide-package.com/*
@@ -1822,6 +1861,9 @@
 *://xxxyuxxxka.com/*
 
 # Y
+## Y英数字  2022-08-03追加
+*://*.y-ichikawa.net/*
+
 ## YA
 *://yachilog.com/*
 *://yakudati365.com/*
@@ -1849,6 +1891,7 @@
 *://you-solo.com/*
 *://you1news.com/*
 *://youkosatou0727.com/*
+*://*.your-magazine.net/*
 *://youtakanashi.com/*
 *://blog.livedoor.jp/youtube_sokuhou/*
 *://blog.livedoor.jp/youtubercom/
