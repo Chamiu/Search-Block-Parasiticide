@@ -36,7 +36,8 @@
 *://*.xero.porn/*
 *://*.zettai-ero.com/*
 
-# 薬機法違反→犯罪 22022-07-07変更
+# 違法行為 2022-08-13追加
+## 薬機法違反→犯罪 22022-07-07変更
 *://*.chobihige.shop/*
 *://*.doubleagentusa.com/*
 *://*.ghanaimmigration.org/*
@@ -51,6 +52,9 @@
 *://*.taimauniversity.com/*
 *://*.rakukuru.com/*
 *://xn--u9j0pq57erfbqxcoa483af3dj0vba410juv8i46za.jp/
+
+## 著作権法違反→犯罪 2022-08-13追加
+*://*.araiguma12.com/*
 
 # 教えて
 *://*.itreview.jp/*
@@ -319,6 +323,7 @@
 *://*.municipal180.com/*
 
 ## N
+*://*.newsba-nk.com/*
 *://*.nicasan.ru/*
 *://*.nodepositcarsmalta.com/*
 *://*.numebeauty.ca/*
@@ -404,6 +409,7 @@
 *://*.ayblg.work/*
 
 ## 乞食-B
+*://*.backbeat-stage.jp/*
 *://*.bafwsprod-bafwsprodnew.azurewebsites.net/*
 *://*.bcnretail.com/*
 *://*.belcy.jp/*
@@ -893,6 +899,7 @@
 
 # クソUI(句読点が改行のガラパゴス書式を含む)
 *://*.cheerup.jp/*
+*://*.iphone-plus-hamamatsu.com/*
 *://*.shufu-chie.com/*
 *://*.uraken-deai.com/*
 
