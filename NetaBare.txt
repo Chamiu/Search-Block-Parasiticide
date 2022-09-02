@@ -4,7 +4,9 @@
 *://*.amitomonet.com/*
 *://*.asahi-english.com/*
 *://*.asikotz.com/*
+*://*.bookseries.jp/*
 *://*.channel-rei.com/*
+*://eigahitottobi.com/*
 *://*.electron-comic.com/*
 *://*.entameblog.tokyo/*
 *://*.happymackeyblog.com/*
@@ -13,9 +15,12 @@
 *://*.manga-tottori.jp/*
 *://*.netabare1.com/*
 *://netabare1.blog137.fc2.com/*
+*://*.patent-stock.com/*
 *://*.pixiin.com/*
 *://*.sakamotonorio.com/*
 *://*.setosan.net/*
 *://*.sky-journal.com/*
 *://*.unatia.net/*
+*://urotanblog.com/*
 *://*.vsd1104.com/*
+*://y86chan.hatenablog.com/*
