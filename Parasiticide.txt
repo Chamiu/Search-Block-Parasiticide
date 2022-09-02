@@ -37,7 +37,7 @@
 *://*.zettai-ero.com/*
 
 # 違法行為 2022-08-13追加
-## 薬機法違反→犯罪 22022-07-07変更
+## 薬機法違反<-犯罪 22022-07-07変更
 *://*.chobihige.shop/*
 *://*.doubleagentusa.com/*
 *://*.ghanaimmigration.org/*
@@ -53,8 +53,10 @@
 *://*.rakukuru.com/*
 *://xn--u9j0pq57erfbqxcoa483af3dj0vba410juv8i46za.jp/
 
-## 著作権法違反→犯罪 2022-08-13追加
+## 著作権法違反<-犯罪 2022-08-13追加
 *://*.araiguma12.com/*
+*://*.cyoinatu-onna.com/*
+*://*.mabui-onna.com/*
 
 # 教えて
 *://*.itreview.jp/*
@@ -317,6 +319,7 @@
 *://*.ltg-transporte.de/*
 
 ## M
+*://*.mademoiselleosaki.com/*
 *://*.mgscience.ac.in/*
 *://*.michamin.xyz/*
 *://*.mikagamit777.com/*
@@ -343,6 +346,7 @@
 *://*.rittencalculator.tnls.nl/*
 
 ## S
+*://*.sakura.ne.jp/*
 *://*.sashico.jp/*
 *://*.samex.jp/*
 *://*.sbu.ac.ir/*
@@ -479,6 +483,7 @@
 *://*.forzastyle.com/*
 *://*.formidapps.com/*
 *://*.formidapps.com/*
+*://*.friday.gold/*
 *://*.fundo.jp/*
 *://*.fuzinrizin.com/*
 
@@ -567,6 +572,7 @@
 *://*.mamanurs.com/*
 *://*.masaru0.com/*
 *://*.me-byo-summit.jp/*
+*://*.megane-enjoy.com/*
 *://*.mentdis.asia/*
 *://*.miyamatakeru.com/*
 *://*.moemoematome.net/*
@@ -782,6 +788,7 @@
 *://*.blog.goo.ne.jp/kimito39/*
 *://*.kisetsumimiyori.com/*
 *://*.koiy.hatenadiary.jp/*
+*://*.kk-information.com/*
 *://*.koregasiritai.com/*
 
 ## ガセ-L
