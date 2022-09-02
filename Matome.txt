@@ -3,10 +3,11 @@
 *://036izu.net/*
 
 # 1
-*://1000mg.jp/*
-*://123ish.com/*
-*://1917-movie.jp/*
-*://1yomeblo.com/*
+*://*.1000mg.jp/*
+*://*.123ish.com/*
+*://*.1917-movie.jp/*
+*://*.1mi10karashi.com/*
+*://*.1yomeblo.com/*
 
 # 2
 *://25study.com/*
@@ -52,6 +53,9 @@
 ## AD
 *://adultver.com/*
 *://advansteadily2310.com/*
+
+## AC 2022-09-03追加
+*://*.actgameslog.net/*
 
 ## AF
 *://affiliatequest0004.xyz/*
@@ -231,6 +235,7 @@
 *://bungu-uranai.com/*
 *://bunkumo99.com/*
 *://burusoku-vip.com/*
+*://*.buzlog.com/*
 *://buzz-notice.com/*
 *://buzz-plus.com/*
 *://buzzbuzz-net.com/*
@@ -356,6 +361,7 @@
 *://dancingdolls.jp/*
 *://dannadaisuki.com/*
 *://danpei.blog.ss-blog.jp/*
+*://*.daradaranet-news.com/*
 *://daydollarbotch.hatenablog.com/*
 *://dayslabo.com/*
 
@@ -656,6 +662,7 @@
 *://*.himakiru.com/*
 *://himaotanews.com/*
 *://himemizu.com/*
+*://himitsu-ch.com/*
 *://himmel-ellipse.com/*
 *://hinachoice.com/*
 *://hinamoridake-mote.com/*
@@ -773,37 +780,38 @@
 
 # K 2021.10.31分割+7 segment
 ## KA
-*://kabuyattemita.blog.fc2.com/*
-*://kad28.com/*
-*://kaigaiceleb.com/*
-*://kaigo-kagami.com/*
-*://kaikumikodaisuki.com/*
-*://kaito-car.com/*
-*://kajjfawjagr.lfhfdfiehgg.com/*
-*://kami-ch.com/*
-*://kan8oskar.com/*
-*://kagerou-kazoku.com/*
-*://kameshiba1212.com/*
+*://*.kabuyattemita.blog.fc2.com/*
+*://*.kad28.com/*
+*://*.kaigaiceleb.com/*
+*://*.kaigo-kagami.com/*
+*://*.kaikumikodaisuki.com/*
+*://*.kaito-car.com/*
+*://*.kajjfawjagr.lfhfdfiehgg.com/*
+*://*.kami-ch.com/*
+*://*.kan8oskar.com/*
+*://*.kagerou-kazoku.com/*
+*://*.kameshiba1212.com/*
 *://*.kami-park.jp/*
-*://kanakanaworks.com/*
-*://kanameblog.com/*
-*://kanata12.com/*
-*://kanau-mirai.com/*
-*://kasane-movie.jp/*
-*://katukatu8880.work/*
-*://kansuke.doorblog.jp/*
-*://kanazawa-ambi.com/*
-*://kantaiki0219.com/*
-*://karamane.jp/*
+*://*.kanakanaworks.com/*
+*://*.kanameblog.com/*
+*://*.kanata12.com/*
+*://*.kanau-mirai.com/*
+*://*.kasane-movie.jp/*
+*://*.katukatu8880.work/*
+*://*.kansuke.doorblog.jp/*
+*://*.kanazawa-ambi.com/*
+*://*.kansyaorei.xyz/*
+*://*.kantaiki0219.com/*
+*://*.karamane.jp/*
 *://blog.livedoor.jp/karamato/*
-*://karikari.xyz/*
-*://karukantimes.com/*
-*://katukatu8880.com/*
+*://*.karikari.xyz/*
+*://*.karukantimes.com/*
+*://*.katukatu8880.com/*
 *://*.katuru.com/*
-*://kawaberi.net/*
-*://kawareiworld.tokyo/*
-*://kayuitokoronite.com/*
-*://kaznao.com/*
+*://*.kawaberi.net/*
+*://*.kawareiworld.tokyo/*
+*://*.kayuitokoronite.com/*
+*://*.kaznao.com/*
 
 ## KB
 *://kban.me/*
@@ -850,27 +858,29 @@
 *://knowledge-cafe.net/*
 
 ## KO
-*://ko-taro-room.link/*
-*://ko24cs.com/*
-*://kodokuranote.com/*
-*://kodomotoasobou.com/*
-*://koepro.net/*
-*://koimousagi.com/*
-*://koku-byakunews.com/*
-*://kokusai-singlemama.com/*
-*://komatsudayohei.jp/*
-*://komatsuryo.com/*
-*://koneko2222.xyz/*
-*://konoyubitomare.jp/*
-*://korebro-news.com/*
-*://korejanai.exblog.jp/*
-*://korekarazizake.com/*
+*://*.ko-taro-room.link/*
+*://*.ko24cs.com/*
+*://:.kodokuranote.com/*
+*://*.kodomotoasobou.com/*
+*://*.koepro.net/*
+*://*.koganem.com/*
+*://*.koimousagi.com/*
+*://*.koku-byakunews.com/*
+*://*.kokusai-singlemama.com/*
+*://*.komatsudayohei.jp/*
+*://*.komatsuryo.com/*
+*://*.koneko2222.xyz/*
+*://*.konoyubitomare.jp/*
+*://*.korebro-news.com/*
+*://*.korejanai.exblog.jp/*
+*://*.korekarazizake.com/*
 *://*.korewaeroi.com/*
-*://kousuke-organic.com/*
-*://kotaneko.net/*
-*://kottihakillerkiller.com/*
-*://koukisinnotane.net/*
-*://koumi0913aba.com/*
+*://*.kousuke-organic.com/*
+*://*.kotaneko.net/*
+*://*.kottihakillerkiller.com/*
+*://*.koukisinnotane.net/*
+*://*.koumi0913aba.com/*
+*://*.koumuintaisyoku.com/*
 *://kozy2525.hatenablog.com/*
 
 ## KU
@@ -883,11 +893,12 @@
 *://kurojou.com/*
 
 ## KY
-*://kyocoloco.com/*
-*://kyoto-doramakan.jp/*
-*://kyousoku.net/*
-*://kyoyym19.com/*
-*://kyun2-girls.com/*
+*://*.kyocoloco.com/*
+*://*.kyoto-doramakan.jp/*
+*://*.kyoto-jpsea.com/*
+*://*.kyousoku.net/*
+*://*.kyoyym19.com/*
+*://*.kyun2-girls.com/*
 
 # L
 *://lab4g.net/*
@@ -1064,29 +1075,30 @@
 *://mizharu.com/*
 
 ## MO
-*://mo-mo-town.com/*
+*://*.mo-mo-town.com/*
 *://*.mob-mee.com/*
-*://moccosnoon.com/*
-*://moccosnoon.tumblr.com/*
+*://*.moccosnoon.com/*
+*://*,moccosnoon.tumblr.com/*
 *://ameblo.jp/moju0304/*
 *://mokasoku.blomaga.jp/*
-*://mokomoko30.com/*
-*://molulabo.com/*
-*://momonjin.com/*
-*://mom-clip.com/*
+*://*.mokomoko30.com/*
+*://*.molulabo.com/*
+*://*.momonjin.com/*
+*://*.mom-clip.com/*
 *://*.mondainashi.net/*
-*://mondo-libre.com/*
+*://*.mondo-libre.com/*
 *://money-life.doorblog.jp/*
-*://money-press.info/*
-*://monokuro0210.com/*
-*://monozuki-apparel.com/*
+*://*.money-press.info/*
+*://*.monokuro0210.com/*
+*://*.monozuki-apparel.com/*
 *://*.monst-news.net/*
-*://mopumopu.com/*
-*://mori007.com/*
-*://morimorimoritto.com/*
+*://*.mopumopu.com/*
+*://*.mori007.com/*
+*://*.morimorimoritto.com/*
+*://*.morisaku.com/*
 *://*.motorcyclefreak.jp/*
-*://mounten-f.com/*
-*://moya-trend.com/*
+*://*.mounten-f.com/*
+*://*.moya-trend.com/*
 
 ## MT
 *://mt-j.info/*
@@ -1110,35 +1122,36 @@
 *://n2-ch.com/*
 
 ## NA
-*://naasasao.com/*
-*://nabeaffiliate.com/*
-*://nacchi33.net/*
-*://nagoyan55.com/*
-*://naichanblog.com/*
-*://najsokuho.com/*
-*://naju555.com/*
-*://nakasuga13.com/*
-*://nakayoshiblog.com/*
+*://*.naasasao.com/*
+*://*.nabeaffiliate.com/*
+*://*.nabibu.jp/*
+*://*.nacchi33.net/*
+*://*.nagoyan55.com/*
+*://*.naichanblog.com/*
+*://*.najsokuho.com/*
+*://*.naju555.com/*
+*://*.nakasuga13.com/*
+*://*.nakayoshiblog.com/*
 *://namakemono-no-gogai.blog.ss-blog.jp/*
-*://namakemonoyoshi.com/*
-*://nameless-net.com/*
-*://nami55.xyz/*
-*://nananono77.com/*
-*://nanasepn.com/*
-*://nancreator.com/*
-*://nandemo-newsya.com/*
-*://nandemoiiyoch.com/*
+*://*.namakemonoyoshi.com/*
+*://*.nameless-net.com/*
+*://*.nami55.xyz/*
+*://*.nananono77.com/*
+*://*.nanasepn.com/*
+*://*.nancreator.com/*
+*://*.nandemo-newsya.com/*
+*://*.nandemoiiyoch.com/*
 *://blog.livedoor.jp/nandemonyuusu/*
 *://nanjgamers.blog.jp/*
-*://nanjpost.com/*
-*://nantoka-antenna.com/*
-*://nao-games.com/*
-*://naotan-net.com/*
-*://nasupapa.com/*
-*://natalie.mu/*
-*://nationaltcc.org/*
-*://natuki-na.me/*
-*://nazo-don.net/*
+*://*.nanjpost.com/*
+*://*.nantoka-antenna.com/*
+*://*.nao-games.com/*
+*://*.naotan-net.com/*
+*://*.nasupapa.com/*
+*://*.natalie.mu/*
+*://*.nationaltcc.org/*
+*://*.natuki-na.me/*
+*://*.nazo-don.net/*
 
 ## NE
 *://neetola.com/*
@@ -1310,6 +1323,7 @@
 
 ## PH
 *://ph-fxss.jp/*
+*://*.pharcyde1974.velvet.jp/*
 
 ## PI
 *://piace-la-musica.com/*
@@ -1660,6 +1674,7 @@
 *://thainiikitai.com/*
 *://thankyoujudy.com/*
 *://the-jet-sleeper.com/*
+*://*.the01.jp/*
 *://thebeatles-eightdaysaweek.jp/*
 *://thedieiscast4.com/*
 *://theblacklinebylauren.com/*
