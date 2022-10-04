@@ -1,0 +1,129 @@
+########################################################################
+# Index Spaming sites list for uBlacklist
+# Created by [Chamiu](https://github.com/Chamiu)
+# License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+# update 2022-10-04 19:13
+
+## Numeric
+*://*.3p9417.ddns.us/*
+
+## A
+*://*.adviserbest.com/*
+*://*.aetdiesel.com:8888/*
+*://*.altfuelsiberia.com*
+*://*anantkaal.org/*
+*://*.andersonart.org/*
+*://*.approvals.ae/*
+*://*.armevents.co.in/*
+*://*.atlanticcouncil.org/*
+
+## B
+*://*.b-tayama.com/*
+*://*.bauhaus-cottbus.de/*
+*://*.buenosairessos.com.ar/*
+
+## C
+*://*.cm-wako.jp/*
+*://*.cnkeejie.xyz/*
+*://*.copin-cp.com/*
+*://*.cycling.org.sg/*
+
+## D
+*://*.d-dmm.com/*
+*://*.datanews.chhs.ca.gov/*
+*://*.dnb.com/*
+*://*.dunder.ns01.info/*
+
+## E
+*://*.e-item.co.jp/*
+*://*.e-living.info/*
+*://*.emergencysolutions4u.com/*
+*://*.epoxygent.be/*
+*://*.etymology-encyclopedia.com/*
+
+## F
+*://*.facturasrapidasec.com/*
+*://*.fumimoko.blog/*
+
+## G
+*://*.gaznevada.iq.usp.br/*
+*://*.gem-gem.jp/*
+*://*.goodnewz.net/*
+*://*.grandfleet.info/*
+*://*.grootnieuwsradio.nl/*
+
+## H
+*://*.happycamperbathbombs.com/*
+*://*.haushueter-lsz.de/*
+*://*.heatfry.com/*
+*://*.hivic-recruit.com/*
+*://*.harneymotorsltd.com/*
+
+## I (2022-04-07追加)
+*://i-pal.or.jp/*
+*://*.calabria.it/*
+
+## J
+*://*jikou.co.jp/*
+*://jimoai444.hatenablog.com/*
+
+## K
+*://*.kato-hakuraku.com/*
+*://*.ken-plan.com/*
+*://*.kingeav.co/*
+
+## L
+*://*.lostash.jp/*
+*://*.ltg-transporte.de/*
+
+## M
+*://*.mademoiselleosaki.com/*
+*://*.mgscience.ac.in/*
+*://*.michamin.xyz/*
+*://*.mikagamit777.com/*
+*://*.municipal180.com/*
+
+## N
+*://*.newsba-nk.com/*
+*://*.nicasan.ru/*
+*://*.nodepositcarsmalta.com/*
+*://*.numebeauty.ca/*
+
+## O
+*://*.onthedockspub.com/*
+*://*.jpn.org/*
+
+## P
+*://*.padova.it/*
+*://*.purumeria.com/*
+
+## R
+*://*.raviatowen-conseil.fr/*
+*://*.reddingcanvas.com/*
+*://retogenofu.hatenablog.com/*
+*://*.rittencalculator.tnls.nl/*
+*://*.riznica.net/*
+
+## S
+*://*.sakura.ne.jp/*
+*://*.sashico.jp/*
+*://*.samex.jp/*
+*://*.sbu.ac.ir/*
+*://sghch.sakuraweb.com/*
+
+## U (2022-03-26追加)
+*://*.umbria.it/*
+*://*.usp.br/*
+
+## V
+*://*.voipnim.com/*
+
+## X (include Japanese domain name)
+*://*.xn--4dkp5a8a5264a48k.com/*
+
+## Y
+*://*.yuec.co.jp/*
+
+## Z
+*://*.zatsugaku-mystery.com/*
+
