@@ -1,3 +1,9 @@
+########################################################################
+# Parasiticide sites list for uBlacklist
+# Created by [Chamiu](https://github.com/Chamiu)
+# License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+# update 2022-10-04 19:13
+
 # VIRUS VIRUS VIRUS
 *://*.allmacworld.com/*
 *://*.anirobik.com/*
@@ -247,127 +253,6 @@
 *://*.rmt.club/*
 *://*.rmtinc.jp/*
 
-# spamdexing 2022-03-17分割 (Add 45 line)
-## Numeric
-*://*.3p9417.ddns.us/*
-
-## A
-*://*.adviserbest.com/*
-*://*.aetdiesel.com:8888/*
-*://*.altfuelsiberia.com*
-*://*anantkaal.org/*
-*://*.andersonart.org/*
-*://*.approvals.ae/*
-*://*.armevents.co.in/*
-*://*.atlanticcouncil.org/*
-
-## B
-*://*.b-tayama.com/*
-*://*.bauhaus-cottbus.de/*
-*://*.buenosairessos.com.ar/*
-
-## C
-*://*.cm-wako.jp/*
-*://*.cnkeejie.xyz/*
-*://*.copin-cp.com/*
-*://*.cycling.org.sg/*
-
-## D
-*://*.d-dmm.com/*
-*://*.datanews.chhs.ca.gov/*
-*://*.dunder.ns01.info/*
-
-## E
-*://*.e-item.co.jp/*
-*://*.e-living.info/*
-*://*.emergencysolutions4u.com/*
-*://*.epoxygent.be/*
-*://*.etymology-encyclopedia.com/*
-
-## F
-*://*.fumimoko.blog/*
-
-## G
-*://*.gaznevada.iq.usp.br/*
-*://*.gem-gem.jp/*
-*://*.goodnewz.net/*
-*://*.grandfleet.info/*
-*://*.grootnieuwsradio.nl/*
-
-## H
-*://*.happycamperbathbombs.com/*
-*://*.haushueter-lsz.de/*
-*://*.heatfry.com/*
-*://*.hivic-recruit.com/*
-*://*.harneymotorsltd.com/*
-
-## I (2022-04-07追加)
-*://i-pal.or.jp/*
-*://*.calabria.it/*
-
-## J
-*://*jikou.co.jp/*
-*://jimoai444.hatenablog.com/*
-
-## K
-*://*.kato-hakuraku.com/*
-*://*.ken-plan.com/*
-*://*.kingeav.co/*
-
-## L
-*://*.lostash.jp/*
-*://*.ltg-transporte.de/*
-
-## M
-*://*.mademoiselleosaki.com/*
-*://*.mgscience.ac.in/*
-*://*.michamin.xyz/*
-*://*.mikagamit777.com/*
-*://*.municipal180.com/*
-
-## N
-*://*.newsba-nk.com/*
-*://*.nicasan.ru/*
-*://*.nodepositcarsmalta.com/*
-*://*.numebeauty.ca/*
-
-## O
-*://*.onthedockspub.com/*
-*://*.jpn.org/*
-
-## P
-*://*.padova.it/*
-*://*.purumeria.com/*
-
-## R
-*://*.raviatowen-conseil.fr/*
-*://*.reddingcanvas.com/*
-*://retogenofu.hatenablog.com/*
-*://*.rittencalculator.tnls.nl/*
-
-## S
-*://*.sakura.ne.jp/*
-*://*.sashico.jp/*
-*://*.samex.jp/*
-*://*.sbu.ac.ir/*
-*://sghch.sakuraweb.com/*
-
-## U (2022-03-26追加)
-*://*.umbria.it/*
-*://*.usp.br/*
-
-## V
-*://*.voipnim.com/*
-
-## X (include Japanese domain name)
-*://*.xn--4dkp5a8a5264a48k.com/*
-
-## Y
-*://*.yuec.co.jp/*
-
-## Z
-*://*.zatsugaku-mystery.com/*
-
 # link trap
 *://*.geinoueroch.com/*
 *://*.mtmx.jp/*
@@ -383,6 +268,7 @@
 *://*.a-inquiry.com/*
 *://*.ab-cafe.com/*
 *://*.advertimes.com/*
+*://*.afi-b.com/net/*
 *://*.affiliate-copywriting.tokyo/*
 *://*.affiliate-kousotu.com/*
 *://akiba.jpn.org/*
@@ -398,9 +284,10 @@
 *://*.appdam.info/*
 *://*.appleinsider.com/*
 *://*.appleshinja.com/*
-*://applica.info/*
+*://*.applica.info/*
 *://*.applingo.tokyo/*
 *://*.applion.jp/*
+*://*.applistation.net/*
 *://*.appmus.com/*
 *://*.appq.jp/*
 *://*.appsuke.com/*
@@ -408,6 +295,7 @@
 *://*.apwork.asia/*
 *://*.apwork.asia/*
 *://*.arekore.app/*
+*://*.atobarainomori.com/*
 *://*.atsugiebina.hatenablog.com/*
 *://*.attain-grant.com/*
 *://*.ayblg.work/*
@@ -465,6 +353,7 @@
 *://*.elog-ch.net/*
 *://*.elog-ch.com/*
 *://*.japanese.engadget.com/*
+*://*.erevista.co.jp/*
 *://*.erodaioh.com/*
 *://*.erodouga-tairiku.com/*
 *://*.espo-game.jp/*
@@ -520,6 +409,7 @@
 *://*.hubspot.jp/*
 
 ## 乞食-I
+*://*.ifranken.jp/*
 *://*.iikoto-info.com/*
 *://*.imore.com/*
 *://*.informer.com/*
@@ -599,6 +489,7 @@
 
 ## 乞食-O
 *://*.ohitoritv.com/*
+*://*.oita-hokenshakyogikai.jp/*
 *://*.okane-fueeru.com/*
 *://*.optom.typort.my.id/*
 *://*.oradata.net/*
@@ -619,7 +510,7 @@
 *://*.pplepop.com/*
 
 ## 乞食-R
-*://*.rakuraku-info.com/*
+*://rakuraku-info.com/*
 *://*.rank-king.jp/*
 *://*.rankred.com/*
 *://*.rbbtoday.com/*
@@ -697,7 +588,9 @@
 *://*.writemyessay24h.net/*
 
 ## 乞食-X
+*://*.xiywa.info/*
 *://*.xn--mprwb863iczq.com/*
+*://*.xn--vcki1fxho24llmcg5g1w4d1xr6v0cflmzug.com/*
 
 ## 乞食-Y
 *://*.yamauto.jp/*
@@ -705,6 +598,7 @@
 *://*.yellowcorn.jp/*
 *://*.yoh-suke-blog.com/*
 *://*.yomoyama-joho.com/*
+*://*.raindrop.jp/*
 *://*.yutolist.com/*
 *://*.yuyujiteki.site/*
 
@@ -810,6 +704,7 @@
 *://*.nyusankin-kimochi.com/*
 
 ## ガセ-O
+*://*.ochakai-akasaka.com/
 *://*.ogw-media.com/*
 *://*.okane-fueeru.com/*
 *://otopaki.hatenablog.com/*
