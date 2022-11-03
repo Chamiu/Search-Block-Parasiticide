@@ -9,10 +9,12 @@
 *://eigahitottobi.com/*
 *://*.electron-comic.com/*
 *://*.entameblog.tokyo/*
+*://*.kaigaidorama-netabare.com/*
 *://*.happymackeyblog.com/*
 *://*.loungecafe2004.com/*
 *://*.m-style.network/*
 *://*.manga-tottori.jp/*
+*://*.maru8.cloud/*
 *://*.netabare1.com/*
 *://netabare1.blog137.fc2.com/*
 *://*.patent-stock.com/*
