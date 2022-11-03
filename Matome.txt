@@ -22,6 +22,7 @@
 # 3
 *://3-daikoku.com/*
 *://3333.tokyo/*
+*://*.35mori.com/*
 *://36kirakira.com/*
 *://38hana.com/*
 *://39funtime.net/*
@@ -40,6 +41,7 @@
 # 8
 *://*.80s90s-songs.fun/*
 *://818-news-blog.com/*
+*://*.88hacchi.com/*
 *://8mato.jp/*
 
 # A\*
@@ -94,7 +96,9 @@
 *://blog.livedoor.jp/amenimomakezu_/*
 
 ## AN
+*://*.ana-a380contest.jp/*
 *://anaenta.com/*
+*://*.angelnews.net/*
 *://anincline.com/*
 *://anohito-genzai.com/*
 *://anige-sokuhouvip.com/*
@@ -105,6 +109,7 @@
 *://announcer-room.net/*
 *://anogate.jp/*
 *://anohito.xyz/*
+*://*.anotherstorysign.com/*
 *://anttest.warotamaker.com/*
 
 ## AO
@@ -146,6 +151,7 @@
 *://athlete-information.com/*
 *://athlete01.site/*
 *://atsumarehomogakinomori.com/*
+*://*.attuhimitukiti.com/*
 
 ## AU
 *://aulii.net/*
@@ -219,6 +225,7 @@
 *://bluestar-journal.com/*
 
 ## BO
+*://*.bokujira.com/*
 *://bokumato.jp/*
 *://boku-tabi.com/*
 *://bombr.jp/*
@@ -252,6 +259,7 @@
 *://canoviano.net/*
 *://car-buzz.biz/*
 *://career-find.jp/*
+*://*.careerintern.jp/*
 *://cashless-happy.yokohama/*
 *://cavolump.com/*
 
@@ -275,6 +283,7 @@
 *://changcoroom.com/*
 *://*.chanare.com/*
 *://channelz.blog.fc2.com/*
+*://*.chano-ma.jp/*
 *://cheetah-sokuho.com/*
 *://chekko-8692.com/*
 *://chelra-note.com/*
@@ -290,6 +299,7 @@
 *://chisou-media.jp/*
 *://chitokarajoshi.com/*
 *://blog.chhs.ca.gov/*
+*://*.chobizo.com/*
 *://chocolat-mill.jp/*
 *://*.chunisoku.com/*
 *://chomanga.org/*
@@ -308,6 +318,7 @@
 *://clearsky01.com/*
 
 ## CM
+*://*.cm-info.com/*
 *://cmmonster.com/*
 
 ## CN
@@ -319,12 +330,14 @@
 *://code.i-harness.com/*
 *://cody613.com/*
 *://coffee-innovate.com/*
+*://*.colon8.jp/*
 *://comaco325.com/*
 *://comingnext.jp/*
 *://comisoku.com/*
 *://connecting-thoughts.com/*
 *://continue-healthy.com/*
 *://coolpan.net/*
+*://*.corocoro-tabi.com/*
 *://cosplayinformation.site/*
 *://cororotan.com/*
 *://cotoha.com/*
@@ -418,6 +431,9 @@
 ## DT 2022.02.06追加
 *://dtsoku.com/*
 
+## DU 2022-11-03追加
+*://*.duncan.co.jp/*
+
 # E
 *://e-news67.com/*
 *://s-sele.com/*
@@ -472,7 +488,9 @@
 *://feizeus.com/*
 *://femimatsu.com/*
 *://fesoku.net/*
+*://*.festivalomladina.com/*
 *://festy.jp/*
+*://*.fffkowai.com/*
 *://finalsquall.com/*
 *://financel.xyz/*
 *://findanimesque.com/*
@@ -521,8 +539,10 @@
 ## GE
 *://ge-soku.com/*
 *://geektushin.com/*
+*://*.geino.press/*
 *://*.geino-s.com/*
 *://geino-taro.com/*
+*://*.geinou99.com/*
 *://geinou-now.net/*
 *://geinou-research555.com/*
 *://geinou-resistance.info/*
@@ -537,6 +557,7 @@
 *://genkimorizou.com/*
 *://genkimura.net/*
 *://gensenav.fun/*
+*://*.genfunlife.com/*
 *://geronag.com/*
 *://geronhaita.com/*
 *://getnews.jp/*
@@ -593,7 +614,7 @@
 *://gvonne.com/*
 
 # H
-## H*
+## H numeric and symbol
 *://h-mediaweb.com/*
 
 ## HA
@@ -649,6 +670,7 @@
 *://*.henko-movie.com/*
 
 ## HI
+*://*.hi1987.net/*
 *://hi-mylife15.com/*
 *://hibikakeru.com/*
 *://hibiomo.com/*
@@ -704,6 +726,7 @@
 # I
 *://i-article01.com/*
 *://ichikahappylife.com/*
+*://*.iclassics.com/*
 *://idealstyle4.com/*
 *://idolfan.xsrv.jp/*
 *://idol-network.com/*
@@ -724,6 +747,7 @@
 *://interested-media.com/*
 *://*.interests-me-the-most.com/*
 *://intergate.info/*
+*://*.irasutoyan.com/*
 *://iratsuku.com/*
 *://irodori-terrace.com/*
 *://irohanihohoho.com/*
@@ -787,6 +811,7 @@
 *://*.kaikumikodaisuki.com/*
 *://*.kaito-car.com/*
 *://*.kajjfawjagr.lfhfdfiehgg.com/*
+*://*.kakedashi-antenna.net/*
 *://*.kami-ch.com/*
 *://*.kan8oskar.com/*
 *://*.kagerou-kazoku.com/*
@@ -848,6 +873,7 @@
 *://kirakana.com/*
 *://kirari-n.com/*
 *://kisetsuneta.info/*
+*://*.kitaaa.net/*
 *://kitene.jp/*
 *://kiyo0406.com/*
 
@@ -973,6 +999,9 @@
 *://majisuka.net/*
 *://maji-topi.com/*
 
+### MAK 2022-11-03追加
+*://*.makepo.jp/*
+
 ### MAM
 *://mamaicchi.com/*
 *://mamakiwa.com/*
@@ -1025,11 +1054,11 @@
 *://mayuponstyle.com/*
 
 ## ME
-
 *://media.yamatop.com/*
 *://media-milk.com/*
 *://medianomoriblog.com/*
 *://megusoku.com/*
+*://*.megussan.com/*
 *://megunews.com/*
 *://meguppechan.com/*
 *://meilingual.com/*
@@ -1061,6 +1090,7 @@
 *://minnanogt888.com/*
 *://miniborder.com/*
 *://miniminimiutat.com/*
+*://*.minotakeceleb.com/*
 *://mira0502.com/*
 *://miraclemilk.blog.jp/*
 *://mirimari.net/*
@@ -1085,6 +1115,7 @@
 *://*.molulabo.com/*
 *://*.momonjin.com/*
 *://*.mom-clip.com/*
+*://*.monamona2525.com/*
 *://*.mondainashi.net/*
 *://*.mondo-libre.com/*
 *://money-life.doorblog.jp/*
@@ -1256,8 +1287,10 @@
 # O
 *://oceanmemo.com/*
 *://o-kaminews.com/*
+*://*.ogwblog.com/*
 *://oishiimono-daisuki-hokusetsu.com/*
 *://ojisan-zakki.blog.jp/*
+*://*.okaeriblog.com/*
 *://okanehadaiji.com/*
 *://okaymac.com/*
 *://okboook.com/*
@@ -1324,6 +1357,7 @@
 ## PH
 *://ph-fxss.jp/*
 *://*.pharcyde1974.velvet.jp/*
+*://*.phantomcryptomining.com/*
 
 ## PI
 *://piace-la-musica.com/*
@@ -1403,6 +1437,7 @@
 *://reco-link.com/*
 *://recommend-travel.com/*
 *://recomamadiary.com/*
+*://*.recommendnews.com/*
 *://redkana.com/*
 *://refinelifekaz.com/*
 *://reishoku.jp/*
@@ -1482,6 +1517,7 @@
 *://sawasaura.net/*
 *://sayaroka.com/*
 *://sayurihappy.com/*
+*://*.sayyoufun.biz/*
 
 ## SC
 *://science-festa.jp/*
@@ -1542,6 +1578,7 @@
 *://sk-style.xyz/*
 *://skinandxxx.com/*
 *://skyhimawari.com/*
+*://*.skyoflimit.com/*
 *://skyscraper-oasis.com/*
 
 ## SL
@@ -1596,9 +1633,11 @@
 ## ST
 *://stakechan.com/*
 *://star-lucky108.com/*
+*://*.starterblacklabel.jp/*
 *://statan.jp/*
 *://stillness.life/*
 *://stkn-games.net/*
+*://*.strongcorner.net/*
 *://studynews.jp/*
 
 ## SU
@@ -1636,6 +1675,9 @@
 *://syufunotie.com/*
 
 # T
+## T numeric and sybol 2022-11-03追加
+*://*.t-annex.com/*
+
 ## TA
 *://ta-see.com/*
 *://taakkk.com/*
