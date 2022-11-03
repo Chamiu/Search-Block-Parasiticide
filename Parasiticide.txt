@@ -2,7 +2,6 @@
 # Parasiticide sites list for uBlacklist
 # Created by [Chamiu](https://github.com/Chamiu)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-# update 2022-10-04 19:13
 
 # VIRUS VIRUS VIRUS
 *://*.allmacworld.com/*
@@ -110,6 +109,7 @@
 *://*.apeailiruric.nagesen.net/*
 *://*.aroma-ecru.com/*
 *://*.bajaoreilles.com/*
+*://*.blog-support.jp/*
 *://*.ciernykvinnan.com/*
 *://*.cleanmymac.com/*
 *://*.eiwr47.ffmaria.catania.it/*
@@ -131,6 +131,7 @@
 *://*.sports-adventurer.com/*
 *://*.sugimuratakashi.com/*
 *://*.trade.netgame-rmt.jp/*
+*://*.turing.com/*
 *://*.xn--pcksd1bza2ae0c0qse.jp/*
 *://*.xn----xeutb1bza2am.jp/*
 *://*.yogacondavidgiri.es/*
@@ -456,6 +457,7 @@
 *://*.macappstore.org/*
 *://*.macaro-ni.jp/*
 *://*.macbed.com/*
+*://*.macmac.jp/*
 *://*.maketecheasier.com/*
 *://*.makeuseof.com/*
 *://*.malavida.com/*
@@ -493,6 +495,7 @@
 *://*.okane-fueeru.com/*
 *://*.optom.typort.my.id/*
 *://*.oradata.net/*
+*://*.original-lab.jp/*
 *://*.osxdaily.com/*
 *://*.otoko-life.com/*
 *://*.outlay.info/*
@@ -506,11 +509,13 @@
 *://*.play-azlabs.com/*
 *://*.pointag.asia/*
 *://*.pointag.asia/*
+*://*.polimar.jp/*
 *://*.progsoft.net/*
 *://*.pplepop.com/*
 
 ## 乞食-R
-*://rakuraku-info.com/*
+*://*.raindrop.jp/*
+*://*.rakuraku-info.com/*
 *://*.rank-king.jp/*
 *://*.rankred.com/*
 *://*.rbbtoday.com/*
@@ -598,7 +603,7 @@
 *://*.yellowcorn.jp/*
 *://*.yoh-suke-blog.com/*
 *://*.yomoyama-joho.com/*
-*://*.raindrop.jp/*
+*://*.yuruttomirai.com/*
 *://*.yutolist.com/*
 *://*.yuyujiteki.site/*
 
@@ -706,11 +711,13 @@
 ## ガセ-O
 *://*.ochakai-akasaka.com/
 *://*.ogw-media.com/*
+*://*.ohashioniko.com/*
 *://*.okane-fueeru.com/*
 *://otopaki.hatenablog.com/*
 *://*.otsukaresama-deshita.com/*
 
 ## ガセ-P
+*://*.peco-japan.com/*
 *://*.potesara.work/*
 *://*.piyoemon.com/*
 
@@ -799,10 +806,11 @@
 *://*.seihojouken.com/*
 *://*.seikathuhogomanabou.com/*
 
-# クソUI(句読点が改行のガラパゴス書式を含む)
+# クソUI(のガラパゴス書式を含む)
 *://*.cheerup.jp/*
 *://*.iphone-plus-hamamatsu.com/*
 *://*.shufu-chie.com/*
+*://*.thebibliophilia.com/*
 *://*.uraken-deai.com/*
 
 # 他人の褌で飯が旨い (2022-03-26 pinterest-> [ublacklist-pinterest/ublacklist-pinterest.txt at main · rjaus/ublacklist-pinterest](https://github.com/rjaus/ublacklist-pinterest/blob/main/ublacklist-pinterest.txt)
