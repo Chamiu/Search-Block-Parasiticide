@@ -266,6 +266,7 @@
 *://*.8nengoshi.jp/*
 
 ## 乞食-A
+*://*.a8-net.com/*
 *://*.a-inquiry.com/*
 *://*.ab-cafe.com/*
 *://*.advertimes.com/*
@@ -503,6 +504,7 @@
 ## 乞食-P
 *://*.panchira.tokyo/*
 *://*.pcmacstore.com/*
+*://*.pet-bow.com/*
 *://*.petokoto.com/*
 *://*.phexcel.work/*
 *://*.photo-album.blog.jp/*
@@ -595,6 +597,7 @@
 ## 乞食-X
 *://*.xiywa.info/*
 *://*.xn--mprwb863iczq.com/*
+*://*.xn--nuro-ec4c955q3ibyw2bgf2b038c.jp/*
 *://*.xn--vcki1fxho24llmcg5g1w4d1xr6v0cflmzug.com/*
 
 ## 乞食-Y
@@ -734,6 +737,7 @@
 
 ## ガセ-S
 *://*.scary-story.net/*
+*://*.sekichu-navi.net/*
 *://*.shanti-phula.net/*
 *://*.shinjuku-tiger.com/*
 *://*.sinrigaku-lovers.com/*
