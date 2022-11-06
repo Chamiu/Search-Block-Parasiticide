@@ -21,3 +21,4 @@
 *://tokimeki-diary.com/*
 *://turezurenaru-zakki.com/*
 *://*.turuzoo.jp/*
+*://*.umifesta-kyoto.com/*
