@@ -11,6 +11,7 @@
 *://*.chinesemix.com/*
 *://*.combocleaner.com/*
 *://*.cubillookinside.co/*
+*://*.drbuho.com/*
 *://*.esquarehomes.com/*
 *://*.honestcareforkids.us/*
 *://*.imandarinpod.com/*
@@ -271,6 +272,7 @@
 *://*.ab-cafe.com/*
 *://*.advertimes.com/*
 *://*.afi-b.com/net/*
+*://*.affiholic.com/*
 *://*.affiliate-copywriting.tokyo/*
 *://*.affiliate-kousotu.com/*
 *://akiba.jpn.org/*
@@ -280,6 +282,7 @@
 *://*.aibou.main.jp/*
 *://*.affiliate7.jp/*
 *://*.amamoba.com/*
+*://*.annbiyou.com/*
 *://*.aohajkl.com/*
 *://*.app-liv.jp/*
 *://*.appantenna.net/*
@@ -417,10 +420,11 @@
 *://*.informer.com/*
 *://*.ioc-waseda.jp/*
 *://*.iphone-manual.net/*
+*://*.iphone-mania.jp/*
 
 ## 乞食-J
 *://*.j8n017i30.ddns.info/*
-*://*.iphone-mania.jp/*
+*://*.jihoken.jp/*
 *://*.jimbutsu.jitenon.jp/*
 *://*.jobiken.com/*
 *://*.jocee.jp/*
@@ -464,6 +468,8 @@
 *://*.malavida.com/*
 *://*.mamanurs.com/*
 *://*.masaru0.com/*
+*://*.masatwooo-blog.com/*
+*://*.marumi23.com/*
 *://*.me-byo-summit.jp/*
 *://*.megane-enjoy.com/*
 *://*.mentdis.asia/*
@@ -692,6 +698,7 @@
 *://*.koiy.hatenadiary.jp/*
 *://*.kk-information.com/*
 *://*.koregasiritai.com/*
+*://*.kusanomido.com/*
 
 ## ガセ-L
 *://*.leisurego.jp/*
@@ -851,6 +858,7 @@
 *://*.nowtice.net/*
 *://*.rem9.net/*
 *://*.ryo-yasukawa.com/*
+*://*.science.co.jp/*
 *://*.sendai-podcast.jp/*
 *://*.cont.t-com.ne.jp/*
 *://*.thenews.ne.jp/*
