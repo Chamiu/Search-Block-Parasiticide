@@ -4,6 +4,7 @@
 なお、inactiveになっても同目的で再利用されない保証はないので、登録を維持します。  
 また、次のフィルタもあります。
 
+- [AdGuard_and_ESET_Block.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/AdGuard_and_ESET_Block.txt) : AdGuardとESET CyberSecurity Proが阻止したsiteたち
 - [IndexSpaming.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/IndexSpaming.txt) : Index Spamingを目的としたdomainたち
 - [NetaBare.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/NetaBare.txt) :  [漫画ネタバレサイト運営　ケンガンオメガ無断掲載容疑で書類送検-毎日新聞](https://mainichi.jp/articles/20220203/k00/00m/040/071000c)に基づくdomainたち
 - [Parasiticide.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/Parasiticide.txt) : 情報発信を偽装したネット乞食が目的のdomainたち
