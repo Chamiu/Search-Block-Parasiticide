@@ -26,6 +26,7 @@
 *://36kirakira.com/*
 *://38hana.com/*
 *://39funtime.net/*
+*://*.3ton-beauty.com/*
 
 # 5
 *://50challenge-mutsu.com/*
@@ -46,6 +47,7 @@
 
 # A\*
 *://a-genzai.com/*
+*://*.a-omoshirokatta.com/*
 *://a711.work/*
 *://aaanews.net/*
 
@@ -145,6 +147,7 @@
 *://asahirubannimo.com/*
 *://asanonblog.com/*
 *://asitanokakehasi.blog.ss-blog.jp/*
+*://*.asunani.com/*
 *://asyura2.com/*
 
 ## AT
@@ -253,8 +256,10 @@
 *://buzzterr.com/*
 
 # C
-## CA 2021.11.02 ２文字目まで分割 +12
+## CA 2021.11.02 ２文字目まで分割
+*://*.cafe-facon.com/*
 *://cambridge-india.org/*
+*://*.camtech2000.net/*
 *://campbbq.jp/*
 *://canoviano.net/*
 *://car-buzz.biz/*
@@ -331,9 +336,11 @@
 *://cody613.com/*
 *://coffee-innovate.com/*
 *://*.colon8.jp/*
+*://*.color-creation.jp/*
 *://comaco325.com/*
 *://comingnext.jp/*
 *://comisoku.com/*
+*://*.common-topics.com/*
 *://connecting-thoughts.com/*
 *://continue-healthy.com/*
 *://coolpan.net/*
@@ -424,6 +431,7 @@
 *://dreamstirs4.com/*
 *://dreamstyle.life/*
 *://drift-kingdom.com/*
+*://*.driveharrier.xyz/*
 *://*.drollwolf.com/*
 *://dropby-home.com/*
 *://*.drops-official.com/*
@@ -454,6 +462,7 @@
 *://entaentaenta.com/*
 *://entame000ss.seesaa.net/*
 *://entamescramble.com/*
+*://*.entamesports.com/*
 *://entametimes.com/*
 *://entamix777.com/*
 *://entertainment-days.com/*
@@ -505,6 +514,7 @@
 *://free-workstyle.com/*
 *://blog.livedoor.jp/foufif/*
 *://fufu.ame-plus.net/*
+*://*.fukatopi.com/*
 *://fukuniko.com/*
 *://*.fukuuti.com/*
 *://funfunfun-trendlabo.xyz/*
@@ -643,6 +653,7 @@
 *://happy-drops.site/*
 *://happy-enjoy-life-blog.com/*
 *://happy-freeeeee77.com/*
+*://*.happy-happy-news.com/*
 *://happy-mama-design.net/*
 *://happy-mariring.com/*
 *://happy-mydear.com/*
@@ -679,6 +690,7 @@
 *://hien-rt.net/*
 *://hijikisokuhou.doorblog.jp/*
 *://hikari-iyashi.com/*
+*://*.hikutaso.com/*
 *://*.himablo.xyz/*
 *://*.himahimasan.com/*
 *://*.himakiru.com/*
@@ -721,6 +733,7 @@
 
 ## HU
 *://hughug55.com/*
+
 *://hunter-log.com/*
 
 # I
@@ -901,6 +914,7 @@
 *://*.korejanai.exblog.jp/*
 *://*.korekarazizake.com/*
 *://*.korewaeroi.com/*
+*://*.kosianzu.com/*
 *://*.kousuke-organic.com/*
 *://*.kotaneko.net/*
 *://*.kottihakillerkiller.com/*
@@ -1064,6 +1078,7 @@
 *://meilingual.com/*
 *://memorylane-media.com/*
 *://menslog.net/*
+*://*.mero07.com/*
 *://meshinews.blog.jp/*
 *://*.mesomablog.com/*
 
@@ -1129,6 +1144,7 @@
 *://*.morisaku.com/*
 *://*.motorcyclefreak.jp/*
 *://*.mounten-f.com/*
+*://*.movie9820.com/*
 *://*.moya-trend.com/*
 
 ## MT
@@ -1370,6 +1386,7 @@
 *://pinky-honey.com/*
 *://pinky-media.jp/*
 *://pipi1211.com/*
+*://*.pizzaofrock.com/*
 
 ## PL
 *://planetpixmedia.com/*
@@ -1407,6 +1424,7 @@
 ## PU
 *://*.puddlesocial.com/*
 *://puralog.com/*
+*://*.purinisdrink.net/*
 *://purulife.site/*
 
 # Q
@@ -1486,6 +1504,9 @@
 *://ryusoku.com/*
 
 # S
+## S numeric and symbol (2022-11-19追加)
+*://*.s-teem.com/*
+
 ## SA
 *://sa-ta-mi.com/*
 *://sabucaru.com/*
@@ -1507,6 +1528,7 @@
 *://saorerin.com/*
 *://sapparipiman.com/*
 *://saron222.net/*
+*://*.sarunet-news.jp/*
 *://sarusuberik.com/*
 *://sasa-blog42.com/*
 *://satellite-i.com/*
@@ -1528,6 +1550,7 @@
 *://seek-levels.com/*
 *://seidentest.com/*
 *://seikatunobitikuko.blog.jp/*
+*://seikeidouga.blog.jp/*
 *://*.seikou55.com/*
 *://seiyuu-voiceactor.com/*
 *://sekai-kawaru.com/*
@@ -1559,6 +1582,7 @@
 *://shogogor.com/*
 *://shoko-mag.com/*
 *://shounenki.jp/*
+*://*.shirebashiruhodo.com/*
 *://shrine-carine.com/*
 *://shuchannel.com/*
 *://shufu-run.net/*
@@ -1683,6 +1707,7 @@
 *://taakkk.com/*
 *://taiyonoie-movie.jp/*
 *://takahide.net/*
+*://*.takamaru1219.net/*
 *://takamatsu-webmuseum.jp/*
 *://takashidesu.work/*
 *://takekonoblog.com/*
@@ -1883,6 +1908,7 @@
 *://wikiwiki.site/*
 *://windy-windy.net/*
 *://womanaffil.com/*
+*://*.wander-freely.com/*
 *://world-fusigi.net/*
 *://worldlifelove.com/*
 *://wp2019.jp/*
@@ -1968,6 +1994,7 @@
 *://yu-room.com/*
 *://yubikitasu.org/*
 *://yudainews.com/*
+*://*.yugoten.jp/*
 *://yui-abc.com/*
 *://yuitannel.blog.jp/*
 *://yukaliku.com/*
