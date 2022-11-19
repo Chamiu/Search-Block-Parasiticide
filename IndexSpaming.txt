@@ -2,7 +2,6 @@
 # Index Spaming sites list for uBlacklist
 # Created by [Chamiu](https://github.com/Chamiu)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-# update 2022-10-04 19:13
 
 ## Numeric
 *://*.3p9417.ddns.us/*
@@ -11,6 +10,7 @@
 *://*.adviserbest.com/*
 *://*.aetdiesel.com:8888/*
 *://*.altfuelsiberia.com*
+*://altonawood.com.py/*
 *://*anantkaal.org/*
 *://*.andersonart.org/*
 *://*.approvals.ae/*
@@ -20,11 +20,15 @@
 ## B
 *://*.b-tayama.com/*
 *://*.bauhaus-cottbus.de/*
+*://*.btronik.de/*
 *://*.buenosairessos.com.ar/*
 
 ## C
+*://*.calabria.it/*
+*://*.campletts.org/*
 *://*.cm-wako.jp/*
 *://*.cnkeejie.xyz/*
+*://*.congresoiiacolombia.com/*
 *://*.copin-cp.com/*
 *://*.cycling.org.sg/*
 
@@ -43,6 +47,7 @@
 
 ## F
 *://*.facturasrapidasec.com/*
+*://*.fridayistanbul.com/*
 *://*.fumimoko.blog/*
 
 ## G
@@ -61,7 +66,7 @@
 
 ## I (2022-04-07追加)
 *://i-pal.or.jp/*
-*://*.calabria.it/*
+*://investigacion.usil.edu.pe/dicaryotic/180756
 
 ## J
 *://*jikou.co.jp/*
@@ -78,6 +83,7 @@
 
 ## M
 *://*.mademoiselleosaki.com/*
+*://*.naustavor.is/*
 *://*.mgscience.ac.in/*
 *://*.michamin.xyz/*
 *://*.mikagamit777.com/*
@@ -103,6 +109,7 @@
 *://retogenofu.hatenablog.com/*
 *://*.rittencalculator.tnls.nl/*
 *://*.riznica.net/*
+*://*.romin.com/*
 
 ## S
 *://*.sakura.ne.jp/*
@@ -110,6 +117,9 @@
 *://*.samex.jp/*
 *://*.sbu.ac.ir/*
 *://sghch.sakuraweb.com/*
+
+## T (2022-10-16追加)
+*://torqueacademy.com.br/*
 
 ## U (2022-03-26追加)
 *://*.umbria.it/*
@@ -126,4 +136,3 @@
 
 ## Z
 *://*.zatsugaku-mystery.com/*
-
