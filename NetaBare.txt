@@ -1,15 +1,22 @@
+########################################################################
+# ネタバレ sites list for uBlacklist
 # [漫画ネタバレサイト運営　ケンガンオメガ無断掲載容疑で書類送検-毎日新聞](https://mainichi.jp/articles/20220203/k00/00m/040/071000c)に基づき、ネタバレサイトのuBlacklist filterを以下にリストする。
+# Created by [Chamiu](https://github.com/Chamiu)
+# License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+# 
 
 *://*.81orchid.com/*
 *://*.amitomonet.com/*
+*://*.ara-suji.com/*
 *://*.asahi-english.com/*
 *://*.asikotz.com/*
 *://*.bookseries.jp/*
 *://*.channel-rei.com/*
-*://eigahitottobi.com/*
+*://*.eigahitottobi.com/*
 *://*.electron-comic.com/*
 *://*.entameblog.tokyo/*
 *://*.kaigaidorama-netabare.com/*
+*://*.kuchizuke-movie.com/*
 *://*.happymackeyblog.com/*
 *://*.loungecafe2004.com/*
 *://*.m-style.network/*
