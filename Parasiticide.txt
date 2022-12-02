@@ -194,6 +194,7 @@
 *://*.tenorshare.jp/*
 *://*.tenorshare.com/*
 *://*.tunefab.jp/*
+*://*.tunesfun.com/*
 *://*.videoconverterfactory.com/*
 *://*.videoproc.com/*
 *://*.vidmore.com/*
@@ -208,6 +209,7 @@
 *://*.butsuyoku-gadget.com/*
 *://*.capterra.jp/*
 *://*.chinadap.com/*
+*://*.dvdbluraycopys.com/*
 *://*.eltima.com/*
 *://*.filehippo.jp/*
 *://*.freepc.jp/*
@@ -553,6 +555,7 @@
 *://*.softantenna.com/*
 *://*.softpedia.com/*
 *://*.softoware.org/*
+*://*.sora3psuke3.com/*
 *://*.stuklopechat.com/*
 *://*.system-creator.com/*
 *://*.supari.jp/*
@@ -710,6 +713,7 @@
 *://*.meiyouwenti.net/*
 *://minminzemi81.hatenablog.com/*
 *://*.mobile-shuri.jp/*
+*://*.musha-blog.com/*
 *://*.mylohas.net/*
 *://*.mywellweb.com/*
 
@@ -786,6 +790,7 @@
 ## ガセ-Y
 *://*.yain.jp/*
 *://*.yamatoq.info/*
+*://*.yamatogokorous.com/*
 *://*.yo-in.com/*
 *://*.yourei.jp/*
 *://*.hm.aitai.ne.jp/~ytmta/*
