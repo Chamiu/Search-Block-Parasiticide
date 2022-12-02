@@ -277,6 +277,7 @@
 *://*.affiholic.com/*
 *://*.affiliate-copywriting.tokyo/*
 *://*.affiliate-kousotu.com/*
+*://*.aichi-senkyo2019.jp/*
 *://akiba.jpn.org/*
 *://*.alphr.com/*
 *://*.altapps.net/*
@@ -341,6 +342,7 @@
 *://*.digitalidentity.co.jp/*
 *://*.diskhouse.shop/*
 *://*.docesnobres.com.br/*
+*://*.docode-kaeru.com/p*
 *://*.donguri-farm.jp/*
 *://*.dorekau.com/*
 *://*.dougamatome.xyz/*
