@@ -59,6 +59,7 @@
 *://advansteadily2310.com/*
 
 ## AC 2022-09-03追加
+*://*.acchi-kocchi-socchi.com/*
 *://*.actgameslog.net/*
 
 ## AF
@@ -668,6 +669,7 @@
 *://haryu-korea.net/*
 *://hayarimono.tokyo/*
 *://*.havespi.jp/*
+*://*.hayatts.com/*
 *://hayawakari11.com/*
 
 ## HD
@@ -949,6 +951,7 @@
 *://lanikainahele.com/*
 *://latortuerouge-lefilm.com/*
 *://laugh-happy.com/*
+*://*.law-trend.xyz/*
 *://lefty322.com/*
 *://leisurego.jp/*
 *://lemon-hiraya.com/*
@@ -1190,6 +1193,7 @@
 *://*.nandemoiiyoch.com/*
 *://blog.livedoor.jp/nandemonyuusu/*
 *://nanjgamers.blog.jp/*
+*://nanjnomori.blog.jp/*
 *://*.nanjpost.com/*
 *://*.nantoka-antenna.com/*
 *://*.nao-games.com/*
@@ -1265,6 +1269,7 @@
 *://nilcollection.net/*
 *://ninjinkun.xyz/*
 *://ninkishohin.online/*
+*://*.nipponnowadai.com/*
 *://nishiyan.info/*
 *://niterune.com/*
 
@@ -1301,8 +1306,9 @@
 *://nyanyako.xyz/*
 
 # O
-*://oceanmemo.com/*
 *://o-kaminews.com/*
+*://*.obakegaderuzo.com/*
+*://oceanmemo.com/*
 *://*.ogwblog.com/*
 *://oishiimono-daisuki-hokusetsu.com/*
 *://ojisan-zakki.blog.jp/*
@@ -1489,6 +1495,7 @@
 *://robotasu.com/*
 *://rockyrocky.work/*
 *://rokkobeauty.net/*
+*://*.ronigirls.jp/*
 *://rosyblog.com/*
 
 ## RU
@@ -1922,6 +1929,7 @@
 *://xn--bck9ee7en3891cub3a.com/*
 *://xn--djrq2jhuioun4o6b.net/*
 *://xn--eckuclc7zj98mu1h3s3b.com/*
+*://*.xn--ick3b8eyct505c6fc.net/*
 *://xn--iphone-1n3jv51grl8d.com/*
 *://xn--j9j7hucs457a.com/*
 *://xn--l8j8azdd5nhb8192d3hzcxx2bh8d.com/*
@@ -2037,6 +2045,7 @@
 *://zishinm.blog.fc2.com/*
 *://zizineta.com/*
 *://zizineta-sokuho.com/*
+*://*.zizitabi.com/*
 *://zuckyzczc.com/*
 
 # まとめ作成ツール商売 2022.02.06追加
