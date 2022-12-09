@@ -342,6 +342,7 @@
 *://comingnext.jp/*
 *://comisoku.com/*
 *://*.common-topics.com/*
+*://*.concern-news.net/*
 *://connecting-thoughts.com/*
 *://continue-healthy.com/*
 *://coolpan.net/*
