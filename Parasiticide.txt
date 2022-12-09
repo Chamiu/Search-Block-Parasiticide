@@ -569,6 +569,7 @@
 *://*.tano-iku.com/*
 *://*.techigem.com/*
 *://*.tecmint.com/*
+*://*.tennenseikatsu.jp/*
 *://*.tetsuyan01.com/*
 *://*.the360.life/*
 *://*.thebest-1.com/*
