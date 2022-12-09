@@ -26,6 +26,7 @@
 ## C
 *://*.calabria.it/*
 *://*.campletts.org/*
+*://*.catincat.jp/*
 *://*.cm-wako.jp/*
 *://*.cnkeejie.xyz/*
 *://*.congresoiiacolombia.com/*
@@ -75,6 +76,7 @@
 ## K
 *://*.kato-hakuraku.com/*
 *://*.ken-plan.com/*
+*://*.kingdomresourceassociates.com/*
 *://*.kingeav.co/*
 
 ## L
@@ -83,13 +85,14 @@
 
 ## M
 *://*.mademoiselleosaki.com/*
-*://*.naustavor.is/*
+*://*.marcelcastro.com/*
 *://*.mgscience.ac.in/*
 *://*.michamin.xyz/*
 *://*.mikagamit777.com/*
 *://*.municipal180.com/*
 
 ## N
+*://*.naustavor.is/*
 *://*.newsba-nk.com/*
 *://*.nicasan.ru/*
 *://*.nodepositcarsmalta.com/*
