@@ -119,6 +119,7 @@
 *://*.happymlm888.com/*
 *://*.infojoho.org/*
 *://*.ik4.es/*
+*://*.ipokimu.jp/*
 *://*.korekaradesu.com/*
 *://*.ladylibertybrands.com/*
 *://*.macbooster.net/*
@@ -233,6 +234,7 @@
 *://*.robertegraham.com/*
 *://*.taishon.nagoya/*
 *://*.urusulambda.com/*
+*://*.yukimejiyoung.com/*
 *://yurugadget.hateblo.jp/*
 
 # 中国破解软件再配布 (Chinese cracking software re-distribution)
@@ -547,6 +549,7 @@
 *://*.securitysoft.asia/*
 *://*.sejuku.net/*
 *://*.setusoku.com/*
+*://*.shippu-rondo-movie.jp/*
 *://*.shoiblog.com/*
 *://*.shoppingosusume.com/*
 *://*.siteflow.jp/*
@@ -586,7 +589,7 @@
 *://*.uninstallmacapp.com/*
 *://*.updatestar.com/*
 *://*.uptodown.com/*
-*://*.usoko.net/*
+*://*.usfigureskatingfanzone.com/*
 *://*.usoko.net/*
 *://*.utile-site.com/*
 
@@ -680,6 +683,7 @@
 *://*.globo-site.com/*
 *://*.goassetmanage.net/*
 *://*.gogen-yurai.jp/*
+*://*.goodfield-design.com/*
 
 ## ガセ-H
 *://*.hapila.jp/*
@@ -687,6 +691,7 @@
 *://*.happysmileinvestment.com/*
 *://*.health-life.jp/*
 *://*.health-more.jp/*
+*://*.history-land.com/*
 *://*.hypnotherapy.nagoya/*
 
 ## ガセ-I
@@ -735,8 +740,10 @@
 
 ## ガセ-P
 *://*.peco-japan.com/*
-*://*.potesara.work/*
+*://*.ping-jing.com/*
 *://*.piyoemon.com/*
+*://*.potesara.work/*
+*://*.pt-jepun.com/*
 
 ## ガセ-R
 *://*.r25.jp/*
@@ -855,6 +862,7 @@
 *://*.news.line.me/*
 *://news.livedoor.com/*
 *://*.news.mynavi.jp/*
+*://newscollect.jp/*
 *://*.newstweet.jp/*
 *://*.nippon.com/*
 *://*.msn.com/*
@@ -877,7 +885,7 @@
 *://*.torange.biz/*
 *://*.upde.jp/*
 *://*.view.cafe/*
-*://*.news.yahoo.co.jp/*
+*://news.yahoo.co.jp/*
 
 # インターネッツストーカー over 16
 *://*.box.com/*
