@@ -465,6 +465,7 @@
 *://*.lovetalk-info.com/*
 
 ## 乞食-M
+*://*.m-style.info/*
 *://*.macappstore.org/*
 *://*.macaro-ni.jp/*
 *://*.macbed.com/*
@@ -479,6 +480,7 @@
 *://*.me-byo-summit.jp/*
 *://*.megane-enjoy.com/*
 *://*.mentdis.asia/*
+*://*.midolife.net/*
 *://*.miyamatakeru.com/*
 *://*.moemoematome.net/*
 *://*.moltsinc.co.jp/*
