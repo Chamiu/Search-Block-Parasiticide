@@ -95,6 +95,7 @@
 *://amaebi.co/*
 *://amaitime.com/*
 *://amaneku.blog.jp/*
+*://*.amarefto.com/*
 *://amehappi.com/*
 *://blog.livedoor.jp/amenimomakezu_/*
 
@@ -139,6 +140,7 @@
 *://armybeginner.web.fc2.com/*
 *://aroundfortylife.net/*
 *://around-topics.net/*
+*://*.arthcamp.jp/*
 *://artroot.jp/*
 *://arxs-pic08022018.com/*
 
@@ -322,6 +324,7 @@
 ## CL
 *://clapg.ldblog.jp/*
 *://clearsky01.com/*
+*://*.clippapers.jp/*
 
 ## CM
 *://*.cm-info.com/*
@@ -888,6 +891,7 @@
 *://kiragamiteru.com/*
 *://kirakana.com/*
 *://kirari-n.com/*
+*://*.kisaranfs.com/*
 *://kisetsuneta.info/*
 *://*.kitaaa.net/*
 *://kitene.jp/*
@@ -969,6 +973,7 @@
 *://lifepages.jp/*
 *://lifesimplelive88.com/*
 *://lifestyle1030.com/*
+*://*.lifestyrism.com/*
 *://lilla-flower.com/*
 *://littlelittlelife.com/*
 *://logisoku.com/*
@@ -999,6 +1004,7 @@
 
 ### MAG
 *://*.mag-zou.com/*
+*://*.manganews.jp/*
 *://magazinehack.com/*
 *://magical-news.blog.jp/*
 *://magicdoor.jp/*
@@ -1081,6 +1087,7 @@
 *://meguppechan.com/*
 *://meilingual.com/*
 *://memorylane-media.com/*
+*://*.mens-topics.com/*
 *://menslog.net/*
 *://*.mero07.com/*
 *://meshinews.blog.jp/*
@@ -1128,6 +1135,7 @@
 *://*.mob-mee.com/*
 *://*.moccosnoon.com/*
 *://*,moccosnoon.tumblr.com/*
+*://*.moeasia.net/*
 *://ameblo.jp/moju0304/*
 *://mokasoku.blomaga.jp/*
 *://*.mokomoko30.com/*
@@ -1187,6 +1195,7 @@
 *://*.namakemonoyoshi.com/*
 *://*.nameless-net.com/*
 *://*.nami55.xyz/*
+*://*.nanairo-kocoro.com/*
 *://*.nananono77.com/*
 *://*.nanasepn.com/*
 *://*.nancreator.com/*
@@ -1216,6 +1225,7 @@
 *://nensyu.site/*
 *://nerdsoku.com/*
 *://neroeule96blog.com/*
+*://*.neronuco.net/*
 *://netacheck.com/*
 *://netalstation.com/*
 *://netatori.com/*
@@ -1289,6 +1299,9 @@
 *://nou-kick-mma.com/*
 *://nowtice.net/*
 
+## NP 2022-12-17追加
+*://*.npb-news.com/*
+
 ## NS
 *://nsl-enter.com/*
 
@@ -1318,6 +1331,7 @@
 *://okaymac.com/*
 *://okboook.com/*
 *://oki-itsmylife.com/*
+*://*.okuno-hosomichi.com/*
 *://okuribito.org/*
 *://olochimaru.tokyo/*
 *://omix1967.com/*
@@ -1360,6 +1374,7 @@
 
 ## PA
 *://pacostech.com/*
+*://*.paradise-rentacar.jp/*
 *://paradisefive.net/*
 *://parupunte-life.com/*
 *://parusoku.com/*
@@ -1540,6 +1555,7 @@
 *://sarusuberik.com/*
 *://sasa-blog42.com/*
 *://satellite-i.com/*
+*://*.satokitchen2.net/*
 *://satorinoblog.com/*
 *://satsueijoshikai.com/*
 *://satomin.club/*
@@ -1773,6 +1789,7 @@
 *://tokutas.com/*
 *://tokyo-minpo.jp/*
 *://tokyoboy.me/*
+*://*.tokyophotogenicteam.com/*
 *://*.tomami.net/*
 *://tomatomarigi.com/*
 *://tomoful.blog/*
@@ -1790,6 +1807,7 @@
 *://toretateblog.com/*
 *://torimasa-miyazaki.jp/*
 *://totalwar.doorblog.jp/*
+*://*.touken-kyonokiseki.com/*
 *://touseikan.com/*
 *://toushichannel.net/*
 *://*.toyo-fc.jp/*
@@ -1918,6 +1936,7 @@
 *://womanaffil.com/*
 *://*.wander-freely.com/*
 *://world-fusigi.net/*
+*://*.world-study.jp/*
 *://worldlifelove.com/*
 *://wp2019.jp/*
 
@@ -2026,6 +2045,7 @@
 *://*.yutakanahibi.com/*
 *://yutber.blog.jp/*
 *://yuuhime.xyz/*
+*://*.yuutre.com/*
 *://yuyu007.com/*
 *://yuyu0218.com/*
 *://yuyufirst.com/*
