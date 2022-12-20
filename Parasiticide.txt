@@ -12,6 +12,7 @@
 *://*.combocleaner.com/*
 *://*.cubillookinside.co/*
 *://*.drbuho.com/*
+*://*.enigmasoftware.*/*
 *://*.esquarehomes.com/*
 *://*.honestcareforkids.us/*
 *://*.imandarinpod.com/*
@@ -95,6 +96,7 @@
 *://*.narkive.jp/*
 *://*.partitionwizard.jp/*
 *://*.soydemac.com/*
+*://*.ssl.com/*
 *://*.tombouctou-food.com/*
 *://*.twittospia.com/*
 *://*.ubunlog.com/*
