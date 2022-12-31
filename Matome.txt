@@ -154,6 +154,7 @@
 *://asyura2.com/*
 
 ## AT
+*://*.atelier--pink.com/*
 *://athlete-information.com/*
 *://athlete01.site/*
 *://atsumarehomogakinomori.com/*
@@ -463,6 +464,7 @@
 *://endia.net/*
 *://ene-po.com/*
 *://enhoko.com/*
+*://*.enstargram.com/*
 *://*.entame.site/*
 *://entaentaenta.com/*
 *://entame000ss.seesaa.net/*
@@ -510,6 +512,7 @@
 *://findanimesque.com/*
 *://five-wheels.com/*
 *://fknews-2ch.net/*
+*://*.floristonline.jp/*
 *://flowerlove.jp/*
 *://fluffsnwings.com/*
 *://fmax7.com/*
@@ -521,6 +524,7 @@
 *://fufu.ame-plus.net/*
 *://*.fukatopi.com/*
 *://fukuniko.com/*
+*://*.fukuokahachikujyo-pro.com/*
 *://*.fukuuti.com/*
 *://funfunfun-trendlabo.xyz/*
 *://funwayroad.com/*
@@ -554,6 +558,7 @@
 ## GE
 *://ge-soku.com/*
 *://geektushin.com/*
+*://*.gehasoku.com/*
 *://*.geino.press/*
 *://*.geino-s.com/*
 *://geino-taro.com/*
@@ -666,6 +671,7 @@
 *://happynewstopics.com/*
 *://happys365.com/*
 *://happysokflower.com/*
+*://*.haramasukoi.jp/*
 *://harikirimaruko.net/*
 *://harry-san.com/*
 *://haru-journal.com/*
@@ -741,6 +747,9 @@
 *://hughug55.com/*
 
 *://hunter-log.com/*
+
+## HZ 2022-12-31追加
+*://*.hzrd97.info/*
 
 # I
 *://i-article01.com/*
@@ -913,6 +922,7 @@
 *://*.koimousagi.com/*
 *://*.koku-byakunews.com/*
 *://*.kokusai-singlemama.com/*
+*://*.komachii.com/*
 *://*.komatsudayohei.jp/*
 *://*.komatsuryo.com/*
 *://*.koneko2222.xyz/*
@@ -1080,6 +1090,7 @@
 ## ME
 *://media.yamatop.com/*
 *://media-milk.com/*
+*://*.mediancafe.com/*
 *://medianomoriblog.com/*
 *://megusoku.com/*
 *://*.megussan.com/*
@@ -1155,6 +1166,7 @@
 *://*.morimorimoritto.com/*
 *://*.morisaku.com/*
 *://*.motorcyclefreak.jp/*
+*://*.motoyun-anl.com/*
 *://*.mounten-f.com/*
 *://*.movie9820.com/*
 *://*.moya-trend.com/*
@@ -1654,6 +1666,7 @@
 *://*.sokutrend.com/*
 *://solid.coresv.net/*
 *://solife-a.com/*
+*://*.sollastudio.net/*
 *://*.soins-life.com/*
 *://sorano-mado.com/*
 *://soratoburin.com/*
@@ -1681,6 +1694,7 @@
 ## ST
 *://stakechan.com/*
 *://star-lucky108.com/*
+*://*.stargood.xyz/*
 *://*.starterblacklabel.jp/*
 *://statan.jp/*
 *://stillness.life/*
@@ -1751,6 +1765,9 @@
 ## TB
 *://tbe4wh.ddns.us/*
 
+## TC 2022-12-31追加
+*://*.tchal.net/*
+
 ## TD
 *://tdyt11311131.com/*
 
@@ -1767,9 +1784,10 @@
 *://the-jet-sleeper.com/*
 *://*.the01.jp/*
 *://thebeatles-eightdaysaweek.jp/*
-*://thedieiscast4.com/*
 *://theblacklinebylauren.com/*
+*://thedieiscast4.com/*
 *://thenewspost.net/*
+*://*.thepickup1010.com/*
 
 ## TI
 *://time-punch.com/*
@@ -1815,6 +1833,7 @@
 
 ## TR
 *://traditionaliconography.com/*
+*://*.trattoria-confortevole.com/*
 *://tremaindkon.net/*
 *://trend-express.net/*
 *://trend-journal.online/*
@@ -1958,6 +1977,7 @@
 *://*.xn--o9j0bk5t7exbwe.com/*
 *://xn--o9j0bk7qoi1fn42z6lo.net/*
 *://xn--o9jl183u6icq84g6fc5z4c.com/*
+*://*.xn--o9jl2cn5979auzan44djfan39ceq6eh8d.com/*
 *://xn--q9jb1h748y.com/*
 *://xn--q9jbi2jo39nwpjyh1b168a5id.com/*
 *://xn--q9jbi2jo39nx2zb6t4ai5cuzx.com/*
