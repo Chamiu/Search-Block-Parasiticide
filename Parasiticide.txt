@@ -584,6 +584,7 @@
 *://*.thehikaku.net/*
 *://*.tobita-huuzoku.com/*
 *://*.trend-top.com/*
+*://*.trendydevil.work/*
 *://*.tutsplus.com/*
 *://*.tv-movie.wark.info/*
 *://*.tvzuki.com/*
