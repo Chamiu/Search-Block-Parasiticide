@@ -262,6 +262,7 @@
 *://*.rmtinc.jp/*
 
 # link trap
+*://*.geimato.com/*
 *://*.geinoueroch.com/*
 *://*.mtmx.jp/*
 
@@ -565,6 +566,7 @@
 *://*.softpedia.com/*
 *://*.softoware.org/*
 *://*.sora3psuke3.com/*
+*://*.sougiyasan.jp/*
 *://*.stuklopechat.com/*
 *://*.system-creator.com/*
 *://*.supari.jp/*
