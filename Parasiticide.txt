@@ -24,6 +24,7 @@
 *://otopaki.hatenablog.com/*
 *://xn--u9j0pq57erfbqxcoa483af3dj0vba410juv8i46za.jp/
 *://yurugadget.hateblo.jp/*
+*://*drama-lovelog.com/*
 *://*.1lifenet.com/*
 *://*.1st-net.jp/*
 *://*.4videosoft.jp/*
@@ -717,6 +718,7 @@
 *://*.trivia-and-know-how-notes.com/*
 *://*.tsite.jp/*
 *://*.tunefab.jp/*
+*://*.tunesbro.jp/*
 *://*.tunesfun.com/*
 *://*.turing.com/*
 *://*.tutsplus.com/*
