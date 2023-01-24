@@ -22,6 +22,7 @@
 *://news.livedoor.com/*
 *://news.yahoo.co.jp/*
 *://otopaki.hatenablog.com/*
+*://shiroutowiki.work/*
 *://xn--u9j0pq57erfbqxcoa483af3dj0vba410juv8i46za.jp/
 *://yurugadget.hateblo.jp/*
 *://*drama-lovelog.com/*
@@ -35,6 +36,8 @@
 *://*.a8-net.com/*
 *://*.ab-cafe.com/*
 *://*.adlock.com/*
+*://*.adult-secret-time.com/*
+*://*.adult-wiki.net/*
 *://*.advertimes.com/*
 *://*.affde.com/*
 *://*.affdu.com/*
@@ -106,6 +109,8 @@
 *://*.aucfan.com/*
 *://*.aura-office.co.jp/*
 *://*.autopedia.jpn.org/*
+*://*.avwikich.com/*
+*://*.av-wiki.net/*
 *://*.ayblg.work/*
 *://*.azscitechfest.org/*
 *://*.a-inquiry.com/*
@@ -203,6 +208,7 @@
 *://*.dougamatome.xyz/*
 *://*.download3k.com/*
 *://*.download.cnet.com/*
+*://*.dqporn.com/*
 *://*.drama-cm-show.com/*
 *://*.drbuho.com/*
 *://*.dreamstime.com/*
@@ -347,6 +353,7 @@
 *://*.imobie.jp/*
 *://*.imore.com/*
 *://*.imyfone.com/*
+*://*.inest-inc.co.jp/*
 *://*.infojoho.org/*
 *://*.informer.com/*
 *://*.ioc-waseda.jp/*
@@ -363,9 +370,12 @@
 *://*.japanese.engadget.com/*
 *://*.jav19.analtube.info/*
 *://*.javdc.net/*
+*://*.javesq.com/*
 *://*.javhdo.net/*
+*://*.javhdporn.net/*
 *://*.javraveclub.com/*
 *://*.javrav.com/*
+*://*.javvex.com/*
 *://*.jb51.net/*
 *://*.jigadorierogazou.blog.fc2.com/*
 *://*.jigensha.info/*
@@ -428,9 +438,11 @@
 *://*.link-man.net/*
 *://*.livedoor.jp/*
 *://*.loumo.jp/*
+*://*.lovely-media.jp/*
 *://*.lovemagajin.com/*
 *://*.lovetalk-info.com/*
 *://*.love-guava.com/*
+*://*.lyu1.com/*
 *://*.m3k.biz/*
 *://*.mabui-onna.com/*
 *://*.macappstore.org/*
@@ -478,6 +490,7 @@
 *://*.monistrol-lesamisduchateau.org/*
 *://*.monomania.sblo.jp/*
 *://*.monoreco.ameba.jp/*
+*://*.mote-deai-xxx.net/*
 *://*.motifyublog.com/*
 *://*.motionfile.jp/*
 *://*.motivation-up.com/*
@@ -609,6 +622,7 @@
 *://*.rmt.club/*
 *://*.robertegraham.com/*
 *://*.rosemary.is/*
+*://*.routine-artist.net/*
 *://*.rui.jp/*
 *://*.ryo-yasukawa.com/*
 *://*.ryublogs0024.com/*
@@ -635,9 +649,11 @@
 *://*.shenzhenaudio.jp/*
 *://*.shinjuku-tiger.com/*
 *://*.shippu-rondo-movie.jp/*
+*://*.shiroutoname.com/*
 *://*.shoiblog.com/*
 *://*.shoppingosusume.com/*
 *://*.shufu-chie.com/*
+*://*.sim-labo.jp/*
 *://*.sinrigaku-lovers.com/*
 *://*.siraberuko.jp/*
 *://*.sisannotamago.com/*
@@ -725,6 +741,7 @@
 *://*.tvzuki.com/*
 *://*.tv-movie.wark.info/*
 *://*.twist-design.life/*
+*://*.twitter.com/*
 *://*.twittospia.com/*
 *://*.tyuuta1.com/*
 *://*.ubunlog.com/*
@@ -750,6 +767,7 @@
 *://*.volsiz.ru/*
 *://*.vpnmentor.com/*
 *://*.vpnmentor.com/*
+*://*.vr-ero.net/*
 *://*.wangel.aioilight.space/*
 *://*.warasoft.com/*
 *://*.wa-net.net/*
