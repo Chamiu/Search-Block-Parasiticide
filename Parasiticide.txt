@@ -10,6 +10,7 @@
 *://benzoinfojapan.org/*
 *://biancachan.hatenablog.com/*
 *://codepre.com/*
+*://delancey.heroinewarrior.com/*
 *://keiji-pro.com/*
 *://koneta.nifty.com/*
 *://kumikosaito.com/*
@@ -86,6 +87,7 @@
 *://*.applion.jp/*
 *://*.applistation.net/*
 *://*.appli-world.jp/*
+*://*.appmania.site/*
 *://*.appmus.com/*
 *://*.appps.jp/*
 *://*.appq.jp/*
@@ -122,6 +124,7 @@
 *://*.bcnretail.com/*
 *://*.belcy.jp/*
 *://*.berlioz.xyz/*
+*://*.bestjavporn.com/*
 *://*.bestreviews.net/*
 *://*.bestreviews.net/*
 *://*.bgdy88.com/*
@@ -708,6 +711,7 @@
 *://*.thebibliophilia.com/*
 *://*.thehikaku.net/*
 *://*.thenews.ne.jp/*
+*://*.tibet.org/*
 *://*.tiktok.com/*
 *://*.tik.moe/*
 *://*.tobita-huuzoku.com/*
@@ -741,7 +745,6 @@
 *://*.tvzuki.com/*
 *://*.tv-movie.wark.info/*
 *://*.twist-design.life/*
-*://*.twitter.com/*
 *://*.twittospia.com/*
 *://*.tyuuta1.com/*
 *://*.ubunlog.com/*
@@ -814,6 +817,7 @@
 *://*.yogacondavidgiri.es/*
 *://*.yoh-suke-blog.com/*
 *://*.yomoyama-joho.com/*
+*://*.youramys.com/*
 *://*.yourei.jp/*
 *://*.yourpedia.org/*
 *://*.yo-in.com/*
