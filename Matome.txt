@@ -927,6 +927,7 @@
 *://prius01.tokyo/*
 *://proviamo.info/*
 *://pswriter1129.com/*
+*://pudora.blog.jp/*
 *://puralog.com/*
 *://purulife.site/*
 *://p-o-chitto.com/*
@@ -1385,6 +1386,7 @@
 *://*.actgameslog.net/*
 *://*.agasutia.net/*
 *://*.akasannbiz.com/*
+*://*.almz.holy.jp/iroero/*
 *://*.amarefto.com/*
 *://*.ana-a380contest.jp/*
 *://*.angelnews.net/*
@@ -1445,6 +1447,7 @@
 *://*.fukuoka-asia-collection.com/*
 *://*.fukuuti.com/*
 *://*.fxmind.info/*
+*://*.garuko.com/*
 *://*.gehasoku.com/*
 *://*.geinou99.com/*
 *://*.geino-s.com/*
@@ -1583,6 +1586,7 @@
 *://*.nabeaffiliate.com/*
 *://*.nabibu.jp/*
 *://*.nacchi33.net/*
+*://*.nadarenews.com/*
 *://*.nagoyan55.com/*
 *://*.naichanblog.com/*
 *://*.najsokuho.com/*
@@ -1607,10 +1611,12 @@
 *://*.nationaltcc.org/*
 *://*.natuki-na.me/*
 *://*.nazo-don.net/*
+*://*.ndff.net/*
 *://*.nekosen.jp/*
 *://*.neronuco.net/*
 *://*.news30over.com/*
 *://*.newshi.net/*
+*://*.news-choice.net/*
 *://*.news-enspo.com/*
 *://*.news-toranomaki.net/*
 *://*.nipponnowadai.com/*
@@ -1688,7 +1694,9 @@
 *://*.xn--ick3b8eyct505c6fc.net/*
 *://*.xn--o9j0bk5t7exbwe.com/*
 *://*.xn--o9jl2cn5979auzan44djfan39ceq6eh8d.com/*
+*://*.yakusokunosora.com/*
 *://*.ydenki.jp/*
+*://*.yonohuuchou.com/*
 *://*.yoroko100.com/*
 *://*.your-magazine.net/*
 *://*.youtuberdictionary.com/*
