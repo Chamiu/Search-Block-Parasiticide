@@ -24,6 +24,7 @@
 *://news.yahoo.co.jp/*
 *://otopaki.hatenablog.com/*
 *://shiroutowiki.work/*
+*://tabi-labo.com/*
 *://xn--u9j0pq57erfbqxcoa483af3dj0vba410juv8i46za.jp/
 *://yurugadget.hateblo.jp/*
 *://*drama-lovelog.com/*
@@ -205,6 +206,7 @@
 *://*.ditching.eu/*
 *://*.docesnobres.com.br/*
 *://*.docode-kaeru.com/p*
+*://*.doga-muryo.com/*
 *://*.donguri-farm.jp/*
 *://*.dorekau.com/*
 *://*.doubleagentusa.com/*
