@@ -11,7 +11,7 @@
 *://*.aetdiesel.com:8888/*
 *://*.altfuelsiberia.com*
 *://altonawood.com.py/*
-*://*anantkaal.org/*
+*://*.anantkaal.org/*
 *://*.andersonart.org/*
 *://*.approvals.ae/*
 *://*.armevents.co.in/*
@@ -70,8 +70,9 @@
 *://investigacion.usil.edu.pe/dicaryotic/180756
 
 ## J
-*://*jikou.co.jp/*
+*://*.jikou.co.jp/*
 *://jimoai444.hatenablog.com/*
+*://*.jpn.org/*
 
 ## K
 *://*.kato-hakuraku.com/*
@@ -100,7 +101,7 @@
 
 ## O
 *://*.onthedockspub.com/*
-*://*.jpn.org/*
+*://*.ovh.net/*
 
 ## P
 *://*.padova.it/*
