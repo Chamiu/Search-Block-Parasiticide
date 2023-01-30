@@ -7,8 +7,10 @@
 *://55life555.blog.fc2.com/*
 *://aka.gmobb.jp/uchidamitsuo/*
 *://akiba.jpn.org/*
+*://batteryproducts.zero-yen.com/*
 *://benzoinfojapan.org/*
 *://biancachan.hatenablog.com/*
+*://capybara.boo.jp/*
 *://codepre.com/*
 *://delancey.heroinewarrior.com/*
 *://keiji-pro.com/*
@@ -95,7 +97,6 @@
 *://*.appsuke.com/*
 *://*.app-liv.jp/*
 *://*.apwork.asia/*
-*://*.apwork.asia/*
 *://*.araiguma12.com/*
 *://*.arekore.app/*
 *://*.aroma-ecru.com/*
@@ -127,8 +128,8 @@
 *://*.berlioz.xyz/*
 *://*.bestjavporn.com/*
 *://*.bestreviews.net/*
-*://*.bestreviews.net/*
 *://*.bgdy88.com/*
+*://*.biglobe.ne.jp/
 *://*.bitsrc.io/*
 *://*.bitwar.net/
 *://*.bitwave.showcase-tv.com/*
@@ -173,7 +174,6 @@
 *://*.cisdem.com/*
 *://*.cktt.jp/*
 *://*.cleanmymac.com/*
-*://*.cocololo.jp/*
 *://*.cocololo.jp/*
 *://*.cocolotus.net/*
 *://*.combocleaner.com/*
@@ -266,7 +266,6 @@
 *://*.fonedog.jp/*
 *://*.fonepaw.jp/*
 *://*.formidapps.com/*
-*://*.formidapps.com/*
 *://*.forzastyle.com/*
 *://*.fossmint.com/*
 *://*.freelifetech.com/*
@@ -283,6 +282,7 @@
 *://*.gadgetarq.com/*
 *://*.gadget-info.com/*
 *://*.gadget.yublog.com/*
+*://*.gajetdaisuke.com/*
 *://*.gamekana.com/*
 *://*.gamemoney.cc/*
 *://*.gameplanet.jp/*
@@ -471,7 +471,6 @@
 *://*.masaru0.com/*
 *://*.masatwooo-blog.com/*
 *://*.mato.media/*
-*://*.mato.media/*
 *://*.mayosayo.com/*
 *://*.medical-channel.com/*
 *://*.medmalrx.com/*
@@ -554,9 +553,7 @@
 *://*.ohitoritv.com/*
 *://*.oita-hokenshakyogikai.jp/*
 *://*.okane-fueeru.com/*
-*://*.okane-fueeru.com/*
 *://*.okusuri-x.com/*
-*://*.okwave.jp/*
 *://*.okwave.jp/*
 *://*.optom.typort.my.id/*
 *://*.oradata.net/*
@@ -568,6 +565,7 @@
 *://*.otsukaresama-deshita.com/*
 *://*.outlay.info/*
 *://*.oyazi.site/*
+*://*.palpis.net/*
 *://*.panchira.tokyo/*
 *://*.partitionwizard.jp/*
 *://*.partitionwizard\.*/*
@@ -588,10 +586,10 @@
 *://*.play-azlabs.com/*
 *://*.pocyo.at.webry.info/*
 *://*.pointag.asia/*
-*://*.pointag.asia/*
 *://*.polimar.jp/*
 *://*.pornmoviesfull.com/*
 *://*.potesara.work/*
+*://*.power-hikaku.info/*
 *://*.pplepop.com/*
 *://*.progsoft.net/*
 *://*.pt-jepun.com/*
@@ -621,7 +619,6 @@
 *://*.richka.co/*
 *://*.richterminal.com/*
 *://*.rich-life58.com/*
-*://*.rich-life58.com/*
 *://*.rikupsycho.hatenablog.com/*
 *://*.rmtinc.jp/*
 *://*.rmt.club/*
@@ -634,7 +631,6 @@
 *://*.r-studio.com/*
 *://*.sadhanacircle.com/*
 *://*.safetydetectives.com/*
-*://*.saito-miyu.com/*
 *://*.saito-miyu.com/*
 *://*.sakidori.co/*
 *://*.sakimeshi.com/*
@@ -771,7 +767,6 @@
 *://*.vjcatkick.com/*
 *://*.volsiz.ru/*
 *://*.vpnmentor.com/*
-*://*.vpnmentor.com/*
 *://*.vr-ero.net/*
 *://*.wangel.aioilight.space/*
 *://*.warasoft.com/*
@@ -796,7 +791,6 @@
 *://*.wondershare.jp/*
 *://*.wowma.jp/*
 *://*.wpcoding.net/*
-*://*.wpcoding.net/*
 *://*.writemyessay24h.net/*
 *://*.xero.porn/*
 *://*.xiaolongchakan.com/*
@@ -819,6 +813,7 @@
 *://*.yogacondavidgiri.es/*
 *://*.yoh-suke-blog.com/*
 *://*.yomoyama-joho.com/*
+*://*.youkoseki.com/*
 *://*.youramys.com/*
 *://*.yourei.jp/*
 *://*.yourpedia.org/*
