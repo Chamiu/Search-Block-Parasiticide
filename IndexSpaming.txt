@@ -19,6 +19,7 @@
 *://*.approvals.ae/*
 *://*.armevents.co.in/*
 *://*.atlanticcouncil.org/*
+*://*.bankenationalpark.gov.np/*
 *://*.bauhaus-cottbus.de/*
 *://*.btronik.de/*
 *://*.buenosairessos.com.ar/*
