@@ -334,6 +334,7 @@
 *://*.health-life.jp/*
 *://*.health-more.jp/*
 *://*.heim.jp/*
+*://*.hihin.net/*
 *://*.history-land.com/*
 *://*.hitoribucho.com/*
 *://*.hm-hm.net/*
@@ -374,6 +375,7 @@
 *://*.iwofr.org/*
 *://*.j8n017i30.ddns.info/*
 *://*.japanese.engadget.com/*
+*://*.japanscifi.com/*
 *://*.jav19.analtube.info/*
 *://*.javdc.net/*
 *://*.javesq.com/*
@@ -736,6 +738,7 @@
 *://*.trend-top.com/*
 *://*.trivia-and-know-how-notes.com/*
 *://*.tsite.jp/*
+*://*.tsutaya.co.jp/*
 *://*.tunefab.jp/*
 *://*.tunesbro.jp/*
 *://*.tunesfun.com/*
