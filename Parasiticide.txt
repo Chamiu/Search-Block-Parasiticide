@@ -7,6 +7,7 @@
 *://55life555.blog.fc2.com/*
 *://aka.gmobb.jp/uchidamitsuo/*
 *://akiba.jpn.org/*
+*://article.auone.jp/*
 *://batteryproducts.zero-yen.com/*
 *://benzoinfojapan.org/*
 *://biancachan.hatenablog.com/*
@@ -424,6 +425,7 @@
 *://*.kocco36.xyz/*
 *://*.kogire.com/*
 *://*.koiy.hatenadiary.jp/*
+*://*.kokodora.com/*
 *://*.koregasiritai.com/*
 *://*.korekaradesu.com/*
 *://*.koumasai.jp/*
@@ -478,6 +480,7 @@
 *://*.medical-channel.com/*
 *://*.medmalrx.com/*
 *://*.megane-enjoy.com/*
+*://*.megane-shufu.com/*
 *://*.meiyouwenti.net/*
 *://*.melissaaldana.com/*
 *://*.memory-jp.com/*
@@ -745,6 +748,7 @@
 *://*.turing.com/*
 *://*.tutsplus.com/*
 *://*.tvzuki.com/*
+*://*.tv-drama-nihon-kansou.hatenablog.com/*
 *://*.tv-movie.wark.info/*
 *://*.twist-design.life/*
 *://*.twittospia.com/*
