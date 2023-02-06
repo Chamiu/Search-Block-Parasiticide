@@ -257,6 +257,7 @@
 *://*.e-earphone.jp/*
 *://*.facebook.com/*
 *://*.fc2hub.com/*
+*://*.feeloneslife.com/*
 *://*.fenet.jp/*
 *://*.ferret-plus.com/*
 *://*.ff11account.blog109.fc2.com/*
@@ -375,6 +376,7 @@
 *://*.itreview.jp/*
 *://*.iwofr.org/*
 *://*.j8n017i30.ddns.info/*
+*://*.japaneseclass.jp/*
 *://*.japanese.engadget.com/*
 *://*.japanscifi.com/*
 *://*.jav19.analtube.info/*
