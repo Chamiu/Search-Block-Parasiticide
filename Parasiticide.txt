@@ -12,9 +12,13 @@
 *://benzoinfojapan.org/*
 *://biancachan.hatenablog.com/*
 *://capybara.boo.jp/*
+*://catmemo.hatenablog.com/*
 *://codepre.com/*
 *://delancey.heroinewarrior.com/*
+*://electronic-journal.seesaa.net/*
+*://kaikyou.exblog.jp/*
 *://keiji-pro.com/*
+*://kiddushin.jugem.jp/*
 *://koneta.nifty.com/*
 *://kumikosaito.com/*
 *://lineblog.me/momo1101/*
@@ -27,10 +31,13 @@
 *://news.livedoor.com/*
 *://news.yahoo.co.jp/*
 *://otopaki.hatenablog.com/*
+*://rakusen.exblog.jp/*
 *://shiroutowiki.work/*
 *://tabi-labo.com/*
+*://www.marino.ne.jp/*
 *://xn--u9j0pq57erfbqxcoa483af3dj0vba410juv8i46za.jp/
 *://yurugadget.hateblo.jp/*
+*://*.smcb.jp
 *://*drama-lovelog.com/*
 *://*.1lifenet.com/*
 *://*.1st-net.jp/*
@@ -170,6 +177,7 @@
 *://*.chinesemix.com/*
 *://*.chobihige.shop/*
 *://*.choice.jpn.org/*
+*://*.chosyu-journal.jp/*
 *://*.ciernykvinnan.com/*
 *://*.cinemarche.net/*
 *://*.cinemazuki.com/*
@@ -257,6 +265,7 @@
 *://*.e-earphone.jp/*
 *://*.facebook.com/*
 *://*.fc2hub.com/*
+*://*.fc2.com/*
 *://*.feeloneslife.com/*
 *://*.fenet.jp/*
 *://*.ferret-plus.com/*
@@ -365,6 +374,7 @@
 *://*.inest-inc.co.jp/*
 *://*.infojoho.org/*
 *://*.informer.com/*
+*://*.innou.online/*
 *://*.ioc-waseda.jp/*
 *://*.iphone-mania.jp/*
 *://*.iphone-manual.net/*
@@ -469,6 +479,7 @@
 *://*.macuninstallguides.com/*
 *://*.macupdate.com/*
 *://*.macxdvd.com/*
+*://*.maga9.jp/*
 *://*.mairi.me/*
 *://*.maketecheasier.com/*
 *://*.makeuseof.com/*
@@ -548,6 +559,7 @@
 *://*.nihon-omokage.com/*
 *://*.nippon.com/*
 *://*.nomad-ceo.com/*
+*://*.noncky.net/*
 *://*.noteburner.com/*
 *://*.note.com/*
 *://*.noto.mobi/*
@@ -612,6 +624,7 @@
 *://*.rakuten.ne.jp/*
 *://*.rankred.com/*
 *://*.rank-king.jp/*
+*://*.rapt-neo.com/*
 *://*.rapt-plusalpha.com/*
 *://*.raworlnig7.over-blog.com/*
 *://*.rbbtoday.com/*
@@ -658,6 +671,7 @@
 *://*.shenzhenaudio.jp/*
 *://*.shinjuku-tiger.com/*
 *://*.shippu-rondo-movie.jp/*
+*://*.shirasu.io/*
 *://*.shiroutoname.com/*
 *://*.shoiblog.com/*
 *://*.shoppingosusume.com/*
@@ -711,6 +725,7 @@
 *://*.tenorshare.jp/*
 *://*.teru-saishin.com/*
 *://*.tetsuyan01.com/*
+*://*.tetsu-log.com/*
 *://*.the360.life/*
 *://*.thebestgame2020.com/*
 *://*.thebest-1.com/*
