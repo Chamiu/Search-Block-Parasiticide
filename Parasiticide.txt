@@ -691,6 +691,7 @@
 *://*.softoware.org/*
 *://*.softpedia.com/*
 *://*.solar-lab.jp/*
+*://*.sonnakonnade.com/*
 *://*.sora3psuke3.com/*
 *://*.sougiyasan.jp/*
 *://*.soydemac.com/*
