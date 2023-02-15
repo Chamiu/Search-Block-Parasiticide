@@ -46,6 +46,7 @@
 *://*.309mm.com/*
 *://*.0755szjj.com/*
 *://*.2039.jp/*
+*://*.308413110.com/*
 *://*.a8-net.com/*
 *://*.ab-cafe.com/*
 *://*.adlock.com/*
@@ -92,6 +93,7 @@
 *://*.appbank.net/*
 *://*.appdam.info/*
 *://*.appleinsider.com/*
+*://*.applerank.com/*
 *://*.appleshinja.com/*
 *://*.apple-teach.com/*
 *://*.applica.info/*
@@ -178,6 +180,7 @@
 *://*.chobihige.shop/*
 *://*.choice.jpn.org/*
 *://*.chosyu-journal.jp/*
+*://*.chriswrites.com/*
 *://*.ciernykvinnan.com/*
 *://*.cinemarche.net/*
 *://*.cinemazuki.com/*
