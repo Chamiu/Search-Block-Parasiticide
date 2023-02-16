@@ -374,6 +374,7 @@
 *://*.imobie.jp/*
 *://*.imore.com/*
 *://*.imyfone.com/*
+*://*.imymac.jp/*
 *://*.inest-inc.co.jp/*
 *://*.infojoho.org/*
 *://*.informer.com/*
@@ -488,6 +489,7 @@
 *://*.makeuseof.com/*
 *://*.malavida.com/*
 *://*.mamanurs.com/*
+*://*.mamastar.jp/*
 *://*.marumi23.com/*
 *://*.masaru0.com/*
 *://*.masatwooo-blog.com/*
