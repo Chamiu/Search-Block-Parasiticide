@@ -1,8 +1,3 @@
-########################################################################
-# Parasiticide sites list for uBlacklist
-# Created by [Chamiu](https://github.com/Chamiu)
-# License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 *://1wordworld.blog26.fc2.com/*
 *://55life555.blog.fc2.com/*
 *://aka.gmobb.jp/uchidamitsuo/*
@@ -33,6 +28,7 @@
 *://otopaki.hatenablog.com/*
 *://rakusen.exblog.jp/*
 *://shiroutowiki.work/*
+*://st250e.hatenablog.com/*
 *://tabi-labo.com/*
 *://www.marino.ne.jp/*
 *://xn--u9j0pq57erfbqxcoa483af3dj0vba410juv8i46za.jp/
@@ -92,6 +88,7 @@
 *://*.appbank.co.jp/*
 *://*.appbank.net/*
 *://*.appdam.info/*
+*://*.appget.com/*
 *://*.appleinsider.com/*
 *://*.applerank.com/*
 *://*.appleshinja.com/*
@@ -106,7 +103,10 @@
 *://*.appps.jp/*
 *://*.appq.jp/*
 *://*.appsuke.com/*
+*://*.apps-island.com/*
+*://*.app-lism.com/*
 *://*.app-liv.jp/*
+*://*.app-mori.com/*
 *://*.apwork.asia/*
 *://*.araiguma12.com/*
 *://*.arekore.app/*
@@ -236,6 +236,7 @@
 *://*.dyk.tokyo/*
 *://*.dynamite-family.com/*
 *://*.e56.stars.ne.jp/*
+*://*.earlyteches.com/*
 *://*.ear-phone-review.com/*
 *://*.easeus.com/*
 *://*.ease-arthralgia.net/*
@@ -283,6 +284,7 @@
 *://*.formidapps.com/*
 *://*.forzastyle.com/*
 *://*.fossmint.com/*
+*://*.foxmobile.jp/*
 *://*.freelifetech.com/*
 *://*.freepc.jp/*
 *://*.freesoft-100.com/*
@@ -302,6 +304,7 @@
 *://*.gamemoney.cc/*
 *://*.gameplanet.jp/*
 *://*.gametrade.jp/*
+*://*.gaming-city.com/*
 *://*.gatearrows.com/*
 *://*.geardownload.com/*
 *://*.geckoandfly.com/*
@@ -405,6 +408,7 @@
 *://*.jigadorierogazou.blog.fc2.com/*
 *://*.jigensha.info/*
 *://*.jihoken.jp/*
+*://*.jikitourai.net/*
 *://*.jimbutsu.jitenon.jp/*
 *://*.jobiken.com/*
 *://*.jocee.jp/*
@@ -415,6 +419,7 @@
 *://*.jpon.xyz/*
 *://*.jste35.jp/*
 *://*.junglila.jp/*
+*://*.junyou-kakurega.com/*
 *://*.kabo-kao.com/*
 *://*.kadenk.com/*
 *://*.kaerucloud.com/*
@@ -476,10 +481,12 @@
 *://*.macbed.com/*
 *://*.macbookdatarecovery.org/*
 *://*.macbooster.net/*
+*://*.macgamerhq.com/*
 *://*.mackeeper.com/*
 *://*.macmac.jp/*
 *://*.macotakara.jp/*
 *://*.macpaw.com/*
+*://*.macresearch.org/*
 *://*.macuninstallguides.com/*
 *://*.macupdate.com/*
 *://*.macxdvd.com/*
@@ -487,6 +494,7 @@
 *://*.mairi.me/*
 *://*.maketecheasier.com/*
 *://*.makeuseof.com/*
+*://*.makuring.com/*
 *://*.malavida.com/*
 *://*.mamanurs.com/*
 *://*.mamastar.jp/*
@@ -512,6 +520,7 @@
 *://*.miracle.lk/*
 *://*.mixi.jp/*
 *://*.miyamatakeru.com/*
+*://*.mmorpg.gg/*
 *://*.mobile-shuri.jp/*
 *://*.moemoematome.net/*
 *://*.moltsinc.co.jp/*
@@ -546,6 +555,7 @@
 *://*.nektony.com/*
 *://*.netagear.net/*
 *://*.netlify.app/*
+*://*.netsurbible.com/*
 *://*.networkbusiness-success.net/*
 *://*.newstopics.jp/*
 *://*.newstweet.jp/*
@@ -563,6 +573,7 @@
 *://*.nicovideo.jp/*
 *://*.nihon-omokage.com/*
 *://*.nippon.com/*
+*://*.noborublog.net/*
 *://*.nomad-ceo.com/*
 *://*.noncky.net/*
 *://*.noteburner.com/*
@@ -580,6 +591,8 @@
 *://*.okane-fueeru.com/*
 *://*.okusuri-x.com/*
 *://*.okwave.jp/*
+*://*.onlinegamer.jp/*
+*://*.onlinegame-pla.net/*
 *://*.optom.typort.my.id/*
 *://*.oradata.net/*
 *://*.original-lab.jp/*
@@ -599,6 +612,7 @@
 *://*.pcrisk.com/*
 *://*.pc-express-france.com/*
 *://*.pc-karuma.net/*
+*://*.pc-onlinegames.com/*
 *://*.pdfmate.com/*
 *://*.peco-japan.com/*
 *://*.petokoto.com/*
@@ -684,6 +698,7 @@
 *://*.sim-labo.jp/*
 *://*.sinrigaku-lovers.com/*
 *://*.siraberuko.jp/*
+*://*.sir-apfelot.de/*
 *://*.sisannotamago.com/*
 *://*.siteflow.jp/*
 *://*.slant.co/*
@@ -834,6 +849,7 @@
 *://*.xn--vcki1fxho24llmcg5g1w4d1xr6v0cflmzug.com/*
 *://*.xn--w8j5cwb6a1433a427bijc90wdu1d.com/*
 *://*.xn----xeutb1bza2am.jp/*
+*://*.xrcloud.jp/*
 *://*.yahoo.co.jp/*
 *://*.yain.jp/*
 *://*.yamatogokorous.com/*
