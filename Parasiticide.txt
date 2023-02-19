@@ -3,6 +3,7 @@
 # Created by [Chamiu](https://github.com/Chamiu)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+
 *://1wordworld.blog26.fc2.com/*
 *://55life555.blog.fc2.com/*
 *://aka.gmobb.jp/uchidamitsuo/*
@@ -126,6 +127,7 @@
 *://*.atsit.in/*
 *://*.atsugiebina.hatenablog.com/*
 *://*.attain-grant.com/*
+*://*.atwiki.jp/*
 *://*.aucfan.com/*
 *://*.aura-office.co.jp/*
 *://*.autopedia.jpn.org/*
@@ -318,6 +320,7 @@
 *://*.geimato.com/*
 *://*.geinoueroch.com/*
 *://*.gemsoft.jp/*
+*://*.gentleandgrace1.com/*
 *://*.gfx-tools.com/*
 *://*.ghanaimmigration.org/*
 *://*.ghosthaunters.com/*
