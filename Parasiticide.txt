@@ -3,7 +3,6 @@
 # Created by [Chamiu](https://github.com/Chamiu)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-
 *://1wordworld.blog26.fc2.com/*
 *://55life555.blog.fc2.com/*
 *://aka.gmobb.jp/uchidamitsuo/*
@@ -50,6 +49,7 @@
 *://*.2039.jp/*
 *://*.308413110.com/*
 *://*.a8-net.com/*
+*://*.abc-by.com/*
 *://*.ab-cafe.com/*
 *://*.adlock.com/*
 *://*.adult-secret-time.com/*
@@ -563,6 +563,7 @@
 *://*.nektony.com/*
 *://*.netagear.net/*
 *://*.netlify.app/*
+*://*.netoff.co.jp/*
 *://*.netsurbible.com/*
 *://*.networkbusiness-success.net/*
 *://*.newstopics.jp/*
@@ -776,6 +777,7 @@
 *://*.topshippingja.com/*
 *://*.torange.biz/*
 *://*.torothy.com/*
+*://*.touken-world.jp/*
 *://*.trade.netgame-rmt.jp/*
 *://*.trafficnews.jp/*
 *://*.trans-suite.jp/*
