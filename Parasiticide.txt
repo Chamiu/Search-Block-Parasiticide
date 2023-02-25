@@ -275,6 +275,7 @@
 *://*.e-earphone.blog/*
 *://*.e-earphone.jp/*
 *://*.facebook.com/*
+*://*.factcheckcenter.jp/*
 *://*.fc2hub.com/*
 *://*.fc2.com/*
 *://*.feeloneslife.com/*
@@ -498,6 +499,7 @@
 *://*.macuninstallguides.com/*
 *://*.macupdate.com/*
 *://*.macxdvd.com/*
+*://*.mac-windows-pc.com/*
 *://*.maga9.jp/*
 *://*.mairi.me/*
 *://*.maketecheasier.com/*
@@ -598,6 +600,7 @@
 *://*.ohitoritv.com/*
 *://*.oita-hokenshakyogikai.jp/*
 *://*.okane-fueeru.com/*
+*://*.okusurinavi.shop/*
 *://*.okusuri-x.com/*
 *://*.okwave.jp/*
 *://*.onlinegamer.jp/*
@@ -865,6 +868,7 @@
 *://*.yamatogokorous.com/*
 *://*.yamatoq.info/*
 *://*.yamauto.jp/*
+*://*.yama-mac.com/*
 *://*.yaseibook.com/*
 *://*.yellowcorn.jp/*
 *://*.yogacondavidgiri.es/*
