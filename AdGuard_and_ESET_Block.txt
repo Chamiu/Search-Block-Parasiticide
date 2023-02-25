@@ -4,10 +4,15 @@
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 # 
 
+*://*.assessurgery.com/*
+*://*.borestore.eu/*
 *://*.bradfordnh.org/*
+*://*.buckhorninn.com/*
 *://*.conatel.gob.ve/*
 *://*.cryptotabbrowser.com/*
+*://*.fujita-group.co.jp/*
 *://*.itiguala.edu.mx/*
+*://*.mercatbar.es/*
 *://*.nowget.net/*
 *://*.tistory.com/*
 *://traxco.es/*
