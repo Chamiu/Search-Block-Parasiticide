@@ -10,11 +10,16 @@
 *://*.buckhorninn.com/*
 *://*.conatel.gob.ve/*
 *://*.cryptotabbrowser.com/*
+*://*.domaine-raquillet.com/?*
 *://*.fujita-group.co.jp/*
 *://*.itiguala.edu.mx/*
 *://*.mercatbar.es/*
 *://*.nowget.net/*
+*://*.ssean.top/*
 *://*.tistory.com/*
-*://traxco.es/*
+*://*.torgauerzeitung.com/*
+*://*.traxco.es/*
+*://*.uminoniwa.jp/*
+*://veltsi.edu.ee/*
 *://*.wa-gunnet.co.jp/*
 *://*.watchjavonline.com/*
