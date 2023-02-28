@@ -194,6 +194,7 @@
 *://*.cisdem.com/*
 *://*.cktt.jp/*
 *://*.cleanmymac.com/*
+*://*.cleanmymac.jp/*
 *://*.cocololo.jp/*
 *://*.cocolotus.net/*
 *://*.combocleaner.com/*
@@ -441,6 +442,7 @@
 *://*.kashi-mo.com/*
 *://*.kazahanamirai.com/*
 *://*.kdgadget.com/*
+*://*.keepstreams.com/*
 *://*.keitaijoho.com/*
 *://*.kenchicjunrei.jp/*
 *://*.kenjya.org/*
@@ -496,6 +498,8 @@
 *://*.macotakara.jp/*
 *://*.macpaw.com/*
 *://*.macresearch.org/*
+*://*.macsoft.jp/*
+*://*.macube.com/*
 *://*.macuninstallguides.com/*
 *://*.macupdate.com/*
 *://*.macxdvd.com/*
@@ -619,6 +623,7 @@
 *://*.panchira.tokyo/*
 *://*.partitionwizard.jp/*
 *://*.partitionwizard\.*/*
+*://*.pasoju.com/*
 *://*.pcmacstore.com/*
 *://*.pcmanabu.com/*
 *://*.pcrisk.com/*
@@ -681,6 +686,7 @@
 *://*.ryo-yasukawa.com/*
 *://*.ryublogs0024.com/*
 *://*.r-studio.com/*
+*://*.saashub.com/*
 *://*.sadhanacircle.com/*
 *://*.safetydetectives.com/*
 *://*.saito-miyu.com/*
@@ -707,6 +713,7 @@
 *://*.shoiblog.com/*
 *://*.shoppingosusume.com/*
 *://*.shufu-chie.com/*
+*://*.simple-was-best.com/*
 *://*.sim-labo.jp/*
 *://*.sinrigaku-lovers.com/*
 *://*.siraberuko.jp/*
@@ -734,6 +741,7 @@
 *://*.ssl.com/*
 *://*.stackoverflow.com/*
 *://*.stellarinfo.com/*
+*://*.streamfab.jp/*
 *://*.stuklopechat.com/*
 *://*.sugimuratakashi.com/*
 *://*.sunnews.site/*
@@ -765,6 +773,7 @@
 *://*.thebibliophilia.com/*
 *://*.thehikaku.net/*
 *://*.thenews.ne.jp/*
+*://*.thesweetbits.com/*
 *://*.tibet.org/*
 *://*.tiktok.com/*
 *://*.tik.moe/*
@@ -780,6 +789,7 @@
 *://*.topshippingja.com/*
 *://*.torange.biz/*
 *://*.torothy.com/*
+*://*.totoro-niisan.com/*
 *://*.touken-world.jp/*
 *://*.trade.netgame-rmt.jp/*
 *://*.trafficnews.jp/*
@@ -834,6 +844,7 @@
 *://*.webhoric.com/*
 *://*.weblio.jp/*
 *://*.websitehostingrating.com/*
+*://*.websiteplanet.com/*
 *://*.web-graphics.com/*
 *://*.weebly.com/*
 *://*.welcome-to-oze.com/*
