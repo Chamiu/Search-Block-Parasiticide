@@ -1,0 +1,55 @@
+########################################################################
+# Redistribution Binary sites list for uBlacklist
+# Update by [Chamiu](https://github.com/Chamiu)
+# Created by [108EAA0A](https://github.com/108EAA0A/ublacklist-redistribution-binary)
+# License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+*://*.autotechint.com/*
+*://*.br0wsers.com/*
+*://*.bytesin.com/*
+*://*.chip.de/*
+*://*.digital-digest.com/*
+*://*.digitaltrends.com/*
+*://*.dll-download-system.com/*
+*://*.dll-files.com/*
+*://*.dll-found.com/*
+*://*.dll-overhaul.com/*
+*://*.dlldump.com/*
+*://*.dllfile.net/*
+*://*.dllkit.com/*
+*://*.dllme.com/*
+*://*.dllyes.com/*
+*://*.download.cnet.com/*
+*://*.download.game155.com/*
+*://*.downxia.com/*
+*://*.error-dll.info/*
+*://*.exefiles.com/*
+*://*.filehorse.com/*
+*://*.fileplanet.com/*
+*://*.free-codecs.com/*
+*://*.freedownloadmanager.org/*
+*://*.goodereader.com/*
+*://*.instalki.pl/*
+*://*.lo4d.com/*
+*://*.macupdate.com/*
+*://*.originaldll.com/*
+*://*.processlibrary.com/*
+*://*.slimwareutilities.com/*
+*://*.soft32.com/*
+*://*.softaro.net/*
+*/softonic\.(com|jp|ru)/
+*://*.softpedia.com/*
+*://*.taimienphi.vn/*
+*://*.techspot.com/*
+*://*.updatestar.com/*
+*://*.uptodown.com/*
+*://*.videohelp.com/*
+*://*.wenjian.net/
+*://*.wikidll.com/*
+*://*.winbindex.m417z.com/*
+*://*.windll.com/*
+*://*.winpcware.com/*
+*://*.winsite.com/*
+*://*.wp.xin.at/*
+*://*.zhaodll.co/*
+*://*.zhaodll.com/*
