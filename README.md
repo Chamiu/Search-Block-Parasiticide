@@ -15,4 +15,4 @@
 
 なお書き
 - 本repositoryは、[yussio (yussy)](https://github.com/yussio)さんによる更新が止まっているため、2023-02-05 2211時にfork childからdetachし独立しました。
-- [Redistribution_Binary.txt]()は、[108EAA0A](https://github.com/108EAA0A)さん作の[実行可能ファイルを二次配布しているサイトのブロックリスト](https://github.com/108EAA0A/ublacklist-redistribution-binary)の更新が2022-01-06で停止しているため、勝手ながら巻き取らせていただいています。
+- [Redistribution_Binary.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/Redistribution_Binary.txt)は、[108EAA0A](https://github.com/108EAA0A)さん作の[実行可能ファイルを二次配布しているサイトのブロックリスト](https://github.com/108EAA0A/ublacklist-redistribution-binary)の更新が2022-01-06で停止しているため、勝手ながら巻き取らせていただいています。
