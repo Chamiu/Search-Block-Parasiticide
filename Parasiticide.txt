@@ -75,6 +75,7 @@
 *://*.altapps.net/*
 *://*.alternativesoft.info/*
 *://*.alternativeto.net/*
+*://*.alvarotrigo.com/*
 *://*.amamoba.com/*
 *://*.ameblo.jp/*
 *://*.amlaksoofi.ir/*
@@ -167,6 +168,7 @@
 *://*.butsuyoku-gadget.com/*
 *://*.buzzmac.jp/*
 *://*.b.hatena.ne.jp/*
+*://*.caprico-log.com/*
 *://*.capterra.jp/*
 *://*.card-shinsa.com/*
 *://*.caredeself.jp/*
@@ -195,6 +197,7 @@
 *://*.cktt.jp/*
 *://*.cleanmymac.com/*
 *://*.cleanmymac.jp/*
+*://*.cloudwards.net/*
 *://*.cocololo.jp/*
 *://*.cocolotus.net/*
 *://*.combocleaner.com/*
@@ -502,6 +505,7 @@
 *://*.macube.com/*
 *://*.macuninstallguides.com/*
 *://*.macupdate.com/*
+*://*.macworld.com/*
 *://*.macxdvd.com/*
 *://*.mac-windows-pc.com/*
 *://*.maga9.jp/*
@@ -609,6 +613,7 @@
 *://*.okwave.jp/*
 *://*.onlinegamer.jp/*
 *://*.onlinegame-pla.net/*
+*://*.online-tech-tips.com/*
 *://*.optom.typort.my.id/*
 *://*.oradata.net/*
 *://*.original-lab.jp/*
@@ -687,6 +692,7 @@
 *://*.ryublogs0024.com/*
 *://*.r-studio.com/*
 *://*.saashub.com/*
+*://*.sabatech.jp/*
 *://*.sadhanacircle.com/*
 *://*.safetydetectives.com/*
 *://*.saito-miyu.com/*
@@ -713,6 +719,7 @@
 *://*.shoiblog.com/*
 *://*.shoppingosusume.com/*
 *://*.shufu-chie.com/*
+*://*.simchange.jp/*
 *://*.simple-was-best.com/*
 *://*.sim-labo.jp/*
 *://*.sinrigaku-lovers.com/*
@@ -759,6 +766,7 @@
 *://*.tano-iku.com/*
 *://*.techigem.com/*
 *://*.techpout.com/*
+*://*.techwibe.com/*
 *://*.tecmint.com/*
 *://*.tennenseikatsu.jp/*
 *://*.tennis-mass.com/*
@@ -777,6 +785,7 @@
 *://*.tibet.org/*
 *://*.tiktok.com/*
 *://*.tik.moe/*
+*://*.tipstour.net/*
 *://*.tobita-huuzoku.com/*
 *://*.togetter.com/*
 *://*.tokai.jp/*
@@ -827,12 +836,14 @@
 *://*.usfigureskatingfanzone.com/*
 *://*.usoko.net/*
 *://*.utile-site.com/*
+*://*.uubyte.com/*
 *://*.value-press.com/*
 *://*.vector.co.jp/*
 *://*.videoconverterfactory.com/*
 *://*.videoproc.com/*
 *://*.vidmore.com/*
 *://*.view.cafe/*
+*://*.viralhax.com/*
 *://*.vjcatkick.com/*
 *://*.volsiz.ru/*
 *://*.vpnmentor.com/*
@@ -849,9 +860,11 @@
 *://*.weebly.com/*
 *://*.welcome-to-oze.com/*
 *://*.westerlystpiusxschool.org/*
+*://*.wethegeek.com/*
 *://*.wikijp.org/*
 *://*.wikiredia.com/*
 *://*.windowsapp.tokyo/*
+*://*.windowsreport.com/*
 *://*.winxdvd.com/*
 *://*.wiseman-hiro.com/*
 *://*.wizcase.com/*
