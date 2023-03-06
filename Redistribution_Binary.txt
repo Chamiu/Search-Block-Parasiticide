@@ -1,9 +1,3 @@
-########################################################################
-# redistribution binary sites list for uBlacklist
-# Update by [Chamiu](https://github.com/Chamiu)
-# Created by [108EAA0A](https://github.com/108EAA0A/ublacklist-redistribution-binary)
-# License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 *://*.autotechint.com/*
 *://*.br0wsers.com/*
 *://*.bytesin.com/*
@@ -38,7 +32,7 @@
 *://*.slimwareutilities.com/*
 *://*.soft32.com/*
 *://*.softaro.net/*
-*://softonic\.(com|jp|ru)/
+/softonic\.(com|jp|ru)/
 *://*.softpedia.com/*
 *://*.taimienphi.vn/*
 *://*.techspot.com/*
