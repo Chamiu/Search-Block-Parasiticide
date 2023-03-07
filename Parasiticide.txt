@@ -75,6 +75,7 @@
 *://*.altapps.net/*
 *://*.alternativesoft.info/*
 *://*.alternativeto.net/*
+*://*.alternative.me/*
 *://*.alvarotrigo.com/*
 *://*.amamoba.com/*
 *://*.ameblo.jp/*
@@ -224,6 +225,7 @@
 *://*.demimen.jp/*
 *://*.deviantart.com/*
 *://*.digitalidentity.co.jp/*
+*://*.digitbin.com/*
 *://*.discover-lab.info/*
 *://*.diskdig.com/*
 *://*.diskhouse.shop/*
@@ -275,6 +277,7 @@
 *://*.esquarehomes.com/*
 *://*.euromobil-japan.com/*
 *://*.europeanantiquepine.com/*
+*://*.extage-marketing.co.jp/*
 *://*.eyewated.com/*
 *://*.e-earphone.blog/*
 *://*.e-earphone.jp/*
@@ -324,6 +327,7 @@
 *://*.geikuchi.com/*
 *://*.geimato.com/*
 *://*.geinoueroch.com/*
+*://*.gemoo.com/*
 *://*.gemsoft.jp/*
 *://*.gentleandgrace1.com/*
 *://*.gfx-tools.com/*
@@ -344,6 +348,7 @@
 *://*.goworkship.com/*
 *://*.gpoint.co.jp/*
 *://*.guidingtech.com/
+*://*.guidingtech.com/*
 *://*.gyutan.chu.jp/*
 *://*.g-soragundam.com/*
 *://*.hajipro.com/*
@@ -374,6 +379,8 @@
 *://*.honestcareforkids.us/*
 *://*.honzukia.tistory.com/*
 *://*.hoshutube.army.jp/*
+*://*.howtoguides.org/*
+*://*.howtoisolve.com/*
 *://*.how-old.info/*
 *://*.htraeevas.hatenablog.com/*
 *://*.hubspot.jp/*
@@ -403,6 +410,7 @@
 *://*.iskysoft.*/*
 *://*.istarapps.com/*
 *://*.itemdepot.jp/*
+*://*.itone.co.jp/*
 *://*.itreview.jp/*
 *://*.iwofr.org/*
 *://*.j8n017i30.ddns.info/*
@@ -418,6 +426,7 @@
 *://*.javrav.com/*
 *://*.javvex.com/*
 *://*.jb51.net/*
+*://*.jeangalea.com/*
 *://*.jigadorierogazou.blog.fc2.com/*
 *://*.jigensha.info/*
 *://*.jihoken.jp/*
@@ -611,6 +620,7 @@
 *://*.okusurinavi.shop/*
 *://*.okusuri-x.com/*
 *://*.okwave.jp/*
+*://*.omt.de/*
 *://*.onlinegamer.jp/*
 *://*.onlinegame-pla.net/*
 *://*.online-tech-tips.com/*
@@ -655,6 +665,7 @@
 *://*.progsoft.net/*
 *://*.pt-jepun.com/*
 *://*.pujarussaianspa.com/*
+*://*.pusatdapodik.com/*
 *://*.quora.com/*
 *://*.r25.jp/*
 *://*.raindrop.jp/*
@@ -748,6 +759,7 @@
 *://*.ssl.com/*
 *://*.stackoverflow.com/*
 *://*.stellarinfo.com/*
+*://*.stock-app.info/*
 *://*.streamfab.jp/*
 *://*.stuklopechat.com/*
 *://*.sugimuratakashi.com/*
@@ -765,6 +777,7 @@
 *://*.takehisayuriko.tokyo/*
 *://*.tano-iku.com/*
 *://*.techigem.com/*
+*://*.techjunkie.com/*
 *://*.techpout.com/*
 *://*.techwibe.com/*
 *://*.tecmint.com/*
@@ -914,3 +927,4 @@
 *://*.zattapo.com/*
 *://*.zenplace.co.jp/*
 *://*.zettai-ero.com/*
+*://:.beebom.com/*
