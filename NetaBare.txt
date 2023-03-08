@@ -15,6 +15,7 @@
 *://*.asikotz.com/*
 *://*.bookseries.jp/*
 *://*.channel-rei.com/*
+*://*.cinemandrake.com/*
 *://*.diocuracci.com/*
 *://*.eigahitottobi.com/*
 *://*.electron-comic.com/*
@@ -25,6 +26,7 @@
 *://*.kaigaidorama-netabare.com/*
 *://*.kuchizuke-movie.com/*
 *://*.loungecafe2004.com/*
+*://*.loungecafe2004.tokyo/*
 *://*.manga-tottori.jp/*
 *://*.maru8.cloud/*
 *://*.mihocinema.com/*
@@ -36,6 +38,7 @@
 *://*.sakamotonorio.com/*
 *://*.setosan.net/*
 *://*.sky-journal.com/*
+*://*.spotlight-scoop.com/*
 *://*.trendblog7.com/*
 *://*.unatia.net/*
 *://*.vsd1104.com/*
