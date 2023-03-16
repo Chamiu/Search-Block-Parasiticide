@@ -579,6 +579,7 @@
 *://*.namaeuranai.biz/*
 *://*.name01.unsei.me/*
 *://*.narkive.jp/*
+*://*.nekosato.com/*
 *://*.nektony.com/*
 *://*.netagear.net/*
 *://*.netlify.app/*
@@ -665,6 +666,7 @@
 *://*.progsoft.net/*
 *://*.pt-jepun.com/*
 *://*.pujarussaianspa.com/*
+*://*.purplemartin.org/
 *://*.pusatdapodik.com/*
 *://*.quora.com/*
 *://*.r25.jp/*
@@ -693,6 +695,7 @@
 *://*.richterminal.com/*
 *://*.rich-life58.com/*
 *://*.rikupsycho.hatenablog.com/*
+*://*.rin-ka.net/*
 *://*.rmtinc.jp/*
 *://*.rmt.club/*
 *://*.robertegraham.com/*
@@ -762,6 +765,7 @@
 *://*.stock-app.info/*
 *://*.streamfab.jp/*
 *://*.stuklopechat.com/*
+*://*.suffolk.edu/*
 *://*.sugimuratakashi.com/*
 *://*.sunnews.site/*
 *://*.supari.jp/*
@@ -788,10 +792,12 @@
 *://*.teru-saishin.com/*
 *://*.tetsuyan01.com/*
 *://*.tetsu-log.com/*
+*://*.texal.jp/*
 *://*.the360.life/*
 *://*.thebestgame2020.com/*
 *://*.thebest-1.com/*
 *://*.thebibliophilia.com/*
+*://*.thediplomat.com/*
 *://*.thehikaku.net/*
 *://*.thenews.ne.jp/*
 *://*.thesweetbits.com/*
@@ -908,6 +914,7 @@
 *://*.yama-mac.com/*
 *://*.yaseibook.com/*
 *://*.yellowcorn.jp/*
+*://*.ymcawichita.org/
 *://*.yogacondavidgiri.es/*
 *://*.yoh-suke-blog.com/*
 *://*.yomoyama-joho.com/*
