@@ -1578,6 +1578,7 @@
 *://*.makepo.jp/*
 *://*.manganews.jp/*
 *://*.mania-of-football.com/*
+*://*.manimani-korea.net/*
 *://*.marukanblog.com/*
 *://*.massuuy.com/*
 *://*.mcafeempower.jp/*
@@ -1749,6 +1750,7 @@
 *://*.webrtcconference.jp/*
 *://*.westrip-life.com/*
 *://*.wilmajean345.com/*
+*://*.womanlife.online/*
 *://*.world-study.jp/*
 *://*.wt-musicexpo.com/*
 *://*.xn--ick3b8eyct505c6fc.net/*
@@ -1756,7 +1758,9 @@
 *://*.xn--o9jl2cn5979auzan44djfan39ceq6eh8d.com/*
 *://*.yakusokunosora.com/*
 *://*.yamamii.com/*
+*://*.yaracgazou.com/*
 *://*.ydenki.jp/*
+*://*.yomi.mobi/*
 *://*.yomi.tokyo/*
 *://*.yonohuuchou.com/*
 *://*.yoroko100.com/*
