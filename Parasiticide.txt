@@ -155,6 +155,7 @@
 *://*.bitwave.showcase-tv.com/*
 *://*.bizword.jp/*
 *://*.biz.id/*
+*://*.bi-girl.net/*
 *://*.blogspot.com/*
 *://*.blog-support.jp/*
 *://*.blog.goo.ne.jp/kimito39/*
@@ -310,6 +311,7 @@
 *://*.furatel.club/*
 *://*.futoukou-consultant.com/*
 *://*.fuzinrizin.com/*
+*://*.fuzoku-move.net/*
 *://*.g2.com/*
 *://*.gadgetarq.com/*
 *://*.gadget-info.com/*
@@ -407,7 +409,6 @@
 *://*.iphone-manual.net/*
 *://*.iphone-plus-hamamatsu.com/*
 *://*.ipokimu.jp/*
-*://*.iskysoft.*/*
 *://*.istarapps.com/*
 *://*.itemdepot.jp/*
 *://*.itone.co.jp/*
@@ -629,6 +630,7 @@
 *://*.oradata.net/*
 *://*.original-lab.jp/*
 *://*.oshiete.goo.ne.jp/*
+*://*.ossannayami.com/*
 *://*.osxdaily.com/*
 *://*.otokitashun.com/*
 *://*.otoko-life.com/*
@@ -935,3 +937,4 @@
 *://*.zenplace.co.jp/*
 *://*.zettai-ero.com/*
 *://:.beebom.com/*
+/iskysoft\.*/
