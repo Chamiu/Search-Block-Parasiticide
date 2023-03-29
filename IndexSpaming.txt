@@ -4,6 +4,7 @@
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 *://altonawood.com.py/*
+*://asiangeo.com/*
 *://investigacion.usil.edu.pe/*
 *://i-pal.or.jp/*
 *://jimoai444.hatenablog.com/*
@@ -43,6 +44,7 @@
 *://*.e-item.co.jp/*
 *://*.e-living.info/*
 *://*.facturasrapidasec.com/*
+*://*.farmhakuba.jp/*
 *://*.fridayistanbul.com/*
 *://*.fumimoko.blog/*
 *://*.gaznevada.iq.usp.br/*
@@ -54,13 +56,16 @@
 *://*.harneymotorsltd.com/*
 *://*.haushueter-lsz.de/*
 *://*.heatfry.com/*
+*://*.hiperlafuente.com/*
 *://*.hivic-recruit.com/*
 *://*.jikou.co.jp/*
 *://*.jpn.org/*
 *://*.kato-hakuraku.com/*
+*://*.kenza.re/*
 *://*.ken-plan.com/*
 *://*.kingdomresourceassociates.com/*
 *://*.kingeav.co/*
+*://*.live-kiri.com/*
 *://*.lostash.jp/*
 *://*.ltg-transporte.de/*
 *://*.mademoiselleosaki.com/*
@@ -69,9 +74,11 @@
 *://*.mgscience.ac.in/*
 *://*.michamin.xyz/*
 *://*.mikagamit777.com/*
+*://*.mtx-clinic.jp/*
 *://*.municipal180.com/*
 *://*.naustavor.is/*
 *://*.newsba-nk.com/*
+*://*.neza.gob.mx/*
 *://*.nicasan.ru/*
 *://*.nodepositcarsmalta.com/*
 *://*.numebeauty.ca/*
@@ -89,6 +96,7 @@
 *://*.samex.jp/*
 *://*.sashico.jp/*
 *://*.sbu.ac.ir/*
+*://*.solpetroleo.com/*
 *://*.umbria.it/*
 *://*.usp.br/*
 *://*.voipnim.com/*
