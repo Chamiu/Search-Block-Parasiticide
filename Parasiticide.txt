@@ -30,6 +30,7 @@
 *://news.hostlove.com/*
 *://news.livedoor.com/*
 *://news.yahoo.co.jp/*
+*://osusume.mynavi.jp/*
 *://otopaki.hatenablog.com/*
 *://rakusen.exblog.jp/*
 *://shiroutowiki.work/*
@@ -307,6 +308,7 @@
 *://*.free-mac-software.com/*
 *://*.friday.gold/*
 *://*.fril.jp/*
+*://*.from-notes.com/*
 *://*.fundo.jp/*
 *://*.furatel.club/*
 *://*.futoukou-consultant.com/*
@@ -451,6 +453,7 @@
 *://*.kakoshiru.com/*
 *://*.kandaeshop.com/*
 *://*.kanteiya.com/*
+*://*.kanzen.jp/*
 *://*.karadane.jp/*
 *://*.kashi-mo.com/*
 *://*.kazahanamirai.com/*
@@ -692,6 +695,7 @@
 *://*.removemacapplication.wordpress.com/*
 *://*.reneelab.jp/*
 *://*.renote.jp/*
+*://*.rere.jp/*
 *://*.re-file.com/*
 *://*.richka.co/*
 *://*.richterminal.com/*
@@ -908,6 +912,7 @@
 *://*.xn--w8j5cwb6a1433a427bijc90wdu1d.com/*
 *://*.xn----xeutb1bza2am.jp/*
 *://*.xrcloud.jp/*
+*://*.yagokoro-lab.com/*
 *://*.yahoo.co.jp/*
 *://*.yain.jp/*
 *://*.yamatogokorous.com/*
@@ -938,3 +943,4 @@
 *://*.zettai-ero.com/*
 *://:.beebom.com/*
 /iskysoft\.*/
+/videobyte\.*/
