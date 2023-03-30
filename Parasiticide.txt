@@ -43,6 +43,7 @@
 *://*drama-lovelog.com/*
 *://*.1lifenet.com/*
 *://*.1st-net.jp/*
+*://*.3shinjidai0.com/*
 *://*.4videosoft.jp/*
 *://*.8nengoshi.jp/*
 *://*.309mm.com/*
@@ -407,6 +408,7 @@
 *://*.informer.com/*
 *://*.innou.online/*
 *://*.ioc-waseda.jp/*
+*://*.iot-consulting.co.jp/*
 *://*.iphone-mania.jp/*
 *://*.iphone-manual.net/*
 *://*.iphone-plus-hamamatsu.com/*
@@ -415,6 +417,7 @@
 *://*.itemdepot.jp/*
 *://*.itone.co.jp/*
 *://*.itreview.jp/*
+*://*.itwork100.com/*
 *://*.iwofr.org/*
 *://*.j8n017i30.ddns.info/*
 *://*.japaneseclass.jp/*
@@ -552,6 +555,7 @@
 *://*.mixi.jp/*
 *://*.miyamatakeru.com/*
 *://*.mmorpg.gg/*
+*://*.mobati.me/*
 *://*.mobile-shuri.jp/*
 *://*.moemoematome.net/*
 *://*.moltsinc.co.jp/*
@@ -601,6 +605,7 @@
 *://*.news.line.me/*
 *://*.news.mynavi.jp/*
 *://*.news.nifty.com/*
+*://*.nexer.co.jp/*
 *://*.nextag.web.fc2.com/*
 *://*.nicenews.club/*
 *://*.nicovideo.jp/*
@@ -845,6 +850,7 @@
 *://*.tvzuki.com/*
 *://*.tv-drama-nihon-kansou.hatenablog.com/*
 *://*.tv-movie.wark.info/*
+*://*.twinklestars.net/*
 *://*.twist-design.life/*
 *://*.twittospia.com/*
 *://*.tyuuta1.com/*
@@ -936,6 +942,7 @@
 *://*.yutolist.com/*
 *://*.yuu01.jp/*
 *://*.yuukiwada.com/*
+*://*.yuuuugablog.com/*
 *://*.yuyujiteki.site/*
 *://*.zasssafety.com/*
 *://*.zattapo.com/*
