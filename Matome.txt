@@ -1109,6 +1109,7 @@
 *://su-ki-da.com/*
 *://svgfire.com/*
 *://switchsoku.com/*
+*://syakinsokuhou.blog.jp/*
 *://syokutaku-annai.com/*
 *://syonosuke.com/*
 *://syota-doream.com/*
@@ -1486,6 +1487,7 @@
 *://*.himablo.xyz/*
 *://*.himahimasan.com/*
 *://*.himakiru.com/*
+*://*.himasoku.com/*
 *://*.honmotakeshi.com/*
 *://*.hoshimemo.com/*
 *://*.hpupdate.info/*
@@ -1561,6 +1563,7 @@
 *://*.kousuke-organic.com/*
 *://*.ko-taro-room.link/*
 *://*.kyocoloco.com/*
+*://*.kyodemo.net/*
 *://*.kyoto-doramakan.jp/*
 *://*.kyoto-jpsea.com/*
 *://*.kyousoku.net/*
@@ -1760,6 +1763,7 @@
 *://*.yamamii.com/*
 *://*.yaracgazou.com/*
 *://*.ydenki.jp/*
+*://*.yjojojo.info/*
 *://*.yomi.mobi/*
 *://*.yomi.tokyo/*
 *://*.yonohuuchou.com/*
