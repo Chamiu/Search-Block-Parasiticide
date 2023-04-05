@@ -36,11 +36,9 @@
 *://shiroutowiki.work/*
 *://st250e.hatenablog.com/*
 *://tabi-labo.com/*
-*://www.marino.ne.jp/*
 *://xn--u9j0pq57erfbqxcoa483af3dj0vba410juv8i46za.jp/
 *://yurugadget.hateblo.jp/*
 *://*.smcb.jp
-*://*drama-lovelog.com/*
 *://*.1lifenet.com/*
 *://*.1st-net.jp/*
 *://*.3shinjidai0.com/*
@@ -66,9 +64,6 @@
 *://*.afi-b.com/net/*
 *://*.aibou.main.jp/*
 *://*.aichi-senkyo2019.jp/*
-*://*.aimersoft\.*/*
-*://*.aiseesoft.com/*
-*://*.aiseesoft.jp/*
 *://*.akiko-counselingroom.com/*
 *://*.akionakamura.com/*
 *://*.aliexpress.com/*
@@ -85,7 +80,6 @@
 *://*.ancient.powf.net/*
 *://*.anirobik.com/*
 *://*.annbiyou.com/*
-*://*.anvsoft\.*/*
 *://*.anymp4.jp/*
 *://*.any-dvd-converter.com/*
 *://*.any-video-converter.com/*
@@ -244,6 +238,7 @@
 *://*.download.cnet.com/*
 *://*.dqporn.com/*
 *://*.drama-cm-show.com/*
+*://*.drama-lovelog.com/*
 *://*.drbuho.com/*
 *://*.dreamstime.com/*
 *://*.dumbofab.com/*
@@ -423,6 +418,7 @@
 *://*.japaneseclass.jp/*
 *://*.japanese.engadget.com/*
 *://*.japanscifi.com/*
+*://*.japan-first.net/*
 *://*.jav19.analtube.info/*
 *://*.javdc.net/*
 *://*.javesq.com/*
@@ -442,7 +438,6 @@
 *://*.jocee.jp/*
 *://*.joecomp.com/*
 *://*.johnny-movie.com/*
-*://*.jpg4\.*/*
 *://*.jpnews-video.com/*
 *://*.jpon.xyz/*
 *://*.jste35.jp/*
@@ -483,6 +478,7 @@
 *://*.kpia.shop/
 *://*.kspxnr.work/*
 *://*.kuma-tasuke.com/*
+*://*.kumin.news/*
 *://*.kuraneo.jp/*
 *://*.kurashi-no.jp/*
 *://*.kusanomido.com/*
@@ -532,6 +528,7 @@
 *://*.malavida.com/*
 *://*.mamanurs.com/*
 *://*.mamastar.jp/*
+*://*.marino.ne.jp/*
 *://*.marumi23.com/*
 *://*.masaru0.com/*
 *://*.masatwooo-blog.com/*
@@ -648,7 +645,6 @@
 *://*.palpis.net/*
 *://*.panchira.tokyo/*
 *://*.partitionwizard.jp/*
-*://*.partitionwizard\.*/*
 *://*.pasoju.com/*
 *://*.pcmacstore.com/*
 *://*.pcmanabu.com/*
@@ -949,5 +945,9 @@
 *://*.zenplace.co.jp/*
 *://*.zettai-ero.com/*
 *://:.beebom.com/*
+/aimersoft\.*/*
+/anvsoft\.*/*
 /iskysoft\.*/
+/jpg4\.*/*
+/partitionwizard\.*/*
 /videobyte\.*/
