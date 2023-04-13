@@ -23,6 +23,7 @@
 *://*.atlanticcouncil.org/*
 *://*.bankenationalpark.gov.np/*
 *://*.bauhaus-cottbus.de/*
+*://*.biomagnasa.com/*
 *://*.btronik.de/*
 *://*.buenosairessos.com.ar/*
 *://*.b-tayama.com/*
@@ -41,6 +42,7 @@
 *://*.emergencysolutions4u.com/*
 *://*.epoxygent.be/*
 *://*.etymology-encyclopedia.com/*
+*://*.eu-agencies.net/*
 *://*.e-item.co.jp/*
 *://*.e-living.info/*
 *://*.facturasrapidasec.com/*
@@ -65,9 +67,11 @@
 *://*.ken-plan.com/*
 *://*.kingdomresourceassociates.com/*
 *://*.kingeav.co/*
+*://*.leptospirose-prevention.fr/*
 *://*.live-kiri.com/*
 *://*.lostash.jp/*
 *://*.ltg-transporte.de/*
+*://*.lunatici.it/*
 *://*.mademoiselleosaki.com/*
 *://*.main.jp/*
 *://*.marcelcastro.com/*
@@ -97,6 +101,7 @@
 *://*.sashico.jp/*
 *://*.sbu.ac.ir/*
 *://*.solpetroleo.com/*
+*://*.tenhaveagrotechniek.nl/*
 *://*.umbria.it/*
 *://*.usp.br/*
 *://*.voipnim.com/*
