@@ -339,6 +339,7 @@
 *://femimatsu.com/*
 *://fesoku.net/*
 *://festy.jp/*
+*://filamentosa.blog.ss-blog.jp/*
 *://finalsquall.com/*
 *://financel.xyz/*
 *://findanimesque.com/*
@@ -879,6 +880,7 @@
 *://oyakudatiinfo.com/*
 *://o-kaminews.com/*
 *://pacostech.com/*
+*://paparazzi-sokuhou.seesaa.net/*
 *://paradisefive.net/*
 *://parupunte-life.com/*
 *://parusoku.com/*
@@ -977,6 +979,7 @@
 *://ryo3noheya.com/*
 *://ryota0814.com/*
 *://ryoto-seeking-dailylife.com/*
+*://ryouann2007.wpx.jp/*
 *://ryo-ishikawa.fun/*
 *://ryusoku.com/*
 *://r-news.net/*
@@ -1386,6 +1389,7 @@
 *://*.actgameslog.net/*
 *://*.agasutia.net/*
 *://*.aiko369.com/*
+*://*.aiolin.com/*
 *://*.akasannbiz.com/*
 *://*.alcott-kobe.jp/*
 *://*.almz.holy.jp/iroero/*
@@ -1398,8 +1402,11 @@
 *://*.asunani.com/*
 *://*.atelier--pink.com/*
 *://*.attuhimitukiti.com/*
+*://*.ayatra.jp/*
 *://*.a-omoshirokatta.com/*
 *://*.ball-scope.com/*
+*://*.bang-dream-news.com/*
+*://*.bbstage.jp/*
 *://*.betweenjpandkr.blog/*
 *://*.binetsu.net/*
 *://*.bokujira.com/*
@@ -1430,6 +1437,7 @@
 *://*.collini-movie.com/*
 *://*.colon8.jp/*
 *://*.color-creation.jp/*
+*://*.comfortable-life.site/*
 *://*.common-topics.com/*
 *://*.concern-news.net/*
 *://*.cop10-origami.com/*
@@ -1469,10 +1477,12 @@
 *://*.geino-s.com/*
 *://*.geino.press/*
 *://*.genfunlife.com/*
+*://*.getmoneyfp.net/*
 *://*.godiva-cp.com/*
 *://*.grade.tokyo/*
 *://*.gurum.biz/*
 *://*.hakutaka-shop.jp/*
+*://*.hamasho-tabisuru.jp/*
 *://*.hanahappyblog.com/*
 *://*.happypochi.com/*
 *://*.happy-happy-news.com/*
@@ -1488,12 +1498,15 @@
 *://*.himahimasan.com/*
 *://*.himakiru.com/*
 *://*.himasoku.com/*
+*://*.hirogalie.com/*
 *://*.honmotakeshi.com/*
 *://*.hoshimemo.com/*
 *://*.hpupdate.info/*
 *://*.huuzokutaiken.blog.jp/*
 *://*.hzrd97.info/*
+*://*.i711.com/*
 *://*.iclassics.com/*
+*://*.ientameiki.fun/*
 *://*.interests-me-the-most.com/*
 *://*.irasutoyan.com/*
 *://*.iropel0103.com/*
@@ -1662,12 +1675,14 @@
 *://*.news-enspo.com/*
 *://*.news-nikkeihaitatsu.net/*
 *://*.news-toranomaki.net/*
+*://*.newtrend-judd.com/*
 *://*.nipponnowadai.com/*
 *://*.npb-news.com/*
 *://*.obakegaderuzo.com/*
 *://*.ocsoku.com/*
 *://*.ogwblog.com/*
 *://*.okaeriblog.com/*
+*://*.okichizuru.com/*
 *://*.okuno-hosomichi.com/*
 *://*.oretachi-kidan.net/*
 *://*.otoko-musume.com/*
@@ -1703,6 +1718,7 @@
 *://*.shirebashiruhodo.com/*
 *://*.shitaraba.net/*
 *://*.shitureisimasu.com/*
+*://*.shukuhakuwari.com/*
 *://*.sibamari.com/*
 *://*.skyoflimit.com/*
 *://*.sn-jp.com/*
@@ -1720,11 +1736,13 @@
 *://*.s-teem.com/*
 *://*.takamaru1219.net/*
 *://*.takayan-well.com/*
+*://*.tantanmamastyle.com/*
 *://*.tchal.net/*
 *://*.tebasaki-summit.com/*
 *://*.the01.jp/*
 *://*.thepickup1010.com/*
 *://*.tokyophotogenicteam.com/*
+*://*.tokyo-city-girl.com/*
 *://*.tomami.net/*
 *://*.tomato-journal.com/*
 *://*.tomo3koko.com/*
@@ -1771,6 +1789,7 @@
 *://*.youkoso-ibusuki.com/*
 *://*.your-magazine.net/*
 *://*.youtuberdictionary.com/*
+*://*.yuga-yamato.jp/*
 *://*.yugoten.jp/*
 *://*.yutakanahibi.com/*
 *://*.yuutre.com/*
