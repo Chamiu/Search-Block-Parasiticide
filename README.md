@@ -8,11 +8,15 @@
 - [AdGuard_and_ESET_Block.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/AdGuard_and_ESET_Block.txt) : AdGuardとESET CyberSecurity Proが阻止したsiteたち
 - [IndexSpaming.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/IndexSpaming.txt) : Index Spamingを目的としたdomainたち
 - [NetaBare.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/NetaBare.txt) :  [漫画ネタバレサイト運営　ケンガンオメガ無断掲載容疑で書類送検-毎日新聞](https://mainichi.jp/articles/20220203/k00/00m/040/071000c)に基づくdomainたち
-- [Parasiticide.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/Parasiticide.txt) : 情報発信を偽装したネット乞食が目的のdomainたち
+- ~~Parasiticide.txt~~ : 情報発信を偽装したネット乞食が目的のdomainたちだったが、汎用（はんよう）性がなくなったので2023-04-12に更新を停止した。
 - [Putin's_dog.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/Putin's_dog.txt) : ウクライナの人々の血と肉が旨いdomainたち
 - [Redistribution_Binary.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/Redistribution_Binary.txt) : 実行可能ファイルを二次配布しているdomainたち(なお書き参照のこと)
 - [SportsMatome.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/SportsMatome.txt) : スポーツに関する情報発信を偽装したネット乞食が目的のdomainたち
+- [Untrustworthy EC.txt](https://raw.githubusercontent.com/Chamiu/Search-Block-Parasiticide/master/Untrustworthy%20EC.txt) : 事業者が信頼できない、またはヤクザの三下のような身の危険を感じさせる配達人を使用している事業者たち
 
 なお書き
 - 本repositoryは、[yussio (yussy)](https://github.com/yussio)さんによる更新が止まっているため、2023-02-05 2211時にfork childからdetachし独立しました。
 - [Redistribution_Binary.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/Redistribution_Binary.txt)は、[108EAA0A](https://github.com/108EAA0A)さん作の[実行可能ファイルを二次配布しているサイトのブロックリスト](https://github.com/108EAA0A/ublacklist-redistribution-binary)の更新が2022-01-06で停止しているため、勝手ながら巻き取らせていただいています。
+
+更新履歴
+- 2023-04-16 [Untrustworthy EC.txtを追加した。
