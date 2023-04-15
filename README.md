@@ -19,4 +19,6 @@
 - [Redistribution_Binary.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/Redistribution_Binary.txt)は、[108EAA0A](https://github.com/108EAA0A)さん作の[実行可能ファイルを二次配布しているサイトのブロックリスト](https://github.com/108EAA0A/ublacklist-redistribution-binary)の更新が2022-01-06で停止しているため、勝手ながら巻き取らせていただいています。
 
 更新履歴
-- 2023-04-16 [Untrustworthy EC.txtを追加した。
+- 2023-04-16
+  - Parasiticide.txtの更新停止を記述した。
+  - Untrustworthy EC.txtを追加した。
