@@ -1,0 +1,14 @@
+#######################################################################
+# Untrustworthy EC sites list for uBlacklist
+# Created by [Chamiu](https://github.com/Chamiu)
+# License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+#
+
+*://*.amazon.co.jp/*
+*://store.shopping.yahoo.co.jp/*
+*://*.currentbody.jp/*
+*://*.fril.jp/*
+*://*.gasthausmueller.de/*
+*://*.marinaalta5.com/*
+*://*.rakuten.co.jp/*
+*://*.wowma.jp/*
