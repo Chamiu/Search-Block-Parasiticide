@@ -11,6 +11,7 @@
 *://retogenofu.hatenablog.com/*
 *://sghch.sakuraweb.com/*
 *://td.unova.fr/*
+*://thecmaninnclaremont.com/*
 *://torqueacademy.com.br/*
 *://*.3p9417.ddns.us/*
 *://*.adviserbest.com/*
@@ -40,6 +41,8 @@
 *://*.dunder.ns01.info/*
 *://*.d-dmm.com/*
 *://*.emergencysolutions4u.com/*
+*://*.enerlites.com/*
+*://*.engagelifenow.com/*
 *://*.epoxygent.be/*
 *://*.etymology-encyclopedia.com/*
 *://*.eu-agencies.net/*
@@ -60,6 +63,7 @@
 *://*.heatfry.com/*
 *://*.hiperlafuente.com/*
 *://*.hivic-recruit.com/*
+*://*.idtsports.com/*
 *://*.jikou.co.jp/*
 *://*.jpn.org/*
 *://*.kato-hakuraku.com/*
@@ -106,5 +110,6 @@
 *://*.usp.br/*
 *://*.voipnim.com/*
 *://*.xn--4dkp5a8a5264a48k.com/*
+*://*.yorktonagandauto.ca/*
 *://*.yuec.co.jp/*
 *://*.zatsugaku-mystery.com/*
