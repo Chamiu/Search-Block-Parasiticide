@@ -1,0 +1,14 @@
+########################################################################
+# Ranking sites list for uBlacklist
+# Update by [Chamiu](https://github.com/Chamiu)
+# Created by [108EAA0A](https://github.com/108EAA0A/ublacklist-redistribution-binary)
+# License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+*://ranking.goo.ne.jp/*
+*://*.altapps.net/*
+*://*.electrictoolboy.com/*
+*://*.nhairs.com/*
+*://*.progsoft.net/*
+*://*.rank-king.jp/*
+*://*.tmrkzr.com/*
+*://*.trend-top.com/*
