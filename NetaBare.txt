@@ -5,6 +5,7 @@
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 # 
 
+*://4thplace.seesaa.net/*
 *://netabare1.blog137.fc2.com/*
 *://urotanblog.com/*
 *://y86chan.hatenablog.com/*
@@ -17,6 +18,7 @@
 *://*.channel-rei.com/*
 *://*.cinemandrake.com/*
 *://*.diocuracci.com/*
+*://*.dramaeveryday.com/2*
 *://*.eigahitottobi.com/*
 *://*.electron-comic.com/*
 *://*.entameblog.tokyo/*
@@ -35,6 +37,7 @@
 *://*.nisekoi-movie.jp/*
 *://*.patent-stock.com/*
 *://*.pixiin.com/*
+*://*.renote.net/*
 *://*.sakamotonorio.com/*
 *://*.setosan.net/*
 *://*.sky-journal.com/*
