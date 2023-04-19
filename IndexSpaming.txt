@@ -31,6 +31,7 @@
 *://*.calabria.it/*
 *://*.campletts.org/*
 *://*.catincat.jp/*
+*://*.centara1card.com/*
 *://*.cm-wako.jp/*
 *://*.cnkeejie.xyz/*
 *://*.congresoiiacolombia.com/*
@@ -64,6 +65,8 @@
 *://*.hiperlafuente.com/*
 *://*.hivic-recruit.com/*
 *://*.idtsports.com/*
+*://*.interempresas.net/*
+*://*.iospress.com/*
 *://*.jikou.co.jp/*
 *://*.jpn.org/*
 *://*.kato-hakuraku.com/*
@@ -71,7 +74,9 @@
 *://*.ken-plan.com/*
 *://*.kingdomresourceassociates.com/*
 *://*.kingeav.co/*
+*://*.k-mil.net/*
 *://*.leptospirose-prevention.fr/*
+*://*.lezhin.com/*
 *://*.live-kiri.com/*
 *://*.lostash.jp/*
 *://*.ltg-transporte.de/*
@@ -88,9 +93,11 @@
 *://*.newsba-nk.com/*
 *://*.neza.gob.mx/*
 *://*.nicasan.ru/*
+*://*.nikke-tennis.jp/*
 *://*.nodepositcarsmalta.com/*
 *://*.numebeauty.ca/*
 *://*.onthedockspub.com/*
+*://*.otaiweb.com/*
 *://*.ovh.net/*
 *://*.padova.it/*
 *://*.pittsfieldsuns.com/*
@@ -106,6 +113,7 @@
 *://*.sbu.ac.ir/*
 *://*.solpetroleo.com/*
 *://*.tenhaveagrotechniek.nl/*
+*://*.ucsd.edu/*
 *://*.umbria.it/*
 *://*.usp.br/*
 *://*.voipnim.com/*
