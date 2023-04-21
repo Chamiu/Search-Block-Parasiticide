@@ -13,6 +13,7 @@
 *://td.unova.fr/*
 *://thecmaninnclaremont.com/*
 *://torqueacademy.com.br/*
+*://*.insp.mx/*
 *://*.3p9417.ddns.us/*
 *://*.adviserbest.com/*
 *://*.aetdiesel.com:8888/*
@@ -22,11 +23,14 @@
 *://*.approvals.ae/*
 *://*.armevents.co.in/*
 *://*.atlanticcouncil.org/*
+*://*.autismdfw.org/*
 *://*.bankenationalpark.gov.np/*
 *://*.bauhaus-cottbus.de/*
+*://*.bethaaron.org/*
 *://*.biomagnasa.com/*
 *://*.btronik.de/*
 *://*.buenosairessos.com.ar/*
+*://*.bundk.de/*
 *://*.b-tayama.com/*
 *://*.calabria.it/*
 *://*.campletts.org/*
@@ -37,10 +41,12 @@
 *://*.congresoiiacolombia.com/*
 *://*.copin-cp.com/*
 *://*.cycling.org.sg/*
+*://*.daes.juina.mt.gov.br/*
 *://*.datanews.chhs.ca.gov/*
 *://*.dnb.com/*
 *://*.dunder.ns01.info/*
 *://*.d-dmm.com/*
+*://*.econet.bi/*
 *://*.emergencysolutions4u.com/*
 *://*.enerlites.com/*
 *://*.engagelifenow.com/*
@@ -51,9 +57,12 @@
 *://*.e-living.info/*
 *://*.facturasrapidasec.com/*
 *://*.farmhakuba.jp/*
+*://*.fastzone.org/*
+*://*.foodprotection.org/*
 *://*.fridayistanbul.com/*
 *://*.fumimoko.blog/*
 *://*.gaznevada.iq.usp.br/*
+*://*.gd-workshop.com/*
 *://*.gem-gem.jp/*
 *://*.goodnewz.net/*
 *://*.grandfleet.info/*
@@ -64,6 +73,8 @@
 *://*.heatfry.com/*
 *://*.hiperlafuente.com/*
 *://*.hivic-recruit.com/*
+*://*.hospitalbritanico.org.ar/*
+*://*.ichi-up.net/*
 *://*.idtsports.com/*
 *://*.interempresas.net/*
 *://*.iospress.com/*
@@ -76,6 +87,7 @@
 *://*.kingeav.co/*
 *://*.k-mil.net/*
 *://*.leptospirose-prevention.fr/*
+*://*.lexiscn.com/*
 *://*.lezhin.com/*
 *://*.live-kiri.com/*
 *://*.lostash.jp/*
@@ -84,11 +96,13 @@
 *://*.mademoiselleosaki.com/*
 *://*.main.jp/*
 *://*.marcelcastro.com/*
+*://*.mba.today/*
 *://*.mgscience.ac.in/*
 *://*.michamin.xyz/*
 *://*.mikagamit777.com/*
 *://*.mtx-clinic.jp/*
 *://*.municipal180.com/*
+*://*.mynnls.org.uk/*
 *://*.naustavor.is/*
 *://*.newsba-nk.com/*
 *://*.neza.gob.mx/*
@@ -98,6 +112,7 @@
 *://*.numebeauty.ca/*
 *://*.onthedockspub.com/*
 *://*.otaiweb.com/*
+*://*.outlookfinancial.com/*
 *://*.ovh.net/*
 *://*.padova.it/*
 *://*.pittsfieldsuns.com/*
@@ -112,6 +127,7 @@
 *://*.sashico.jp/*
 *://*.sbu.ac.ir/*
 *://*.solpetroleo.com/*
+*://*.stpacc.org/*
 *://*.tenhaveagrotechniek.nl/*
 *://*.ucsd.edu/*
 *://*.umbria.it/*
