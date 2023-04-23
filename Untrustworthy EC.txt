@@ -4,11 +4,16 @@
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 #
 
-*://*.amazon.co.jp/*
+*://ec.line.me/*
 *://store.shopping.yahoo.co.jp/*
+*://*.amazon.co.jp/*
+*://*.aucfan.com/*
+*://*.become.co.jp/*
 *://*.currentbody.jp/*
 *://*.fril.jp/*
 *://*.gasthausmueller.de/*
 *://*.marinaalta5.com/*
 *://*.rakuten.co.jp/*
+*://*.tsutaya.co.jp/*
 *://*.wowma.jp/*
+*://*.yahoo.co.jp/*
