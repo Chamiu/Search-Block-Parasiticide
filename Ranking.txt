@@ -5,10 +5,12 @@
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 *://ranking.goo.ne.jp/*
+*://*yagokoro-lab.com/*
 *://*.altapps.net/*
 *://*.electrictoolboy.com/*
 *://*.nhairs.com/*
 *://*.progsoft.net/*
 *://*.rank-king.jp/*
+*://*.saiyasune.com/*
 *://*.tmrkzr.com/*
 *://*.trend-top.com/*
