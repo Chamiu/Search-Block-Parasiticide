@@ -25,6 +25,7 @@
 *://*.atlanticcouncil.org/*
 *://*.autismdfw.org/*
 *://*.bankenationalpark.gov.np/*
+*://*.bargebook.com/*
 *://*.bauhaus-cottbus.de/*
 *://*.bethaaron.org/*
 *://*.biomagnasa.com/*
@@ -100,6 +101,7 @@
 *://*.mgscience.ac.in/*
 *://*.michamin.xyz/*
 *://*.mikagamit777.com/*
+*://*.moneydj.com/*
 *://*.mtx-clinic.jp/*
 *://*.municipal180.com/*
 *://*.mynnls.org.uk/*
@@ -115,6 +117,7 @@
 *://*.outlookfinancial.com/*
 *://*.ovh.net/*
 *://*.padova.it/*
+*://*.pba.ph/*
 *://*.pittsfieldsuns.com/*
 *://*.purumeria.com/*
 *://*.raviatowen-conseil.fr/*
