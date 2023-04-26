@@ -13,6 +13,7 @@
 *://*.fril.jp/*
 *://*.gasthausmueller.de/*
 *://*.marinaalta5.com/*
+*://*.mercari.com/*
 *://*.rakuten.co.jp/*
 *://*.tsite.jp/*
 *://*.tsutaya.co.jp/*
