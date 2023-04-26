@@ -8,8 +8,11 @@
 /aiseesoft\.*/*
 /anourano\.*/*
 /anvsoft\.*/*
+/iboysoft\.*/*
 /iskysoft\.*/
 /lexiscn\.*/*
+/mackeeper\.*/
 /partitionwizard\.*/*
 /topbestalternatives\.*/*
 /videobyte\.*/*
+/wondershare\.*/*
