@@ -14,6 +14,7 @@
 *://*.gasthausmueller.de/*
 *://*.marinaalta5.com/*
 *://*.rakuten.co.jp/*
+*://*.tsite.jp/*
 *://*.tsutaya.co.jp/*
 *://*.wowma.jp/*
 *://*.yahoo.co.jp/*
