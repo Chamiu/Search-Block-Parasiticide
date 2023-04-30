@@ -8,6 +8,7 @@
 /aiseesoft\.*/*
 /anourano\.*/*
 /anvsoft\.*/*
+/cisdem\.*/*
 /iboysoft\.*/*
 /iskysoft\.*/
 /lexiscn\.*/*
