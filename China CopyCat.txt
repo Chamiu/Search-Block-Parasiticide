@@ -4,13 +4,13 @@
 # Created by [108EAA0A](https://github.com/108EAA0A/ublacklist-redistribution-binary)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-*://*.anymp4\.*/*
+*://*.anymp4.jp/*
 *://*.esupro.co.jp/*
 *://*.jollygood.co.jp/*
-*://*.leawo.prg/*
+*://*.leawo.org/*
 *://*.monoai.co.jp/*
 *://*.ranourano.xyz/*
-*://*.videoproc\.*/*
+*://*.videoproc.com/*
 *://*.videosolo.net/*
 *://*.vrjour.jp/*
 *://*.wondershare.jp/*
