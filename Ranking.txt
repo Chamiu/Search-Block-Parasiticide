@@ -7,8 +7,10 @@
 *://ranking.goo.ne.jp/*
 *://*yagokoro-lab.com/*
 *://*.altapps.net/*
+*://*.btopcs.jp/hikaku/*
 *://*.electrictoolboy.com/*
 *://*.nhairs.com/*
+*://*.osusumepc.com/*
 *://*.progsoft.net/*
 *://*.rank-king.jp/*
 *://*.saiyasune.com/*
