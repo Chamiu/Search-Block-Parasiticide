@@ -125,6 +125,7 @@
 *://*.rittencalculator.tnls.nl/*
 *://*.riznica.net/*
 *://*.romin.com/*
+*://*.royalpawsandpurrs.com/*
 *://*.sakura.ne.jp/*
 *://*.samex.jp/*
 *://*.sashico.jp/*
