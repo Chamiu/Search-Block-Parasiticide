@@ -116,6 +116,7 @@
 *://*.otaiweb.com/*
 *://*.outlookfinancial.com/*
 *://*.ovh.net/*
+*://*.p4.org/*
 *://*.padova.it/*
 *://*.pba.ph/*
 *://*.pittsfieldsuns.com/*
@@ -137,6 +138,7 @@
 *://*.umbria.it/*
 *://*.usp.br/*
 *://*.voipnim.com/*
+*://*.windowmaker.com/*
 *://*.xn--4dkp5a8a5264a48k.com/*
 *://*.yorktonagandauto.ca/*
 *://*.yuec.co.jp/*
