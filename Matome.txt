@@ -876,6 +876,7 @@
 *://ouest-ecowatt.com/*
 *://outdooor.blog.jp/*
 *://outidesigoto.com/*
+*://owacon.livedoor.biz/*
 *://oyakudachi2525.com/*
 *://oyakudatiinfo.com/*
 *://o-kaminews.com/*
