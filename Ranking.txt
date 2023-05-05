@@ -4,15 +4,29 @@
 # Created by [108EAA0A](https://github.com/108EAA0A/ublacklist-redistribution-binary)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+*://monomania.sblo.jp/*
+*://osusume.mynavi.jp/*
 *://ranking.goo.ne.jp/*
 *://*yagokoro-lab.com/*
 *://*.altapps.net/*
+*://*.applimaniacs.com/*
 *://*.btopcs.jp/hikaku/*
 *://*.electrictoolboy.com/*
+*://*.gamesoftora.com/*
+*://*.gameuxnews.com/*
+*://*.goocho.jp/*
+*://*.g-player.com/*
+*://*.lifelogweb.com/*
+*://*.mediocrity-blog.com/*
+*://*.momenttech.tokyo/*
+*://*.my-best.com/*
 *://*.nhairs.com/*
+*://*.ootsususunu.work/*
 *://*.osusumepc.com/*
 *://*.progsoft.net/*
 *://*.rank-king.jp/*
 *://*.saiyasune.com/*
+*://*.sakidori.co/*
 *://*.tmrkzr.com/*
 *://*.trend-top.com/*
+*://*.yone-himajin.com/*
