@@ -7,6 +7,7 @@
 *://ec.line.me/*
 *://store.shopping.yahoo.co.jp/*
 *://*.amazon.co.jp/*
+*://*.appbankstore.jp/*
 *://*.aucfan.com/*
 *://*.become.co.jp/*
 *://*.currentbody.jp/*
