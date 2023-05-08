@@ -19,6 +19,7 @@
 *://*.lifelogweb.com/*
 *://*.mediocrity-blog.com/*
 *://*.momenttech.tokyo/*
+*://*.monocil.jp/*
 *://*.my-best.com/*
 *://*.nhairs.com/*
 *://*.ootsususunu.work/*
@@ -27,6 +28,7 @@
 *://*.rank-king.jp/*
 *://*.saiyasune.com/*
 *://*.sakidori.co/*
+*://*.stock-app.info/*
 *://*.tmrkzr.com/*
 *://*.trend-top.com/*
 *://*.yone-himajin.com/*
