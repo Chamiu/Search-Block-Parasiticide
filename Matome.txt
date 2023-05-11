@@ -318,6 +318,7 @@
 *://eraption.com/*
 *://ereoh.com/*
 *://erimakee.com/*
+*://erosuteki.livedoor.blog/*
 *://ero-koen.com/*
 *://ertk.net/*
 *://erumaru.com/*
@@ -438,6 +439,7 @@
 *://hageiwashi.com/*
 *://hagemarugt.com/*
 *://hahaoya-gyo.com/*
+*://hajiichi81.xsrv.jp/*
 *://hajime10manabu.info/*
 *://hamalog.com/*
 *://hamame.xyz/*
@@ -1400,11 +1402,13 @@
 *://*.anooblog.com/*
 *://*.anotherstorysign.com/*
 *://*.arthcamp.jp/*
+*://*.asakuravc.jp/*
 *://*.asunani.com/*
 *://*.atelier--pink.com/*
 *://*.attuhimitukiti.com/*
 *://*.ayatra.jp/*
 *://*.a-omoshirokatta.com/*
+*://*.bakufu.jp/*
 *://*.ball-scope.com/*
 *://*.bang-dream-news.com/*
 *://*.bbstage.jp/*
@@ -1442,6 +1446,7 @@
 *://*.common-topics.com/*
 *://*.concern-news.net/*
 *://*.cop10-origami.com/*
+*://*.corobuzz.com/*
 *://*.corocoro-tabi.com/*
 *://*.createatrend.com/*
 *://*.create-stmedia.com/*
@@ -1459,6 +1464,7 @@
 *://*.entertainment-sports.com/*
 *://*.erodecoco.com/*
 *://*.erodo-ga.com/*
+*://*.eroge-library.net/*
 *://*.eropasture.com/*
 *://*.festivalomladina.com/*
 *://*.fffkowai.com/*
@@ -1470,9 +1476,12 @@
 *://*.fukuokahachikujyo-pro.com/*
 *://*.fukuoka-asia-collection.com/*
 *://*.fukuuti.com/*
+*://*.fuzokustaff.com/*
 *://*.fxmind.info/*
+*://*.gajeje-news.com/*
 *://*.garuko.com/*
 *://*.gausu.net/*
+*://*.gazo.tokyo/*
 *://*.gehasoku.com/*
 *://*.geinou99.com/*
 *://*.geino-s.com/*
@@ -1485,6 +1494,7 @@
 *://*.hakutaka-shop.jp/*
 *://*.hamasho-tabisuru.jp/*
 *://*.hanahappyblog.com/*
+*://*.hanryu-diary.com/*
 *://*.happypochi.com/*
 *://*.happy-happy-news.com/*
 *://*.haramasukoi.jp/*
@@ -1508,6 +1518,7 @@
 *://*.i711.com/*
 *://*.iclassics.com/*
 *://*.ientameiki.fun/*
+*://*.ikikatasaiko.com/*
 *://*.interests-me-the-most.com/*
 *://*.irasutoyan.com/*
 *://*.iropel0103.com/*
@@ -1538,10 +1549,12 @@
 *://*.kansuke.doorblog.jp/*
 *://*.kansyaorei.xyz/*
 *://*.kantaiki0219.com/*
+*://*.kantofusai.net/*
 *://*.karamane.jp/*
 *://*.karikari.xyz/*
 *://*.karukantimes.com/*
 *://*.kasane-movie.jp/*
+*://*.kasioda.com/*
 *://*.katukatu8880.com/*
 *://*.katukatu8880.work/*
 *://*.katuru.com/*
@@ -1553,6 +1566,7 @@
 *://*.kitaaa.net/*
 *://*.kiteretubaka.com/*
 *://*.ko24cs.com/*
+*://*.kodokuranote.com/*
 *://*.kodomotoasobou.com/*
 *://*.koepro.net/*
 *://*.koganem.com/*
@@ -1597,6 +1611,7 @@
 *://*.mania-of-football.com/*
 *://*.manimani-korea.net/*
 *://*.marukanblog.com/*
+*://*.mary8131.com/*
 *://*.massuuy.com/*
 *://*.mcafeempower.jp/*
 *://*.mediancafe.com/*
@@ -1713,15 +1728,18 @@
 *://*.sayyoufun.biz/*
 *://*.seikou55.com/*
 *://*.sekainojump.com/*
+*://*.sekai-yoasobi.com/*
 *://*.serena0312.com/*
 *://*.seven4.jp/*
 *://*.shikandai.com/*
 *://*.shirebashiruhodo.com/*
 *://*.shitaraba.net/*
+*://*.shittokuadult.net/*
 *://*.shitureisimasu.com/*
 *://*.shukuhakuwari.com/*
 *://*.sibamari.com/*
 *://*.skyoflimit.com/*
+*://*.snailgames.jp/*
 *://*.sn-jp.com/*
 *://*.socom.yokohama/*
 *://*.soins-life.com/*
@@ -1748,6 +1766,7 @@
 *://*.tomato-journal.com/*
 *://*.tomo3koko.com/*
 *://*.topiclouds.net/*
+*://*.toplog.jp/*
 *://*.topspeed-service.jp/*
 *://*.touken-kyonokiseki.com/*
 *://*.toyo-fc.jp/*
@@ -1760,6 +1779,7 @@
 *://*.tyomateyo.com/*
 *://*.t-annex.com/*
 *://*.uelog.com/*
+*://*.uniorb.com/*
 *://*.usioproject.com/*
 *://*.varietynews.info/*
 *://*.vippers.jp/*
@@ -1771,6 +1791,7 @@
 *://*.wander-freely.com/*
 *://*.webrtcconference.jp/*
 *://*.westrip-life.com/*
+*://*.whotwi.com/*
 *://*.wilmajean345.com/*
 *://*.womanlife.online/*
 *://*.world-study.jp/*
@@ -1787,12 +1808,14 @@
 *://*.yomi.tokyo/*
 *://*.yonohuuchou.com/*
 *://*.yoroko100.com/*
+*://*.yoshiwarafusai.net/*
 *://*.youkoso-ibusuki.com/*
 *://*.your-magazine.net/*
 *://*.youtuberdictionary.com/*
 *://*.yuga-yamato.jp/*
 *://*.yugoten.jp/*
 *://*.yutakanahibi.com/*
+*://*.yuu01.jp/*
 *://*.yuutre.com/*
 *://*.yy-note.com/*
 *://*.y-ichikawa.net/*
@@ -1800,7 +1823,6 @@
 *://*.zizitabi.com/*
 *://*.zuzukuntrend.com/*
 *://*.zwello.com/*
-*://:.kodokuranote.com/*
 /.*(2ch).*/
 /.*(5ch).*/
 /.*(matome).*/
