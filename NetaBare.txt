@@ -24,6 +24,7 @@
 *://*.entameblog.tokyo/*
 *://*.happymackeyblog.com/*
 *://*.hiroyukimoziokoshi.com/*
+*://*.imalive7799.com/*
 *://*.inudenchi.com/*
 *://*.kaigaidorama-netabare.com/*
 *://*.kuchizuke-movie.com/*
