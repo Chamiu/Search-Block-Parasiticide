@@ -14,6 +14,7 @@
 *://*.fril.jp/*
 *://*.gasthausmueller.de/*
 *://*.marinaalta5.com/*
+*://*.mercari-shops.com/*
 *://*.mercari.com/*
 *://*.rakuten.co.jp/*
 *://*.tsite.jp/*
