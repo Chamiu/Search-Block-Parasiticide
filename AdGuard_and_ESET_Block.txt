@@ -21,6 +21,7 @@
 *://*.traxco.es/*
 *://*.uecmovies.com/*
 *://*.uminoniwa.jp/*
+*://*.uschateaugironfoot.fr/*
 *://veltsi.edu.ee/*
 *://*.wa-gunnet.co.jp/*
 *://*.watchjavonline.com/*
