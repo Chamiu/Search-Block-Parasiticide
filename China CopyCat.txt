@@ -4,23 +4,43 @@
 # Created by [108EAA0A](https://github.com/108EAA0A/ublacklist-redistribution-binary)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+*://aiseesoft.com/*
+*://*.pazusoft.com
+*://*.alternativeto.net/*
+*://*.anymp4.com/*
 *://*.anymp4.jp/*
 *://*.apeaksoft.com/*
+*://*.boilsoft.com/*
 *://*.cisdem.com/*
+*://*.cleverfiles.com/*
+*://*.easeus.com/*
 *://*.esupro.co.jp/*
+*://*.gamingdeputy.com/*
+*://*.gilisoft.com/*
+*://*.informer.com/*
 *://*.jollygood.co.jp/*
+*://*.joyoshare.com/*
 *://*.leawo.org/*
+*://*.macvideostudio.com*
+*://*.macxdvd.com/*
+*://*.minitool.com/*
+*://*.minto.tech/*
 *://*.movavi.com/*
 *://*.movavi.co.jp/*
+*://*.pcmacstore.com/*
+*://*.pcmag.com/*
 *://*.ranourano.xyz/*
+*://*.shopify.com/*
 *://*.shotkit.com/*
+*://*.tourboxtech.com/*
+*://*.tuneskit.com/*
 *://*.videoproc.com/*
 *://*.videosolo.net/*
 *://*.vrjour.jp/*
+*://*.winxdvd.com/*
 *://*.wondershare.com/*
 *://*.wondershare.jp/*
 /aimersoft\.*/*
-/aiseesoft\.*/*
 /anourano\.*/*
 /anvsoft\.*/*
 /iboysoft\.*/*
@@ -30,5 +50,4 @@
 /mackeeper\.*/
 /partitionwizard\.*/*
 /topbestalternatives\.*/*
-/tuneskit\.*/*
 /videobyte\.*/*
