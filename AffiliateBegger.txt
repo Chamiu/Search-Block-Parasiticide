@@ -5,6 +5,8 @@
 #
 
 *://*.app-liv.jp/*
+*://*.douga-tec.com/*
+*://*.japan-design.jp/*
 *://*.mac-windows-pc.com/*
 *://*.noborublog.net/*
 *://*.softantenna.com/*
