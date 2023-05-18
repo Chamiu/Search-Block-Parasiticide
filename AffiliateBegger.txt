@@ -9,6 +9,7 @@
 *://*.japan-design.jp/*
 *://*.mac-windows-pc.com/*
 *://*.noborublog.net/*
+*://*.recheri.com/*
 *://*.softantenna.com/*
 *://*.sokunavi.com/*
 *://*.xn--68jq6k1a3xsa3e9dse1a7089l92raxj9fja449v.xyz/*
