@@ -70,6 +70,7 @@
 *://*.shotkit.com/*
 *://*.thundershare.net/*
 *://*.tourboxtech.com/*
+*://*.tunesbro.jp/*
 *://*.tuneskit.com/*
 *://*.ufushare.com/*
 *://*.ufuware.com/*
