@@ -6,3 +6,4 @@
 
 *://*.rainbow-school.info/*
 *://sokuyaku.jp/*
+*://*.xn--8stu92aslz3bk.net/*
