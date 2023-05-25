@@ -1395,6 +1395,7 @@
 *://*.aiolin.com/*
 *://*.akasannbiz.com/*
 *://*.alcott-kobe.jp/*
+*://*.all-nationz.com/*
 *://*.almz.holy.jp/iroero/*
 *://*.amarefto.com/*
 *://*.ana-a380contest.jp/*
@@ -1535,6 +1536,7 @@
 *://*.kaigo-kagami.com/*
 *://*.kaikumikodaisuki.com/*
 *://*.kaito-car.com/*
+*://*.kai-you.net/*
 *://*.kajjfawjagr.lfhfdfiehgg.com/*
 *://*.kakedashi-antenna.net/*
 *://*.kameshiba1212.com/*
@@ -1750,6 +1752,7 @@
 *://*.stargood.xyz/*
 *://*.starterblacklabel.jp/*
 *://*.strongcorner.net/*
+*://*.sublogg.com/*
 *://*.sumomo-ch.com/*
 *://*.suzumeweb.com/*
 *://*.s-teem.com/*
