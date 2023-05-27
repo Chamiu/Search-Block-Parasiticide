@@ -1,0 +1,15 @@
+########################################################################
+# Virus spread site for uBlacklist
+# Created by [Chamiu](https://github.com/Chamiu)
+# License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+# 
+
+*://*.3wv9.com/*
+*://*.9wm9aaa.xyz/*
+*://*.dxwoff.com/*
+*://*.ldslwv.com/*
+*://*.mvfwtn.com/*
+*://*.visitfloor.com/*
+*://*.vvvvv9wm9.icu/*
+*://*.wuruqh.com/*
+*://*.yuue.org/*
