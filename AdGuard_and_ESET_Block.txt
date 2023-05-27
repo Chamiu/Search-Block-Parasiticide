@@ -25,3 +25,4 @@
 *://veltsi.edu.ee/*
 *://*.wa-gunnet.co.jp/*
 *://*.watchjavonline.com/*
+*://*.xarcd.com/*
