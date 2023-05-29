@@ -14,8 +14,10 @@
 *://*.anymp4.jp/*
 *://*.any-video-converter.jp/*
 *://*.apeaksoft.com/*
+*://*.apowersoft.jp/*
 *://*.avaide.com/*
 *://*.avanquest.com/*
+*://*.beecut.com/*
 *://*.boilsoft.com/*
 *://*.cisdem.com/*
 *://*.cleverfiles.com/*
@@ -48,7 +50,9 @@
 *://*.iorgsoft.com/*
 *://*.jollygood.co.jp/*
 *://*.joyoshare.com/*
+*://*.kdanmobile.com/*
 *://*.leawo.org/*
+*://*.macblurayplayer.com/*
 *://*.macotakara.jp/*
 *://*.macvideostudio.com/*
 *://*.macworld.com/*
@@ -60,6 +64,8 @@
 *://*.movavi.co.jp/*
 *://*.moviemator.net/*
 *://*.mysolutions.tech/*
+*://*.oiuy.net/*
+*://*.omoiji.com/*
 *://*.pavtube.com/*
 *://*.pazusoft.com/*
 *://*.pcmacstore.com/*
@@ -68,6 +74,7 @@
 *://*.reneelab.jp/*
 *://*.shopify.com/*
 *://*.shotkit.com/*
+*://*.tabivlog-labo.jp/*
 *://*.thundershare.net/*
 *://*.tourboxtech.com/*
 *://*.tunesbro.jp/*
@@ -75,10 +82,12 @@
 *://*.ufushare.com/*
 *://*.ufuware.com/*
 *://*.vector.co.jp/*
+*://*.videlem.com/*
+*://*.videobyte.jp/*
 *://*.videograbber.net/*
 *://*.videoproc.com/*
 *://*.videosolo.net/*
-*://*.vidmore.com/company/*
+*://*.vidmore.com/*
 *://*.vrjour.jp/*
 *://*.warikan.info/*
 *://*.wikifab.org/*
@@ -94,4 +103,3 @@
 /mackeeper\.*/
 /partitionwizard\.*/*
 /topbestalternatives\.*/*
-/videobyte\.*/*
