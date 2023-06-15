@@ -753,6 +753,7 @@
 *://miyatarou.com/*
 *://miya-rin7.com/*
 *://mizharu.com/*
+*://moemoe.mydns.jp/*
 *://mokasoku.blomaga.jp/*
 *://money-life.doorblog.jp/*
 *://mt-j.info/*
@@ -784,6 +785,7 @@
 *://netsoku.com/*
 *://newhoshu.blog.jp/*
 *://newmatosoku.com/*
+*://newmofu.doorblog.jp/*
 *://newneta.work/*
 *://newnews36.com/*
 *://newpuru.doorblog.jp/*
@@ -1400,6 +1402,7 @@
 *://*.amarefto.com/*
 *://*.ana-a380contest.jp/*
 *://*.angelnews.net/*
+*://*.anige-sokuhouvip.com/*
 *://*.anooblog.com/*
 *://*.anotherstorysign.com/*
 *://*.arthcamp.jp/*
@@ -1454,6 +1457,7 @@
 *://*.cysoku.com/*
 *://*.daradaranet-news.com/*
 *://*.digot.jp/*
+*://*.doujinsokuhou45.com/*
 *://*.driveharrier.xyz/*
 *://*.drollwolf.com/*
 *://*.drops-official.com/*
