@@ -4,6 +4,9 @@
 # Created by [108EAA0A](https://github.com/108EAA0A/ublacklist-redistribution-binary)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+*://ksk-h.com/*
+*://vidon.me/*
+*://*.4videosoft.jp/*
 *://*.9to5software.com/*
 *://*.aainc.co.jp/*
 *://*.aiseesoft.com/*
@@ -41,9 +44,11 @@
 *://*.gilisoft.com/*
 *://*.hipc.jp/*
 *://*.hitpaw.com/*
+*://*.hitpaw.jp/*
 *://*.howtoisolve.com/*
 *://*.idealshare.net/*
 *://*.igeeksblog.com/*
+*://*.ilovemacapp.com/*
 *://*.imyfone.com/*
 *://*.imymac.jp/*
 *://*.informer.com/*
@@ -60,6 +65,7 @@
 *://*.maketecheasier.com/*
 *://*.minitool.com/*
 *://*.minto.tech/*
+*://*.mobstyley.net/*
 *://*.movavi.com/*
 *://*.movavi.co.jp/*
 *://*.moviemator.net/*
