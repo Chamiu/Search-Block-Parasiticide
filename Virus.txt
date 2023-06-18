@@ -5,6 +5,7 @@
 # 
 
 *://*.3wv9.com/*
+*://*.8xxx.net/*
 *://*.9wm9aaa.xyz/*
 *://*.dxwoff.com/*
 *://*.ldslwv.com/*
