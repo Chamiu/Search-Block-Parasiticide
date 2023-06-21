@@ -5,10 +5,12 @@
 
 *://altonawood.com.py/*
 *://asiangeo.com/*
+*://ehrenamt-pankow.berlin/*
 *://investigacion.usil.edu.pe/*
 *://i-pal.or.jp/*
 *://jimoai444.hatenablog.com/*
 *://retogenofu.hatenablog.com/*
+*://s3.amazonaws.com/*
 *://sghch.sakuraweb.com/*
 *://td.unova.fr/*
 *://thecmaninnclaremont.com/*
@@ -111,7 +113,9 @@
 *://*.nicasan.ru/*
 *://*.nikke-tennis.jp/*
 *://*.nodepositcarsmalta.com/*
+*://*.ntues.org/*
 *://*.numebeauty.ca/*
+*://*.odmalihnogu.org/*
 *://*.onthedockspub.com/*
 *://*.otaiweb.com/*
 *://*.outlookfinancial.com/*
