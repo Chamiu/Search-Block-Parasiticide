@@ -587,6 +587,7 @@
 *://juxtin.com/*
 *://jyoshianaguguru.com/*
 *://jyouhou-knt.com/*
+*://kajika-eps.hatenadiary.org/*
 *://kban.me/*
 *://kei-mamablog.com/*
 *://kenjiroo.com/*
@@ -1724,9 +1725,11 @@
 *://*.recommendnews.com/*
 *://*.reywa.me/*
 *://*.rincon222.com/*
+*://*.riri-otokujoho.com/*
 *://*.robotto-news24.info/*
 *://*.ronigirls.jp/*
 *://*.sa0209ta.com/*
+*://*.sakaagari-blog.com/*
 *://*.samuraijournal.net/*
 *://*.sarunet-news.jp/*
 *://*.satokitchen2.net/*
