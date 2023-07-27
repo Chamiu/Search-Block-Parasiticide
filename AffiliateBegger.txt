@@ -6,11 +6,14 @@
 
 *://*.app-liv.jp/*
 *://*.douga-tec.com/*
+*://ganohr.net/*
+*://ganohr4.wixsite.com/*
 *://*.japan-design.jp/*
 *://*.mac-windows-pc.com/*
 *://*.noborublog.net/*
 *://*.recheri.com/*
 *://*.softantenna.com/*
 *://*.sokunavi.com/*
+*://*.uraken-deai.com/*
 *://*.xn--68jq6k1a3xsa3e9dse1a7089l92raxj9fja449v.xyz/*
 *://*.yagokoro-lab.com/*
