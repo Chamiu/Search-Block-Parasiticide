@@ -7,6 +7,7 @@
 *://*.3wv9.com/*
 *://*.8xxx.net/*
 *://*.9wm9aaa.xyz/*
+*://*.cjs-school.com/*
 *://*.cluset.com.*
 *://*.dxwoff.com/*
 *://inspektorat.madiunkota.go.id/*
