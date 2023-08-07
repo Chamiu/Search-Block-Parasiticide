@@ -46,6 +46,7 @@
 *://*.hitpaw.com/*
 *://*.hitpaw.jp/*
 *://*.howtoisolve.com/*
+*://*.iboysoft.com/
 *://*.idealshare.net/*
 *://*.igeeksblog.com/*
 *://*.ilovemacapp.com/*
@@ -103,9 +104,9 @@
 /aimersoft\.*/*
 /anourano\.*/*
 /anvsoft\.*/*
-/iboysoft\.*/*
 /iskysoft\.*/
 /lexiscn\.*/*
 /mackeeper\.*/
 /partitionwizard\.*/*
+/tenorshare\.*/*
 /topbestalternatives\.*/*
