@@ -4,6 +4,7 @@
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 # 
 
+*://*.aincest.com/*
 *://*.assessurgery.com/*
 *://*.borestore.eu/*
 *://*.bradfordnh.org/*
@@ -13,6 +14,7 @@
 *://*.domaine-raquillet.com/*
 *://*.fujita-group.co.jp/*
 *://*.itiguala.edu.mx/*
+*://*.javaas.com/
 *://*.mercatbar.es/*
 *://*.nowget.net/*
 *://*.ssean.top/*
