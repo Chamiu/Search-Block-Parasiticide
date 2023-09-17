@@ -8,6 +8,7 @@
 *://*.8xxx.net/*
 *://*.9wm9aaa.xyz/*
 *://*.bestjavporn.com/*
+*://blinkfox.netlify.app/*
 *://*.cjs-school.com/*
 *://*.cluset.com.*
 *://*.dxwoff.com/*
