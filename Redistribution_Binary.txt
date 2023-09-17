@@ -4,6 +4,8 @@
 # Created by [108EAA0A](https://github.com/108EAA0A/ublacklist-redistribution-binary)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+*://filehippo.jp/*
+*://*.allmacworlds.com/*
 *://*.autotechint.com/*
 *://*.br0wsers.com/*
 *://*.bytesin.com/*
@@ -24,7 +26,6 @@
 *://*.downxia.com/*
 *://*.error-dll.info/*
 *://*.exefiles.com/*
-*://*.filehippo.jp/*
 *://*.filehorse.com/*
 *://*.fileplanet.com/*
 *://*.freedownloadmanager.org/*
@@ -33,6 +34,8 @@
 *://*.instalki.pl/*
 *://*.lo4d.com/*
 *://*.macupdate.com/*
+*://*.napkforpc.com/*
+*://*.nmac.to/*
 *://*.oceanofdmg.com/*
 *://*.originaldll.com/*
 *://*.processlibrary.com/*
