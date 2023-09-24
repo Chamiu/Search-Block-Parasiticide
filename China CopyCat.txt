@@ -91,6 +91,7 @@
 *://*.vector.co.jp/*
 *://*.videlem.com/*
 *://*.videobyte.jp/*
+*://*.videoconverterfactory.com/*
 *://*.videograbber.net/*
 *://*.videoproc.com/*
 *://*.videosolo.net/*
