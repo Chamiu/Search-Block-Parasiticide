@@ -5,7 +5,7 @@
 # 
 
 *://*.medicalnote.jp/*
-*://*.medley.life/*
+*://medley.life/*
 *://*.rainbow-school.info/*
 *://sokuyaku.jp/*
 *://*.xn--8stu92aslz3bk.net/*
