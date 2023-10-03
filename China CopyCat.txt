@@ -27,6 +27,7 @@
 *://*.cleverfiles.com/*
 *://*.corriente.top/*
 *://*.digitbin.com/*
+*://*.drbuho.com/*
 *://*.dvdfab.org/*
 *://*.easefab.com/*
 *://*.easeus.com/*
@@ -60,6 +61,7 @@
 *://*.leawo.org/*
 *://*.macblurayplayer.com/*
 *://*.macotakara.jp/*
+*://*.macube.com/*
 *://*.macvideostudio.com/*
 *://*.macworld.com/*
 *://*.macxdvd.com/*
@@ -82,6 +84,7 @@
 *://*.shopify.com/*
 *://*.shotkit.com/*
 *://*.tabivlog-labo.jp/*
+*://*.tenorshare.jp/*
 *://*.thundershare.net/*
 *://*.tourboxtech.com/*
 *://*.tunesbro.jp/*
@@ -109,5 +112,4 @@
 /lexiscn\.*/*
 /mackeeper\.*/
 /partitionwizard\.*/*
-/tenorshare\.*/*
 /topbestalternatives\.*/*
