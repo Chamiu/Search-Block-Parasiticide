@@ -11,6 +11,7 @@
 *://*.buckhorninn.com/*
 *://*.conatel.gob.ve/*
 *://*.cryptotabbrowser.com/*
+*://*.dealscove.com/*
 *://*.domaine-raquillet.com/*
 *://*.fujita-group.co.jp/*
 *://*.itiguala.edu.mx/*
