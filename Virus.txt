@@ -15,6 +15,7 @@
 *://*.dxwoff.com/*
 *://inspektorat.madiunkota.go.id/*
 *://*.javaas.com/
+*://*.javmenu.com/*
 *://*.koliose.com/*
 *://*.ldslwv.com/*
 *://*.leaked-of.com/*
