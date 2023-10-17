@@ -103,6 +103,7 @@
 *://*.warikan.info/*
 *://*.wikifab.org/*
 *://*.winxdvd.com/*
+*://*.wisecleaner.com/*
 *://*.wondershare.com/*
 *://*.wondershare.jp/*
 /aimersoft\.*/*
