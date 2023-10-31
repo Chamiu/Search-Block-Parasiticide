@@ -62,6 +62,7 @@
 *://*.emergencysolutions4u.com/*
 *://*.enerlites.com/*
 *://*.engagelifenow.com/*
+*://*.enoteca.co.jp/*
 *://*.epoxygent.be/*
 *://*.etymology-encyclopedia.com/*
 *://*.eu-agencies.net/*
@@ -101,6 +102,7 @@
 *://*.kingdomresourceassociates.com/*
 *://*.kingeav.co/*
 *://*.k-mil.net/*
+*://*.legrog.org/*
 *://*.leptospirose-prevention.fr/*
 *://*.lexiscn.com/*
 *://*.lezhin.com/*
