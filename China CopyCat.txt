@@ -73,6 +73,7 @@
 *://*.movavi.co.jp/*
 *://*.moviemator.net/*
 *://*.mysolutions.tech/*
+*://*.noteburner.jp/*
 *://*.oiuy.net/*
 *://*.omoiji.com/*
 *://*.pavtube.com/*
