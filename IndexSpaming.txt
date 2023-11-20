@@ -78,6 +78,7 @@
 *://*.gaznevada.iq.usp.br/*
 *://*.gd-workshop.com/*
 *://*.gem-gem.jp/*
+*://*.gokeylessvn.com/*
 *://*.goodnewz.net/*
 *://*.grandfleet.info/*
 *://*.grootnieuwsradio.nl/*
