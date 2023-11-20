@@ -1483,6 +1483,7 @@
 *://*.fukuoka-asia-collection.com/*
 *://*.fukuuti.com/*
 *://*.fuzokustaff.com/*
+*://*.fuzoku-move.net/*
 *://*.fxmind.info/*
 *://*.gajeje-news.com/*
 *://*.garuko.com/*
@@ -1586,6 +1587,7 @@
 *://*.koneko2222.xyz/*
 *://*.konoyubitomare.jp/*
 *://*.korebro-news.com/*
+*://*.koregasiritai.com/*
 *://*.korejanai.exblog.jp/*
 *://*.korekarazizake.com/*
 *://*.korewaeroi.com/*
@@ -1742,6 +1744,7 @@
 *://*.seven4.jp/*
 *://*.shikandai.com/*
 *://*.shirebashiruhodo.com/*
+*://*.shirouto26.com/*
 *://*.shitaraba.net/*
 *://*.shittokuadult.net/*
 *://*.shitureisimasu.com/*
