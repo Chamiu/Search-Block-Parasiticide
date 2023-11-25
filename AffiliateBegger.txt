@@ -6,10 +6,13 @@
 
 *://*.app-liv.jp/*
 *://*.douga-tec.com/*
+*://*.downtownreport.net/*
 *://ganohr.net/*
 *://ganohr4.wixsite.com/*
 *://*.japan-design.jp/*
+*://*.kaigaidramabox.com/*
 *://*.mac-windows-pc.com/*
+*://*.mixart.jp/*
 *://*.noborublog.net/*
 *://*.recheri.com/*
 *://*.softantenna.com/*
