@@ -44,6 +44,7 @@
 *://*.campletts.org/*
 *://*.catincat.jp/*
 *://*.centara1card.com/*
+*://*.chinesescholarshipcouncil.com/*
 *://*.cm-wako.jp/*
 *://*.cnkeejie.xyz/*
 *://*.congresoiiacolombia.com/*
@@ -79,6 +80,7 @@
 *://*.gd-workshop.com/*
 *://*.gem-gem.jp/*
 *://*.gokeylessvn.com/*
+*://*.gold-and-wood.com/*
 *://*.goodnewz.net/*
 *://*.grandfleet.info/*
 *://*.grootnieuwsradio.nl/*
@@ -155,6 +157,7 @@
 *://*.solpetroleo.com/*
 *://*.stpacc.org/*
 *://*.tenhaveagrotechniek.nl/*
+*://*.trymata.com/*
 *://*.tunisiemaritime.com/*
 *://*.ucsd.edu/*
 *://*.umbria.it/*
