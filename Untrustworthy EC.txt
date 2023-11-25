@@ -11,6 +11,7 @@
 *://*.apprend.io/*
 *://*.aucfan.com/*
 *://*.become.co.jp/*
+*://*.cremebar.pl/*
 *://*.currentbody.jp/*
 *://*.eatfeelfresh.com/*
 *://*.fril.jp/*
@@ -18,6 +19,7 @@
 *://*.imanwatch.ir/*
 *://*.juanbravo.com/*
 *://*.marinaalta5.com/*
+*://*.masonrymagazine.com/*
 *://*.mercari-shops.com/*
 *://*.mercari.com/*
 *://*.nway.com/*
