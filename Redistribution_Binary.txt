@@ -4,12 +4,18 @@
 # Created by [108EAA0A](https://github.com/108EAA0A/ublacklist-redistribution-binary)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+*://avxgfx.com/*
+*://ebooks1001.com/*
 *://filehippo.jp/*
+*://tutbb.com/*
+*://updatemac.com/*
+*://w9b.org/*
 *://*.allmacworlds.com/*
 *://*.autotechint.com/*
 *://*.br0wsers.com/*
 *://*.bytesin.com/*
 *://*.chip.de/*
+*://*.digit77.com/*
 *://*.digitaltrends.com/*
 *://*.digital-digest.com/*
 *://*.dlldump.com/*
@@ -32,6 +38,7 @@
 *://*.free-codecs.com/*
 *://*.goodereader.com/*
 *://*.instalki.pl/*
+*://*.jokergameth.com/*
 *://*.lo4d.com/*
 *://*.macupdate.com/*
 *://*.napkforpc.com/*
