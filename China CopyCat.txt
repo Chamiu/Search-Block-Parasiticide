@@ -4,7 +4,7 @@
 # Created by [108EAA0A](https://github.com/108EAA0A/ublacklist-redistribution-binary)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-*://iboysoft.com/
+*://iboysoft.com/*
 *://ksk-h.com/*
 *://vidon.me/*
 *://*.4videosoft.jp/*
@@ -51,8 +51,9 @@
 *://*.idealshare.net/*
 *://*.igeeksblog.com/*
 *://*.ilovemacapp.com/*
+*://*.imobie.jp/*
 *://*.imyfone.com/*
-*://*.imymac.jp/*
+*://*.imymac.(com|jp)/*
 *://*.informer.com/*
 *://*.iorgsoft.com/*
 *://*.jollygood.co.jp/*
@@ -85,6 +86,7 @@
 *://*.shopify.com/*
 *://*.shotkit.com/*
 *://*.tabivlog-labo.jp/*
+*://*.tenorshare.com/*
 *://*.tenorshare.jp/*
 *://*.thundershare.net/*
 *://*.tourboxtech.com/*
