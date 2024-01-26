@@ -5,6 +5,7 @@
 # 
 
 *://*.app-story.net/*
+*://*.ishamachi.com/*
 *://*.medicalnote.jp/*
 *://medley.life/*
 *://*.rainbow-school.info/*
