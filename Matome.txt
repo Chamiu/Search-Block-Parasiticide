@@ -30,6 +30,7 @@
 *://3333.tokyo/*
 *://a711.work/*
 *://aaanews.net/*
+*://aatyu.livedoor.blog/*
 *://abc84179.com/*
 *://adultver.com/*
 *://advansteadily2310.com/*
@@ -384,6 +385,7 @@
 *://geinoukame.com/*
 *://geinounewstorenndo.blog.ss-blog.jp/*
 *://geinouninzin.net/*
+*://geinou-info-08.blog.jp/*
 *://geinou-now.net/*
 *://geinou-research555.com/*
 *://geinou-resistance.info/*
@@ -475,6 +477,7 @@
 *://hdydfy.com/*
 *://heaigie.blog.jp/*
 *://healthy-life-blog.com/*
+*://heekogirl.blog.fc2.com/*
 *://hellopyeongchang.com/*
 *://helpcurenow.org/*
 *://hibikakeru.com/*
@@ -829,6 +832,7 @@
 *://nobiciro.com/*
 *://nobicoma.com/*
 *://nobu0111.com/*
+*://nogiviola.livedoor.biz/*
 *://noma66.com/*
 *://nomadstarbucks.com/*
 *://norisuke-world.com/*
@@ -928,6 +932,7 @@
 *://powakitchen.site/*
 *://po-kaki-to.com/*
 *://precious.jp/*
+*://precure-ouen.livedoor.biz/*
 *://pre-cinema.com/*
 *://prius01.tokyo/*
 *://proviamo.info/*
@@ -1047,6 +1052,7 @@
 *://shogogor.com/*
 *://shoko-mag.com/*
 *://shounenki.jp/*
+*://showbizjapan.blog.fc2.com/*
 *://shrine-carine.com/*
 *://shuchannel.com/*
 *://shufumen.com/*
@@ -1185,6 +1191,7 @@
 *://toresube.com/*
 *://toretateblog.com/*
 *://torimasa-miyazaki.jp/*
+*://tori-ma.blog.jp/*
 *://totalwar.doorblog.jp/*
 *://touseikan.com/*
 *://toushichannel.net/*
@@ -1404,8 +1411,11 @@
 *://*.ana-a380contest.jp/*
 *://*.angelnews.net/*
 *://*.anige-sokuhouvip.com/*
+*://*.animejima.xyz/*
+*://*.animesoku.com/*
 *://*.anooblog.com/*
 *://*.anotherstorysign.com/*
+*://*.anzu0807.com/*
 *://*.arthcamp.jp/*
 *://*.asakuravc.jp/*
 *://*.asunani.com/*
@@ -1424,6 +1434,7 @@
 *://*.bonboyablog.com/*
 *://*.bookportal.jp/*
 *://*.bouyomi.jp/*
+*://*.brgsw719.com/*
 *://*.buzlog.com/*
 *://*.cafe-facon.com/*
 *://*.campmexico.jp/*
@@ -1436,6 +1447,7 @@
 *://*.chiyuki.jp/*
 *://*.chobizo.com/*
 *://*.chunisoku.com/*
+*://*.chuzai-china.com/*
 *://*.chyamin.com/*
 *://*.ciela.jp/*
 *://*.cityhuntermovie-exhibition.com/*
@@ -1451,6 +1463,7 @@
 *://*.common-topics.com/*
 *://*.concern-news.net/*
 *://*.cop10-origami.com/*
+*://*.copysoku.com/*
 *://*.corobuzz.com/*
 *://*.corocoro-tabi.com/*
 *://*.createatrend.com/*
@@ -1496,8 +1509,11 @@
 *://*.genfunlife.com/*
 *://*.getmoneyfp.net/*
 *://*.godiva-cp.com/*
+*://*.gonnagomyway.com/*
 *://*.grade.tokyo/*
+*://*.gundam-futab.info/*
 *://*.gurum.biz/*
+*://*.gyoukaijin-log.com/*
 *://*.hakutaka-shop.jp/*
 *://*.hamasho-tabisuru.jp/*
 *://*.hanahappyblog.com/*
@@ -1518,6 +1534,7 @@
 *://*.himasoku.com/*
 *://*.hirogalie.com/*
 *://*.honmotakeshi.com/*
+*://*.hopstepjamp5123.com/*
 *://*.hoshimemo.com/*
 *://*.hpupdate.info/*
 *://*.huuzokutaiken.blog.jp/*
@@ -1526,14 +1543,17 @@
 *://*.iclassics.com/*
 *://*.ientameiki.fun/*
 *://*.ikikatasaiko.com/*
+*://*.inspire2020.jp/*
 *://*.interests-me-the-most.com/*
 *://*.irasutoyan.com/*
 *://*.iropel0103.com/*
 *://*.itigo.jp/*
 *://*.it-news-sokuhou.com/*
 *://*.i-contents.jp/*
+*://*.joshiana.site/*
 *://*.jrs-w.com/*
 *://*.juditanews.com/*
+*://*.jun-bungaku.jp/*
 *://*.j-im.jp/*
 *://*.kabuyattemita.blog.fc2.com/*
 *://*.kad28.com/*
@@ -1662,6 +1682,7 @@
 *://*.mo-mo-town.com/*
 *://*.mukurojiblog.com/*
 *://*.mutyun.com/*
+*://*.myoko-ubiquitous.jp/*
 *://*.naasasao.com/*
 *://*.nabeaffiliate.com/*
 *://*.nabibu.jp/*
@@ -1705,6 +1726,7 @@
 *://*.npb-news.com/*
 *://*.obakegaderuzo.com/*
 *://*.ocsoku.com/*
+*://*.officejr.jp/*
 *://*.ogwblog.com/*
 *://*.okaeriblog.com/*
 *://*.okichizuru.com/*
@@ -1733,6 +1755,7 @@
 *://*.sa0209ta.com/*
 *://*.sakaagari-blog.com/*
 *://*.samuraijournal.net/*
+*://*.samurai-trader.net/*
 *://*.sarunet-news.jp/*
 *://*.satokitchen2.net/*
 *://*.savethetables.org/*
@@ -1740,11 +1763,13 @@
 *://*.seikou55.com/*
 *://*.sekainojump.com/*
 *://*.sekai-yoasobi.com/*
+*://*.selvy.jp/*
 *://*.serena0312.com/*
 *://*.seven4.jp/*
 *://*.shikandai.com/*
 *://*.shirebashiruhodo.com/*
 *://*.shirouto26.com/*
+*://*.shirushiru.com/*
 *://*.shitaraba.net/*
 *://*.shittokuadult.net/*
 *://*.shitureisimasu.com/*
@@ -1761,6 +1786,7 @@
 *://*.spinaltap.jp/*
 *://*.stargood.xyz/*
 *://*.starterblacklabel.jp/*
+*://*.step-forward24.com/*
 *://*.strongcorner.net/*
 *://*.sublogg.com/*
 *://*.sumomo-ch.com/*
@@ -1768,7 +1794,9 @@
 *://*.s-teem.com/*
 *://*.takamaru1219.net/*
 *://*.takayan-well.com/*
+*://*.taka-chest-crescita.com/*
 *://*.tantanmamastyle.com/*
+*://*.tarosoku.com/*
 *://*.tchal.net/*
 *://*.tebasaki-summit.com/*
 *://*.the01.jp/*
