@@ -6,9 +6,11 @@
 
 *://*.app-story.net/*
 *://*.ishamachi.com/*
+*://lifehacktivist.com/*
 *://*.medicalnote.jp/*
 *://medley.life/*
 *://*.rainbow-school.info/*
+*://saikosoft.jp/*
 *://sokuyaku.jp/*
 *://*.tsukareme-ganseihirou8.com/*
 *://*.xn--8stu92aslz3bk.net/*
