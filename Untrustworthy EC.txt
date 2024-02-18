@@ -18,12 +18,15 @@
 *://*.gasthausmueller.de/*
 *://*.imanwatch.ir/*
 *://*.juanbravo.com/*
+*://*.livenationforbrands.com/*
 *://*.marinaalta5.com/*
 *://*.masonrymagazine.com/*
 *://*.mercari-shops.com/*
 *://*.mercari.com/*
+*://*.netoff.co.jp/*
 *://*.nway.com/*
 *://*.rakuten.co.jp/*
+*://*.rere.jp/*
 *://*.tsite.jp/*
 *://*.tsutaya.co.jp/*
 *://*.wowma.jp/*
