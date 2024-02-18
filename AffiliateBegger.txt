@@ -5,16 +5,26 @@
 #
 
 *://*.app-liv.jp/*
+*://*.best-bicycle.net/*
+*://bg-mania.jp/*
 *://*.douga-tec.com/*
 *://*.downtownreport.net/*
+*://*.ebooks-media.net/*
+*://*.film-cue.com/*
 *://ganohr.net/*
 *://ganohr4.wixsite.com/*
+*://*.gpoint.co.jp/*
+*://*.hyakuhon.com/*
+*://*.iwasadaiki.com/
 *://*.japan-design.jp/*
 *://*.kaigaidramabox.com/*
 *://*.mac-windows-pc.com/*
 *://*.mixart.jp/*
 *://*.noborublog.net/*
+*://*.pet-research.net/*
 *://*.recheri.com/*
+*://*.rikiblog.net/*
+*://sironagasujp.hatenablog.com/*
 *://*.softantenna.com/*
 *://*.sokunavi.com/*
 *://*.uraken-deai.com/*
