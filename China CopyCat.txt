@@ -6,6 +6,8 @@
 
 *://iboysoft.com/*
 *://ksk-h.com/*
+*://saikosoft.jp/*
+*://streamfab.jp/*
 *://vidon.me/*
 *://*.4videosoft.jp/*
 *://*.9to5software.com/*
