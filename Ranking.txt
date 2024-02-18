@@ -4,9 +4,17 @@
 # Created by [108EAA0A](https://github.com/108EAA0A/ublacklist-redistribution-binary)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+*://cuebic.co.jp/*
+*://fuerunobiru.com/*
+*://heim.jp/*
+*://macaro-ni.jp/*
 *://monomania.sblo.jp/*
+*://osusume.best/*
 *://osusume.mynavi.jp/*
 *://ranking.goo.ne.jp/*
+*://thebest-1.com/*
+*://toybi.jp/*
+*://www.kurashiru.com/*
 *://*yagokoro-lab.com/*
 *://*.airdroid.com/*
 *://*.altapps.net/*
@@ -27,7 +35,9 @@
 *://*.jetpack.com/*
 *://*.kencoco.com/*
 *://*.kinsta.com/*
+*://*.kurashiru.com/*
 *://*.learnwoo.com/*
+*://*.libloom.com/*
 *://*.lifelogweb.com/*
 *://*.lifewire.com/*
 *://*.limia.jp/*
@@ -38,6 +48,7 @@
 *://*.monocil.jp/*
 *://*.my-best.com/*
 *://*.nhairs.com/*
+*://*.nikoniko-2525.com/*
 *://*.ootsususunu.work/*
 *://*.osusumepc.com/*
 *://*.perfecttechreviews.com/*
@@ -46,6 +57,7 @@
 *://*.riverside.fm/*
 *://*.saiyasune.com/*
 *://*.sakidori.co/*
+*://*.shinyusha.co.jp/*
 *://*.softwaretestinghelp.com/*
 *://*.stock-app.info/*
 *://*.techradar.com/*
