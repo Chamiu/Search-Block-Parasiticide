@@ -30,7 +30,7 @@
 *://*.corriente.top/*
 *://*.digitbin.com/*
 *://*.drbuho.com/*
-*://*.dvdfab.org/*
+*://*.dvdfab.(org|cn)/*
 *://*.easefab.com/*
 *://*.easeus.com/*
 *://*.esupro.co.jp/*
@@ -41,6 +41,7 @@
 *://*.fixthephoto.com/*
 *://*.flexclip.com/*
 *://*.fonelab.com/*
+*://*.fonepaw.jp/*
 *://*.freesoft-concierge.com/*
 *://*.gamingdeputy.com/*
 *://*.geekflare.com/*
@@ -51,6 +52,7 @@
 *://*.hitpaw.jp/*
 *://*.howtoisolve.com/*
 *://*.idealshare.net/*
+*://*.ifunia.com/*
 *://*.igeeksblog.com/*
 *://*.ilovemacapp.com/*
 *://*.imobie.jp/*
@@ -79,6 +81,7 @@
 *://*.noteburner.jp/*
 *://*.oiuy.net/*
 *://*.omoiji.com/*
+*://*.partitionwizard.jp/*
 *://*.pavtube.com/*
 *://*.pazusoft.com/*
 *://*.pcmacstore.com/*
