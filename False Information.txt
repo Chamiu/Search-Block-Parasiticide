@@ -5,10 +5,13 @@
 # 
 
 *://*.app-story.net/*
+*://globo-site.com/*
 *://*.ishamachi.com/*
+*://kawashima-ya.jp/*
 *://lifehacktivist.com/*
 *://*.medicalnote.jp/*
 *://medley.life/*
+*://pc-karuma.net/*
 *://*.rainbow-school.info/*
 *://saikosoft.jp/*
 *://*.shufuse.com/*
