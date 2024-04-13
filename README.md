@@ -13,7 +13,7 @@
 - [Putin's_dog.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/Putin's_dog.txt) : ウクライナの人々の血と肉が旨いdomainたち
 - [Redistribution_Binary.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/Redistribution_Binary.txt) : 実行可能ファイルを二次配布しているdomainたち(なお書き参照のこと)
 - [SportsMatome.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/SportsMatome.txt) : スポーツに関する情報発信を偽装したネット乞食が目的のdomainたち
-- Squeeze.txt : 病気を抱えている人からの搾取を企図しているクズども
+- [Squeeze.txt](https://raw.githubusercontent.com/Chamiu/Search-Block-Parasiticide/master/Squeeze.txt) : 病気を抱えている人からの搾取を企図しているクズども
 - [Untrustworthy EC.txt](https://raw.githubusercontent.com/Chamiu/Search-Block-Parasiticide/master/Untrustworthy%20EC.txt) : 事業者が信頼できない、またはヤクザの三下のような身の危険を感じさせる配達人を使用している事業者たち
 
 なお書き
