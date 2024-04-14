@@ -28,5 +28,6 @@
 *://*.softantenna.com/*
 *://*.sokunavi.com/*
 *://*.uraken-deai.com/*
+*://*.vod-note.com/*
 *://*.xn--68jq6k1a3xsa3e9dse1a7089l92raxj9fja449v.xyz/*
 *://*.yagokoro-lab.com/*
