@@ -6,11 +6,13 @@
 
 *://ec.line.me/*
 *://store.shopping.yahoo.co.jp/*
+*://*.aliexpress.com/*
 *://*.amazon.co.jp/*
 *://*.appbankstore.jp/*
 *://*.apprend.io/*
 *://*.aucfan.com/*
 *://*.become.co.jp/*
+*://*.bestreviews.guide/*
 *://*.cremebar.pl/*
 *://*.currentbody.jp/*
 *://*.eatfeelfresh.com/*
