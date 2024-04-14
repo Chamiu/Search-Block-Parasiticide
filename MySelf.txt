@@ -4,11 +4,28 @@
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 # 
 
-*://*.avgle.com/*
-*://*.javseen.tv/*
+# 著作物ただ乗り
+*://*.aipictors.com/*
+
+# お絵かき
 *://*.pixiv.net/*
-*://*.rakuten.ne.jp/*
+
+# Fake Media
 *://seesaawiki.jp/*
-*://twitter.com/*
-*://*.youtube.com/*
 *://*.shindanmaker.com/*
+*://*.trafficnews.jp/*
+*://twitter.com/*
+*://x.com/*
+*://*.youtube.com/*
+
+## なろう
+*://*.syosetu.com/*
+title/なろう/
+title/Web小説/
+title/小説投稿/
+
+## e.t.c.
+*://*.avgle.com/*
+*://*.jav24.com/*
+*://*.javseen.tv/*
+*://*.rakuten.ne.jp/*
