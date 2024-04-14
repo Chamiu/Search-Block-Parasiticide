@@ -591,6 +591,7 @@
 *://juxtin.com/*
 *://jyoshianaguguru.com/*
 *://jyouhou-knt.com/*
+*://kaigaiblog.antenam.biz/*
 *://kajika-eps.hatenadiary.org/*
 *://kban.me/*
 *://kei-mamablog.com/*
@@ -1424,6 +1425,7 @@
 *://*.attuhimitukiti.com/*
 *://*.ayatra.jp/*
 *://*.a-omoshirokatta.com/*
+*://*.baio-labo.com/*
 *://*.bakufu.jp/*
 *://*.ball-scope.com/*
 *://*.bang-dream-news.com/*
@@ -1436,6 +1438,7 @@
 *://*.bookportal.jp/*
 *://*.bouyomi.jp/*
 *://*.brgsw719.com/*
+*://*.bulgariatabi.jp/*
 *://*.buzlog.com/*
 *://*.cafe-facon.com/*
 *://*.campmexico.jp/*
@@ -1469,6 +1472,7 @@
 *://*.corocoro-tabi.com/*
 *://*.createatrend.com/*
 *://*.create-stmedia.com/*
+*://*.cyoinatu-onna.com/*
 *://*.cysoku.com/*
 *://*.daradaranet-news.com/*
 *://*.digot.jp/*
@@ -1488,6 +1492,7 @@
 *://*.eropasture.com/*
 *://*.festivalomladina.com/*
 *://*.fffkowai.com/*
+*://*.fiowertrend.com/*
 *://*.firstplacetokyo.jp/*
 *://*.fishinggarden.com/*
 *://*.floristonline.jp/*
@@ -1509,6 +1514,7 @@
 *://*.geino.press/*
 *://*.genfunlife.com/*
 *://*.getmoneyfp.net/*
+*://*.gimon-sukkiri.jp/*
 *://*.godiva-cp.com/*
 *://*.gonnagomyway.com/*
 *://*.grade.tokyo/*
@@ -1651,10 +1657,12 @@
 *://*.mesomablog.com/*
 *://*.miiiii-books.blog/*
 *://*.mikumori.com/*
+*://*.minagi-affi.com/*
 *://*.minorusawada.com/*
 *://*.minotakeceleb.com/*
 *://*.mitchy-blg.net/*
 *://*.miyawaki-sakura-hkt48.jp/*
+*://*.mizumizu-0905.com/*
 *://*.mlkm221021.com/*
 *://*.mob-mee.com/*
 *://*.moccosnoon.com/*
@@ -1728,6 +1736,7 @@
 *://*.obakegaderuzo.com/*
 *://*.ocsoku.com/*
 *://*.officejr.jp/*
+*://*.office-dai.com/*
 *://*.ogwblog.com/*
 *://*.okaeriblog.com/*
 *://*.okichizuru.com/*
@@ -1748,6 +1757,7 @@
 *://*.purinisdrink.net/*
 *://*.rashiku-life.me/*
 *://*.recommendnews.com/*
+*://*.rekisiru.com/*
 *://*.reywa.me/*
 *://*.rincon222.com/*
 *://*.riri-otokujoho.com/*
@@ -1802,6 +1812,7 @@
 *://*.tebasaki-summit.com/*
 *://*.the01.jp/*
 *://*.thepickup1010.com/*
+*://*.tobe-life.com/*
 *://*.tokyophotogenicteam.com/*
 *://*.tokyo-city-girl.com/*
 *://*.tomami.net/*
@@ -1850,6 +1861,7 @@
 *://*.yomi.tokyo/*
 *://*.yonohuuchou.com/*
 *://*.yoroko100.com/*
+*://*.yoshimi-kanko.net/*
 *://*.yoshiwarafusai.net/*
 *://*.youkoso-ibusuki.com/*
 *://*.your-magazine.net/*
