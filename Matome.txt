@@ -4,6 +4,12 @@
 # Created by [yussio](https://github.com/yussio/web-blacklist)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+title/まとめ/
+title/わかりやすく/
+title/トレンド/
+title/分かりやすく/
+title/本名/
+title/調査/
 *://2chan-matome.yuu-progra.com/*
 *://2chmatomesokuhou.com/*
 *://2chvsoku.com/*
