@@ -5,12 +5,15 @@
 # 
 
 # 著作物ただ乗り
+
 *://*.aipictors.com/*
 
 # お絵かき
+
 *://*.pixiv.net/*
 
 # Fake Media
+
 *://seesaawiki.jp/*
 *://*.shindanmaker.com/*
 *://*.trafficnews.jp/*
@@ -19,12 +22,14 @@
 *://*.youtube.com/*
 
 ## なろう
+
 *://*.syosetu.com/*
 title/なろう/
 title/Web小説/
 title/小説投稿/
 
 ## e.t.c.
+
 *://*.avgle.com/*
 *://*.jav24.com/*
 *://*.javseen.tv/*
