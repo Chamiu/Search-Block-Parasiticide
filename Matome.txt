@@ -1492,6 +1492,7 @@ title/調査/
 *://*.entamesports.com/*
 *://*.entame.site/*
 *://*.entertainment-sports.com/*
+*://*.entnavi.com/*
 *://*.erodecoco.com/*
 *://*.erodo-ga.com/*
 *://*.eroge-library.net/*
@@ -1563,6 +1564,7 @@ title/調査/
 *://*.itigo.jp/*
 *://*.it-news-sokuhou.com/*
 *://*.i-contents.jp/*
+*://*.jadeshiny.com/*
 *://*.joshiana.site/*
 *://*.jrs-w.com/*
 *://*.juditanews.com/*
@@ -1582,6 +1584,7 @@ title/調査/
 *://*.kami-ch.com/*
 *://*.kami-park.jp/*
 *://*.kan8oskar.com/*
+*://*.kanahori.com/*
 *://*.kanakanaworks.com/*
 *://*.kanameblog.com/*
 *://*.kanata12.com/*
@@ -1769,6 +1772,7 @@ title/調査/
 *://*.riri-otokujoho.com/*
 *://*.robotto-news24.info/*
 *://*.ronigirls.jp/*
+*://*.runtime-familyclub.jp/*
 *://*.sa0209ta.com/*
 *://*.sakaagari-blog.com/*
 *://*.samuraijournal.net/*
