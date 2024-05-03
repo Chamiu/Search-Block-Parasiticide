@@ -14,6 +14,8 @@
 
 # Fake Media
 
+*://*.facebook.com/*
+*://oshiete.goo.ne.jp/*
 *://seesaawiki.jp/*
 *://*.shindanmaker.com/*
 *://*.trafficnews.jp/*
@@ -21,16 +23,34 @@
 *://x.com/*
 *://*.youtube.com/*
 
-## なろう
+# Web小説系
 
+*://*.alphapolis.co.jp/*
 *://*.syosetu.com/*
 title/なろう/
 title/Web小説/
 title/小説投稿/
 
-## e.t.c.
+# お料理
+
+*://*.cookpad.com/*
+*://*.gourmet-note.jp/*
+*://*.delishkitchen.tv/*
+
+# wiki偽装
+
+*://*.av-wiki.net/*
+*://*.sirowiki.com/*
+*://*.shiroutowiki.work/*
+*://*.adult-wiki.net/*
+
+# e.t.c.
 
 *://*.avgle.com/*
 *://*.jav24.com/*
 *://*.javseen.tv/*
+*://*.missav.com/*
+
+# 半額セールは自称定価を倍額に
+
 *://*.rakuten.ne.jp/*
