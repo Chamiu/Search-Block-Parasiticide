@@ -31,12 +31,13 @@ title/なろう/
 title/Web小説/
 title/小説投稿/
 
-# お料理
+# お料理(自分では作らないから)
 
 /title/レシピ
 *://cookpad.com/*
-*://*.gourmet-note.jp/*
+*://gourmet-note.jp/*
 *://*.delishkitchen.tv/*
+*://oceans-nadia.com/*
 
 # wiki偽装
 
