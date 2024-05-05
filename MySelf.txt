@@ -4,16 +4,8 @@
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 # 
 
-# 著作物ただ乗り
-
 *://*.aipictors.com/*
-
-# お絵かき
-
 *://*.pixiv.net/*
-
-# Fake Media
-
 *://*.facebook.com/*
 *://oshiete.goo.ne.jp/*
 *://seesaawiki.jp/*
@@ -22,37 +14,22 @@
 *://twitter.com/*
 *://x.com/*
 *://*.youtube.com/*
-
-# Web小説系
-
 *://*.alphapolis.co.jp/*
 *://*.syosetu.com/*
 title/なろう/
 title/Web小説/
 title/小説投稿/
-
-# お料理(自分では作らないから)
-
 /title/レシピ
 *://cookpad.com/*
 *://gourmet-note.jp/*
 *://*.delishkitchen.tv/*
 *://oceans-nadia.com/*
-
-# wiki偽装
-
 *://*.av-wiki.net/*
 *://*.sirowiki.com/*
 *://*.shiroutowiki.work/*
 *://*.adult-wiki.net/*
-
-# e.t.c.
-
 *://*.avgle.com/*
 *://*.jav24.com/*
 *://*.javseen.tv/*
 *://*.missav.com/*
-
-# 半額セールは自称定価を倍額に
-
 *://*.rakuten.ne.jp/*
