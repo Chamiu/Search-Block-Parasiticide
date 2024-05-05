@@ -33,7 +33,8 @@ title/小説投稿/
 
 # お料理
 
-*://*.cookpad.com/*
+/title/レシピ
+*://cookpad.com/*
 *://*.gourmet-note.jp/*
 *://*.delishkitchen.tv/*
 
