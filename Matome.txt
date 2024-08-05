@@ -237,6 +237,7 @@ title/調査/
 *://comaco325.com/*
 *://comingnext.jp/*
 *://comisoku.com/*
+*://conan-livemuseum.com/*
 *://connecting-thoughts.com/*
 *://continue-healthy.com/*
 *://coolpan.net/*
@@ -628,6 +629,7 @@ title/調査/
 *://kinsoku.blog.jp/*
 *://kiragamiteru.com/*
 *://kirakana.com/*
+*://kirari-media.net/*
 *://kirari-n.com/*
 *://kisetsuneta.info/*
 *://kitene.jp/*
