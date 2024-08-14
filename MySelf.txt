@@ -13,7 +13,6 @@
 *://*.trafficnews.jp/*
 *://twitter.com/*
 *://x.com/*
-*://*.youtube.com/*
 *://*.alphapolis.co.jp/*
 *://*.syosetu.com/*
 title/なろう/
