@@ -1,6 +1,6 @@
 # Search-Block-Parasiticide
 
-**[Kagi Search](https://kagi.com/)を試用したところ、検索結果に不足がなくフィルタ機能も必要十分あることがことが分かったので、本projectは2024-08-15をもってPublic Archiveとする。**
+「[Kagi Search](https://kagi.com/)を試用したところ、検索結果に不足がなくフィルタ機能も必要十分あることがことが分かったので、本projectは2024-08-15をもってPublic Archiveとする。」としたが、まだまだクズが検索結果に混入するので更新を再開する(2024-08-23)。
 
 [yussio (yussy)](https://github.com/yussio)さんが掲げた明確な[リスト選定基準](https://pixelog.net/post/ma5z69/)に基づいて作成した[uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=ja)用の[URLフィルタ](https://github.com/yussio/web-blacklist)へ、日々のThe Internetの徘徊で見付けてしまった同基準に即したdomainを追加し、[uBlacklist for Safari](https://apps.apple.com/jp/app/ublacklist-for-safari/id1547912640?mt=12)で動作検証している[Matome.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/Matome.txt)が本プロジェクトです。(なお書き参照)
 
