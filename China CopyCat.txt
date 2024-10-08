@@ -8,7 +8,10 @@
 *://dvdfab.(org|cn)/*
 *://iboysoft.com/*
 *://ksk-h.com/*
+*://muconvert.com/*
+*://muconvert.jp/*
 *://saikosoft.jp/*
+*://shotaste.com/*
 *://streamfab.jp/*
 *://vidon.me/*
 *://*.4videosoft.jp/*
@@ -35,6 +38,7 @@
 *://*.dvdfab.(org|cn)/*
 *://*.easefab.com/*
 *://*.easeus.com/*
+*://*.epubor.com/*
 *://*.esupro.co.jp/*
 *://*.ferret-plus.com/*
 *://*.filmagepro.com/*
@@ -44,6 +48,7 @@
 *://*.flexclip.com/*
 *://*.fonelab.com/*
 *://*.fonepaw.jp/*
+*://*.fonetool.com/*
 *://*.freesoft-concierge.com/*
 *://*.gamingdeputy.com/*
 *://*.geekflare.com/*
@@ -57,9 +62,11 @@
 *://*.ifunia.com/*
 *://*.igeeksblog.com/*
 *://*.ilovemacapp.com/*
+*://*.imobie.com/*
 *://*.imobie.jp/*
 *://*.imyfone.com/*
-*://*.imymac.(com|jp)/*
+*://*.imymac.com/*
+*://*.imymac.jp/*
 *://*.informer.com/*
 *://*.iorgsoft.com/*
 *://*.jollygood.co.jp/*
@@ -92,11 +99,15 @@
 *://*.reneelab.jp/*
 *://*.shopify.com/*
 *://*.shotkit.com/*
+*://*.sidify.com/*
+*://*.sidify.jp/*
 *://*.tabivlog-labo.jp/*
 *://*.tenorshare.com/*
 *://*.tenorshare.jp/*
 *://*.thundershare.net/*
 *://*.tourboxtech.com/*
+*://*.tunefab.com/*
+*://*.tunefab.jp/*
 *://*.tunesbro.jp/*
 *://*.tuneskit.com/*
 *://*.ufushare.com/*
