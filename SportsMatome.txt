@@ -1,24 +1,29 @@
-# スポーツまとめサイト for uBlacklist
+########################################################################
+# スポーツまとめ for uBlacklist
+# Created by [Chamiu](https://github.com/Chamiu)
+# License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-*://100wani-cafe.jp*
-*://break-place.net/*
-*://dekirucha.com/*
+*://zutto-sports.com/*
+*://*.100wani-cafe.jp/*
+*://*.break-place.net/*
+*://*.dekirucha.com/*
 *://*.figure-skating-life.com/*
-*://figure-skating-life.com/*
-*://figureskatejapan.com/*
+*://*.figureskatejapan.com/*
 *://*.goal.com/*
-*://goo.to/*
-*://hos-ragby.com/*
-*://impressions-a.com/*
-*://kohasaku-smile.com/*
-*://martinabel.com/*
-*://nonnon-t.com/*
-*://scramble-talk.com/*
-*://sky7f1.com/*
-*://spocafe.jp/*
-*://sports-infoclub.com/*
-*://sulog.net/*
-*://tokimeki-diary.com/*
-*://turezurenaru-zakki.com/*
+*://*.goo.to/*
+*://*.hos-ragby.com/*
+*://*.fukuhiro-ohno.com/*
+*://*.impressions-a.com/*
+*://*.kohasaku-smile.com/*
+*://*.martinabel.com/*
+*://*.nonnon-t.com/*
+*://*.scramble-talk.com/*
+*://*.sky7f1.com/*
+*://*.spocafe.jp/*
+*://*.sports-infoclub.com/*
+*://*.sposoku.com/*
+*://*.sulog.net/*
+*://*.tokimeki-diary.com/*
+*://*.turezurenaru-zakki.com/*
 *://*.turuzoo.jp/*
 *://*.umifesta-kyoto.com/*
