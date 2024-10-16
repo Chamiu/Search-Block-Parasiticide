@@ -11,4 +11,3 @@ title/オススメ/
 title/デメリット/
 title/メリット/
 title/ランキング/
-title/選/
