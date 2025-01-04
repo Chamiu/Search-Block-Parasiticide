@@ -1,0 +1,12 @@
+########################################################################
+# Chinese Real Money Trader sites list for uBlacklist
+# Update by [Chamiu](https://github.com/Chamiu)
+# Created by [Chamiu](https://github.com/Chamiu)
+# License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+*://game-kouryaku.com/*
+*://*.gameclub.jp/*
+*://*.gametrade.jp/*
+*://*.kakaran.jp/*
+*://*.rmt-king.com/*
+*://rmt-review.com/*
