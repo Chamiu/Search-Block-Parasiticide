@@ -4,31 +4,96 @@
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 # 
 
-*://*.aipictors.com/*
-*://*.pixiv.net/*
+## Social Media
 *://*.facebook.com/*
-*://oshiete.goo.ne.jp/*
-*://seesaawiki.jp/*
-*://*.shindanmaker.com/*
-*://*.trafficnews.jp/*
 *://twitter.com/*
 *://x.com/*
-*://*.alphapolis.co.jp/*
-*://*.syosetu.com/*
+
+## 口コミ
+*://*.dasaism.com/*
+*://oshiete.goo.ne.jp/*
+*://*.minhyo.jp/*
+
+## 無価値
+*://*.shindanmaker.com/*
+*://coronano.hatenablog.com/*
+
+## ごみwiki
+*://seesaawiki.jp/*
+
+## 画像SPAM
+*://*.pixiv.net/*
+*://*.aipictors.com/*
+*://*.babymetalfan.club/*
+*://channoga.wordpress.com/*
+*://*.clipzui.com/*
+*://*.cosplayrule34.com/*
+*://*.eroyakuba.com/*
+*://*.evri.how/*
+*://*.flickr.com/*
+*://givors.loc-time.fr/*
+*://hentais.pictures/*
+*://*.ime2.jp/*
+*://*.jpg4.*/*
+*://kabegamikbo.blogspot.com/*
+*://lessthestacan1982.changethai.ru/*
+*://*.lolcow.farm/*
+*://*.minaoka.net/*
+*://*.neston.ru/*
+*://nude.lfb.cl/*
+*://*.on-office.ru/*
+*://*.prcm.jp/*
+*://*.serrurier-92-service.fr/*
+*://*.smehuyochki.ru/*
+*://*.tumblrgallery.xyz/*
+*://*.uludagspot.com/*
+*://*.wedprices.com/*
+*://*.victorianelegancejewelry.com/*
+
+## エロ
+*://*.1000giribest.com/*
+*://*.18porn.cc/*
+*://*.av-erogazou.com/*
+*://*.av-wiki.net/*
+*://*.adult-wiki.net/*
+*://*.avgle.com/*
+*://*.cableav.tv/*
+*://*.fuqqt.com/*
+*://*.pigav.com/*
+*://*.hpjav.com/*
+*://kissjav.com/*
+*://*.jav24.com/*
+*://*.javplayer.com/*
+*://*.javseen.tv/*
+*://*.megamich.com/*
+*://*.missav.com/*
+*://*.photohito.com/*
+*://*.sirowiki.com/*
+*://*.shiroutowiki.work/*
+*://*.tokyomotion.com/*
+*://*.v2ph.com/*
+*://*.waifu.ist/*
+
+## 同人小説
 title/なろう/
 title/Web小説/
 title/小説投稿/
-/title/レシピ
+*://*.alphapolis.co.jp/*
+*://*.syosetu.com/*
+
+## 料理
+title/レシピ
 *://cookpad.com/*
 *://gourmet-note.jp/*
 *://*.delishkitchen.tv/*
 *://oceans-nadia.com/*
-*://*.av-wiki.net/*
-*://*.sirowiki.com/*
-*://*.shiroutowiki.work/*
-*://*.adult-wiki.net/*
-*://*.avgle.com/*
-*://*.jav24.com/*
-*://*.javseen.tv/*
-*://*.missav.com/*
+
+## 公式サイトのリライト
+title/How To/
+title/How to/
+title/わかりやすく/
+
+## 信念
 *://*.rakuten.ne.jp/*
+*://*.trafficnews.jp/*
+*://*.trendmicro.com/*
