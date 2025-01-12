@@ -6,6 +6,7 @@
 
 *://*.aincest.com/*
 *://*.assessurgery.com/*
+*://*.bestaviatickets.ru/*
 *://*.borestore.eu/*
 *://*.bradfordnh.org/*
 *://*.buckhorninn.com/*
@@ -14,10 +15,14 @@
 *://*.dealscove.com/*
 *://*.domaine-raquillet.com/*
 *://*.fujita-group.co.jp/*
+*://*.ilam.org
 *://*.itiguala.edu.mx/*
 *://*.javaas.com/
+*://javteg.com/*
 *://*.mercatbar.es/*
 *://*.nowget.net/*
+*://*.senkuro.com/*
+*://*.shoprban.life/*
 *://*.ssean.top/*
 *://*.tistory.com/*
 *://*.torgauerzeitung.com/*
@@ -28,4 +33,6 @@
 *://veltsi.edu.ee/*
 *://*.wa-gunnet.co.jp/*
 *://*.watchjavonline.com/*
+*://*.watmahathat.com/*
 *://*.xarcd.com/*
+*://*.yasiro.co.jp/*
