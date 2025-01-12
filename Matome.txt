@@ -4,11 +4,19 @@
 # Created by [yussio](https://github.com/yussio/web-blacklist)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+title/wiki風/
+title/おすすめ/
 title/まとめ/
 title/わかりやすく/
+title/オススメ/
 title/トレンド/
+title/メリット・デメリット/
+title/出身は？/
 title/分かりやすく/
+title/旦那や子供は？/
 title/本名/
+title/結婚してる？/
+title/話題に/
 title/調査/
 *://2chan-matome.yuu-progra.com/*
 *://2chmatomesokuhou.com/*
@@ -49,6 +57,7 @@ title/調査/
 *://airlinehonpo.blog.fc2.com/*
 *://airsoku.doorblog.jp/*
 *://aistageup777.com/*
+*://akaidaiti.com/*
 *://akasann.biz/*
 *://akiko-no-blog.com/*
 *://akitakaoru.com/*
@@ -65,6 +74,7 @@ title/調査/
 *://ameblo.jp/unarigoe/*
 *://amehappi.com/*
 *://anaenta.com/*
+*://anicast-lab.jp/*
 *://anige-sokuhouvip.com/*
 *://animemanch.com/*
 *://anime-fan.info/*
@@ -75,6 +85,7 @@ title/調査/
 *://anogate.jp/*
 *://anohito-genzai.com/*
 *://anohito.xyz/*
+*://anonymous-post.mobi/*
 *://anttest.warotamaker.com/*
 *://aoiro5.com/*
 *://aoiumiblog.com/*
@@ -85,6 +96,7 @@ title/調査/
 *://apokuso.com/*
 *://applech2.com/*
 *://appleslide.com/*
+*://apple-geeks.com/*
 *://app-sin.com/*
 *://aprico-media.com/*
 *://arafokonashi.hatenablog.com/*
@@ -103,6 +115,7 @@ title/調査/
 *://asanonblog.com/*
 *://asitanokakehasi.blog.ss-blog.jp/*
 *://asyura2.com/*
+*://atamii.jp/*
 *://athlete01.site/*
 *://athlete-information.com/*
 *://atsumarehomogakinomori.com/*
@@ -119,11 +132,13 @@ title/調査/
 *://az-knowledge.com/*
 *://az-news.blog.jp/*
 *://a-genzai.com/*
+*://a-times24.com/*
 *://badvugum.com/*
 *://bad-labo.com/*
 *://baikalhostels.com/*
 *://bakusai.com/*
 *://bakusokunews.com/*
+*://balooninthesky.tokyo/*
 *://banbi-eye.com/*
 *://baneyann.com/*
 *://barutosuserver.com/*
@@ -170,12 +185,15 @@ title/調査/
 *://blueskyspringflower.com/*
 *://bluestar-journal.com/*
 *://blue-38.com/*
+*://bokoguma.com/*
 *://bokumato.jp/*
 *://boku-tabi.com/*
 *://bombr.jp/*
+*://bonhikari.com/*
 *://bororon.doorblog.jp/*
 *://boshi-hawaii.com/*
 *://brandnew-s.com/*
+*://brilliant-feb.com/*
 *://bungu-uranai.com/*
 *://bunkumo99.com/*
 *://burusoku-vip.com/*
@@ -184,8 +202,10 @@ title/調査/
 *://buzzcutangler.com/*
 *://buzzneta-topic.com/*
 *://buzzpicks.jp/*
+*://buzzriba.com/*
 *://buzzterr.com/*
 *://buzz-notice.com/*
+*://buzz-out.jp/*
 *://buzz-plus.com/*
 *://b-and-s.info/*
 *://b-aro50.com/*
@@ -193,11 +213,13 @@ title/調査/
 *://campbbq.jp/*
 *://canoviano.net/*
 *://career-find.jp/*
+*://career-report.tokyo/*
 *://car-buzz.biz/*
 *://cashless-happy.yokohama/*
 *://cavolump.com/*
 *://ccherehope.org/*
 *://cdrama.biz/*
+*://cdsfakiyochitakuto.online/*
 *://celebritymn.com/*
 *://celeby-media.net/*
 *://cfp-offset.jp/*
@@ -221,6 +243,7 @@ title/調査/
 *://chocolat-mill.jp/*
 *://chomanga.org/*
 *://chops.chips.jp/*
+*://chunchun21.com/*
 *://cinemachi.net/*
 *://cinematoday.jp/*
 *://cinesoku.net/*
@@ -237,6 +260,7 @@ title/調査/
 *://comaco325.com/*
 *://comingnext.jp/*
 *://comisoku.com/*
+*://compass-in-life.com/*
 *://conan-livemuseum.com/*
 *://connecting-thoughts.com/*
 *://continue-healthy.com/*
@@ -282,6 +306,7 @@ title/調査/
 *://diary.ponkichi01.com/*
 *://dibablog.net/*
 *://diddlediddle.net/*
+*://difar.jp/*
 *://digitalsojourn.org/*
 *://digtopi.com/*
 *://dococore.com/*
@@ -295,6 +320,7 @@ title/調査/
 *://drdinl.com/*
 *://dream04090129.biz/*
 *://dreamgateway01.com/*
+*://dreammoments.jp/*
 *://dreamstirs4.com/*
 *://dreamstyle.life/*
 *://dream-stage.jp/*
@@ -330,7 +356,9 @@ title/調査/
 *://ero-koen.com/*
 *://ertk.net/*
 *://erumaru.com/*
+*://esunoentame.com/*
 *://esuteru.com/*
+*://etuyama.com/*
 *://event4info.com/*
 *://everydayissunday.livedoor.blog/*
 *://everyday-entertainment77.com/*
@@ -363,6 +391,7 @@ title/調査/
 *://free-workstyle.com/*
 *://fufu.ame-plus.net/*
 *://fukuniko.com/*
+*://fulloflovemy99.com//*
 *://funfunfun-trendlabo.xyz/*
 *://funwayroad.com/*
 *://furamu4568.com/*
@@ -394,6 +423,7 @@ title/調査/
 *://geinouninzin.net/*
 *://geinou-info-08.blog.jp/*
 *://geinou-now.net/*
+*://geinou-planet.com/*
 *://geinou-research555.com/*
 *://geinou-resistance.info/*
 *://geino-taro.com/*
@@ -479,8 +509,10 @@ title/調査/
 *://harurino.com/*
 *://haru-journal.com/*
 *://haryu-korea.net/*
+*://hasegawakento.com/*
 *://hayarimono.tokyo/*
 *://hayawakari11.com/*
+*://ha-hana.com/*
 *://ha-navi.com/*
 *://hdydfy.com/*
 *://heaigie.blog.jp/*
@@ -512,6 +544,7 @@ title/調査/
 *://history-men.com/*
 *://hitoshitorendo.blog.ss-blog.jp/*
 *://hituzinokegari.com/*
+*://hizuki.jp/*
 *://hi-mylife15.com/*
 *://ho4ta3.com/*
 *://ho4ta3.sakura.ne.jp/*
@@ -542,6 +575,7 @@ title/調査/
 *://ikumen-smile.com/*
 *://imageadvertisingec.blogspot.com/*
 *://imaginary.red/*
+*://imanat.com/*
 *://imasoku.com/*
 *://imasugunews.com/*
 *://ima-coco369.com/*
@@ -556,6 +590,7 @@ title/調査/
 *://iratsuku.com/*
 *://irodori-terrace.com/*
 *://irohanihohoho.com/*
+*://irohapost.com/*
 *://iroirog.info/*
 *://iroirosokuhou.com/*
 *://iromame-beans.jp/*
@@ -635,7 +670,10 @@ title/調査/
 *://kitene.jp/*
 *://kiyo0406.com/*
 *://kkwing.jp/*
+*://knkinfo.com/*
 *://knowledge-cafe.net/*
+*://kodudo0829.com/entry/*
+*://koyoki-happy-life.com/*
 *://kozy2525.hatenablog.com/*
 *://kubotayasan.com/*
 *://kujira-movie.com/*
@@ -651,6 +689,7 @@ title/調査/
 *://lanikainahele.com/*
 *://latortuerouge-lefilm.com/*
 *://laugh-happy.com/*
+*://lefavori.jp/*
 *://lefty322.com/*
 *://leisurego.jp/*
 *://lemon-hiraya.com/*
@@ -687,6 +726,7 @@ title/調査/
 *://maesuke.com/*
 *://magazinehack.com/*
 *://magical-news.blog.jp/*
+*://magicbeach.jp/*
 *://magicdoor.jp/*
 *://magusite.com/*
 *://maidonanews.jp/*
@@ -732,13 +772,16 @@ title/調査/
 *://medianomoriblog.com/*
 *://media-milk.com/*
 *://media.yamatop.com/*
+*://meg2525.com/*
 *://megunews.com/*
 *://meguppechan.com/*
 *://megusoku.com/*
 *://meilingual.com/*
 *://memorylane-media.com/*
 *://menslog.net/*
+*://mento-re.com/*
 *://meshinews.blog.jp/*
+*://metenyo.blog15.fc2.com/*
 *://mf-bbc-ch.com/*
 *://mgmenjoy85.com/*
 *://mh-r.more-gamer.com/*
@@ -770,6 +813,7 @@ title/調査/
 *://moemoe.mydns.jp/*
 *://mokasoku.blomaga.jp/*
 *://money-life.doorblog.jp/*
+*://mtkhd.com/*
 *://mt-j.info/*
 *://murajyuku.com/*
 *://mutyun.com/*
@@ -791,6 +835,8 @@ title/調査/
 *://nensyu.site/*
 *://nerdsoku.com/*
 *://neroeule96blog.com/*
+*://nervo.jp/*
+*://neta7.com/*
 *://netacheck.com/*
 *://netalstation.com/*
 *://netatori.com/*
@@ -807,7 +853,9 @@ title/調査/
 *://news4wide.net/*
 *://news7-web.com/*
 *://news30over.com/*
+*://newsbakusoku.blog.jp/*
 *://newsee-media.com/*
+*://newseveryday.jp/*
 *://newsfantv.com/*
 *://newsjap.com/*
 *://newskenm.blog.fc2.com/*
@@ -846,6 +894,7 @@ title/調査/
 *://noma66.com/*
 *://nomadstarbucks.com/*
 *://norisuke-world.com/*
+*://northidahobikeways.com/*
 *://nostalghia11.com/*
 *://notsu08.com/*
 *://nou-kick-mma.com/*
@@ -853,6 +902,7 @@ title/調査/
 *://nsl-enter.com/*
 *://nuinuhou.com/*
 *://nusa-bali.com/*
+*://nuxyanblog.com/*
 *://nyaasokuvip.net/*
 *://nyanpararism.xyz/*
 *://nyanyako.xyz/*
@@ -891,6 +941,7 @@ title/調査/
 *://otameshivip.com/*
 *://otyobolife.com/*
 *://oucedonc.com/*
+*://ouchi-media.com/*
 *://ouchi-times.com/*
 *://ouest-ecowatt.com/*
 *://outdooor.blog.jp/*
@@ -943,6 +994,7 @@ title/調査/
 *://po-kaki-to.com/*
 *://precious.jp/*
 *://precure-ouen.livedoor.biz/*
+*://present-life.tokyo/*
 *://pre-cinema.com/*
 *://prius01.tokyo/*
 *://proviamo.info/*
@@ -992,6 +1044,7 @@ title/調査/
 *://robotasu.com/*
 *://rockyrocky.work/*
 *://rokkobeauty.net/*
+*://romanbuki-sokuhou.doorblog.jp/*
 *://rosyblog.com/*
 *://ruanalife.com/*
 *://rubese.net/*
@@ -1018,6 +1071,7 @@ title/調査/
 *://saladbowl.net/*
 *://sandarukoko.com/*
 *://sanpon358.com/*
+*://sansyuen.jp/*
 *://saolifegetwell.com/*
 *://saorerin.com/*
 *://sapparipiman.com/*
@@ -1068,6 +1122,8 @@ title/調査/
 *://shufumen.com/*
 *://shufuwork.com/*
 *://shufu-run.net/*
+*://shugiin-abetopic.com/*
+*://shuminohaba.com/*
 *://shun-tame.com/*
 *://shutaue.net/*
 *://sibmof.com/*
@@ -1178,6 +1234,7 @@ title/調査/
 *://time-punch.com/*
 *://titi-time.com/*
 *://tktktakunet.com/*
+*://tocomama03.com/*
 *://todays-news.net/*
 *://toizu777.com/*
 *://tokiryo.net/*
@@ -1190,8 +1247,10 @@ title/調査/
 *://tokyo-minpo.jp/*
 *://tomatomarigi.com/*
 *://tomoful.blog/*
+*://tomomi22.com/*
 *://tonatore.com/*
 *://tonboeye.com/*
+*://tonsonsou.com/*
 *://toohottogethome.com/*
 *://topic-note.com/*
 *://topitane.net/*
@@ -1211,16 +1270,19 @@ title/調査/
 *://trendnews9891.site/*
 *://trendquest34.com/*
 *://trendroom5.com/*
+*://trendsalad.com/*
 *://trendy15.info/*
 *://trendybaru.com/*
 *://trendynewss.xyz/*
 *://trendyossy.com/*
 *://trendytalking.com/*
+*://trendy-reports.com/*
 *://trend-express.net/*
 *://trend-journal.online/*
 *://trend-music.com/*
 *://trend-passion-life.com/*
 *://trend-rocks.com/*
+*://trend-scrap.com/*
 *://trend-usagi.com/*
 *://trigger-9.com/*
 *://tripleartgallery.com/*
@@ -1274,12 +1336,14 @@ title/調査/
 *://votelouann.com/*
 *://vtubersokuhou.com/*
 *://wadainews365.blog.ss-blog.jp/*
+*://wadainoblog.com/*
 *://wadainomori.net/*
 *://wadai-journal.com/*
 *://wadai-log.com/*
 *://wadai-pocket.com/*
 *://wagonnavi.click/*
 *://wankoshoten.com/*
+*://wanoya.net/*
 *://waon-guam.com/*
 *://wapri.site/*
 *://waraiki.com/*
@@ -1348,6 +1412,7 @@ title/調査/
 *://you1news.com/*
 *://youkosatou0727.com/*
 *://youtakanashi.com/*
+*://youthtrendlab.net/*
 *://youtuberpedia.com/*
 *://youtuber-encyclopedia.com/*
 *://youtuber-note.com/*
@@ -1375,6 +1440,7 @@ title/調査/
 *://yume-miru-blog.com/*
 *://yumochiblog.com/*
 *://yuno-1031.com/*
+*://yurugame.doorblog.jp/*
 *://yuruiki.site/*
 *://yuruneto.com/*
 *://yutber.blog.jp/*
@@ -1421,6 +1487,7 @@ title/調査/
 *://*.ana-a380contest.jp/*
 *://*.angelnews.net/*
 *://*.anige-sokuhouvip.com/*
+*://*.animanch.com/*
 *://*.animejima.xyz/*
 *://*.animesoku.com/*
 *://*.anooblog.com/*
@@ -1430,6 +1497,7 @@ title/調査/
 *://*.asakuravc.jp/*
 *://*.asunani.com/*
 *://*.atelier--pink.com/*
+*://*.athletes-to.com/*
 *://*.attuhimitukiti.com/*
 *://*.ayatra.jp/*
 *://*.a-omoshirokatta.com/*
@@ -1443,8 +1511,10 @@ title/調査/
 *://*.bokujira.com/*
 *://*.boku-koi.com/*
 *://*.bonboyablog.com/*
+*://*.bonhikari.com/*
 *://*.bookportal.jp/*
 *://*.bouyomi.jp/*
+*://*.brandnew-amy.com/*
 *://*.brgsw719.com/*
 *://*.bulgariatabi.jp/*
 *://*.buzlog.com/*
@@ -1483,8 +1553,10 @@ title/調査/
 *://*.cyoinatu-onna.com/*
 *://*.cysoku.com/*
 *://*.daradaranet-news.com/*
+*://*.difar.jp/*
 *://*.digot.jp/*
 *://*.doujinsokuhou45.com/*
+*://*.dreammoments.jp/*
 *://*.driveharrier.xyz/*
 *://*.drollwolf.com/*
 *://*.drops-official.com/*
@@ -1514,6 +1586,7 @@ title/調査/
 *://*.fuzoku-move.net/*
 *://*.fxmind.info/*
 *://*.gajeje-news.com/*
+*://*.gamepress.jp/*
 *://*.garuko.com/*
 *://*.gausu.net/*
 *://*.gazo.tokyo/*
@@ -1537,8 +1610,10 @@ title/調査/
 *://*.happypochi.com/*
 *://*.happy-happy-news.com/*
 *://*.haramasukoi.jp/*
+*://*.hatenani.com/*
 *://*.havespi.jp/*
 *://*.hayatts.com/*
+*://*.ha-hana.com/*
 *://*.hellopyeongchang.com/*
 *://*.henko-movie.com/*
 *://*.hi1987.net/*
@@ -1572,6 +1647,7 @@ title/調査/
 *://*.juditanews.com/*
 *://*.jun-bungaku.jp/*
 *://*.j-im.jp/*
+*://*.kabukist.com/*
 *://*.kabuyattemita.blog.fc2.com/*
 *://*.kad28.com/*
 *://*.kagerou-kazoku.com/*
@@ -1636,6 +1712,7 @@ title/調査/
 *://*.koumi0913aba.com/*
 *://*.koumuintaisyoku.com/*
 *://*.kousuke-organic.com/*
+*://*.koyoki-happy-life.com/*
 *://*.ko-taro-room.link/*
 *://*.kyocoloco.com/*
 *://*.kyodemo.net/*
@@ -1649,6 +1726,8 @@ title/調査/
 *://*.life-long-friend-ship.net/*
 *://*.linear-mirai.jp/*
 *://*.littlebear.jp/*
+*://*.live-ranking.com/*
+*://*.long-term-investment.com/*
 *://*.louders.net/*
 *://*.love-korea153.com/*
 *://*.magochan.com/*
@@ -1657,16 +1736,21 @@ title/調査/
 *://*.manganews.jp/*
 *://*.mania-of-football.com/*
 *://*.manimani-korea.net/*
+*://*.manyanworld.com/*
+*://*.mariayuri28.com/*
 *://*.marukanblog.com/*
 *://*.mary8131.com/*
 *://*.massuuy.com/*
 *://*.mcafeempower.jp/*
+*://*.mcx-mde.com/*
 *://*.mediancafe.com/*
 *://*.megussan.com/*
 *://*.mens-topics.com/*
+*://*.merimo27.com/*
 *://*.mero07.com/*
 *://*.mesomablog.com/*
 *://*.miiiii-books.blog/*
+*://*.mika-blog28.com/*
 *://*.mikumori.com/*
 *://*.minagi-affi.com/*
 *://*.minorusawada.com/*
@@ -1675,6 +1759,7 @@ title/調査/
 *://*.miyawaki-sakura-hkt48.jp/*
 *://*.mizumizu-0905.com/*
 *://*.mlkm221021.com/*
+*://*.mme-blog.com/*
 *://*.mob-mee.com/*
 *://*.moccosnoon.com/*
 *://*.moeasia.net/*
@@ -1723,6 +1808,7 @@ title/調査/
 *://*.nancreator.com/*
 *://*.nandemoiiyoch.com/*
 *://*.nandemo-newsya.com/*
+*://*.nanjgod.com/*
 *://*.nanjpost.com/*
 *://*.nantoka-antenna.com/*
 *://*.naotan-net.com/*
@@ -1737,25 +1823,32 @@ title/調査/
 *://*.neronuco.net/*
 *://*.news30over.com/*
 *://*.newshi.net/*
+*://*.newssharing.net/*
 *://*.news-choice.net/*
 *://*.news-enspo.com/*
 *://*.news-nikkeihaitatsu.net/*
 *://*.news-toranomaki.net/*
 *://*.newtrend-judd.com/*
+*://*.nice-try.net/*
 *://*.nipponnowadai.com/*
+*://*.northidahobikeways.com/*
 *://*.npb-news.com/*
+*://*.nuxyanblog.com/*
 *://*.obakegaderuzo.com/*
 *://*.ocsoku.com/*
 *://*.officejr.jp/*
 *://*.office-dai.com/*
 *://*.ogwblog.com/*
 *://*.okaeriblog.com/*
+*://*.okannoyomeiri-stage.jp/*
 *://*.okichizuru.com/*
 *://*.okuno-hosomichi.com/*
+*://*.orangepostreason.com/*
 *://*.oretachi-kidan.net/*
 *://*.otoko-musume.com/*
 *://*.ouchi-pan.com/*
 *://*.oumasansokuhou.com/*
+*://*.oyayubi-trend.com/*
 *://*.paradise-rentacar.jp/*
 *://*.pcjisaku.tech/*
 *://*.phantomcryptomining.com/*
@@ -1764,6 +1857,7 @@ title/調査/
 *://*.pizzaofrock.com/*
 *://*.ponytailsokuhou.com/*
 *://*.porisoku.com/*
+*://*.present-life.tokyo/*
 *://*.puddlesocial.com/*
 *://*.purinisdrink.net/*
 *://*.rashiku-life.me/*
@@ -1779,6 +1873,7 @@ title/調査/
 *://*.sakaagari-blog.com/*
 *://*.samuraijournal.net/*
 *://*.samurai-trader.net/*
+*://*.saorimama-happy.com/*
 *://*.sarunet-news.jp/*
 *://*.satokitchen2.net/*
 *://*.savethetables.org/*
@@ -1814,6 +1909,7 @@ title/調査/
 *://*.sublogg.com/*
 *://*.sumomo-ch.com/*
 *://*.suzumeweb.com/*
+*://*.s-festa.com/*
 *://*.s-teem.com/*
 *://*.takamaru1219.net/*
 *://*.takayan-well.com/*
@@ -1822,6 +1918,7 @@ title/調査/
 *://*.tarosoku.com/*
 *://*.tchal.net/*
 *://*.tebasaki-summit.com/*
+*://*.thainokoe.com/*
 *://*.the01.jp/*
 *://*.thepickup1010.com/*
 *://*.tobe-life.com/*
@@ -1830,6 +1927,7 @@ title/調査/
 *://*.tomami.net/*
 *://*.tomato-journal.com/*
 *://*.tomo3koko.com/*
+*://*.tomomi22.com/*
 *://*.topiclouds.net/*
 *://*.toplog.jp/*
 *://*.topspeed-service.jp/*
@@ -1846,8 +1944,10 @@ title/調査/
 *://*.uelog.com/*
 *://*.uniorb.com/*
 *://*.usioproject.com/*
+*://*.utotakashi.jp/*
 *://*.varietynews.info/*
 *://*.vippers.jp/*
+*://*.virusboats.com/*
 *://*.vivisoku.com/*
 *://*.wadai7.com/*
 *://*.wadaino-news.com/*
@@ -1873,6 +1973,7 @@ title/調査/
 *://*.yomi.tokyo/*
 *://*.yonohuuchou.com/*
 *://*.yoroko100.com/*
+*://*.yoshimasa-hosoya.com/*
 *://*.yoshimi-kanko.net/*
 *://*.yoshiwarafusai.net/*
 *://*.youkoso-ibusuki.com/*
@@ -1880,6 +1981,7 @@ title/調査/
 *://*.youtuberdictionary.com/*
 *://*.yuga-yamato.jp/*
 *://*.yugoten.jp/*
+*://*.yumirodoco.com/*
 *://*.yutakanahibi.com/*
 *://*.yuu01.jp/*
 *://*.yuutre.com/*
