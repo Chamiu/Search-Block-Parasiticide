@@ -6,4 +6,5 @@
 *://fdoc.jp/*
 *://gluco-help.com/*
 *://health2sync.com/*
+*://*.lifestyle-navi.jp/*
 *://pocketmedica.jp/*
