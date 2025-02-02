@@ -2,10 +2,17 @@
 # Machine translations sites list for uBlacklist
 # Created by [Chamiu](https://github.com/Chamiu)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+*
 
+*://psolsc.org/*
 *://*.a7la-home.com/*
 *://*.codepre.com/*
+*://*.discover-mmorpg.com/*
 *://*.elsefix.com/*
+*://*.lightups.io/*
 *://*.moyens.net/*
+*://*.mysterytribune.com/*
+*://*.techfewer.com/*
 *://*.thefastcode.com/*
+*://*.trucoteca.com/*
 *://*.websetnet.net/*
