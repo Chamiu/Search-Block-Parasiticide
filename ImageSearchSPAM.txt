@@ -1,0 +1,20 @@
+########################################################################
+# Image search SPAM site for uBlacklist
+# Created by [Chamiu](https://github.com/Chamiu)
+# License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+# 
+
+*://*.7gogo.jp/*
+*://*.anima2011.eu/*
+*://*.apollosquiver.com/*
+*://*.dietaforlove.ru/*
+*://*.haraldwartooth.es/*
+*://*.ivx.gallery/*
+*://*.klope.ru/*
+*://*.kuhnianasha.ru/*
+*://*.maidigitv.jp/*
+*://*.moviebot.ru/*
+*://*.tokyokinky.com/*
+*://*.pinvibe.com/*
+*://*.rtek24.ru/*
+*://*.vrabi.net/*
