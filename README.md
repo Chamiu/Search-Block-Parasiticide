@@ -7,6 +7,8 @@
 
 - [AdGuard_and_ESET_Block.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/AdGuard_and_ESET_Block.txt) : AdGuardとESET CyberSecurity Proが阻止したsiteたち
 - [False Information.txt](https://raw.githubusercontent.com/Chamiu/Search-Block-Parasiticide/master/False%20Information.txt) : 基本的には陰謀論だが、**マーケティング会社(人を自らの贄にすることが事業目的)が運営している情報提供を偽装した**も含むsiteたち。
+- [Ikaga_Naru.txt](https://raw.githubusercontent.com/Chamiu/Search-Block-Parasiticide/refs/heads/master/Ikaga_Naru.txt) : 「いかがでした」 or 「なります」なsiteたち。
+- [ImageSearchSPAM.txt](https://raw.githubusercontent.com/Chamiu/Search-Block-Parasiticide/refs/heads/master/ImageSearchSPAM.txt) : 画像検索へSPAMするsiteたち。
 - [IndexSpaming.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/IndexSpaming.txt) : Index Spamingを目的としたdomainたち
 - [NetaBare.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/NetaBare.txt) :  [ネタバレサイト運営者に罰金50万円命令　漫画内容を無断掲載 | 毎日新聞](https://mainichi.jp/articles/20230411/k00/00m/040/295000c)に基づくdomainたち
 - ~~Parasiticide.txt~~ : 情報発信を偽装したネット乞食が目的のdomainたちだったが、汎用（はんよう）性がなくなったので2023-04-12に更新を停止した。
@@ -21,6 +23,7 @@
 - [Redistribution_Binary.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/Redistribution_Binary.txt)は、[108EAA0A](https://github.com/108EAA0A)さん作の[実行可能ファイルを二次配布しているサイトのブロックリスト](https://github.com/108EAA0A/ublacklist-redistribution-binary)の更新が2022-01-06で停止しているため、勝手ながら巻き取らせていただいています。
 
 更新履歴
+- Ikaga_Naru.txtおよびImageSearchSPAM.txtを追加した。
 - 2025-01-04 : RMT.txtについて追記した。
 - 2024-01-26 : False Information.txtについて追記した。
 - 2023-04-30 : NetaBare.txtの根拠記事を刑確定のものに差し替えた。
