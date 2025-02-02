@@ -3,6 +3,7 @@
 # Update by [Chamiu](https://github.com/Chamiu)
 # Created by [yussio](https://github.com/yussio/web-blacklist)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+*
 
 title/wiki風/
 title/おすすめ/
@@ -326,6 +327,7 @@ title/調査/
 *://dream-stage.jp/*
 *://drift-kingdom.com/*
 *://dropby-home.com/*
+*://dr-council.jp/*
 *://dtsoku.com/*
 *://d-ri.com/*
 *://earsoku.com/*
@@ -700,6 +702,7 @@ title/調査/
 *://library-higashiomi-shiga.jp/*
 *://librosdelsilencio.com/*
 *://lifehack-news.mobi/*
+*://lifeinfo.tokyo/*
 *://lifenews-media.com/*
 *://lifepages.jp/*
 *://lifesimplelive88.com/*
@@ -865,6 +868,7 @@ title/調査/
 *://news-discussion.com/*
 *://news-himajin.work/*
 *://news-japan365.com/*
+*://news-media-life.com/*
 *://news-news-news.net/*
 *://news-three-stars.net/*
 *://news-us.org/*
@@ -1410,6 +1414,7 @@ title/調査/
 *://yoshiemon-docodemopocket.com/*
 *://yoshio526.com/*
 *://you1news.com/*
+*://youjani.com/*
 *://youkosatou0727.com/*
 *://youtakanashi.com/*
 *://youthtrendlab.net/*
@@ -1638,6 +1643,7 @@ title/調査/
 *://*.interests-me-the-most.com/*
 *://*.irasutoyan.com/*
 *://*.iropel0103.com/*
+*://*.itaishinja.com/*
 *://*.itigo.jp/*
 *://*.it-news-sokuhou.com/*
 *://*.i-contents.jp/*
@@ -1871,6 +1877,7 @@ title/調査/
 *://*.runtime-familyclub.jp/*
 *://*.sa0209ta.com/*
 *://*.sakaagari-blog.com/*
+*://*.sakuyumi.com/*
 *://*.samuraijournal.net/*
 *://*.samurai-trader.net/*
 *://*.saorimama-happy.com/*
