@@ -9,19 +9,19 @@ title *= "徹底紹介"
 title *= "検証"
 title *= "解説"
 title *= "調査"
-title/wiki風/
-title/おすすめ/
-title/まとめ/
-title/わかりやすく/
-title/オススメ/
-title/トレンド/
-title/メリット・デメリット/
-title/出身は？/
-title/分かりやすく/
-title/旦那や子供は？/
-title/本名/
-title/結婚してる？/
-title/話題に/
+title *= "wiki風*
+title *= "おすすめ"
+title *= "まとめ"
+title *= "わかりやすく"
+title *= "オススメ"
+title *= "トレンド"
+title *= "メリット・デメリット"
+title *= "出身は"
+title *= "分かりやすく"
+title *= "旦那や子供は"
+title *= "本名"
+title *= "結婚してる"
+title *= "話題に"
 *://2chan-matome.yuu-progra.com/*
 *://2chmatomesokuhou.com/*
 *://2chvsoku.com/*
