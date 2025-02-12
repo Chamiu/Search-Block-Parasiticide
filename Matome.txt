@@ -4,7 +4,11 @@
 # Created by [yussio](https://github.com/yussio/web-blacklist)
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 *
-
+title *= "口コミ"
+title *= "徹底紹介"
+title *= "検証"
+title *= "解説"
+title *= "調査"
 title/wiki風/
 title/おすすめ/
 title/まとめ/
@@ -18,7 +22,6 @@ title/旦那や子供は？/
 title/本名/
 title/結婚してる？/
 title/話題に/
-title/調査/
 *://2chan-matome.yuu-progra.com/*
 *://2chmatomesokuhou.com/*
 *://2chvsoku.com/*
@@ -60,6 +63,7 @@ title/調査/
 *://aistageup777.com/*
 *://akaidaiti.com/*
 *://akasann.biz/*
+*://akb48taimuzu.livedoor.biz/*
 *://akiko-no-blog.com/*
 *://akitakaoru.com/*
 *://aki-test.com/*
@@ -244,6 +248,7 @@ title/調査/
 *://chocolat-mill.jp/*
 *://chomanga.org/*
 *://chops.chips.jp/*
+*://chrysanthemum-digest.com/*
 *://chunchun21.com/*
 *://cinemachi.net/*
 *://cinematoday.jp/*
@@ -392,6 +397,7 @@ title/調査/
 *://free-humanlife23.com/*
 *://free-workstyle.com/*
 *://fufu.ame-plus.net/*
+*://fugen-jikkou.com/*
 *://fukuniko.com/*
 *://fulloflovemy99.com//*
 *://funfunfun-trendlabo.xyz/*
@@ -675,6 +681,7 @@ title/調査/
 *://knkinfo.com/*
 *://knowledge-cafe.net/*
 *://kodudo0829.com/entry/*
+*://kokemomo55.com/*
 *://koyoki-happy-life.com/*
 *://kozy2525.hatenablog.com/*
 *://kubotayasan.com/*
@@ -942,6 +949,7 @@ title/調査/
 *://osarai-media.net/*
 *://osawagase.com/*
 *://oshibtn.com/*
+*://osusume-kaigaidorama.com/*
 *://otameshivip.com/*
 *://otyobolife.com/*
 *://oucedonc.com/*
@@ -1089,6 +1097,7 @@ title/調査/
 *://savethecinema.jp/*
 *://sawasaura.net/*
 *://sayaroka.com/*
+*://sayonarano-kawarini.com/*
 *://sayurihappy.com/*
 *://sa-ta-mi.com/*
 *://science-festa.jp/*
@@ -1743,6 +1752,7 @@ title/調査/
 *://*.mania-of-football.com/*
 *://*.manimani-korea.net/*
 *://*.manyanworld.com/*
+*://*.maps-thailand-th.com/*
 *://*.mariayuri28.com/*
 *://*.marukanblog.com/*
 *://*.mary8131.com/*
