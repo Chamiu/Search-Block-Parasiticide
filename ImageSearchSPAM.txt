@@ -8,12 +8,15 @@
 *://*.anima2011.eu/*
 *://*.apollosquiver.com/*
 *://*.dietaforlove.ru/*
+*://*.dofusmmorpg.com/*
 *://*.haraldwartooth.es/*
 *://*.ivx.gallery/*
 *://*.klope.ru/*
 *://*.kuhnianasha.ru/*
+*://*.lemon8-app.com/*
 *://*.maidigitv.jp/*
 *://*.moviebot.ru/*
+*://*.theendofcinema.net/*
 *://*.tokyokinky.com/*
 *://*.pinvibe.com/*
 *://*.rtek24.ru/*
