@@ -5,7 +5,8 @@
 # License [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 *://bluraydvdtips.blog.jp/*
-*://dvdfab.(org|cn)/*
+*://disc-keep.com/*
+*://dvdfab.(org|cn|at)/*
 *://iboysoft.com/*
 *://imobie.com/*
 *://imobie.jp/*
@@ -17,9 +18,11 @@
 *://noborublog.net/*
 *://note.com/kaka9527/*
 *://saikosoft.jp/*
+*://shirakawaroom.com/*
 *://shotaste.com/*
 *://streamfab.jp/*
 *://vidon.me/*
+*://ytsaver.net/*
 *://yurugadget.hateblo.jp/*
 *://*.4videosoft.jp/*
 *://*.5kplayer.com/*
@@ -31,11 +34,13 @@
 *://*.alternativeto.net/*
 *://*.android-iphone-recovery.com/*
 *://*.anymp4.com/*
+*://*.anymp4.de/*
 *://*.anymp4.jp/*
 *://*.any-video-converter.jp/*
 *://*.aomei.jp/*
 *://*.apeaksoft.com/*
 *://*.apowersoft.jp/*
+*://*.appgeeker.com/*
 *://*.avaide.com/*
 *://*.avanquest.com/*
 *://*.beecut.com/*
@@ -43,8 +48,10 @@
 *://*.boilsoft.com/*
 *://*.cisdem.com/*
 *://*.cleverfiles.com/*
+*://*.cleverget.jp/*
 *://*.corriente.top/*
 *://*.digitbin.com/*
+*://*.dmiexpo.com/*
 *://*.drbuho.com/*
 *://*.drfone.biz/*
 *://*.dvdfab.(org|cn)/*
@@ -64,8 +71,10 @@
 *://*.freesoft-concierge.com/*
 *://*.gamingdeputy.com/*
 *://*.geekflare.com/*
+*://*.gensensoft.jp/*
 *://*.getapp.com//*
 *://*.gilisoft.com/*
+*://*.gustavprogress.com/*
 *://*.hipc.jp/*
 *://*.hitpaw.com/*
 *://*.hitpaw.jp/*
@@ -83,6 +92,7 @@
 *://*.joyoshare.com/*
 *://*.kdanmobile.com/*
 *://*.kingsoft.jp/*
+*://*.leawo.com/*
 *://*.leawo.org/*
 *://*.macblurayplayer.com/*
 *://*.macotakara.jp/*
@@ -120,6 +130,8 @@
 *://*.tourboxtech.com/*
 *://*.tunefab.com/*
 *://*.tunefab.jp/*
+*://*.tunepat-video.jp/*
+*://*.tunepat.com/*
 *://*.tunesbro.jp/*
 *://*.tuneskit.com/*
 *://*.ubackup.com/*
