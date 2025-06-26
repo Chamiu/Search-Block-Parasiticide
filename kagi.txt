@@ -1,0 +1,16 @@
+name: Kagi
+pages:
+  - name: All
+    matches:
+      - https://kagi.com/search?*
+      - https://kagi.com/images?*
+      - https://kagi.com/videos?*
+      - https://kagi.com/news?*
+      - https://kagi.com/podcasts?*
+    results:
+      - root: ._ext_r
+        url: ._ext_u
+        props:
+          title: ._ext_t
+    delay: 400
+    
