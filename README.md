@@ -1,5 +1,7 @@
 # Search-Block-Parasiticide
 
+2025-07-04 [iorate/ublacklist](https://github.com/iorate/ublacklist)が、[privacyの換金是認](https://github.com/iorate/ublacklist/issues/620#issuecomment-3002216999)を表明したことを確認したので、このfilterの更新を終了する。
+
 [yussio (yussy)](https://github.com/yussio)さんが掲げた明確な[リスト選定基準](https://pixelog.net/post/ma5z69/)に基づいて作成した[uBlacklist](https://chrome.google.com/webstore/detail/ublacklist/pncfbmialoiaghdehhbnbhkkgmjanfhe?hl=ja)用の[URLフィルタ](https://github.com/yussio/web-blacklist)へ、日々のThe Internetの徘徊で見付けてしまった同基準に即したdomainを追加し、[uBlacklist for Safari](https://apps.apple.com/jp/app/ublacklist-for-safari/id1547912640?mt=12)で動作検証している[Matome.txt](https://github.com/Chamiu/Search-Block-Parasiticide/blob/master/Matome.txt)が本プロジェクトです。(なお書き参照)
 
 以下にリストしているものは、[リスト選定基準](https://pixelog.net/post/ma5z69/)を満たさないものの、それぞれの基準で作成しました。  
